@@ -132,7 +132,7 @@
         },
         "17": {
             "frame": "17",
-            "character": "",
+            "character": "胡",
             "keyword": "leichtsinnig",
             "hint": "Die leichtsinnigen würde die altertümlichen am liebsten auf den Mond schießen",
             "primitive": "",
@@ -250,5 +250,159 @@
             "primitive": "",
             "pinyin": ""
         }
+    },
+    "3": {
+        "32": {
+            "frame": "32",
+            "character": "自",
+            "keyword": "selber",
+            "hint": "Bild von einer Nase, ein Tropfen zwischen den Augen. An die eigene Nase fassen",
+            "primitive": "Nase",
+            "pinyin": ""
+        },
+        "33": {
+            "frame": "33",
+            "character": "白",
+            "keyword": "weiß",
+            "hint": "Ein Tropfen bricht das Licht, alle Farben ergeben weiß, ein Tropfen Sonne",
+            "primitive": "weiße Taube",
+            "pinyin": ""
+        },
+        "34": {
+            "frame": "34",
+            "character": "百",
+            "keyword": "hundert",
+            "hint": "In Japan ist 99. Geburtstag das weiße Jahr, 1 - 100 ergibt 99",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "35": {
+            "frame": "35",
+            "character": "皂",
+            "keyword": "Seife",
+            "hint": "Der Dreck wird zerwürfelt und alles ist wieder weiß",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "36": {
+            "frame": "36",
+            "character": "中",
+            "keyword": "Mitte",
+            "hint": "In der Lebensmitte ist man faul, man hat einen Spazierstock im Mund, wartet nur auf Essen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "37": {
+            "frame": "37",
+            "character": "千",
+            "keyword": "tausend",
+            "hint": "Mit einer Pipette zwei Tropfen neben eine 10 tropfen, als 2 nullen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "38": {
+            "frame": "38",
+            "character": "舌",
+            "keyword": "Zunge",
+            "hint": "1000 Münder sagen alle das gleiche, sprechen mit einer Zunge",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "39": {
+            "frame": "39",
+            "character": "升",
+            "keyword": "Liter",
+            "hint": "Eine Literkaraffe voll mit 1000 Nadeln, Sportgetränk für Roboter",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "40": {
+            "frame": "40",
+            "character": "ㄕㄥ",
+            "keyword": "aufsteigen",
+            "hint": "Liter-Maßkrüge werden im Biergarten zum anstossen zur Sonne hochgehoben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "41": {
+            "frame": "41",
+            "character": "",
+            "keyword": "Pille",
+            "hint": "Ein Kegler hat ein kleines Pillensäckchen am Gürtel",
+            "primitive": "Pillendöschen, Pillenfläschchen",
+            "pinyin": ""
+        },
+        "42": {
+            "frame": "42",
+            "character": "卜",
+            "keyword": "Weissagung",
+            "hint": "Bild einer Wünschelrute oer Zauberstabs",
+            "primitive": "Wünschelrute, Zauberstab",
+            "pinyin": ""
+        },
+        "43": {
+            "frame": "43",
+            "character": "占",
+            "keyword": "wahrsagen",
+            "hint": "Wünschelrute mit Mund: erst schauen und dann wahrsagen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "44": {
+            "frame": "44",
+            "character": "上",
+            "keyword": "oben",
+            "hint": "Zauberstab tanzt auf dem Fußboden",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "45": {
+            "frame": "45",
+            "character": "下",
+            "keyword": "unten",
+            "hint": "Zauberstab hängt magisch von der Decke",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "46": {
+            "frame": "46",
+            "character": "卡",
+            "keyword": "Steckkarte",
+            "hint": "Kreditkarte wird hoch und runter durch die Maschine gezogen, Grafikkarte Steckplatz hoch oder runter wechseln",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "47": {
+            "frame": "47",
+            "character": "",
+            "keyword": "hervorragend",
+            "hint": "Ein Zauberstab ragt von einer Sonnenblume hervor. Ein hervorragender Zauberer mit Sonnenblume als Zauberstab",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "48": {
+            "frame": "48",
+            "character": "",
+            "keyword": "Sprühregen",
+            "hint": "Sprühregen regnet früh wie kleine Nadeln auf die Sonnenblumen nieder",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "49": {
+            "frame": "49",
+            "character": "朝",
+            "keyword": "Dynastie",
+            "hint": "Eine Dynastie bekommt bei schlechter Ernte Probleme, deshalb wird im Mond wasser gesammelt, und dann bei Mondschein als Sprühregen fallen gelassen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "50": {
+            "frame": "50",
+            "character": "",
+            "keyword": "verhöhnen",
+            "hint": "Man reißt gegen die Dynastie das Maul auf, verhöhnt sie also",
+            "primitive": "",
+            "pinyin": ""
+        },
     }
 }
