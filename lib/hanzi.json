@@ -1,0 +1,254 @@
+{
+    "1": {
+        "1": {
+            "frame": "1",
+            "character": "一",
+            "keyword": "eins",
+            "hint": "Römische 1 auf Seite gelegt",
+            "primitive": "Fußboden oder Decke",
+            "pinyin": "yi1"
+        },
+        "2": {
+            "frame": "2",
+            "character": "ㄦ",
+            "keyword": "zwei",
+            "hint": "Römische 2 auf Seite gelegt",
+            "primitive": "",
+            "pinyin": "er4"
+        },
+        "3": {
+            "frame": "3",
+            "character": "三",
+            "keyword": "drei",
+            "hint": "1 + 2 = 3, deshalb mittlerer Strich kürzer halten",
+            "primitive": "",
+            "pinyin": "san1"
+        },
+        "4": {
+            "frame": "4",
+            "character": "四",
+            "keyword": "vier",
+            "hint": "",
+            "primitive": "",
+            "pinyin": "si4"
+        },
+        "5": {
+            "frame": "5",
+            "character": "五",
+            "keyword": "fünf",
+            "hint": "",
+            "primitive": "",
+            "pinyin": "wu3"
+        },
+        "6": {
+            "frame": "6",
+            "character": "六",
+            "keyword": "sechs",
+            "hint": "",
+            "primitive": "",
+            "pinyin": "liu4"
+        },
+        "7": {
+            "frame": "7",
+            "character": "七",
+            "keyword": "sieben",
+            "hint": "",
+            "primitive": "gewürfelt, in Würfel geschnitten",
+            "pinyin": "qi1"
+        },
+        "8": {
+            "frame": "8",
+            "character": "八",
+            "keyword": "acht",
+            "hint": "arabische 8 besteht aus kleinem und großem Kreis, chinesische 8 aus kleinem und großem Strich. Liegende 8 bedeutet unendlich, in chinesischen bedeutet allumfassend",
+            "primitive": "allumfassend",
+            "pinyin": "ba8"
+        },
+        "9": {
+            "frame": "9",
+            "character": "九",
+            "keyword": "neun",
+            "hint": "Bild eines Keglers, wirft Kugel auf Bahn",
+            "primitive": "Kegler, Kegelbahn",
+            "pinyin": "jiu3"
+        },
+        "10": {
+            "frame": "10",
+            "character": "十",
+            "keyword": "zehn",
+            "hint": "Römische Zahl X leicht gedreht",
+            "primitive": "Nadel",
+            "pinyin": "shi2"
+        },
+        "11": {
+            "frame": "11",
+            "character": "口",
+            "keyword": "Mund",
+            "hint": "Bild eines offenen Mundes",
+            "primitive": "Mund, Mündung, Öffnung",
+            "pinyin": "kou3"
+        },
+        "12": {
+            "frame": "12",
+            "character": "日",
+            "keyword": "Tag",
+            "hint": "Lächelnde Sonne, aber eckig, Sonn-Tag",
+            "primitive": "Sonne, plappernde Zunge, trällernde Zunge",
+            "pinyin": "ri4"
+        },
+        "13": {
+            "frame": "13",
+            "character": "月",
+            "keyword": "Monat",
+            "hint": "Bild vom Mann im Mond von der Seite",
+            "primitive": "Fleisch, Körperteil, Mond",
+            "pinyin": "yue4"
+        },
+        "14": {
+            "frame": "14",
+            "character": "田",
+            "keyword": "Reisfeld",
+            "hint": "In 4 Parzellen geteiltes Reisfeld",
+            "primitive": "Gehirn",
+            "pinyin": "yue4"
+        },
+        "15": {
+            "frame": "15",
+            "character": "目",
+            "keyword": "Auge",
+            "hint": "In 4 Parzellen geteiltes Reisfeld",
+            "primitive": "Augapfel, Netz",
+            "pinyin": "mu4"
+        }
+    },
+    "2": {
+        "16": {
+            "frame": "16",
+            "character": "古",
+            "keyword": "altertümlich",
+            "hint": "Grabstein auf altertümlichen Friedhof, mit altertümlichen Gruftfiguren",
+            "primitive": "Augapfel, Netz",
+            "pinyin": ""
+        },
+        "17": {
+            "frame": "17",
+            "character": "",
+            "keyword": "leichtsinnig",
+            "hint": "Die leichtsinnigen würde die altertümlichen am liebsten auf den Mond schießen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "18": {
+            "frame": "18",
+            "character": "吾",
+            "keyword": "ich (lterarisch)",
+            "hint": "5 Sinne als 5 Öffnungen am Kopf ergeben = ich",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "19": {
+            "frame": "19",
+            "character": "朋",
+            "keyword": "Gefährte",
+            "hint": "Wie Adam und Eva: Eva wurde aus dem Fleisch von Adam gemacht, Fleisch vom Fleisch wird ein Gefährte",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "20": {
+            "frame": "20",
+            "character": "明",
+            "keyword": "hell",
+            "hint": "Die Sonne macht hell am Tag, der Mond macht hell in der Nacht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "21": {
+            "frame": "21",
+            "character": "品",
+            "keyword": "Waren",
+            "hint": "Waren sind massenhaft produzierte Güter, 3 offene Mäuler die auf mehr Konsumgüter warten",
+            "primitive": "überall, massenhaft, da 3 mal das gleiche Zeichen",
+            "pinyin": ""
+        },
+        "22": {
+            "frame": "22",
+            "character": "晶",
+            "keyword": "funkelnd",
+            "hint": "Einen Kristall gegen die Sonne gehalten, man sieht die Sonne durch das gebrochene Licht 3 mal, es funkelt sehr",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "23": {
+            "frame": "23",
+            "character": "昌",
+            "keyword": "gedeihlich",
+            "hint": "gedeihliche Zeiten sind sonnige Zeiten, ein Himmel mit 2 Sonnen, sehr gedeihlich",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "24": {
+            "frame": "24",
+            "character": "唱",
+            "keyword": "singen",
+            "hint": "Ein Mund gibt Befehle, 2 Münder trällern, wie ein Chor der singt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "25": {
+            "frame": "25",
+            "character": "早",
+            "keyword": "früh",
+            "hint": "Sonne mit Stängeln und Blätter, Sonnenblume ist eine Frühaufsteherin, will Licht vor allen anderen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "26": {
+            "frame": "26",
+            "character": "旭",
+            "keyword": "aufgehende Sonne",
+            "hint": "Ein Kegler wirft die Sonne auf die Bahn, diese rollt den Horizont hoch",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "27": {
+            "frame": "27",
+            "character": "世",
+            "keyword": "Generation",
+            "hint": "Eine Generation sind ca. 30 Jahre, im Zeichen sind 3 Zehnen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "28": {
+            "frame": "28",
+            "character": "胃",
+            "keyword": "Magen",
+            "hint": "Gehirn wird vom Fleisch unterstützt, deshalb Gehirn über Fleisch",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "29": {
+            "frame": "29",
+            "character": "旦",
+            "keyword": "Tagesanbruch",
+            "hint": "Sonne über Horizont",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "30": {
+            "frame": "30",
+            "character": "凹",
+            "keyword": "konkav",
+            "hint": "",
+            "primitive": "",
+            "pinyin": ""
+        },
+        "31": {
+            "frame": "31",
+            "character": "凸",
+            "keyword": "konvex",
+            "hint": "",
+            "primitive": "",
+            "pinyin": ""
+        }
+    }
+}
