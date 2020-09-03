@@ -542,5 +542,199 @@
             "primitive": "",
             "pinyin": ""
         }
+    ],
+    "5": [
+        {
+            "frame": "68",
+            "character": "",
+            "keyword": "gerade",
+            "hint": "ZEHN Wisschenschaftler forschen wie man einen GERADEN Strich auf den FUßBODEN malt und schauen mit den AUGEN, ob der Strich gerade ist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "69",
+            "character": "",
+            "keyword": "installieren",
+            "hint": "Volleyball NETZ installieren, es muss GERADE sein",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "70",
+            "character": "",
+            "keyword": "Werkzeug",
+            "hint": "ZEHN Werkzeuge liegen auf dem TISCH, jedes hat ein Auge, Werkzeuge müssen sehen was sie machen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "71",
+            "character": "",
+            "keyword": "wahr",
+            "hint": "ZEHN WERKZEUGE um die WAHRHEIT zu überprüfen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "72",
+            "character": "",
+            "keyword": "Arbeit",
+            "hint": "Stahlträger repräsentiert Arbeit",
+            "primitive": "Stahlträger",
+            "pinyin": ""
+        },
+        {
+            "frame": "73",
+            "character": "",
+            "keyword": "links",
+            "hint": "STAHLTRÄGER wird von Arbeiter LINKS AN DER SEITE getragen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "74",
+            "character": "",
+            "keyword": "rechts",
+            "hint": "kleiner MUND hängt an RECHTER SEITE, um zu sagen was RECHTENS ist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "75",
+            "character": "",
+            "keyword": "besitzen",
+            "hint": "besitze ein großes Stück Fleisch, das AN DER SEITE hängt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "76",
+            "character": "",
+            "keyword": "Bestechung",
+            "hint": "Jemand ist von GELD besessen und hängt FLEISCH AN DER SEITE, um Teufel auszutreiben, so jemanden kann man leicht mit GELD bestechen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "77",
+            "character": "",
+            "keyword": "Abgabe",
+            "hint": "Abgabe ist Arbeit vom Staat, Geld einzusammeln",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "78",
+            "character": "",
+            "keyword": "Punkt 1,2,3...",
+            "hint": "List mit Stahlträgern auf Buchseite, ist ein Punkt erledigt, wird der Stahlträger mit dem Punkt abgesägt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "79",
+            "character": "",
+            "keyword": "Schwert",
+            "hint": "Bild eines Schwertgriffs",
+            "primitive": "Dolch",
+            "pinyin": ""
+        },
+        {
+            "frame": "80",
+            "character": "",
+            "keyword": "Klinge",
+            "hint": "Schwert mit TROPFEN Blut, der von der KLINGE tropft",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "81",
+            "character": "",
+            "keyword": "schneiden",
+            "hint": "Verrückter Japaner SCHNEIDET und WÜRFELT alles mit SCHWERT auf Party klein",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "82",
+            "character": "",
+            "keyword": "einberufen",
+            "hint": "Wenn man einberufen wird, wird der Mund gefesselt, man hat zu folgen nicht zu beschweren",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "83",
+            "character": "",
+            "keyword": "deutlich",
+            "hint": "Sonnenschein EINBERUFEN um alles DEUTLICH mit Licht zu beleuchten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "84",
+            "character": "",
+            "keyword": "Regel",
+            "hint": "MUSCHELfänger misst mit altem SÄBEL, ob eine Muschel den Fang REGELN entspricht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "84-1",
+            "character": "",
+            "keyword": "Reichtum",
+            "hint": "In dieser Reiheinfolge: EIN großer MUND isst das ganze Reisfeld, er ist sehr reich",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "85",
+            "character": "",
+            "keyword": "Vize-",
+            "hint": "Der Reiche hat noch einen Vize-Reichtumsverwalter, der einen Säbel an der rechten Seite hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "86",
+            "character": "",
+            "keyword": "viertens",
+            "hint": "Jemand der zehn Himmelsstämme, der als viertes in einer Schlange wartet, und dabei auf einem riesegen Nagel sitzt",
+            "primitive": "Nagel, Reißzwecke",
+            "pinyin": ""
+        },
+        {
+            "frame": "87",
+            "character": "",
+            "keyword": "stechen",
+            "hint": "Jemand sticht mit einem NAGEL ÖFFNUNGEN in die Haut",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "88",
+            "character": "",
+            "keyword": "können",
+            "hint": "Feuerschlucker will zeigen was er kann, in dem er an einem Nagel übt, einen Nagel in den Mund steckt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "89",
+            "character": "",
+            "keyword": "großer Bruder",
+            "hint": "Großer Bruder ruft: Kann ich schon zweimal kann ich schon zweimal",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "90",
+            "character": "",
+            "keyword": "Scheitelpunkt",
+            "hint": "Am Scheitelpunkt des Kopfes ragen Nagel raus, wie ein Irokesenschnitt",
+            "primitive": "",
+            "pinyin": ""
+        }
     ]
 }
