@@ -1,6 +1,6 @@
 {
-    "1": {
-        "1": {
+    "1": [
+        {
             "frame": "1",
             "character": "一",
             "keyword": "eins",
@@ -8,7 +8,7 @@
             "primitive": "Fußboden oder Decke",
             "pinyin": "yi1"
         },
-        "2": {
+        {
             "frame": "2",
             "character": "ㄦ",
             "keyword": "zwei",
@@ -16,7 +16,7 @@
             "primitive": "",
             "pinyin": "er4"
         },
-        "3": {
+        {
             "frame": "3",
             "character": "三",
             "keyword": "drei",
@@ -24,7 +24,7 @@
             "primitive": "",
             "pinyin": "san1"
         },
-        "4": {
+        {
             "frame": "4",
             "character": "四",
             "keyword": "vier",
@@ -32,7 +32,7 @@
             "primitive": "",
             "pinyin": "si4"
         },
-        "5": {
+        {
             "frame": "5",
             "character": "五",
             "keyword": "fünf",
@@ -40,7 +40,7 @@
             "primitive": "",
             "pinyin": "wu3"
         },
-        "6": {
+        {
             "frame": "6",
             "character": "六",
             "keyword": "sechs",
@@ -48,7 +48,7 @@
             "primitive": "",
             "pinyin": "liu4"
         },
-        "7": {
+        {
             "frame": "7",
             "character": "七",
             "keyword": "sieben",
@@ -56,7 +56,7 @@
             "primitive": "gewürfelt, in Würfel geschnitten",
             "pinyin": "qi1"
         },
-        "8": {
+        {
             "frame": "8",
             "character": "八",
             "keyword": "acht",
@@ -64,7 +64,7 @@
             "primitive": "allumfassend",
             "pinyin": "ba8"
         },
-        "9": {
+        {
             "frame": "9",
             "character": "九",
             "keyword": "neun",
@@ -72,7 +72,7 @@
             "primitive": "Kegler, Kegelbahn",
             "pinyin": "jiu3"
         },
-        "10": {
+        {
             "frame": "10",
             "character": "十",
             "keyword": "zehn",
@@ -80,7 +80,7 @@
             "primitive": "Nadel",
             "pinyin": "shi2"
         },
-        "11": {
+        {
             "frame": "11",
             "character": "口",
             "keyword": "Mund",
@@ -88,7 +88,7 @@
             "primitive": "Mund, Mündung, Öffnung",
             "pinyin": "kou3"
         },
-        "12": {
+        {
             "frame": "12",
             "character": "日",
             "keyword": "Tag",
@@ -96,7 +96,7 @@
             "primitive": "Sonne, plappernde Zunge, trällernde Zunge",
             "pinyin": "ri4"
         },
-        "13": {
+        {
             "frame": "13",
             "character": "月",
             "keyword": "Monat",
@@ -104,7 +104,7 @@
             "primitive": "Fleisch, Körperteil, Mond",
             "pinyin": "yue4"
         },
-        "14": {
+        {
             "frame": "14",
             "character": "田",
             "keyword": "Reisfeld",
@@ -112,7 +112,7 @@
             "primitive": "Gehirn",
             "pinyin": "yue4"
         },
-        "15": {
+        {
             "frame": "15",
             "character": "目",
             "keyword": "Auge",
@@ -120,9 +120,9 @@
             "primitive": "Augapfel, Netz",
             "pinyin": "mu4"
         }
-    },
-    "2": {
-        "16": {
+    ],
+    "2": [
+        {
             "frame": "16",
             "character": "古",
             "keyword": "altertümlich",
@@ -130,7 +130,7 @@
             "primitive": "Augapfel, Netz",
             "pinyin": ""
         },
-        "17": {
+        {
             "frame": "17",
             "character": "胡",
             "keyword": "leichtsinnig",
@@ -138,7 +138,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "18": {
+        {
             "frame": "18",
             "character": "吾",
             "keyword": "ich (lterarisch)",
@@ -146,7 +146,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "19": {
+        {
             "frame": "19",
             "character": "朋",
             "keyword": "Gefährte",
@@ -154,7 +154,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "20": {
+        {
             "frame": "20",
             "character": "明",
             "keyword": "hell",
@@ -162,7 +162,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "21": {
+        {
             "frame": "21",
             "character": "品",
             "keyword": "Waren",
@@ -170,7 +170,7 @@
             "primitive": "überall, massenhaft, da 3 mal das gleiche Zeichen",
             "pinyin": ""
         },
-        "22": {
+        {
             "frame": "22",
             "character": "晶",
             "keyword": "funkelnd",
@@ -178,7 +178,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "23": {
+        {
             "frame": "23",
             "character": "昌",
             "keyword": "gedeihlich",
@@ -186,7 +186,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "24": {
+        {
             "frame": "24",
             "character": "唱",
             "keyword": "singen",
@@ -194,7 +194,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "25": {
+        {
             "frame": "25",
             "character": "早",
             "keyword": "früh",
@@ -202,7 +202,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "26": {
+        {
             "frame": "26",
             "character": "旭",
             "keyword": "aufgehende Sonne",
@@ -210,7 +210,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "27": {
+        {
             "frame": "27",
             "character": "世",
             "keyword": "Generation",
@@ -218,7 +218,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "28": {
+        {
             "frame": "28",
             "character": "胃",
             "keyword": "Magen",
@@ -226,7 +226,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "29": {
+        {
             "frame": "29",
             "character": "旦",
             "keyword": "Tagesanbruch",
@@ -234,7 +234,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "30": {
+        {
             "frame": "30",
             "character": "凹",
             "keyword": "konkav",
@@ -242,7 +242,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "31": {
+        {
             "frame": "31",
             "character": "凸",
             "keyword": "konvex",
@@ -250,9 +250,9 @@
             "primitive": "",
             "pinyin": ""
         }
-    },
-    "3": {
-        "32": {
+    ],
+    "3": [
+        {
             "frame": "32",
             "character": "自",
             "keyword": "selber",
@@ -260,7 +260,7 @@
             "primitive": "Nase",
             "pinyin": ""
         },
-        "33": {
+        {
             "frame": "33",
             "character": "白",
             "keyword": "weiß",
@@ -268,7 +268,7 @@
             "primitive": "weiße Taube",
             "pinyin": ""
         },
-        "34": {
+        {
             "frame": "34",
             "character": "百",
             "keyword": "hundert",
@@ -276,7 +276,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "35": {
+        {
             "frame": "35",
             "character": "皂",
             "keyword": "Seife",
@@ -284,7 +284,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "36": {
+        {
             "frame": "36",
             "character": "中",
             "keyword": "Mitte",
@@ -292,7 +292,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "37": {
+        {
             "frame": "37",
             "character": "千",
             "keyword": "tausend",
@@ -300,7 +300,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "38": {
+        {
             "frame": "38",
             "character": "舌",
             "keyword": "Zunge",
@@ -308,7 +308,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "39": {
+        {
             "frame": "39",
             "character": "升",
             "keyword": "Liter",
@@ -316,7 +316,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "40": {
+        {
             "frame": "40",
             "character": "ㄕㄥ",
             "keyword": "aufsteigen",
@@ -324,7 +324,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "41": {
+        {
             "frame": "41",
             "character": "",
             "keyword": "Pille",
@@ -332,7 +332,7 @@
             "primitive": "Pillendöschen, Pillenfläschchen",
             "pinyin": ""
         },
-        "42": {
+        {
             "frame": "42",
             "character": "卜",
             "keyword": "Weissagung",
@@ -340,7 +340,7 @@
             "primitive": "Wünschelrute, Zauberstab",
             "pinyin": ""
         },
-        "43": {
+        {
             "frame": "43",
             "character": "占",
             "keyword": "wahrsagen",
@@ -348,7 +348,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "44": {
+        {
             "frame": "44",
             "character": "上",
             "keyword": "oben",
@@ -356,7 +356,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "45": {
+        {
             "frame": "45",
             "character": "下",
             "keyword": "unten",
@@ -364,7 +364,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "46": {
+        {
             "frame": "46",
             "character": "卡",
             "keyword": "Steckkarte",
@@ -372,7 +372,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "47": {
+        {
             "frame": "47",
             "character": "",
             "keyword": "hervorragend",
@@ -380,7 +380,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "48": {
+        {
             "frame": "48",
             "character": "",
             "keyword": "Sprühregen",
@@ -388,7 +388,7 @@
             "primitive": "",
             "pinyin": ""
         },
-        "49": {
+        {
             "frame": "49",
             "character": "朝",
             "keyword": "Dynastie",
@@ -396,13 +396,13 @@
             "primitive": "",
             "pinyin": ""
         },
-        "50": {
+        {
             "frame": "50",
             "character": "",
             "keyword": "verhöhnen",
             "hint": "Man reißt gegen die Dynastie das Maul auf, verhöhnt sie also",
             "primitive": "",
             "pinyin": ""
-        },
-    }
+        }
+    ]
 }
