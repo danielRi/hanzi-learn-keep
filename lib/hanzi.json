@@ -382,14 +382,6 @@
         },
         {
             "frame": "48",
-            "character": "",
-            "keyword": "Sprühregen",
-            "hint": "Sprühregen regnet früh wie kleine Nadeln auf die Sonnenblumen nieder",
-            "primitive": "",
-            "pinyin": ""
-        },
-        {
-            "frame": "49",
             "character": "朝",
             "keyword": "Dynastie",
             "hint": "Eine Dynastie bekommt bei schlechter Ernte Probleme, deshalb wird im Mond wasser gesammelt, und dann bei Mondschein als Sprühregen fallen gelassen",
@@ -397,10 +389,156 @@
             "pinyin": ""
         },
         {
-            "frame": "50",
+            "frame": "49",
             "character": "",
             "keyword": "verhöhnen",
             "hint": "Man reißt gegen die Dynastie das Maul auf, verhöhnt sie also",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "4": [
+        {
+            "frame": "50",
+            "character": "",
+            "keyword": "nur",
+            "hint": "Ein Tier mit nur einem großen Mund, das gibts NUR hier zu sehen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "51",
+            "character": "",
+            "keyword": "Muschel",
+            "hint": "Eine Muschel mit einem großen AUGE und TIERBEINEN, die am Strand rumläuft und Leute erschreckt",
+            "primitive": "Geld",
+            "pinyin": ""
+        },
+        {
+            "frame": "52",
+            "character": "",
+            "keyword": "aufkleben",
+            "hint": "Eine Muschel steigt im WAHRSAGER Gewerbe ein, und KLEBT ein Poster mit Werbung auf seinen Rücken",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "53",
+            "character": "",
+            "keyword": "keusch",
+            "hint": "Eine Muschel ist magisch mit einem ZAUBERSTAB verzaubert, damit sie sich nicht öffnet und keusch bleibt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "54",
+            "character": "",
+            "keyword": "Mitglied",
+            "hint": "Ein Mitglied, das seinen Mund mit einer Muschel zugeklebt bekommen hat, dass es sich nicht beschwert",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "55",
+            "character": "",
+            "keyword": "sehen",
+            "hint": "Ein großes Auge auf zwei Beinen, sieht viel, kann nicht viel ausser zu sehen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "56",
+            "character": "",
+            "keyword": "Ursprung",
+            "hint": "Genesis ist der Ursprung von allem, dort wurden ZWEI Menschen, mit ZWEI MENSCHENBEINEN erschaffen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "57",
+            "character": "",
+            "keyword": "Buchseite",
+            "hint": "Eine Muschel wird zum Buch mit nur einer Seite",
+            "primitive": "Kopf",
+            "pinyin": ""
+        },
+        {
+            "frame": "58",
+            "character": "",
+            "keyword": "starrköpfig",
+            "hint": "Starrköpfige bleiben immer beim Ursprung, Kain und Abel (Genesis, Urpsurng), starrköpfig mit großem Kopf",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "59",
+            "character": "",
+            "keyword": "gewöhnlich",
+            "hint": "So gewöhnlich wie ein TOPFEN im WIND",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "60",
+            "character": "",
+            "keyword": "Muskel",
+            "hint": "Muskelprotz legt sein FLEISCH auf ein kleines TISCHLEIN und will Armdrücken",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "61",
+            "character": "",
+            "keyword": "belastet",
+            "hint": "Unterlegene MUSCHEL wird von Sieger ANGEKETTET, und zuhause mit aller Hausarbeit BELASTET",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "62",
+            "character": "",
+            "keyword": "gleichmäßig",
+            "hint": "ZWEI sind GEFESSELT, die Fesseln sollten gleichmäßig sitzen, da man sich sonst befreien kann",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "63",
+            "character": "",
+            "keyword": "Satz",
+            "hint": "Gesprochenes wird in Grammatik gefesselt, um einen Satz zu bilden",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "64",
+            "character": "",
+            "keyword": "Zeitraum von zehn Tagen",
+            "hint": "In Frankreich gab es einst 10 Tages-Kalender, bis Napeleon die sog. GEFESSELTEN TAGE befreit.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "65",
+            "character": "",
+            "keyword": "Schöpflöffel",
+            "hint": "TROPFEN in Schöpflöffel FESSELN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "66",
+            "character": "",
+            "keyword": "das Schwarze",
+            "hint": "Ein Schöpflöffeln, auf dem eine WEIßE Zielscheibe aufgemalt ist, um ind Schwarze zu treffen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "67",
+            "character": "",
+            "keyword": "Haupt",
+            "hint": "NASE mit Hörnern, jemand sagt er SELBST ist das Oberhaupt",
             "primitive": "",
             "pinyin": ""
         }
