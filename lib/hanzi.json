@@ -504,7 +504,7 @@
         },
         {
             "frame": "63",
-            "character": "",
+            "character": "句",
             "keyword": "Satz",
             "hint": "Gesprochenes wird in Grammatik gefesselt, um einen Satz zu bilden",
             "primitive": "",
@@ -546,7 +546,7 @@
     "5": [
         {
             "frame": "68",
-            "character": "",
+            "character": "直",
             "keyword": "gerade",
             "hint": "ZEHN Wisschenschaftler forschen wie man einen GERADEN Strich auf den FUßBODEN malt und schauen mit den AUGEN, ob der Strich gerade ist",
             "primitive": "",
@@ -554,7 +554,7 @@
         },
         {
             "frame": "69",
-            "character": "",
+            "character": "置",
             "keyword": "installieren",
             "hint": "Volleyball NETZ installieren, es muss GERADE sein",
             "primitive": "",
@@ -562,7 +562,7 @@
         },
         {
             "frame": "70",
-            "character": "",
+            "character": "具",
             "keyword": "Werkzeug",
             "hint": "ZEHN Werkzeuge liegen auf dem TISCH, jedes hat ein Auge, Werkzeuge müssen sehen was sie machen",
             "primitive": "",
@@ -570,7 +570,7 @@
         },
         {
             "frame": "71",
-            "character": "",
+            "character": "真",
             "keyword": "wahr",
             "hint": "ZEHN WERKZEUGE um die WAHRHEIT zu überprüfen",
             "primitive": "",
@@ -578,7 +578,7 @@
         },
         {
             "frame": "72",
-            "character": "",
+            "character": "工",
             "keyword": "Arbeit",
             "hint": "Stahlträger repräsentiert Arbeit",
             "primitive": "Stahlträger",
@@ -586,7 +586,7 @@
         },
         {
             "frame": "73",
-            "character": "",
+            "character": "左",
             "keyword": "links",
             "hint": "STAHLTRÄGER wird von Arbeiter LINKS AN DER SEITE getragen",
             "primitive": "",
@@ -594,7 +594,7 @@
         },
         {
             "frame": "74",
-            "character": "",
+            "character": "右",
             "keyword": "rechts",
             "hint": "kleiner MUND hängt an RECHTER SEITE, um zu sagen was RECHTENS ist",
             "primitive": "",
@@ -602,7 +602,7 @@
         },
         {
             "frame": "75",
-            "character": "",
+            "character": "有",
             "keyword": "besitzen",
             "hint": "besitze ein großes Stück Fleisch, das AN DER SEITE hängt",
             "primitive": "",
@@ -634,7 +634,7 @@
         },
         {
             "frame": "79",
-            "character": "",
+            "character": "刀",
             "keyword": "Schwert",
             "hint": "Bild eines Schwertgriffs",
             "primitive": "Dolch",
@@ -650,7 +650,7 @@
         },
         {
             "frame": "81",
-            "character": "",
+            "character": "切",
             "keyword": "schneiden",
             "hint": "Verrückter Japaner SCHNEIDET und WÜRFELT alles mit SCHWERT auf Party klein",
             "primitive": "",
@@ -658,7 +658,7 @@
         },
         {
             "frame": "82",
-            "character": "",
+            "character": "召",
             "keyword": "einberufen",
             "hint": "Wenn man einberufen wird, wird der Mund gefesselt, man hat zu folgen nicht zu beschweren",
             "primitive": "",
@@ -666,7 +666,7 @@
         },
         {
             "frame": "83",
-            "character": "",
+            "character": "昭",
             "keyword": "deutlich",
             "hint": "Sonnenschein EINBERUFEN um alles DEUTLICH mit Licht zu beleuchten",
             "primitive": "",
