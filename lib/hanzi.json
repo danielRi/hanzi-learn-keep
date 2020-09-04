@@ -318,7 +318,7 @@
         },
         {
             "frame": "40",
-            "character": "ㄕㄥ",
+            "character": "昇",
             "keyword": "aufsteigen",
             "hint": "Liter-Maßkrüge werden im Biergarten zum anstossen zur Sonne hochgehoben",
             "primitive": "",
@@ -326,7 +326,7 @@
         },
         {
             "frame": "41",
-            "character": "",
+            "character": "丸",
             "keyword": "Pille",
             "hint": "Ein Kegler hat ein kleines Pillensäckchen am Gürtel",
             "primitive": "Pillendöschen, Pillenfläschchen",
@@ -374,7 +374,7 @@
         },
         {
             "frame": "47",
-            "character": "",
+            "character": "卓",
             "keyword": "hervorragend",
             "hint": "Ein Zauberstab ragt von einer Sonnenblume hervor. Ein hervorragender Zauberer mit Sonnenblume als Zauberstab",
             "primitive": "",
@@ -390,7 +390,7 @@
         },
         {
             "frame": "49",
-            "character": "",
+            "character": "嘲",
             "keyword": "verhöhnen",
             "hint": "Man reißt gegen die Dynastie das Maul auf, verhöhnt sie also",
             "primitive": "",
@@ -400,7 +400,7 @@
     "4": [
         {
             "frame": "50",
-            "character": "",
+            "character": "只",
             "keyword": "nur",
             "hint": "Ein Tier mit nur einem großen Mund, das gibts NUR hier zu sehen",
             "primitive": "",
@@ -408,7 +408,7 @@
         },
         {
             "frame": "51",
-            "character": "",
+            "character": "貝",
             "keyword": "Muschel",
             "hint": "Eine Muschel mit einem großen AUGE und TIERBEINEN, die am Strand rumläuft und Leute erschreckt",
             "primitive": "Geld",
@@ -416,7 +416,7 @@
         },
         {
             "frame": "52",
-            "character": "",
+            "character": "貼",
             "keyword": "aufkleben",
             "hint": "Eine Muschel steigt im WAHRSAGER Gewerbe ein, und KLEBT ein Poster mit Werbung auf seinen Rücken",
             "primitive": "",
@@ -424,15 +424,15 @@
         },
         {
             "frame": "53",
-            "character": "",
+            "character": "貞",
             "keyword": "keusch",
             "hint": "Eine Muschel ist magisch mit einem ZAUBERSTAB verzaubert, damit sie sich nicht öffnet und keusch bleibt",
             "primitive": "",
-            "pinyin": ""
+            "pinyin": "zhen1"
         },
         {
             "frame": "54",
-            "character": "",
+            "character": "員",
             "keyword": "Mitglied",
             "hint": "Ein Mitglied, das seinen Mund mit einer Muschel zugeklebt bekommen hat, dass es sich nicht beschwert",
             "primitive": "",
@@ -440,39 +440,39 @@
         },
         {
             "frame": "55",
-            "character": "",
+            "character": "見",
             "keyword": "sehen",
             "hint": "Ein großes Auge auf zwei Beinen, sieht viel, kann nicht viel ausser zu sehen",
             "primitive": "",
-            "pinyin": ""
+            "pinyin": "jian4"
         },
         {
             "frame": "56",
-            "character": "",
+            "character": "元",
             "keyword": "Ursprung",
             "hint": "Genesis ist der Ursprung von allem, dort wurden ZWEI Menschen, mit ZWEI MENSCHENBEINEN erschaffen",
             "primitive": "",
-            "pinyin": ""
+            "pinyin": "yuan2"
         },
         {
             "frame": "57",
-            "character": "",
+            "character": "頁",
             "keyword": "Buchseite",
             "hint": "Eine Muschel wird zum Buch mit nur einer Seite",
             "primitive": "Kopf",
-            "pinyin": ""
+            "pinyin": "ye4"
         },
         {
             "frame": "58",
-            "character": "",
+            "character": "頑",
             "keyword": "starrköpfig",
             "hint": "Starrköpfige bleiben immer beim Ursprung, Kain und Abel (Genesis, Urpsurng), starrköpfig mit großem Kopf",
             "primitive": "",
-            "pinyin": ""
+            "pinyin": "wang2"
         },
         {
             "frame": "59",
-            "character": "",
+            "character": "凡",
             "keyword": "gewöhnlich",
             "hint": "So gewöhnlich wie ein TOPFEN im WIND",
             "primitive": "",
@@ -480,7 +480,7 @@
         },
         {
             "frame": "60",
-            "character": "",
+            "character": "肌",
             "keyword": "Muskel",
             "hint": "Muskelprotz legt sein FLEISCH auf ein kleines TISCHLEIN und will Armdrücken",
             "primitive": "",
@@ -488,15 +488,15 @@
         },
         {
             "frame": "61",
-            "character": "",
+            "character": "負",
             "keyword": "belastet",
             "hint": "Unterlegene MUSCHEL wird von Sieger ANGEKETTET, und zuhause mit aller Hausarbeit BELASTET",
             "primitive": "",
-            "pinyin": ""
+            "pinyin": "fu4"
         },
         {
             "frame": "62",
-            "character": "",
+            "character": "勻",
             "keyword": "gleichmäßig",
             "hint": "ZWEI sind GEFESSELT, die Fesseln sollten gleichmäßig sitzen, da man sich sonst befreien kann",
             "primitive": "",
@@ -512,7 +512,7 @@
         },
         {
             "frame": "64",
-            "character": "",
+            "character": "旬",
             "keyword": "Zeitraum von zehn Tagen",
             "hint": "In Frankreich gab es einst 10 Tages-Kalender, bis Napeleon die sog. GEFESSELTEN TAGE befreit.",
             "primitive": "",
@@ -520,7 +520,7 @@
         },
         {
             "frame": "65",
-            "character": "",
+            "character": "勺",
             "keyword": "Schöpflöffel",
             "hint": "TROPFEN in Schöpflöffel FESSELN",
             "primitive": "",
@@ -528,7 +528,7 @@
         },
         {
             "frame": "66",
-            "character": "",
+            "character": "的",
             "keyword": "das Schwarze",
             "hint": "Ein Schöpflöffeln, auf dem eine WEIßE Zielscheibe aufgemalt ist, um ind Schwarze zu treffen",
             "primitive": "",
@@ -536,7 +536,7 @@
         },
         {
             "frame": "67",
-            "character": "",
+            "character": "首",
             "keyword": "Haupt",
             "hint": "NASE mit Hörnern, jemand sagt er SELBST ist das Oberhaupt",
             "primitive": "",
@@ -610,7 +610,7 @@
         },
         {
             "frame": "76",
-            "character": "",
+            "character": "賄",
             "keyword": "Bestechung",
             "hint": "Jemand ist von GELD besessen und hängt FLEISCH AN DER SEITE, um Teufel auszutreiben, so jemanden kann man leicht mit GELD bestechen",
             "primitive": "",
@@ -618,15 +618,15 @@
         },
         {
             "frame": "77",
-            "character": "",
+            "character": "貢",
             "keyword": "Abgabe",
             "hint": "Abgabe ist Arbeit vom Staat, Geld einzusammeln",
             "primitive": "",
-            "pinyin": ""
+            "pinyin": "gong4"
         },
         {
             "frame": "78",
-            "character": "",
+            "character": "項",
             "keyword": "Punkt 1,2,3...",
             "hint": "List mit Stahlträgern auf Buchseite, ist ein Punkt erledigt, wird der Stahlträger mit dem Punkt abgesägt",
             "primitive": "",
@@ -642,11 +642,11 @@
         },
         {
             "frame": "80",
-            "character": "",
+            "character": "刃",
             "keyword": "Klinge",
             "hint": "Schwert mit TROPFEN Blut, der von der KLINGE tropft",
             "primitive": "",
-            "pinyin": ""
+            "pinyin": "ren4"
         },
         {
             "frame": "81",
@@ -674,15 +674,15 @@
         },
         {
             "frame": "84",
-            "character": "",
+            "character": "則",
             "keyword": "Regel",
             "hint": "MUSCHELfänger misst mit altem SÄBEL, ob eine Muschel den Fang REGELN entspricht",
             "primitive": "",
-            "pinyin": ""
+            "pinyin": "ze2"
         },
         {
             "frame": "84-1",
-            "character": "",
+            "character": "畐",
             "keyword": "Reichtum",
             "hint": "In dieser Reiheinfolge: EIN großer MUND isst das ganze Reisfeld, er ist sehr reich",
             "primitive": "",
@@ -690,7 +690,7 @@
         },
         {
             "frame": "85",
-            "character": "",
+            "character": "副",
             "keyword": "Vize-",
             "hint": "Der Reiche hat noch einen Vize-Reichtumsverwalter, der einen Säbel an der rechten Seite hat",
             "primitive": "",
@@ -698,7 +698,7 @@
         },
         {
             "frame": "86",
-            "character": "",
+            "character": "丁",
             "keyword": "viertens",
             "hint": "Jemand der zehn Himmelsstämme, der als viertes in einer Schlange wartet, und dabei auf einem riesegen Nagel sitzt",
             "primitive": "Nagel, Reißzwecke",
@@ -706,7 +706,7 @@
         },
         {
             "frame": "87",
-            "character": "",
+            "character": "叮",
             "keyword": "stechen",
             "hint": "Jemand sticht mit einem NAGEL ÖFFNUNGEN in die Haut",
             "primitive": "",
@@ -714,7 +714,7 @@
         },
         {
             "frame": "88",
-            "character": "",
+            "character": "可",
             "keyword": "können",
             "hint": "Feuerschlucker will zeigen was er kann, in dem er an einem Nagel übt, einen Nagel in den Mund steckt",
             "primitive": "",
@@ -722,7 +722,7 @@
         },
         {
             "frame": "89",
-            "character": "",
+            "character": "哥",
             "keyword": "großer Bruder",
             "hint": "Großer Bruder ruft: Kann ich schon zweimal kann ich schon zweimal",
             "primitive": "",
@@ -730,7 +730,7 @@
         },
         {
             "frame": "90",
-            "character": "",
+            "character": "頂",
             "keyword": "Scheitelpunkt",
             "hint": "Am Scheitelpunkt des Kopfes ragen Nagel raus, wie ein Irokesenschnitt",
             "primitive": "",
