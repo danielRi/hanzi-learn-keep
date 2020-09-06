@@ -736,5 +736,273 @@
             "primitive": "",
             "pinyin": ""
         }
+    ],
+    "6": [
+        {
+            "frame": "91",
+            "character": "乙",
+            "keyword": "zweitens",
+            "hint": "In der Schlange wartend, sitzt in der zweiten Reihe nicht auf einem großen Sessel",
+            "primitive": "Haken",
+            "pinyin": ""
+        },
+        {
+            "frame": "92",
+            "character": "",
+            "keyword": "Kind",
+            "hint": "Eingepacktes Kind, nur die Arme gucken raus",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "93",
+            "character": "",
+            "keyword": "Aushöhlung",
+            "hint": "Kind ist beim Zahnarzt, dieser Schaut mit einem HAKEN nach Aushöhlungen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "94",
+            "character": "",
+            "keyword": "brüllen",
+            "hint": "Kind ist beim Zahnarzt, dieser stopft die Aushöhlungen, das Kind brüllt vor Schmerzen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "95",
+            "character": "",
+            "keyword": "Perfekt (abgeschlossen)",
+            "hint": "Kind ist jetzt komplett eingewickelt, das Einwickeln ist abgeschlossen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "96",
+            "character": "",
+            "keyword": "Frau",
+            "hint": "Bild einer Frau",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "97",
+            "character": "",
+            "keyword": "gut",
+            "hint": "Frau mit Kind, alles wird gut",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "98",
+            "character": "",
+            "keyword": "so wie",
+            "hint": "Alter Professor sagt immer: So wie meine FRAU immer GESAGT hat...",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "99",
+            "character": "",
+            "keyword": "Mutter",
+            "hint": "Zwei Brüste",
+            "primitive": "Brüste",
+            "pinyin": ""
+        },
+        {
+            "frame": "100",
+            "character": "",
+            "keyword": "durchbohren",
+            "hint": "Ohr wird durchbohrt, um die PerlMUTTER einer AUSTER dranzuhängen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "101",
+            "character": "",
+            "keyword": "Älterer Bruder",
+            "hint": "Älterer Bruder mit großer Klappe und langen Beinen",
+            "primitive": "Teenager",
+            "pinyin": ""
+        },
+        {
+            "frame": "102",
+            "character": "",
+            "keyword": "überwinden",
+            "hint": "TENNAGER müssen NADEL überwinden, also Drogen",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "7": [
+        {
+            "frame": "103",
+            "character": "",
+            "keyword": "klein",
+            "hint": "3 kleine Striche bedeuten klein, klein und nochmals klein",
+            "primitive": "Andere Form: ",
+            "pinyin": "xiao3"
+        },
+        {
+            "frame": "104",
+            "character": "",
+            "keyword": "wenig",
+            "hint": "4 kleine Striche bedeuten noch WENIGER als KLEIN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "105",
+            "character": "",
+            "keyword": "lärmend",
+            "hint": "Wenn man lärmend spricht, kommt nur noch WENIG (sinnvolles) aus dem MUND",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "106",
+            "character": "",
+            "keyword": "groß",
+            "hint": "Bild von einem Mensch, der mit seiner Gestik GROß zeigen will",
+            "primitive": "großer hund, Bernhardiner",
+            "pinyin": ""
+        },
+        {
+            "frame": "107",
+            "character": "",
+            "keyword": "Spitze",
+            "hint": "KLEIN über GROß zeigt die kleine Spitze von etwas größerem",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "108",
+            "character": "",
+            "keyword": "Tagesende",
+            "hint": "Bild von einem Mond der am Tagesende aufgeht, aber noch nicht ganz zu sehen ist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "109",
+            "character": "",
+            "keyword": "viele",
+            "hint": "Indianisches Sprichwort: VIELE Monde ist es her...(Zeichen sind 2 kleine Monde)",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "110",
+            "character": "",
+            "keyword": "genug",
+            "hint": "Genug ist Genug! Wie VIELE Male hab ich diesen SATZ schon sagen müssen?",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "111",
+            "character": "",
+            "keyword": "draußen",
+            "hint": "Am TAGESENDE führt der Zauberer seinen Zauberstab draußen spazieren, damit er sich mit Magie auflädt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "112",
+            "character": "",
+            "keyword": "Name",
+            "hint": "Alter indianischer Brauch: Ein Vater flüstert Nachts (bei MONDschein) den NAMEN eines Kindes zuerst in dessen MUND, bevor er ihn am nächsten Tag öffentlich macht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "112-1",
+            "character": "",
+            "keyword": "Klippe",
+            "hint": "Bild einer Klippe",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "113",
+            "character": "",
+            "keyword": "dick (Im Sinne von Dichte, Stärke)",
+            "hint": "KIND ist allein unter der SONNE an einer KLIPPE. Es braucht DICKE Windeln, DICKE Haut, die Eltern brauchen ein DICKES Fell",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "114",
+            "character": "",
+            "keyword": "Stein",
+            "hint": "Öffnung unter einer Klippe, darin der Schatz von Ali Baba. Man kann mit dem MUND Sesam öffne dich sagen, damit der STEIN wegrollt",
+            "primitive": "Gestein",
+            "pinyin": ""
+        },
+        {
+            "frame": "115",
+            "character": "",
+            "keyword": "Kies",
+            "hint": "Ein Mann hat WENIGE STEINE bestellt, und bekommt einen Laster voller KIES, er sagt: Ich sagt WENIGE STEINE, kein Laster voll KIES!!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "116",
+            "character": "",
+            "keyword": "wundervoll",
+            "hint": "Nur WENIGE FRAUEN verdienen es, wundervoll genannt zu werden",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "117",
+            "character": "",
+            "keyword": "ähneln",
+            "hint": "Der Sohn ähnelt dem Vater, er ist wie ein KLEINES Stück FLEISCH vom Vater",
+            "primitive": "Funken, Kerze",
+            "pinyin": ""
+        },
+        {
+            "frame": "118",
+            "character": "",
+            "keyword": "schälen",
+            "hint": "Mann nimmt SÄBEL, wirft einen Apfel in die Luft und schält ihn geschickt mit dem SÄBEL, dabei sprühen die FUNKEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "119",
+            "character": "",
+            "keyword": "Licht",
+            "hint": "Kleine Staubteilchen im LICHTstrahl auf dem Schreibtisch sind KLEINE MENSCHENBEINE",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "120",
+            "character": "",
+            "keyword": "allzu",
+            "hint": "der BERNHARDINER ist nur ALLZU zuneigungsvoll, und sabbert einen TROPFEN raus - igitt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "121",
+            "character": "",
+            "keyword": "sparen",
+            "hint": "Wenn das AUGE größer ist als der Magen, lebt man über seine Verhältnisse und muss sparen. Statt zu große kann man auch zu viele Augen haben, man reißt sich also alle Augen aus bis man nur noch eines hat, um zu sparen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "122",
+            "character": "",
+            "keyword": "seltsam",
+            "hint": "Seltsame Geschichte: Einem Bernhardiner der Bergwacht musste man mit deinem Nagel den Mund zu nageln, weil er immer Schnaps getrunken hat",
+            "primitive": "",
+            "pinyin": ""
+        }
     ]
 }
