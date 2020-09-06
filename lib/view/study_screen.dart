@@ -3,14 +3,7 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hanzi_learn_keep/bloc/study_bloc.dart';
 
-class StudyScreen extends StatefulWidget {
-  @override
-  _StudyScreenState createState() => _StudyScreenState();
-}
-
-class _StudyScreenState extends State<StudyScreen> {
-  bool unCovered = false;
-
+class StudyScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -21,9 +14,9 @@ class _StudyScreenState extends State<StudyScreen> {
             duration: Duration(milliseconds: 200),
             firstChild: _buildCoveredWidget(),
             secondChild: _buildUncoveredWidget(),
-            crossFadeState: unCovered
-                ? CrossFadeState.showSecond
-                : CrossFadeState.showFirst,
+            crossFadeState: state.currentFrame.covered
+                ? CrossFadeState.showFirst
+                : CrossFadeState.showSecond,
           );
         },
       ),
@@ -33,9 +26,7 @@ class _StudyScreenState extends State<StudyScreen> {
   Widget _buildCoveredWidget() {
     return GestureDetector(
       onTap: () {
-        setState(() {
-          unCovered = true;
-        });
+        // TODO: uncover
       },
       child: Container(
         decoration: BoxDecoration(

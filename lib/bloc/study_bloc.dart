@@ -2,6 +2,7 @@ import 'dart:collection';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+
 import 'package:hanzi_learn_keep/model/character_frame.dart';
 
 class StudyEvent {
@@ -19,8 +20,14 @@ class WrongEvent extends StudyEvent {
   WrongEvent(String frameId) : super(frameId);
 }
 
-class StudyState {
+class CurrentFrame {
   final CharacterFrame currentFrame;
+  bool covered;
+  CurrentFrame(this.currentFrame, [this.covered = true]);
+}
+
+class StudyState {
+  final CurrentFrame currentFrame;
   final LinkedHashMap<String, bool> framesToStudy;
   StudyState(
     this.currentFrame,
