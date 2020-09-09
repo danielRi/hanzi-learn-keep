@@ -24,7 +24,7 @@ class HomeScreen extends StatelessWidget {
             backgroundColor: Colors.blue,
             onTap: () => Navigator.push(
               context,
-              MaterialPageRoute(builder: (context) => StudyScreen()),
+              MaterialPageRoute(builder: (context) => StudyScreen(50)),
             ),
           ),
           SpeedDialChild(
@@ -34,7 +34,10 @@ class HomeScreen extends StatelessWidget {
               ),
             ),
             backgroundColor: Colors.blue,
-            onTap: () => print('SECOND CHILD'),
+            onTap: () => Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) => StudyScreen()),
+            ),
           ),
         ],
       ),

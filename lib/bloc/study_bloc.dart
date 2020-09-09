@@ -35,8 +35,23 @@ class StudyState {
   );
 }
 
+class InitialState extends StudyState {
+  InitialState(
+      CurrentFrame currentFrame, LinkedHashMap<String, bool> framesToStudy)
+      : super(currentFrame, framesToStudy);
+
+  factory InitialState.withFramesToStudy(int framesToStudy) {
+    // TODO get repo and create Frames
+    print(
+        "You want to study ${framesToStudy?.toString() ?? "infinite"} Frames");
+
+    return InitialState(null, null);
+  }
+}
+
 class StudyBloc extends Bloc<StudyEvent, StudyState> {
-  StudyBloc(StudyState state) : super(state);
+  StudyBloc(int framesToStudy)
+      : super(InitialState.withFramesToStudy(framesToStudy));
 
   @override
   Stream<StudyState> mapEventToState(StudyEvent event) async* {

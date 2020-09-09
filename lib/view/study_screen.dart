@@ -3,22 +3,32 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hanzi_learn_keep/bloc/study_bloc.dart';
 
+import '../bloc/study_bloc.dart';
+
 class StudyScreen extends StatelessWidget {
+  final int framesToStudy;
+
+  StudyScreen([this.framesToStudy]);
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: BlocBuilder<StudyBloc, StudyState>(
-        cubit: StudyBloc(null),
-        builder: (context, state) {
-          return AnimatedCrossFade(
-            duration: Duration(milliseconds: 200),
-            firstChild: _buildCoveredWidget(),
-            secondChild: _buildUncoveredWidget(),
-            crossFadeState: state.currentFrame.covered
-                ? CrossFadeState.showFirst
-                : CrossFadeState.showSecond,
-          );
+      body: BlocProvider(
+        create: (context) {
+          return StudyBloc(framesToStudy);
         },
+        child: BlocBuilder<StudyBloc, StudyState>(
+          builder: (context, state) {
+            return AnimatedCrossFade(
+              duration: Duration(milliseconds: 200),
+              firstChild: _buildCoveredWidget(),
+              secondChild: _buildUncoveredWidget(),
+              crossFadeState: state.currentFrame.covered
+                  ? CrossFadeState.showFirst
+                  : CrossFadeState.showSecond,
+            );
+          },
+        ),
       ),
     );
   }
