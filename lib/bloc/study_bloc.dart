@@ -5,6 +5,8 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'package:hanzi_learn_keep/model/character_frame.dart';
 
+import 'package:hanzi_learn_keep/service/hanzi_parser_service.dart';
+
 class StudyEvent {
   final String frameId;
   StudyEvent(
@@ -42,6 +44,7 @@ class InitialState extends StudyState {
 
   factory InitialState.withFramesToStudy(int framesToStudy) {
     // TODO get repo and create Frames
+    HanziParserService().getDataFromJson();
     print(
         "You want to study ${framesToStudy?.toString() ?? "infinite"} Frames");
 

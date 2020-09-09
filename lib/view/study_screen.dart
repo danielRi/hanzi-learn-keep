@@ -3,8 +3,6 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hanzi_learn_keep/bloc/study_bloc.dart';
 
-import '../bloc/study_bloc.dart';
-
 class StudyScreen extends StatelessWidget {
   final int framesToStudy;
 
