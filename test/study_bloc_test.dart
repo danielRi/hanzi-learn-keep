@@ -8,16 +8,17 @@ void main() {
     StudyBloc studyBloc;
 
     setUp(() {
-      studyBloc = StudyBloc(StudyState(
-        null,
-        LinkedHashMap.from({
-          "1": false,
-          "2": false,
-          "3": false,
-          "4": false,
-          "5": false,
-        }),
-      ));
+      // studyBloc = StudyBloc(StudyState(
+      //   null,
+      //   LinkedHashMap.from({
+      //     "1": false,
+      //     "2": false,
+      //     "3": false,
+      //     "4": false,
+      //     "5": false,
+      //   }),
+      // ));
+      // TODO: set up new unit tests
     });
 
     test('getNextFrameId', () async {

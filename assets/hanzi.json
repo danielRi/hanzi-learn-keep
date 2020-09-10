@@ -748,7 +748,7 @@
         },
         {
             "frame": "92",
-            "character": "",
+            "character": "子",
             "keyword": "Kind",
             "hint": "Eingepacktes Kind, nur die Arme gucken raus",
             "primitive": "",
@@ -780,7 +780,7 @@
         },
         {
             "frame": "96",
-            "character": "",
+            "character": "女",
             "keyword": "Frau",
             "hint": "Bild einer Frau",
             "primitive": "",
@@ -788,7 +788,7 @@
         },
         {
             "frame": "97",
-            "character": "",
+            "character": "好",
             "keyword": "gut",
             "hint": "Frau mit Kind, alles wird gut",
             "primitive": "",
@@ -804,7 +804,7 @@
         },
         {
             "frame": "99",
-            "character": "",
+            "character": "母",
             "keyword": "Mutter",
             "hint": "Zwei Brüste",
             "primitive": "Brüste",
@@ -828,7 +828,7 @@
         },
         {
             "frame": "102",
-            "character": "",
+            "character": "克",
             "keyword": "überwinden",
             "hint": "TENNAGER müssen NADEL überwinden, also Drogen",
             "primitive": "",
@@ -838,7 +838,7 @@
     "7": [
         {
             "frame": "103",
-            "character": "",
+            "character": "小",
             "keyword": "klein",
             "hint": "3 kleine Striche bedeuten klein, klein und nochmals klein",
             "primitive": "Andere Form: ",
@@ -846,7 +846,7 @@
         },
         {
             "frame": "104",
-            "character": "",
+            "character": "少",
             "keyword": "wenig",
             "hint": "4 kleine Striche bedeuten noch WENIGER als KLEIN",
             "primitive": "",
@@ -862,7 +862,7 @@
         },
         {
             "frame": "106",
-            "character": "",
+            "character": "大",
             "keyword": "groß",
             "hint": "Bild von einem Mensch, der mit seiner Gestik GROß zeigen will",
             "primitive": "großer hund, Bernhardiner",
@@ -886,7 +886,7 @@
         },
         {
             "frame": "109",
-            "character": "",
+            "character": "多",
             "keyword": "viele",
             "hint": "Indianisches Sprichwort: VIELE Monde ist es her...(Zeichen sind 2 kleine Monde)",
             "primitive": "",
@@ -894,7 +894,7 @@
         },
         {
             "frame": "110",
-            "character": "",
+            "character": "夠",
             "keyword": "genug",
             "hint": "Genug ist Genug! Wie VIELE Male hab ich diesen SATZ schon sagen müssen?",
             "primitive": "",
@@ -902,7 +902,7 @@
         },
         {
             "frame": "111",
-            "character": "",
+            "character": "外",
             "keyword": "draußen",
             "hint": "Am TAGESENDE führt der Zauberer seinen Zauberstab draußen spazieren, damit er sich mit Magie auflädt",
             "primitive": "",
@@ -910,7 +910,7 @@
         },
         {
             "frame": "112",
-            "character": "",
+            "character": "名",
             "keyword": "Name",
             "hint": "Alter indianischer Brauch: Ein Vater flüstert Nachts (bei MONDschein) den NAMEN eines Kindes zuerst in dessen MUND, bevor er ihn am nächsten Tag öffentlich macht",
             "primitive": "",
@@ -926,7 +926,7 @@
         },
         {
             "frame": "113",
-            "character": "",
+            "character": "厚",
             "keyword": "dick (Im Sinne von Dichte, Stärke)",
             "hint": "KIND ist allein unter der SONNE an einer KLIPPE. Es braucht DICKE Windeln, DICKE Haut, die Eltern brauchen ein DICKES Fell",
             "primitive": "",
@@ -990,7 +990,7 @@
         },
         {
             "frame": "121",
-            "character": "",
+            "character": "省",
             "keyword": "sparen",
             "hint": "Wenn das AUGE größer ist als der Magen, lebt man über seine Verhältnisse und muss sparen. Statt zu große kann man auch zu viele Augen haben, man reißt sich also alle Augen aus bis man nur noch eines hat, um zu sparen",
             "primitive": "",
@@ -998,11 +998,238 @@
         },
         {
             "frame": "122",
-            "character": "",
+            "character": "奇",
             "keyword": "seltsam",
             "hint": "Seltsame Geschichte: Einem Bernhardiner der Bergwacht musste man mit deinem Nagel den Mund zu nageln, weil er immer Schnaps getrunken hat",
             "primitive": "",
             "pinyin": ""
         }
-    ]
+    ],
+    "8": [
+        {
+            "frame": "123",
+            "character": "",
+            "keyword": "Fluss",
+            "hint": "Bild eines Flusses von oben",
+            "primitive": "Flut",
+            "pinyin": ""
+        },
+        {
+            "frame": "124",
+            "character": "",
+            "keyword": "Staat",
+            "hint": "Kleine TROPFEN von Land im FLUSS bedeuten, dass zwei Staaten durch den Fluss voneinander getrennt sind und hier ihre Grenze zeigen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "125",
+            "character": "",
+            "keyword": "befolgen",
+            "hint": "Soldaten tragen einen Offizier durch einen FLUSS, bis nur noch dessen KOPF rausschaut.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "126",
+            "character": "水",
+            "keyword": "Wasser",
+            "hint": "Spazierstock wird ins Wasser fallen lassen, und das Wasser spritzt in alle vier Richtungen",
+            "primitive": "Wassertropfen, Schneeflocke",
+            "pinyin": ""
+        },
+        {
+            "frame": "127",
+            "character": "永",
+            "keyword": "Ewigkeit",
+            "hint": "Ein Tropfen im Wasser ist wie ein Tropfen in der Ewigkeit",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "128",
+            "character": "",
+            "keyword": "nachfragen (im Sinne von Angebot und Nachfrage)",
+            "hint": "Maschine verwandelt jeden TROPFEN Wasser in SCHNEE, da wäre man sicher sehr NACHGEFRAGT bei Skihütten-Besitzern, und bald die Nr. EINS auf dem Gebiet",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "129",
+            "character": "泉",
+            "keyword": "Springquell",
+            "hint": "Frisches weißes Wasser sprießt aus einem Springquell",
+            "primitive": "Springquell",
+            "pinyin": ""
+        },
+        {
+            "frame": "130",
+            "character": "原",
+            "keyword": "Ebene (Wird oft als Quelle verwendet)",
+            "hint": "Eine Hochebene, aus der ein SPRINGQUELL zu einer KLIPPE fliesst",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "131",
+            "character": "願",
+            "keyword": "wollen",
+            "hint": "Zauberer von Oz, ein gigantischer KOPF auf einer EBENE, der Blechmann will ein Herz, Dorthy will heim usw...",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "132",
+            "character": "沖",
+            "keyword": "spülen",
+            "hint": "Wasser, dass Sie in die MITTE des Ozeans spülen will",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "133",
+            "character": "泳",
+            "keyword": "schwimmen",
+            "hint": "Als Kind war ich eine EWIGKEIT im WASSER um schwimmen zu lernen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "134",
+            "character": "",
+            "keyword": "Kontinent",
+            "hint": "STAATEN auf Kontinenten, die mit WASSER getrennt sind",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "135",
+            "character": "",
+            "keyword": "Morast",
+            "hint": "WASSER EINBERUFEN, um Land morastig zu machen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "136",
+            "character": "",
+            "keyword": "Sand",
+            "hint": "Spaziergang am Strand zwischen ein WENIG WASSER und Sand, der Sand ist weich, nicht so wie Kies",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "137",
+            "character": "江",
+            "keyword": "Yangtse",
+            "hint": "Flussschiffer Idiot benutzt einen Stahlträger im Wasser, um damit den Yangtse entlangzufahren",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "138",
+            "character": "汁",
+            "keyword": "Saft",
+            "hint": "Saft ist ein Gebräu aus WASSER und NADELN, wieder ein Energiedrink für einen Roboter",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "139",
+            "character": "",
+            "keyword": "Gezeiten",
+            "hint": "Eine Dynastie hat gute und schlechte Zeiten, Aufs und Abs, wie das WASSER der Gezeiten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "140",
+            "character": "",
+            "keyword": "Quelle",
+            "hint": "Auf einer EBENE ein Punkt, an dem WASSER austritt, eine QUELLE",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "141",
+            "character": "",
+            "keyword": "lebendig",
+            "hint": "Man ist total erschöpft in der Wüste und kommt an ein WASSERloch, daraus trinkt man mit der ZUNGE und fühlt sich wieder lebendig",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "142",
+            "character": "",
+            "keyword": "tilgen",
+            "hint": "Wassertropfen die auf Funken spritzen, und damit das Feuer tilgen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "143",
+            "character": "",
+            "keyword": "Situation",
+            "hint": "Ein TEENAGER hat gebadet, jetzt ist kein Wasser mehr zum Tee machen da, eine blöde Situation. Doch man nimmt einfach das BadeWASSER zum Tee machen, Situation gerettet.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "144",
+            "character": "",
+            "keyword": "Strom",
+            "hint": "WASSER, das man, wie die alten Römer, nicht einfach überweinden KANN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "145",
+            "character": "",
+            "keyword": "See",
+            "hint": "An einem See gibts viele WASSERsportarten, bei denen man LEICHTSINNIGE Sachen machen kann",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "146",
+            "character": "",
+            "keyword": "vermessen",
+            "hint": "Sie angeln noch Austern und messen sie mit dem dem Säbel (=Regel). Sie müssen nun die Tiefe eines GeWÄSSERS MESSEN, mit der REGEL nur ein Maßband nutzen zu können",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "147",
+            "character": "土",
+            "keyword": "Erde",
+            "hint": "Einfach merken, ein Haufen Erde",
+            "primitive": "Lehm, Dreck",
+            "pinyin": ""
+        },
+        {
+            "frame": "148",
+            "character": "",
+            "keyword": "ausgewogen",
+            "hint": "Zwei GLEICHMÄßIG aufgehäufte Haufen ERDE, mit ausgewogenem Ergebnis",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "149",
+            "character": "肚",
+            "keyword": "Bauch",
+            "hint": "Ein KÖRPERTEIL, das wie ein ERDhaufen geformt ist. Ein Vielfraß der beerdigt wird, da schaut der bauch als letztes raus, bevor er unter einem großen Haufen Erde beerdigt wird",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "150",
+            "character": "",
+            "keyword": "ausfüllen",
+            "hint": "Formular ausfüllen: Die Angabe müssen WAHR sein, aber die Formaussteller wollen die DRECKIGEN Geheimnisse rausfinden",
+            "primitive": "",
+            "pinyin": ""
+        },
+    ],
+    "9": []
 }
