@@ -1230,6 +1230,158 @@
             "primitive": "",
             "pinyin": ""
         },
+        {
+            "frame": "151",
+            "character": "吐",
+            "keyword": "spucken",
+            "hint": "MUND voller ERDE, das will man schnell ausspucken",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "151-1",
+            "character": "",
+            "keyword": "Ziegel",
+            "hint": "Gebrannte Lehmklumpen übereinander geschichtet, wie Ziegel",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "152",
+            "character": "",
+            "keyword": "Ziegel",
+            "hint": "Gebrannte Lehmklumpen übereinander geschichtet, wie Ziegel",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "153",
+            "character": "",
+            "keyword": "Chinesischer Zoll (Maßeinheit)",
+            "hint": "Ein ZEHNtel des chinesischen Fußes, also ein PUNKT in der ZEHN",
+            "primitive": "Leim, geleimt, aneinander geleimt",
+            "pinyin": ""
+        },
+        {
+            "frame": "154",
+            "character": "",
+            "keyword": "versiegeln",
+            "hint": "Einen Brief mit einem großen ZIEGELSTEIN zuLEIMEN, um ihn zu versiegeln",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "155",
+            "character": "寺",
+            "keyword": "buddhistischer Tempel",
+            "hint": "Ein fanatischer Mönch, der sich an Boden (an der ERDE) festGELEIMT hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "156",
+            "character": "時",
+            "keyword": "Zeit",
+            "hint": "Was ist Zeit? Ein Mönch philosophiert über Zeit, während die Sonne über dem Tempel untergeht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "157",
+            "character": "火",
+            "keyword": "Feuer",
+            "hint": "Bild von Feuer",
+            "primitive": "Flammen, Kamin, Herd- oder Ofenfeuer",
+            "pinyin": ""
+        },
+        {
+            "frame": "158",
+            "character": "灰",
+            "keyword": "Asche",
+            "hint": "Asche aus dem KAMIN gekehrt und jetzt AN DER SEITE tragend trägt man sie hinaus",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "159",
+            "character": "煩",
+            "keyword": "verdrossen",
+            "hint": "Wer nicht verdrossen ist, bewahrt einen kühlen Kopf, hier steht der Kopf in Flammen, man ist also verdrossen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "160",
+            "character": "炎",
+            "keyword": "Entzündung",
+            "hint": "Eine Entzündung breitet sich immer weiter aus wie Feuer, wenn man sie nicht behandelt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "161",
+            "character": "淡",
+            "keyword": "blass",
+            "hint": "Seltene Krankheit: eine wässrige Entzündung, bei dieser wird man blass. Oder: Wenn man Wasser auf ein ENTZÜNDETES Feuer gibt, leuchtet es blässer",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "162",
+            "character": "災",
+            "keyword": "Katastrophe",
+            "hint": "Flut und Feuer - typische Katastrophen. Eine FLUT ergießt sich über einen WaldBRAND",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "163",
+            "character": "照",
+            "keyword": "leuchten",
+            "hint": "Ein Warnleuchte die DEUTLICH macht, dass das HERDFEUER noch an ist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "164",
+            "character": "魚",
+            "keyword": "Fich",
+            "hint": "Fisch wird gefangen und GEFESSELT, ausgeweidet, die Gedärme aufs REISFELD zum düngen geworfen. Schließlich wird der Fisch über dem FEUER zubereitet",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "165",
+            "character": "漁",
+            "keyword": "Fischfang",
+            "hint": "Bevor der Fisch GEFESSELT, fürs REISFELD ausgeweidet und über FEUER gebraten wird, befand er sich im WASSER, wo die Geschichte losgeht und er gefangen wurde",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "166",
+            "character": "堯",
+            "keyword": "Kaiser Yao",
+            "hint": "Kaiser Yao hat das Go Spiel erfunden, um den Verstand seines dummen Sohnes zu trainieren. Man sieht 3 Lehmklumpen (als Go Steine) und die Beine seines (hirnlosen) Sohnes",
+            "primitive": "Schmutzfink (lauter Dreck und ein Paar Menschenbeine)",
+            "pinyin": ""
+        },
+        {
+            "frame": "167",
+            "character": "燒",
+            "keyword": "fiebern",
+            "hint": "SCHMUTZFINK hat so hohes Fieber dass es anfängt zu brennen, aber der Dreck schützt ihn vor den FLAMMEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "168",
+            "character": "堯",
+            "keyword": "Morgendämmerung",
+            "hint": "SCHMUTZFINK sitzt im Feld und wird von der aufgehenden SONNE gereinigt",
+            "primitive": "",
+            "pinyin": ""
+        },
     ],
     "9": []
 }
