@@ -1381,7 +1381,32 @@
             "hint": "SCHMUTZFINK sitzt im Feld und wird von der aufgehenden SONNE gereinigt",
             "primitive": "",
             "pinyin": ""
-        },
+        }
     ],
-    "9": []
+    "9": [
+        {
+            "frame": "169",
+            "character": "里",
+            "keyword": "Li (Maßeinheit)",
+            "hint": "unterteilung von ERDE in REISFELDER als Maßeinheit, sozusagen 1 Reisfeld als Maßeinheit für Erde",
+            "primitive": "Computer, Gehirn",
+            "pinyin": ""
+        },
+        {
+            "frame": "170",
+            "character": "量",
+            "keyword": "Menge",
+            "hint": "Wir verfügen über eine bestimmte Menge an Zeit am TAGESANBRUCH, und über eine bestimmte MENGE Entfernung im LI",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "171",
+            "character": "量",
+            "keyword": "begraben",
+            "hint": "Hier wird der COMPUTER unter ERDE begraben, der uns treue Dienste geleistet hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+    ]
 }
