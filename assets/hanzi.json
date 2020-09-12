@@ -1402,11 +1402,179 @@
         },
         {
             "frame": "171",
-            "character": "量",
+            "character": "",
             "keyword": "begraben",
             "hint": "Hier wird der COMPUTER unter ERDE begraben, der uns treue Dienste geleistet hat",
             "primitive": "",
             "pinyin": ""
         },
+        {
+            "frame": "172",
+            "character": "黑",
+            "keyword": "schwarz",
+            "hint": "Ein kompliziertes Problem bringt den Prozessor eines COMPUTER zum glühen, bis er FEUER fängt, und er ganz schwarz gekohlt ist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "173",
+            "character": "點",
+            "keyword": "Punkt",
+            "hint": "SCHWARZE Punkte im der Kristallkugel beim WAHRSAGEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "174",
+            "character": "",
+            "keyword": "schwarze Tusche",
+            "hint": "Man malt SCHWARZ Tusche auf die ERDE, zum Beispiel für ein Fussballfeld",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "174-1",
+            "character": "",
+            "keyword": "Haube, Käseglocke",
+            "hint": "Unterschied zu Wind: Wind weht nach AUSSEN, die Käseglocke hät was DRINNEN (Strich am Ende)",
+            "primitive": "Mönchskapuze, Helm, Motorhaube",
+            "pinyin": ""
+        },
+        {
+            "frame": "175",
+            "character": "冒",
+            "keyword": "riskieren",
+            "hint": "Einbrecher hat Sturmmaske (= HAUBE) mit ZWEI Schlitze für die AUGEN auf, er muss einiges riskieren um zu stehlen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "176",
+            "character": "同",
+            "keyword": "identisch",
+            "hint": "Bild eines Mönches, der die Kapuze so weit übers Gesicht gezogen hat, dass man nur noch EINEN MUND sieht. Mönche machen alles gleich, ein Mönch ist identisch zum anderen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "177",
+            "character": "洞",
+            "keyword": "Grotte",
+            "hint": "Eremiten MÖNCHE lebten oft in Grotten. Sie konnten auf alles verzichten, ausser auf WASSER. Mönche füllten die Höhle mit Wasser, um nicht rauszumüssen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "178",
+            "character": "向",
+            "keyword": "Orientierung",
+            "hint": "Ein Männchen mit HELM, wo man nur den MUND sieht - ein Ausserirdischer! Er muss sich orientieren um sein Raumschiff (der PUNKT im Hintergrund) zu finden",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "179",
+            "character": "",
+            "keyword": "wertschätzen",
+            "hint": "Wir stellen den KLEINEN MUND eines Vorfahrs in einer GLASGLOCKE aus, der seine gesagten Sachen symbolisiert, um ihn wertzuschätzen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "179-1",
+            "character": "宀",
+            "keyword": "Haus",
+            "hint": "Bild eines Daches mit Schornstein",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "180",
+            "character": "字",
+            "keyword": "Schriftzeichen",
+            "hint": "KIND im HAUS, macht Hausaufgaben und übt Schriftzeichen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "181",
+            "character": "守",
+            "keyword": "bewachen",
+            "hint": "Wache steht wie ANGELEIMT vor dem HAUS, um es zu bewachen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "182",
+            "character": "完",
+            "keyword": "vollenden",
+            "hint": "Ein HAUS ist vollendet, wenn es vom Fundament, dem URSPRUNG bis zum Dach oben fertig gebaut, vollendet ist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "183",
+            "character": "實",
+            "keyword": "Wirklichkeit",
+            "hint": "Ein schönes HAUS, das in Wirklichkeit in Piercing Salon ist, in dem brave Kinder ihr Ohren DURCHBOHREN lassen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "184",
+            "character": "",
+            "keyword": "verkünden",
+            "hint": "Verkünden heisst: Es von allen HAUSDÄCHERN zu schreien, und über die ganze Welt zu verteilen. Der SONNENAUFGANG hat hier eine zweite Linie, einen weiteren Horizont, auf dem sich die Sonne zubewegt. Sie umspannt also die ganze Welt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "185",
+            "character": "",
+            "keyword": "in den Puppen",
+            "hint": "Jemand der bis in die Puppen arbeitet und deshalb wenn er heimkommt schon KERZENSchein im HAUS hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "186",
+            "character": "安",
+            "keyword": "Frau ist im Haus, es ist friedlich",
+            "hint": "Wache steht wie ANGELEIMT vor dem HAUS, um es zu bewachen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "187",
+            "character": "宴",
+            "keyword": "Festmahl",
+            "hint": "Eine FRAU braucht den ganzen TAG im HAUS, um das Festmahl vorzubereiten. Der TAG stört den FRIEDEN im Haus (Sonne zwischen Dach und Frau, Dach und Frau = Frieden)",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "188",
+            "character": "寄",
+            "keyword": "per Post senden",
+            "hint": "Ein SELTSAMES HAUS, in das Briefe getragen werden, z.B. Poes House of Usher, oder das Haus der Hexe aus Hänsel und Gretel",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "189",
+            "character": "富",
+            "keyword": "reich",
+            "hint": "Manchmal erbt man seinen REICHTUM schon vom ElternHAUS",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "190",
+            "character": "富",
+            "keyword": "貯",
+            "hint": "GELD unterm DACH und unter den zugeNAGELTEN Brettern im Fußboden aufbewahren",
+            "primitive": "",
+            "pinyin": "zhu4"
+        }
     ]
 }
