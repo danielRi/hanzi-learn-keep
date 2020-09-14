@@ -1,24 +1,30 @@
 import 'dart:collection';
+import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'package:hanzi_learn_keep/model/character_frame.dart';
+import 'package:hanzi_learn_keep/repo/character_repository.dart';
 
 import 'package:hanzi_learn_keep/service/hanzi_parser_service.dart';
 
-class StudyEvent {
+class StudyEvent {}
+
+class FetchDataEvent extends StudyEvent {}
+
+class CheckEvent extends StudyEvent {
   final String frameId;
-  StudyEvent(
+  CheckEvent(
     this.frameId,
   );
 }
 
-class CorrectEvent extends StudyEvent {
+class CorrectEvent extends CheckEvent {
   CorrectEvent(String frameId) : super(frameId);
 }
 
-class WrongEvent extends StudyEvent {
+class WrongEvent extends CheckEvent {
   WrongEvent(String frameId) : super(frameId);
 }
 
@@ -29,50 +35,34 @@ class CurrentFrame {
 }
 
 class StudyState {
-  final CurrentFrame currentFrame;
-  final LinkedHashMap<String, bool> framesToStudy;
+  CurrentFrame currentFrame;
+  final List<CharacterFrame> framesToStudy;
   StudyState(
     this.currentFrame,
     this.framesToStudy,
   );
 }
 
-class InitialState extends StudyState {
-  InitialState(
-      CurrentFrame currentFrame, LinkedHashMap<String, bool> framesToStudy)
-      : super(currentFrame, framesToStudy);
-
-  factory InitialState.withFramesToStudy(int framesToStudy) {
-    // TODO get repo and create Frames
-    HanziParserService().getDataFromJson();
-    print(
-        "You want to study ${framesToStudy?.toString() ?? "infinite"} Frames");
-
-    return InitialState(null, null);
-  }
-}
-
 class StudyBloc extends Bloc<StudyEvent, StudyState> {
-  StudyBloc(int framesToStudy)
-      : super(InitialState.withFramesToStudy(framesToStudy));
+  StudyBloc(int framesToStudy) : super(null);
 
   @override
   Stream<StudyState> mapEventToState(StudyEvent event) async* {
-    if (event is StudyEvent) {
-      final frameId = event.frameId;
-      if (event is CorrectEvent) {
-        state.framesToStudy[frameId] = true;
-        _onCorrectEvent(frameId);
-      } else if (event is WrongEvent) {
-        state.framesToStudy[event.frameId] = false;
-        _onWrongEvent(event.frameId);
-      }
-
-      final nextFrameId = getNextFrameId(frameId);
-      // TODO: get character from Repository
+    if (event is CheckEvent) {
+    } else if (event is FetchDataEvent) {
+      final data = await CharacterRepository().fetchData();
+      final framesToStudy = initFramesToStudy(data);
+      print("framesToStudy: ${framesToStudy.toString()}");
     }
 
     yield state;
+  }
+
+  @override
+  void onChange(Change<StudyState> change) {
+    print("onchange:");
+    print(change);
+    super.onChange(change);
   }
 
   void _onCorrectEvent(String frameId) {
@@ -83,38 +73,15 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
     // TODO: save to stastic
   }
 
-  @visibleForTesting
-  String getNextFrameId(String currentFrameId) {
-    assert(_correctFrames > 0);
-    final iterator = state.framesToStudy.entries.iterator;
-
-    while (iterator.moveNext()) {
-      if (iterator.current.key == currentFrameId) {
-        print(
-            "___ found key: ${iterator.current.key}: ${iterator.current.value}");
-        while (iterator.current.value == true) {
-          iterator.moveNext();
-          print("___ checking key: ${iterator.current.key} for false");
-          if (iterator.current.value == false) {
-            return iterator.current.key;
-          }
-        }
-      }
+  List<CharacterFrame> initFramesToStudy(Map<String, CharacterFrame> data) {
+    final lastindex = data.keys.toList().length - 1;
+    final random = Random();
+    final resultList = List<CharacterFrame>();
+    for (int i = 0; i < 50; i++) {
+      final randomIndex = random.nextInt(lastindex);
+      String randomFrameId = data.keys.toList()[randomIndex];
+      resultList.add(CharacterRepository().getFrame(randomFrameId));
     }
-
-    // we found valid id BEHIND the searched one, just return the first again
-    return state.framesToStudy.entries.toList().first.key;
-  }
-
-  int get _correctFrames {
-    var correctFrames = 0;
-    state.framesToStudy.forEach((key, value) {
-      if (value) correctFrames++;
-    });
-    return correctFrames;
-  }
-
-  bool get _allCorrect {
-    return state.framesToStudy.length == _correctFrames;
+    return resultList;
   }
 }

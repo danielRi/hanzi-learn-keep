@@ -12,10 +12,15 @@ class CharacterRepository {
 
   Map<String, CharacterFrame> data;
 
-  Future<Map<String, CharacterFrame>> getAllData() async {
+  Future<Map<String, CharacterFrame>> fetchData() async {
     if (data != null) {
       return data;
     }
     data = await HanziParserService().getDataFromJson();
+    return data;
+  }
+
+  CharacterFrame getFrame(String frameNumber) {
+    return data[frameNumber];
   }
 }

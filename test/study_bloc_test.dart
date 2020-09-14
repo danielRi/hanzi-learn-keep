@@ -21,22 +21,5 @@ void main() {
       // TODO: set up new unit tests
     });
 
-    test('getNextFrameId', () async {
-      expect(() {
-        studyBloc.getNextFrameId("1");
-      }, throwsAssertionError);
-      studyBloc.add(CorrectEvent("1"));
-      await Future.delayed(Duration.zero);
-      expect(studyBloc.getNextFrameId("1"), "2");
-      studyBloc.add(CorrectEvent("2"));
-      await Future.delayed(Duration.zero);
-      expect(studyBloc.getNextFrameId("1"), "3");
-      studyBloc.add(CorrectEvent("3"));
-      await Future.delayed(Duration.zero);
-      expect(studyBloc.getNextFrameId("1"), "4");
-      studyBloc.add(CorrectEvent("4"));
-      await Future.delayed(Duration.zero);
-      expect(studyBloc.getNextFrameId("1"), "5");
-    });
   });
 }

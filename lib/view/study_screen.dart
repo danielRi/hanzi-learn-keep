@@ -13,7 +13,7 @@ class StudyScreen extends StatelessWidget {
     return Scaffold(
       body: BlocProvider(
         create: (context) {
-          return StudyBloc(framesToStudy);
+          return StudyBloc(framesToStudy)..add(FetchDataEvent());
         },
         child: BlocBuilder<StudyBloc, StudyState>(
           builder: (context, state) {
@@ -21,7 +21,7 @@ class StudyScreen extends StatelessWidget {
               duration: Duration(milliseconds: 200),
               firstChild: _buildCoveredWidget(),
               secondChild: _buildUncoveredWidget(),
-              crossFadeState: state.currentFrame.covered
+              crossFadeState: state?.currentFrame?.covered ?? false
                   ? CrossFadeState.showFirst
                   : CrossFadeState.showSecond,
             );
