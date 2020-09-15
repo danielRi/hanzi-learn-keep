@@ -1,13 +1,10 @@
-import 'dart:collection';
 import 'dart:math';
 
-import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-
 import 'package:hanzi_learn_keep/model/character_frame.dart';
 import 'package:hanzi_learn_keep/repo/character_repository.dart';
 
-import 'package:hanzi_learn_keep/service/hanzi_parser_service.dart';
+
 
 class StudyEvent {}
 
@@ -34,17 +31,21 @@ class CurrentFrame {
   CurrentFrame(this.currentFrame, [this.covered = true]);
 }
 
-class StudyState {
+class StudyState {}
+
+class LoadingState extends StudyState {}
+
+class CharacterState extends StudyState {
   CurrentFrame currentFrame;
   final List<CharacterFrame> framesToStudy;
-  StudyState(
+  CharacterState(
     this.currentFrame,
     this.framesToStudy,
   );
 }
 
 class StudyBloc extends Bloc<StudyEvent, StudyState> {
-  StudyBloc(int framesToStudy) : super(null);
+  StudyBloc(int framesToStudy) : super(LoadingState());
 
   @override
   Stream<StudyState> mapEventToState(StudyEvent event) async* {
@@ -53,9 +54,11 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
       final data = await CharacterRepository().fetchData();
       final framesToStudy = initFramesToStudy(data);
       print("framesToStudy: ${framesToStudy.toString()}");
-    }
 
-    yield state;
+      yield CharacterState(CurrentFrame(framesToStudy[0], true), framesToStudy);
+    } else {
+      yield state;
+    }
   }
 
   @override
