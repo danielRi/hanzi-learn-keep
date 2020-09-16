@@ -12,16 +12,28 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       body: Container(),
       floatingActionButton: SpeedDial(
+        backgroundColor: Colors.black,
         child: Center(
           child: Text(
             "學",
-            style: GoogleFonts.notoSerif(fontSize: 26.0),
+            style: TextStyle(
+              fontSize: 26,
+              fontFamily: "SentyWen",
+            ),
           ),
         ),
         children: [
           SpeedDialChild(
-            child: Center(child: Text("50")),
-            backgroundColor: Colors.blue,
+            child: Center(
+              child: Text(
+                "50",
+                style: TextStyle(
+                  fontSize: 24,
+                  fontFamily: "SentyWen",
+                ),
+              ),
+            ),
+            backgroundColor: Colors.black,
             onTap: () => Navigator.push(
               context,
               MaterialPageRoute(builder: (context) => StudyScreen(50)),
@@ -30,10 +42,14 @@ class HomeScreen extends StatelessWidget {
           SpeedDialChild(
             child: Center(
               child: Text(
-                String.fromCharCode($infin),
+                "20",
+                style: TextStyle(
+                  fontSize: 24,
+                  fontFamily: "SentyWen",
+                ),
               ),
             ),
-            backgroundColor: Colors.blue,
+            backgroundColor: Colors.black,
             onTap: () => Navigator.push(
               context,
               MaterialPageRoute(builder: (context) => StudyScreen()),

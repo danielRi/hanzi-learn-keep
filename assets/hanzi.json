@@ -116,7 +116,7 @@
             "frame": "15",
             "character": "目",
             "keyword": "Auge",
-            "hint": "In 4 Parzellen geteiltes Reisfeld",
+            "hint": "Bild eines Auges hochkant",
             "primitive": "Augapfel, Netz",
             "pinyin": "mu4"
         }
@@ -1575,6 +1575,24 @@
             "hint": "GELD unterm DACH und unter den zugeNAGELTEN Brettern im Fußboden aufbewahren",
             "primitive": "",
             "pinyin": "zhu4"
+        }
+    ],
+    "10": [
+        {
+            "frame": "191",
+            "character": "木",
+            "keyword": "Holz",
+            "hint": "Bild eines Baumes, bestehend aus Holz",
+            "primitive": "Baum, Holzpfahl, Pfahl",
+            "pinyin": ""
+        },
+        {
+            "frame": "192",
+            "character": "林",
+            "keyword": "Forst",
+            "hint": "Ein Förster weiß nicht ob er sich zuerst um den linken oder rechten Baum kümmern soll",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }

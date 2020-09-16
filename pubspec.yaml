@@ -75,3 +75,10 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+  fonts:
+    - family: SentyWen
+      fonts:
+        - asset: fonts/SentyWEN2017.ttf
+    - family: FreeSerif
+      fonts:
+        - asset: fonts/FreeSerif.ttf
