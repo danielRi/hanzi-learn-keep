@@ -1,10 +1,9 @@
 import 'dart:math';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
+
 import 'package:hanzi_learn_keep/model/character_frame.dart';
 import 'package:hanzi_learn_keep/repo/character_repository.dart';
-
-
 
 class StudyEvent {}
 
@@ -25,9 +24,17 @@ class WrongEvent extends CheckEvent {
   WrongEvent(String frameId) : super(frameId);
 }
 
+class ShowHintEvent extends StudyEvent {}
+
+class UnCoverEvent extends StudyEvent {}
+
+class ShowPrimitiveEvent extends StudyEvent {}
+
 class CurrentFrame {
   final CharacterFrame currentFrame;
   bool covered;
+  bool showHint = false;
+  bool showPrimitive = false;
   CurrentFrame(this.currentFrame, [this.covered = true]);
 }
 
@@ -42,6 +49,20 @@ class CharacterState extends StudyState {
     this.currentFrame,
     this.framesToStudy,
   );
+
+  CharacterState copyWith({bool covered, bool showHint, bool showPrimitive}) {
+    if (covered != null) {
+      currentFrame.covered = covered;
+    }
+    if (showHint != null) {
+      currentFrame.showHint = showHint;
+    }
+    if (showPrimitive != null) {
+      currentFrame.showPrimitive = showPrimitive;
+    }
+
+    return CharacterState(currentFrame, framesToStudy);
+  }
 }
 
 class StudyBloc extends Bloc<StudyEvent, StudyState> {
@@ -49,6 +70,7 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
 
   @override
   Stream<StudyState> mapEventToState(StudyEvent event) async* {
+    final currentState = state;
     if (event is CheckEvent) {
     } else if (event is FetchDataEvent) {
       final data = await CharacterRepository().fetchData();
@@ -56,6 +78,26 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
       print("framesToStudy: ${framesToStudy.toString()}");
 
       yield CharacterState(CurrentFrame(framesToStudy[0], true), framesToStudy);
+    } else if (event is ShowHintEvent) {
+      if (currentState is CharacterState) {
+        currentState.currentFrame.showHint = true;
+        yield currentState;
+      } else {
+        addError(Exception("unexpected state"), StackTrace.current);
+      }
+    } else if (event is ShowPrimitiveEvent) {
+      if (currentState is CharacterState) {
+        currentState.currentFrame.showPrimitive = true;
+        yield currentState;
+      } else {
+        addError(Exception("unexpected state"), StackTrace.current);
+      }
+    } else if (event is UnCoverEvent) {
+      if (currentState is CharacterState) {
+        yield currentState.copyWith(covered: false);
+      } else {
+        addError(Exception("unexpected state"), StackTrace.current);
+      }
     } else {
       yield state;
     }

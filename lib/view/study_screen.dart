@@ -25,13 +25,17 @@ class StudyScreen extends StatelessWidget {
               if (state is CharacterState) {
                 return AnimatedCrossFade(
                   duration: Duration(milliseconds: 200),
-                  firstChild: _buildCoveredWidget(state.currentFrame),
+                  firstChild: _buildCoveredWidget(state.currentFrame, context),
                   secondChild: _buildUncoveredWidget(state.currentFrame),
                   crossFadeState: state?.currentFrame?.covered ?? false
                       ? CrossFadeState.showFirst
                       : CrossFadeState.showSecond,
                 );
               } else if (state is LoadingState) {
+                return Center(
+                  child: SpinKitPouringHourglass(color: Colors.black),
+                );
+              } else {
                 return Center(
                   child: SpinKitPouringHourglass(color: Colors.black),
                 );
@@ -43,27 +47,23 @@ class StudyScreen extends StatelessWidget {
     );
   }
 
-  Widget _buildCoveredWidget(CurrentFrame currentFrame) {
+  Widget _buildCoveredWidget(CurrentFrame currentFrame, BuildContext context) {
     return GestureDetector(
       onTap: () {
         // uncover
-      },
-      onHorizontalDragDown: (details) {
-        // show hint
-        print("drag down");
-      },
-      onHorizontalDragStart: (details) {
-        // show primitives
-        print("drag up");
+        print("uncover");
+        BlocProvider.of<StudyBloc>(context).add(UnCoverEvent());
       },
       child: Container(
+          width: MediaQuery.of(context).size.width,
+          height: MediaQuery.of(context).size.height,
           decoration: BoxDecoration(
             color: paperColor,
           ),
           child: Padding(
             padding: const EdgeInsets.all(8.0),
             child: Column(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              mainAxisAlignment: MainAxisAlignment.start,
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
                 Expanded(
@@ -95,7 +95,10 @@ class StudyScreen extends StatelessWidget {
         child: Center(
           child: Text(
             currentFrame.currentFrame.characterTraditional,
-            style: GoogleFonts.lato(fontSize: 200.0),
+            style: TextStyle(
+              fontSize: 200,
+              fontFamily: "SentyWen",
+            ),
           ),
         ),
       ),
