@@ -756,7 +756,7 @@
         },
         {
             "frame": "93",
-            "character": "",
+            "character": "孔",
             "keyword": "Aushöhlung",
             "hint": "Kind ist beim Zahnarzt, dieser Schaut mit einem HAKEN nach Aushöhlungen",
             "primitive": "",
@@ -764,7 +764,7 @@
         },
         {
             "frame": "94",
-            "character": "",
+            "character": "吼",
             "keyword": "brüllen",
             "hint": "Kind ist beim Zahnarzt, dieser stopft die Aushöhlungen, das Kind brüllt vor Schmerzen",
             "primitive": "",
@@ -772,7 +772,7 @@
         },
         {
             "frame": "95",
-            "character": "",
+            "character": "了",
             "keyword": "Perfekt (abgeschlossen)",
             "hint": "Kind ist jetzt komplett eingewickelt, das Einwickeln ist abgeschlossen",
             "primitive": "",
@@ -796,7 +796,7 @@
         },
         {
             "frame": "98",
-            "character": "",
+            "character": "如",
             "keyword": "so wie",
             "hint": "Alter Professor sagt immer: So wie meine FRAU immer GESAGT hat...",
             "primitive": "",
@@ -812,7 +812,7 @@
         },
         {
             "frame": "100",
-            "character": "",
+            "character": "貫",
             "keyword": "durchbohren",
             "hint": "Ohr wird durchbohrt, um die PerlMUTTER einer AUSTER dranzuhängen",
             "primitive": "",
@@ -820,7 +820,7 @@
         },
         {
             "frame": "101",
-            "character": "",
+            "character": "兄",
             "keyword": "Älterer Bruder",
             "hint": "Älterer Bruder mit großer Klappe und langen Beinen",
             "primitive": "Teenager",
@@ -854,7 +854,7 @@
         },
         {
             "frame": "105",
-            "character": "",
+            "character": "吵",
             "keyword": "lärmend",
             "hint": "Wenn man lärmend spricht, kommt nur noch WENIG (sinnvolles) aus dem MUND",
             "primitive": "",
@@ -878,7 +878,7 @@
         },
         {
             "frame": "108",
-            "character": "",
+            "character": "夕",
             "keyword": "Tagesende",
             "hint": "Bild von einem Mond der am Tagesende aufgeht, aber noch nicht ganz zu sehen ist",
             "primitive": "",
@@ -918,7 +918,7 @@
         },
         {
             "frame": "112-1",
-            "character": "",
+            "character": "厂",
             "keyword": "Klippe",
             "hint": "Bild einer Klippe",
             "primitive": "",
@@ -934,7 +934,7 @@
         },
         {
             "frame": "114",
-            "character": "",
+            "character": "石",
             "keyword": "Stein",
             "hint": "Öffnung unter einer Klippe, darin der Schatz von Ali Baba. Man kann mit dem MUND Sesam öffne dich sagen, damit der STEIN wegrollt",
             "primitive": "Gestein",
@@ -942,7 +942,7 @@
         },
         {
             "frame": "115",
-            "character": "",
+            "character": "砂",
             "keyword": "Kies",
             "hint": "Ein Mann hat WENIGE STEINE bestellt, und bekommt einen Laster voller KIES, er sagt: Ich sagt WENIGE STEINE, kein Laster voll KIES!!",
             "primitive": "",
@@ -950,7 +950,7 @@
         },
         {
             "frame": "116",
-            "character": "",
+            "character": "妙",
             "keyword": "wundervoll",
             "hint": "Nur WENIGE FRAUEN verdienen es, wundervoll genannt zu werden",
             "primitive": "",
@@ -958,7 +958,7 @@
         },
         {
             "frame": "117",
-            "character": "",
+            "character": "肖",
             "keyword": "ähneln",
             "hint": "Der Sohn ähnelt dem Vater, er ist wie ein KLEINES Stück FLEISCH vom Vater",
             "primitive": "Funken, Kerze",
@@ -966,7 +966,7 @@
         },
         {
             "frame": "118",
-            "character": "",
+            "character": "削",
             "keyword": "schälen",
             "hint": "Mann nimmt SÄBEL, wirft einen Apfel in die Luft und schält ihn geschickt mit dem SÄBEL, dabei sprühen die FUNKEN",
             "primitive": "",
@@ -974,7 +974,7 @@
         },
         {
             "frame": "119",
-            "character": "",
+            "character": "光",
             "keyword": "Licht",
             "hint": "Kleine Staubteilchen im LICHTstrahl auf dem Schreibtisch sind KLEINE MENSCHENBEINE",
             "primitive": "",
@@ -982,7 +982,7 @@
         },
         {
             "frame": "120",
-            "character": "",
+            "character": "太",
             "keyword": "allzu",
             "hint": "der BERNHARDINER ist nur ALLZU zuneigungsvoll, und sabbert einen TROPFEN raus - igitt",
             "primitive": "",
@@ -1008,7 +1008,7 @@
     "8": [
         {
             "frame": "123",
-            "character": "",
+            "character": "川",
             "keyword": "Fluss",
             "hint": "Bild eines Flusses von oben",
             "primitive": "Flut",
@@ -1016,7 +1016,7 @@
         },
         {
             "frame": "124",
-            "character": "",
+            "character": "州",
             "keyword": "Staat",
             "hint": "Kleine TROPFEN von Land im FLUSS bedeuten, dass zwei Staaten durch den Fluss voneinander getrennt sind und hier ihre Grenze zeigen",
             "primitive": "",
@@ -1024,7 +1024,7 @@
         },
         {
             "frame": "125",
-            "character": "",
+            "character": "順",
             "keyword": "befolgen",
             "hint": "Soldaten tragen einen Offizier durch einen FLUSS, bis nur noch dessen KOPF rausschaut.",
             "primitive": "",
@@ -1048,7 +1048,7 @@
         },
         {
             "frame": "128",
-            "character": "",
+            "character": "求",
             "keyword": "nachfragen (im Sinne von Angebot und Nachfrage)",
             "hint": "Maschine verwandelt jeden TROPFEN Wasser in SCHNEE, da wäre man sicher sehr NACHGEFRAGT bei Skihütten-Besitzern, und bald die Nr. EINS auf dem Gebiet",
             "primitive": "",
@@ -1096,7 +1096,7 @@
         },
         {
             "frame": "134",
-            "character": "",
+            "character": "洲",
             "keyword": "Kontinent",
             "hint": "STAATEN auf Kontinenten, die mit WASSER getrennt sind",
             "primitive": "",
@@ -1104,7 +1104,7 @@
         },
         {
             "frame": "135",
-            "character": "",
+            "character": "沼",
             "keyword": "Morast",
             "hint": "WASSER EINBERUFEN, um Land morastig zu machen",
             "primitive": "",
@@ -1112,7 +1112,7 @@
         },
         {
             "frame": "136",
-            "character": "",
+            "character": "沙",
             "keyword": "Sand",
             "hint": "Spaziergang am Strand zwischen ein WENIG WASSER und Sand, der Sand ist weich, nicht so wie Kies",
             "primitive": "",
@@ -1136,7 +1136,7 @@
         },
         {
             "frame": "139",
-            "character": "",
+            "character": "潮",
             "keyword": "Gezeiten",
             "hint": "Eine Dynastie hat gute und schlechte Zeiten, Aufs und Abs, wie das WASSER der Gezeiten",
             "primitive": "",
@@ -1144,7 +1144,7 @@
         },
         {
             "frame": "140",
-            "character": "",
+            "character": "源",
             "keyword": "Quelle",
             "hint": "Auf einer EBENE ein Punkt, an dem WASSER austritt, eine QUELLE",
             "primitive": "",
@@ -1152,7 +1152,7 @@
         },
         {
             "frame": "141",
-            "character": "",
+            "character": "活",
             "keyword": "lebendig",
             "hint": "Man ist total erschöpft in der Wüste und kommt an ein WASSERloch, daraus trinkt man mit der ZUNGE und fühlt sich wieder lebendig",
             "primitive": "",
@@ -1160,7 +1160,7 @@
         },
         {
             "frame": "142",
-            "character": "",
+            "character": "消",
             "keyword": "tilgen",
             "hint": "Wassertropfen die auf Funken spritzen, und damit das Feuer tilgen",
             "primitive": "",
@@ -1168,7 +1168,7 @@
         },
         {
             "frame": "143",
-            "character": "",
+            "character": "況",
             "keyword": "Situation",
             "hint": "Ein TEENAGER hat gebadet, jetzt ist kein Wasser mehr zum Tee machen da, eine blöde Situation. Doch man nimmt einfach das BadeWASSER zum Tee machen, Situation gerettet.",
             "primitive": "",
@@ -1176,7 +1176,7 @@
         },
         {
             "frame": "144",
-            "character": "",
+            "character": "河",
             "keyword": "Strom",
             "hint": "WASSER, das man, wie die alten Römer, nicht einfach überweinden KANN",
             "primitive": "",
@@ -1184,7 +1184,7 @@
         },
         {
             "frame": "145",
-            "character": "",
+            "character": "湖",
             "keyword": "See",
             "hint": "An einem See gibts viele WASSERsportarten, bei denen man LEICHTSINNIGE Sachen machen kann",
             "primitive": "",
@@ -1192,7 +1192,7 @@
         },
         {
             "frame": "146",
-            "character": "",
+            "character": "測",
             "keyword": "vermessen",
             "hint": "Sie angeln noch Austern und messen sie mit dem dem Säbel (=Regel). Sie müssen nun die Tiefe eines GeWÄSSERS MESSEN, mit der REGEL nur ein Maßband nutzen zu können",
             "primitive": "",
@@ -1208,7 +1208,7 @@
         },
         {
             "frame": "148",
-            "character": "",
+            "character": "均",
             "keyword": "ausgewogen",
             "hint": "Zwei GLEICHMÄßIG aufgehäufte Haufen ERDE, mit ausgewogenem Ergebnis",
             "primitive": "",
@@ -1224,7 +1224,7 @@
         },
         {
             "frame": "150",
-            "character": "",
+            "character": "填",
             "keyword": "ausfüllen",
             "hint": "Formular ausfüllen: Die Angabe müssen WAHR sein, aber die Formaussteller wollen die DRECKIGEN Geheimnisse rausfinden",
             "primitive": "",
@@ -1240,7 +1240,7 @@
         },
         {
             "frame": "151-1",
-            "character": "",
+            "character": "圭",
             "keyword": "Ziegel",
             "hint": "Gebrannte Lehmklumpen übereinander geschichtet, wie Ziegel",
             "primitive": "",
@@ -1248,15 +1248,15 @@
         },
         {
             "frame": "152",
-            "character": "",
-            "keyword": "Ziegel",
-            "hint": "Gebrannte Lehmklumpen übereinander geschichtet, wie Ziegel",
+            "character": "哇",
+            "keyword": "Üäähhh",
+            "hint": "Kleines Kind schreit mit dem MUND ZIEGELSTEINE um unseren Schlaf zu zertrümmern",
             "primitive": "",
             "pinyin": ""
         },
         {
             "frame": "153",
-            "character": "",
+            "character": "寸",
             "keyword": "Chinesischer Zoll (Maßeinheit)",
             "hint": "Ein ZEHNtel des chinesischen Fußes, also ein PUNKT in der ZEHN",
             "primitive": "Leim, geleimt, aneinander geleimt",
@@ -1264,7 +1264,7 @@
         },
         {
             "frame": "154",
-            "character": "",
+            "character": "封",
             "keyword": "versiegeln",
             "hint": "Einen Brief mit einem großen ZIEGELSTEIN zuLEIMEN, um ihn zu versiegeln",
             "primitive": "",
@@ -1402,7 +1402,7 @@
         },
         {
             "frame": "171",
-            "character": "",
+            "character": "埋",
             "keyword": "begraben",
             "hint": "Hier wird der COMPUTER unter ERDE begraben, der uns treue Dienste geleistet hat",
             "primitive": "",
@@ -1426,7 +1426,7 @@
         },
         {
             "frame": "174",
-            "character": "",
+            "character": "墨",
             "keyword": "schwarze Tusche",
             "hint": "Man malt SCHWARZ Tusche auf die ERDE, zum Beispiel für ein Fussballfeld",
             "primitive": "",
@@ -1474,7 +1474,7 @@
         },
         {
             "frame": "179",
-            "character": "",
+            "character": "尚",
             "keyword": "wertschätzen",
             "hint": "Wir stellen den KLEINEN MUND eines Vorfahrs in einer GLASGLOCKE aus, der seine gesagten Sachen symbolisiert, um ihn wertzuschätzen",
             "primitive": "",
@@ -1522,7 +1522,7 @@
         },
         {
             "frame": "184",
-            "character": "",
+            "character": "宣",
             "keyword": "verkünden",
             "hint": "Verkünden heisst: Es von allen HAUSDÄCHERN zu schreien, und über die ganze Welt zu verteilen. Der SONNENAUFGANG hat hier eine zweite Linie, einen weiteren Horizont, auf dem sich die Sonne zubewegt. Sie umspannt also die ganze Welt",
             "primitive": "",
@@ -1530,7 +1530,7 @@
         },
         {
             "frame": "185",
-            "character": "",
+            "character": "宵",
             "keyword": "in den Puppen",
             "hint": "Jemand der bis in die Puppen arbeitet und deshalb wenn er heimkommt schon KERZENSchein im HAUS hat",
             "primitive": "",
@@ -1591,6 +1591,38 @@
             "character": "林",
             "keyword": "Forst",
             "hint": "Ein Förster weiß nicht ob er sich zuerst um den linken oder rechten Baum kümmern soll",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "193",
+            "character": "森",
+            "keyword": "Wald",
+            "hint": "Mehrere BÄUME ergeben einen Wald, größer als ein Forst",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "194",
+            "character": "",
+            "keyword": "pflanzen",
+            "hint": "Einen BAUM muss man so pflanzen, dass er GERADE nach oben wachsen kann",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "195",
+            "character": "",
+            "keyword": "Aprikose",
+            "hint": "Aprikosen fallen leicht vom BAUM, man muss sich nur darunter stellen und den MUND aufmachen, bis die Aprikosen runterfallen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "196",
+            "character": "",
+            "keyword": "dumm",
+            "hint": "Wer dumm ist, klettert oben auf den BAUM, öffnet den MUND und wartet bis Früchte runterfallen",
             "primitive": "",
             "pinyin": ""
         }
