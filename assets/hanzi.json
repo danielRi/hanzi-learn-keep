@@ -1692,7 +1692,7 @@
         },
         {
             "frame": "205",
-            "character": "沫",
+            "character": "味",
             "keyword": "Geschmack",
             "hint": "Nicht ausgewachsene BÄUME haben Früchte, die besser schmecken. Deshalb schneidet sie der Vorkoster (grßer MUND) zurück, dass der BAUM immer NOCH NICHT ausgewachsen ist.",
             "primitive": "",
@@ -1700,7 +1700,7 @@
         },
         {
             "frame": "206",
-            "character": "沫",
+            "character": "妹",
             "keyword": "jüngere Schwester",
             "hint": "Die jüngere Schwester ist die FRAU, die NOCH NICHT alles darf was ihre ältere Schwester darf",
             "primitive": "",
@@ -1708,7 +1708,7 @@
         },
         {
             "frame": "207",
-            "character": "沫",
+            "character": "查",
             "keyword": "überprüfen",
             "hint": "Newton steht seit SONNENAUFGANG UNTERM BAUM, um immer wieder die Gravität zu überprüfen",
             "primitive": "",

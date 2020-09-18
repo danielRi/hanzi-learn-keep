@@ -18,7 +18,7 @@ class StudyScreen extends StatelessWidget {
       body: SafeArea(
         child: BlocProvider(
           create: (context) {
-            return StudyBloc(framesToStudy)..add(FetchDataEvent());
+            return StudyBloc(framesToStudy)..add(InitEvent(framesToStudy));
           },
           child: BlocBuilder<StudyBloc, StudyState>(
             builder: (context, state) {
@@ -26,10 +26,12 @@ class StudyScreen extends StatelessWidget {
                 return AnimatedCrossFade(
                   duration: Duration(milliseconds: 200),
                   firstChild: _buildCoveredWidget(state.currentFrame, context),
-                  secondChild: _buildUncoveredWidget(state.currentFrame),
-                  crossFadeState: state?.currentFrame?.covered ?? false
+                  secondChild:
+                      _buildUncoveredWidget(state.currentFrame, context),
+                  crossFadeState: state?.currentFrame?.covered ?? true
                       ? CrossFadeState.showFirst
                       : CrossFadeState.showSecond,
+                  reverseDuration: Duration(milliseconds: 0),
                 );
               } else if (state is LoadingState) {
                 return Center(
@@ -54,6 +56,10 @@ class StudyScreen extends StatelessWidget {
         print("uncover");
         BlocProvider.of<StudyBloc>(context).add(UnCoverEvent());
       },
+      onLongPress: () {
+        print("showHint");
+        BlocProvider.of<StudyBloc>(context).add(ShowHintEvent());
+      },
       child: Container(
           width: MediaQuery.of(context).size.width,
           height: MediaQuery.of(context).size.height,
@@ -61,22 +67,26 @@ class StudyScreen extends StatelessWidget {
             color: paperColor,
           ),
           child: Padding(
-            padding: const EdgeInsets.all(8.0),
+            padding: const EdgeInsets.all(16.0),
             child: Column(
               mainAxisAlignment: MainAxisAlignment.start,
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
                 Expanded(
                   child: Text(
-                    currentFrame.currentFrame.keyWord,
+                    currentFrame.characterFrame.keyWord,
                     style: TextStyle(fontSize: 48, fontFamily: "FreeSerif"),
                   ),
                 ),
                 Spacer(),
                 Expanded(
-                  child: Text(
-                    currentFrame.currentFrame.hint,
-                    style: TextStyle(fontSize: 22, fontFamily: "FreeSerif"),
+                  child: AnimatedOpacity(
+                    opacity: currentFrame.showHint ? 1 : 0,
+                    duration: Duration(milliseconds: 200),
+                    child: Text(
+                      currentFrame.characterFrame.hint,
+                      style: TextStyle(fontSize: 22, fontFamily: "FreeSerif"),
+                    ),
                   ),
                 ),
               ],
@@ -85,21 +95,61 @@ class StudyScreen extends StatelessWidget {
     );
   }
 
-  Widget _buildUncoveredWidget(CurrentFrame currentFrame) {
+  Widget _buildUncoveredWidget(
+      CurrentFrame currentFrame, BuildContext context) {
     return GestureDetector(
-      onTap: () {},
+      onTap: () {
+        print("correct");
+        BlocProvider.of<StudyBloc>(context).add(
+          CorrectEvent(currentFrame.characterFrame.frameNumber),
+        );
+      },
+      onHorizontalDragStart: (details) {
+        print("wrong");
+        BlocProvider.of<StudyBloc>(context).add(
+          WrongEvent(currentFrame.characterFrame.frameNumber),
+        );
+      },
       child: Container(
+        padding: EdgeInsets.all(16.0),
+        width: MediaQuery.of(context).size.width,
+        height: MediaQuery.of(context).size.height,
         decoration: BoxDecoration(
           color: paperColor,
         ),
-        child: Center(
-          child: Text(
-            currentFrame.currentFrame.characterTraditional,
-            style: TextStyle(
-              fontSize: 200,
-              fontFamily: "SentyWen",
+        child: Column(
+          children: [
+            Expanded(
+              child: Center(
+                child: Text(
+                  currentFrame.characterFrame.characterTraditional,
+                  style: TextStyle(
+                    fontSize: 200,
+                  ),
+                ),
+              ),
             ),
-          ),
+            Expanded(
+              child: Center(
+                child: Text(
+                  currentFrame.characterFrame.characterTraditional,
+                  style: TextStyle(
+                    fontSize: 200,
+                    fontFamily: "CoolWorld",
+                  ),
+                ),
+              ),
+            ),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.end,
+              children: [
+                Text(
+                  currentFrame.characterFrame.frameNumber,
+                  style: TextStyle(fontFamily: "FreeSerif", fontSize: 36.0),
+                )
+              ],
+            )
+          ],
         ),
       ),
     );

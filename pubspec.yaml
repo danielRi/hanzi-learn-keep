@@ -82,3 +82,6 @@ flutter:
     - family: FreeSerif
       fonts:
         - asset: fonts/FreeSerif.ttf
+    - family: CoolWorld
+      fonts:
+        - asset: fonts/coolworld.ttf

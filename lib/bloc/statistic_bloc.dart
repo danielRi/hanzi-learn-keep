@@ -1,15 +1,24 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hanzi_learn_keep/model/character_statistic.dart';
+import 'package:hanzi_learn_keep/repo/character_repository.dart';
 
-enum StatisticEvent { correct }
+class StatisticEvent {}
 
-class StatisticBloc
-    extends Bloc<StatisticEvent, Map<String, CharacterStatistic>> {
-  StatisticBloc() : super(Map());
+class InitEvent extends StatisticEvent {}
+
+class StatisticState {}
+
+class Loadingstate extends StatisticState {}
+
+class StatisticBloc extends Bloc<StatisticEvent, StatisticState> {
+  StatisticBloc() : super(Loadingstate());
 
   @override
-  Stream<Map<String, CharacterStatistic>> mapEventToState(
-      StatisticEvent event) {
-    throw UnimplementedError();
+  Stream<StatisticState> mapEventToState(StatisticEvent event) async* {
+    if (event is InitEvent) {
+      await CharacterRepository().fetchData();
+      yield StatisticState();
+    }
+    yield state;
   }
 }

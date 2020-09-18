@@ -52,7 +52,7 @@ class HomeScreen extends StatelessWidget {
             backgroundColor: Colors.black,
             onTap: () => Navigator.push(
               context,
-              MaterialPageRoute(builder: (context) => StudyScreen()),
+              MaterialPageRoute(builder: (context) => StudyScreen(20)),
             ),
           ),
         ],

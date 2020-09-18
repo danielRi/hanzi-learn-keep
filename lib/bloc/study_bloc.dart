@@ -7,7 +7,10 @@ import 'package:hanzi_learn_keep/repo/character_repository.dart';
 
 class StudyEvent {}
 
-class FetchDataEvent extends StudyEvent {}
+class InitEvent extends StudyEvent {
+  final amountOfCharacters;
+  InitEvent(this.amountOfCharacters);
+}
 
 class CheckEvent extends StudyEvent {
   final String frameId;
@@ -31,11 +34,11 @@ class UnCoverEvent extends StudyEvent {}
 class ShowPrimitiveEvent extends StudyEvent {}
 
 class CurrentFrame {
-  final CharacterFrame currentFrame;
+  CharacterFrame characterFrame;
   bool covered;
   bool showHint = false;
   bool showPrimitive = false;
-  CurrentFrame(this.currentFrame, [this.covered = true]);
+  CurrentFrame(this.characterFrame, [this.covered = true]);
 }
 
 class StudyState {}
@@ -45,12 +48,12 @@ class LoadingState extends StudyState {}
 class CharacterState extends StudyState {
   CurrentFrame currentFrame;
   final List<CharacterFrame> framesToStudy;
-  CharacterState(
-    this.currentFrame,
-    this.framesToStudy,
-  );
+  final List<String> correctFrames = List<String>();
+  int index;
+  CharacterState(this.currentFrame, this.framesToStudy, this.index);
 
-  CharacterState copyWith({bool covered, bool showHint, bool showPrimitive}) {
+  CharacterState copyWith(
+      {bool covered, bool showHint, bool showPrimitive, int newIndex}) {
     if (covered != null) {
       currentFrame.covered = covered;
     }
@@ -60,8 +63,11 @@ class CharacterState extends StudyState {
     if (showPrimitive != null) {
       currentFrame.showPrimitive = showPrimitive;
     }
-
-    return CharacterState(currentFrame, framesToStudy);
+    if (newIndex != null) {
+      index = newIndex;
+      currentFrame = CurrentFrame(framesToStudy[newIndex]);
+    }
+    return CharacterState(currentFrame, framesToStudy, index);
   }
 }
 
@@ -72,16 +78,26 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
   Stream<StudyState> mapEventToState(StudyEvent event) async* {
     final currentState = state;
     if (event is CheckEvent) {
-    } else if (event is FetchDataEvent) {
+      if (currentState is CharacterState) {
+        print("currentState.index: ${currentState.index.toString()}");
+        final index = getNextIndex(currentState.framesToStudy,
+            currentState.correctFrames, currentState.index);
+        print("Index: ${index.toString()}");
+        yield currentState.copyWith(newIndex: index);
+      } else {
+        addError(Exception("unexpected state"), StackTrace.current);
+      }
+    } else if (event is InitEvent) {
       final data = await CharacterRepository().fetchData();
-      final framesToStudy = initFramesToStudy(data);
+      final framesToStudy = initFramesToStudy(data, event.amountOfCharacters);
       print("framesToStudy: ${framesToStudy.toString()}");
 
-      yield CharacterState(CurrentFrame(framesToStudy[0], true), framesToStudy);
+      final startIndex = 0;
+      yield CharacterState(CurrentFrame(framesToStudy[startIndex], true),
+          framesToStudy, startIndex);
     } else if (event is ShowHintEvent) {
       if (currentState is CharacterState) {
-        currentState.currentFrame.showHint = true;
-        yield currentState;
+        yield currentState.copyWith(showHint: true);
       } else {
         addError(Exception("unexpected state"), StackTrace.current);
       }
@@ -106,7 +122,7 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
   @override
   void onChange(Change<StudyState> change) {
     print("onchange:");
-    print(change);
+    print(change.currentState.runtimeType.toString());
     super.onChange(change);
   }
 
@@ -118,15 +134,30 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
     // TODO: save to stastic
   }
 
-  List<CharacterFrame> initFramesToStudy(Map<String, CharacterFrame> data) {
+  List<CharacterFrame> initFramesToStudy(
+      Map<String, CharacterFrame> data, int amountOfCharacters) {
     final lastindex = data.keys.toList().length - 1;
     final random = Random();
     final resultList = List<CharacterFrame>();
-    for (int i = 0; i < 50; i++) {
+    for (int i = 0; i < amountOfCharacters; i++) {
       final randomIndex = random.nextInt(lastindex);
       String randomFrameId = data.keys.toList()[randomIndex];
       resultList.add(CharacterRepository().getFrame(randomFrameId));
     }
     return resultList;
+  }
+
+  int getNextIndex(List<CharacterFrame> framesToStudy,
+      List<String> correctIndexes, int currentIndex) {
+    var nextIndex = currentIndex;
+    do {
+      if (currentIndex < framesToStudy.length - 1) {
+        nextIndex++;
+      } else {
+        nextIndex = 0;
+      }
+    } while (correctIndexes.contains(framesToStudy[nextIndex].frameNumber));
+
+    return nextIndex;
   }
 }
