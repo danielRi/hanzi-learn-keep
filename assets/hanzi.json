@@ -1154,7 +1154,7 @@
             "frame": "141",
             "character": "活",
             "keyword": "lebendig",
-            "hint": "Man ist total erschöpft in der Wüste und kommt an ein WASSERloch, daraus trinkt man mit der ZUNGE und fühlt sich wieder lebendig",
+            "hint": "Man redet sich auf einer Party den Mund WÄSSRIG, in dem man viel die ZUNGE bewegt, dass man sich richtig lebendig fühlt",
             "primitive": "",
             "pinyin": ""
         },
@@ -1604,7 +1604,7 @@
         },
         {
             "frame": "194",
-            "character": "",
+            "character": "植",
             "keyword": "pflanzen",
             "hint": "Einen BAUM muss man so pflanzen, dass er GERADE nach oben wachsen kann",
             "primitive": "",
@@ -1612,7 +1612,7 @@
         },
         {
             "frame": "195",
-            "character": "",
+            "character": "杏",
             "keyword": "Aprikose",
             "hint": "Aprikosen fallen leicht vom BAUM, man muss sich nur darunter stellen und den MUND aufmachen, bis die Aprikosen runterfallen",
             "primitive": "",
@@ -1620,11 +1620,227 @@
         },
         {
             "frame": "196",
-            "character": "",
+            "character": "呆",
             "keyword": "dumm",
             "hint": "Wer dumm ist, klettert oben auf den BAUM, öffnet den MUND und wartet bis Früchte runterfallen",
             "primitive": "",
             "pinyin": ""
-        }
+        },
+        {
+            "frame": "197",
+            "character": "枯",
+            "keyword": "verdorrt",
+            "hint": "ALTERTÜMLICHES Herrenhaus mit Friedhof, mit verdorrten BÄUMEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "198",
+            "character": "村",
+            "keyword": "Dorf",
+            "hint": "HOLZPFÄHLE aneinander GELEIMT, wie die Palisade im gallsichen Dorf",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "199",
+            "character": "相",
+            "keyword": "einander",
+            "hint": "Für ein gutes Miteinander, kann man schauen was der andere braucht und mal den BAUM aus dem eigenen AUGE nehmen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "200",
+            "character": "本",
+            "keyword": "Schreibheft",
+            "hint": "Ein kleines STÜCK vom BAUM ist ein Schreibheft, Querstrich: Kettensäge, um ein paar Hefte aus dem BAUM zu sägen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "201",
+            "character": "案",
+            "keyword": "Rechtsfall",
+            "hint": "Anwältin sagt sie (FRAU) liegt RUHIG zwischen den BÄUMEN in einer Hängematte, und sagt sie arbeitet an ihrem Rechtsfall",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "202",
+            "character": "未",
+            "keyword": "noch nicht",
+            "hint": "Der BAUM hat noch einen kleinen Ast oben, er ist noch nicht fertig gewachsen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "203",
+            "character": "末",
+            "keyword": "lezter",
+            "hint": "Der obere Zweig ist der längste und letzte Zweig am BAUM, er hängt als letztes herab",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "204",
+            "character": "沫",
+            "keyword": "Schaum",
+            "hint": "Schaum ist das LETZTE, was vom WASSER übrig bleibt, wenn es die Küste erreicht und im Strand versickert",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "205",
+            "character": "沫",
+            "keyword": "Geschmack",
+            "hint": "Nicht ausgewachsene BÄUME haben Früchte, die besser schmecken. Deshalb schneidet sie der Vorkoster (grßer MUND) zurück, dass der BAUM immer NOCH NICHT ausgewachsen ist.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "206",
+            "character": "沫",
+            "keyword": "jüngere Schwester",
+            "hint": "Die jüngere Schwester ist die FRAU, die NOCH NICHT alles darf was ihre ältere Schwester darf",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "207",
+            "character": "沫",
+            "keyword": "überprüfen",
+            "hint": "Newton steht seit SONNENAUFGANG UNTERM BAUM, um immer wieder die Gravität zu überprüfen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "208",
+            "character": "渣",
+            "keyword": "Bodensatz",
+            "hint": "Im WASSER schwimmen und den Bodensatz auf Müll ÜBERPRÜFEN. Welcher Bodensatz der Gesellschaft da wohl den Müll rein geworfen hat?",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "209",
+            "character": "染",
+            "keyword": "färben",
+            "hint": "KEGLER hat einen farbigen WASSER, um damit das HOLZ der Bowlingbahn zu färben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "210",
+            "character": "李",
+            "keyword": "Pflaume",
+            "hint": "Es hing eine Blaufrucht im BAUME, die erkannte ein KIND gleich als Pflaume",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "211",
+            "character": "桌",
+            "keyword": "Tisch",
+            "hint": "Gruppe von Zauberern sitzen um einen Tisch, dieser besteht aus einem BAUMStumpf und die Tischplatte ist eine geschnitzte SONNE. Auf dem Tisch lassen sie den Zauberstab tanzen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "211-1",
+            "character": "艹",
+            "keyword": "Blume",
+            "hint": "Bild von Blumenblüten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "212",
+            "character": "若",
+            "keyword": "als ob",
+            "hint": "BLUME wird in RECHTER Hand gehalten, wie in der Geschichte wo Buddha jemandem Blumen gibt, und einer nimmt die Blume als ob er versteht was Buddha meint",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "213",
+            "character": "草",
+            "keyword": "Gras",
+            "hint": "Wenn man FRÜH Krokusse wild im Garten aussät, wächst das Gras und man kann z.B. seinen Namen im Gras lesen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "214",
+            "character": "苦",
+            "keyword": "Leid",
+            "hint": "Ein ALTERTÜMLICHER Friedhof, hier hat jemand BLUMEN niedergelegt, weil jemand gestorben ist. Das ist großes Leid",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "215",
+            "character": "寬",
+            "keyword": "breit",
+            "hint": "Jemand fährt ein HAUS durch die Gegend, die Ladung ist viel zu breit. Das Haus ist ein Gewächshaus, deshalb SIEHT man darin BLUMEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "215-1",
+            "character": "枼",
+            "keyword": "Stammbaum",
+            "hint": "GENERATIONEN ÜBER einen BAUM zu verteilen, ist ein Stammbaum",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "216",
+            "character": "葉",
+            "keyword": "Blatt",
+            "hint": "Einen STAUMMBAUM will jeder BLUMIG aussehen lassen, um selbst als unbeschriebenes Blatt durchzugehen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "217",
+            "character": "莫",
+            "keyword": "niemand",
+            "hint": "Ein Friedhof, vor dem steht >Hier kommt niemand raus< Aber nur weil er so schön ist: Auf ihm sind schöne BLUMEN, es scheint die SONNE, und am Eingang ist ein BERNHARDINER als Wachhund",
+            "primitive": "Friedhof",
+            "pinyin": ""
+        },
+        {
+            "frame": "218",
+            "character": "模",
+            "keyword": "nachahmen",
+            "hint": "Auf dem schönen FRIEDHOF ist alles nachgeahmt und Fake, sogar Plastik BÄUME stehen daneben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "218",
+            "character": "葉",
+            "keyword": "nachahmen",
+            "hint": "Auf dem schönen FRIEDHOF ist alles nachgeahmt und Fake, sogar Plastik BÄUME stehen daneben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "219",
+            "character": "漠",
+            "keyword": "Wüste",
+            "hint": "Fata Morgana in der Wüste: Man sieht WASSER in der Ferne, allerdings erreicht man sie nie, und schließlich wird es der eigene FRIEDHOF",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "220",
+            "character": "",
+            "keyword": "Grab",
+            "hint": "",
+            "primitive": "",
+            "pinyin": ""
+        },
     ]
 }
