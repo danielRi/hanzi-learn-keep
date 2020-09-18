@@ -1836,11 +1836,27 @@
         },
         {
             "frame": "220",
-            "character": "",
+            "character": "墓",
             "keyword": "Grab",
-            "hint": "",
+            "hint": "Ein Hügel Erde, darauf ein FRIEDHOF, wie im Wilden Westen. Und Cowboys sagen: UNTEN die ERDE bringen, statt unter die Erde bringen",
             "primitive": "",
             "pinyin": ""
         },
+        {
+            "frame": "221",
+            "character": "苗",
+            "keyword": "Setzling",
+            "hint": "Leuten werden Ideen wie Setzlinge ins GEHIRN gesetzt, diese Ideen treiben dann BLÜTEN, in dem sie durch die Schädeldecke rauswachsen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "222",
+            "character": "墓",
+            "keyword": "zielen",
+            "hint": "Ein AUGE schaut beim zielen durch Kimme und Korn, aber hier hat jemand die Kimme durch das gezackte Blatt eines TomatenSETZLINGS ersetzt, ein Friedens-Hippie",
+            "primitive": "",
+            "pinyin": ""
+        }
     ]
 }
