@@ -1345,7 +1345,7 @@
         {
             "frame": "164",
             "character": "魚",
-            "keyword": "Fich",
+            "keyword": "Fisch",
             "hint": "Fisch wird gefangen und GEFESSELT, ausgeweidet, die Gedärme aufs REISFELD zum düngen geworfen. Schließlich wird der Fisch über dem FEUER zubereitet",
             "primitive": "",
             "pinyin": ""
@@ -1570,8 +1570,8 @@
         },
         {
             "frame": "190",
-            "character": "富",
-            "keyword": "貯",
+            "character": "貯",
+            "keyword": "aufbewahren",
             "hint": "GELD unterm DACH und unter den zugeNAGELTEN Brettern im Fußboden aufbewahren",
             "primitive": "",
             "pinyin": "zhu4"
@@ -1858,5 +1858,159 @@
             "primitive": "",
             "pinyin": ""
         }
+    ],
+    "11": [
+        {
+            "frame": "223",
+            "character": "兆",
+            "keyword": "Vorzeichen",
+            "hint": "Schildröte wird im Getreidefeld geschaut wo es hinläuft, um die Zukunft voraus zusagen, um Vorzeichen zu erkennen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "224",
+            "character": "逃",
+            "keyword": "Pfirsich",
+            "hint": "Sage vom Pfirsichkind, der aus einem Pfirsich sprang und dessen Geburt als böses Vorzeichen gewertet wurde. Das VORZEICHEN das vom BAUM fällt ist also ein Pfirsich",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "225",
+            "character": "犬",
+            "keyword": "Hündchen",
+            "hint": "BERNHARDINGER mit TROPFEN, verglichen mit dem großem BERNHARDINER ist das kleine Hündchen nur ein Tropfen im Haushalt",
+            "primitive": "Chihuahua, Rudel wilder Hunde (wenn es an der Seite steht)",
+            "pinyin": ""
+        },
+        {
+            "frame": "226",
+            "character": "尤",
+            "keyword": "besonders",
+            "hint": "Ein HÜNDCHEN mit einem MENSCHENBEIN, ist sehr besonders",
+            "primitive": "Frankenhündchen, Frankenbein",
+            "pinyin": ""
+        },
+        {
+            "frame": "227",
+            "character": "默",
+            "keyword": "still",
+            "hint": "Ein SCHWARZER CHIHUAHUA ist still wenn Einbrecher kommen, weil er zu klein ist, und im dunklen kann man ihn nicht sehen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "228",
+            "character": "然",
+            "keyword": "-artig",
+            "hint": "FLEISCH eines CHIHUAHUAS über FEUER röstend, das ist für uns fremd- und neuartig",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "228-1",
+            "character": "",
+            "keyword": "Quasselstrippe",
+            "hint": "Zwei Münder, redet viel",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "229",
+            "character": "哭",
+            "keyword": "weinen",
+            "hint": "quasselnder Chihuahua, mit seiner hohen Piepsstimme, klingt wie wenn man weint",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "230",
+            "character": "器",
+            "keyword": "Gerät",
+            "hint": "4 Chirurgen stehen (mit MUNDSchutz) um einen CHIHUAHUA herum, und streiten sie um die Geräte, und wer den ersten Schnitt machen darf",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "231",
+            "character": "",
+            "keyword": "übelriechend",
+            "hint": "CHIHUAHUA UNTER der NASE, ist wie alle Hunde übelriechend",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "232",
+            "character": "狗",
+            "keyword": "Hund",
+            "hint": "Ein RUDEL WILDER HUNDE lässt sich nicht mit einem Wort zähmen, wie Sitz, Platz, Aus. Man muss schon ganze SÄTZE mit ihnen sprechen, um sie zu beruhigen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "233",
+            "character": "厭",
+            "keyword": "verabscheuen",
+            "hint": "Geschichte: Zarathustra geht Nachts an einer KLIPPE spazieren und hört einen KLEINEN HUND wimseln. Er sieht einen Schäfter, dem eine Schlange wie eine PLAPPERNDE ZUNGE aus dem Mund hängt. Er sagt beiss die Schlange durch und höre auf Leben zu verabscheuen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "234",
+            "character": "壓",
+            "keyword": "Druck",
+            "hint": "Druck im Magen wird man durch HeilERDE los, man muss dazu aber einen ganzen Berg Erde essen. Deswegen verabscheut man die ERDE, die man essen muss",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "235",
+            "character": "牛",
+            "keyword": "Kuh",
+            "hint": "Bild einer Kuh von einer Dampfwalze überrolt",
+            "primitive": "Kuh",
+            "pinyin": ""
+        },
+        {
+            "frame": "236",
+            "character": "特",
+            "keyword": "speziell",
+            "hint": "Die KUH ist eine spezielle Spezies, da sie in manchen Ländern heilig ist, nicht geschlachtet werden darf und deshalb auch in BUDDHISTISCHE TEMPEL kommen darf",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "237",
+            "character": "告",
+            "keyword": "ansagen",
+            "hint": "KUH mit MUND im Fernsehen, die etwas ansagt, Vera am Mittag",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "238",
+            "character": "浩",
+            "keyword": "gewaltig",
+            "hint": "Gewaltige WASSER Fläche, das größte Schwimmbad der Welt. ANSAGEN des Bademeisters beachten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "239",
+            "character": "先",
+            "keyword": "vorraus",
+            "hint": "KUH mit MENSCHENBEINEN, wenn man zu zweit im Kostüm ist geht man lieber vorraus",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "240",
+            "character": "洗",
+            "keyword": "waschen",
+            "hint": "WASSER VORRAUS, brüllen Feuerwehrmänner und richten die Schläuche auf ihr Geschirr",
+            "primitive": "",
+            "pinyin": ""
+        },
     ]
 }
