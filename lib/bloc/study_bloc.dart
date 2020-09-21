@@ -139,10 +139,19 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
     final lastindex = data.keys.toList().length - 1;
     final random = Random();
     final resultList = List<CharacterFrame>();
-    for (int i = 0; i < amountOfCharacters; i++) {
+    while (resultList.length < 50) {
       final randomIndex = random.nextInt(lastindex);
       String randomFrameId = data.keys.toList()[randomIndex];
-      resultList.add(CharacterRepository().getFrame(randomFrameId));
+      bool frameAlreadyExists = false;
+      resultList.forEach((element) {
+        if (element.frameNumber == randomFrameId) {
+          frameAlreadyExists = true;
+          return;
+        }
+      });
+      if (frameAlreadyExists == false) {
+        resultList.add(CharacterRepository().getFrame(randomFrameId));
+      }
     }
     return resultList;
   }
