@@ -2012,5 +2012,119 @@
             "primitive": "",
             "pinyin": ""
         }
+    ],
+    "12": [
+        {
+            "frame": "240-1",
+            "character": "",
+            "keyword": "Schirm",
+            "hint": "Bild eines Regenschirms",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "241",
+            "character": "介",
+            "keyword": "einführen",
+            "hint": "Auf Messe die Markteinführung eines neuen Produktes: Der KRÜCKEN SCHIRM",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "242",
+            "character": "界",
+            "keyword": "Welt",
+            "hint": "Welt ist auch wie ein abgeschlossener Kosmos zu verstehen. Hier der Dokumentarfilm Die Welt des Reisfelds, in dem man Kameras in jedes Loch und Grashalm einführt, um die Welt zu zeigen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "243",
+            "character": "茶",
+            "keyword": "Tee",
+            "hint": "Terasse mit Tee Sträuchern, auf denen lange HOLZPFÄHLE mit SCHIRMEN aufgestellt sind, um den Pflanzen Schatten zu spenden",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "243-1",
+            "character": "",
+            "keyword": "Zusammenkunft (Primitivelement)",
+            "hint": "Menschenmenge kommt unter EINEM SCHIRM zusammen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "244",
+            "character": "會",
+            "keyword": "Zusammenkunft",
+            "hint": "Menschenmenge kommt unter EINEM SCHIRM zusammen. Es werden PROBLEME AUF DIE HÖRNER GENOMMEN, und viele PLAPPERNDE ZUNGEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "245",
+            "character": "合",
+            "keyword": "passen",
+            "hint": "ZUSAMMENKUNFT der MÜNDER - bei zwei die sich küssen wäre es schlimm wenn die Münder nicht aufeinander passen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "246",
+            "character": "哈",
+            "keyword": "Ha!",
+            "hint": "Lachen können nur Menschen, ein Grund dafür dass Lachen perfekt in den MUND PASST",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "247",
+            "character": "塔",
+            "keyword": "Pagode",
+            "hint": "Ein ERDHügel und PASSENDE BLUMEN, beides zusammen ergeben eine aus Lehm gebaute Pagode, deren Dächer auf jeder Seite mit PASSENDEN BLUMEN übersäät ist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "248",
+            "character": "王",
+            "keyword": "König",
+            "hint": "Bild eines königlichen Zepters",
+            "primitive": "König, Zepter, Edelstein, Ball",
+            "pinyin": ""
+        },
+        {
+            "frame": "249",
+            "character": "玉",
+            "keyword": "Jade",
+            "hint": "Edelstein am ZEPTER",
+            "primitive": "Steht es an der Seite: Edelstein, Ball",
+            "pinyin": ""
+        },
+        {
+            "frame": "250",
+            "character": "球",
+            "keyword": "Ball",
+            "hint": "NACHFRAGE nach dem BALL, wie beim Eckball beim Fussball",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "251",
+            "character": "現",
+            "keyword": "gegenwärtig",
+            "hint": "Eine KUGEL die uns Sachen SEHEN und gegenwärtig lässt, die weit weg sind: Eine magische Kristallkugel",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "252",
+            "character": "玩",
+            "keyword": "spielen",
+            "hint": "Der URSPRUNG aller Spiele ist der BALL. Im Usrpünglichen Garten Eden, haben Adam und Eva auch heisse Kartoffel gespielt, wo man den Ball (oder den Apfel?) schnell hin und herwirft. Auch als sie den Apfel gepflückt haben",
+            "primitive": "",
+            "pinyin": ""
+        }
     ]
 }
