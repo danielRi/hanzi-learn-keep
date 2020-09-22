@@ -2125,6 +2125,102 @@
             "hint": "Der URSPRUNG aller Spiele ist der BALL. Im Usrpünglichen Garten Eden, haben Adam und Eva auch heisse Kartoffel gespielt, wo man den Ball (oder den Apfel?) schnell hin und herwirft. Auch als sie den Apfel gepflückt haben",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "253",
+            "character": "狂",
+            "keyword": "verrückt",
+            "hint": "Völlig verrückt ist, wer ein Werwolf ist und sich in einem RUDEL WILDER HUNDE zum KÖNIG krönen lässt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "253",
+            "character": "狂",
+            "keyword": "verrückt",
+            "hint": "Völlig verrückt ist, wer ein Werwolf ist und sich in einem RUDEL WILDER HUNDE zum KÖNIG krönen lässt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "254",
+            "character": "皇",
+            "keyword": "Kaiser",
+            "hint": "Ein KÖNIG ist ein Kaiser der über sich einen WEIßEN VOGEL sitzen hat, den er zu den Göttern schickt um Rat einzuholen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "255",
+            "character": "煌",
+            "keyword": "brilliant",
+            "hint": "Der FEURIGE KAISER brilliert ganz von sich, er besteht ganz aus Feuer und ist feurig-brilliant",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "256",
+            "character": "呈",
+            "keyword": "einreichen",
+            "hint": "Der Hofkämmerer reicht beim KÖNIG die Rechnung vom letzten Fest ein, diesem steht vor Entsetzen der Mund offen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "257",
+            "character": "全",
+            "keyword": "ganz",
+            "hint": "KÖNIG Ohneland, hat ein Königreich von der Größe eines REGENSCHIRMS geerbt, und er ist so beleibt, dass der König sein Königreich ganz ausfüllt. Der ganze Staat bin ich",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "258",
+            "character": "理",
+            "keyword": "Logik",
+            "hint": "Ein EDELSTEIN im COMPUTER als Prozessor der Logik eines Computers",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "259",
+            "character": "主",
+            "keyword": "Herr",
+            "hint": "Zuhause konnte man sich noch wie ein KÖNIG fühlen, und gönnte sich mal einen TROPFEN AUF das Hausheerrendasein",
+            "primitive": "Kerzenständer mit brennender Flamme",
+            "pinyin": ""
+        },
+        {
+            "frame": "260",
+            "character": "注",
+            "keyword": "gießen",
+            "hint": "WASSER aus einem KERZENSTÄNDER gießen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "261",
+            "character": "金",
+            "keyword": "Gold",
+            "hint": "Goldbarren, die unter einem SCHIRM liegen, um sie zu verstecken. Für die Goldbarren wurden alle Edelsteine des KÖNIGReichs TROPFEN für TROPFEN eingeschmolzen",
+            "primitive": "Metall",
+            "pinyin": ""
+        },
+        {
+            "frame": "262",
+            "character": "銅",
+            "keyword": "Kupfer",
+            "hint": "METALL, das GLEICH aussieht, wie tausende Kupfer-farbene PFENNIG Münzen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "263",
+            "character": "釣",
+            "keyword": "angeln",
+            "hint": "Mit einem GOLDENEM SCHÖPFLÖFFEL Goldfische aus einem Fluss angeln",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
