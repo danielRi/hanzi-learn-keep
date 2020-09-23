@@ -1539,8 +1539,8 @@
         {
             "frame": "186",
             "character": "安",
-            "keyword": "Frau ist im Haus, es ist friedlich",
-            "hint": "Wache steht wie ANGELEIMT vor dem HAUS, um es zu bewachen",
+            "keyword": "friedlich",
+            "hint": "Frau ist im Haus, es ist friedlich",
             "primitive": "",
             "pinyin": ""
         },
@@ -2221,6 +2221,39 @@
             "hint": "Mit einem GOLDENEM SCHÖPFLÖFFEL Goldfische aus einem Fluss angeln",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "264",
+            "character": "針",
+            "keyword": "Nadel",
+            "hint": "Massiv GOLDENE StopfNADEL",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "265",
+            "character": "釘",
+            "keyword": "Nagel",
+            "hint": "Massiv GOLDENER NAGEL, der sich jedes mal verbiegt wenn man ihn einschlagen will",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "266",
+            "character": "銘",
+            "keyword": "Inschrift",
+            "hint": "Gravierung eines NAMENS in ein GOLDENES Schmuckstück",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "267",
+            "character": "鎮",
+            "keyword": "gelassen",
+            "hint": "Lügedetektor mit METALLStäben versucht die WAHRHEIT herauszufinen, das einzige was hilft ist gelassen zu bleiben",
+            "primitive": "",
+            "pinyin": ""
         }
-    ]
+    ],
+    "13": []
 }
