@@ -49,4 +49,40 @@ class DatabaseService {
 
     return results.isEmpty ? null : results[0];
   }
+
+  Future<List<CharacterStatistic>> oldestFrames() async {
+    final db = await initDatabase();
+
+    final List<Map<String, dynamic>> frameMaps =
+        await db.query("frames", orderBy: "lastseen ASC");
+
+    final results = _rawDataToList(frameMaps);
+
+    return results;
+  }
+
+  Future<List<CharacterStatistic>> worstFrames() async {
+    final db = await initDatabase();
+
+    final List<Map<String, dynamic>> frameMaps =
+        await db.query("frames", orderBy: "wrong DESC");
+
+    final results = _rawDataToList(frameMaps);
+
+    return results;
+  }
+
+  List<CharacterStatistic> _rawDataToList(
+      List<Map<String, dynamic>> frameMaps) {
+    return List.generate(frameMaps.length, (i) {
+      print("found ${frameMaps[i] ?? "null"}");
+      return CharacterStatistic(
+        frameNumber: frameMaps[i]['frameNumber'],
+        seen: frameMaps[i]['seen'],
+        correct: frameMaps[i]['correct'],
+        wrong: frameMaps[i]['wrong'],
+        lastSeen: DateTime.fromMillisecondsSinceEpoch(frameMaps[i]['lastseen']),
+      );
+    });
+  }
 }

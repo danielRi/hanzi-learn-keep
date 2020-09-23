@@ -95,7 +95,8 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
       }
     } else if (event is InitEvent) {
       final data = await CharacterRepository().fetchData();
-      final framesToStudy = initFramesToStudy(data, event.amountOfCharacters);
+      final framesToStudy =
+          await initFramesToStudy(data, event.amountOfCharacters);
       print("framesToStudy: ${framesToStudy.toString()}");
 
       final startIndex = 0;
@@ -136,14 +137,16 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
     // TODO: save to stastic
   }
 
-  void _onWrongEvent(String farmeId) {
+  void _onWrongEvent(String frameId) {
     // TODO: save to stastic
   }
 
-  List<CharacterFrame> initFramesToStudy(
-      Map<String, CharacterFrame> data, int amountOfCharacters) {
+  Future<List<CharacterFrame>> initFramesToStudy(
+      Map<String, CharacterFrame> data, int amountOfCharacters) async {
     final lastindex = data.keys.toList().length - 1;
     final random = Random();
+    final meaningfulList =
+        await StatisticRepository().createSuitableStudyList(50);
     final resultList = List<CharacterFrame>();
     while (resultList.length < 50) {
       final randomIndex = random.nextInt(lastindex);
