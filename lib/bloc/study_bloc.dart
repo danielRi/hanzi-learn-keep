@@ -4,6 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'package:hanzi_learn_keep/model/character_frame.dart';
 import 'package:hanzi_learn_keep/repo/character_repository.dart';
+import 'package:hanzi_learn_keep/repo/stastic_repository.dart';
 
 class StudyEvent {}
 
@@ -79,6 +80,11 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
     final currentState = state;
     if (event is CheckEvent) {
       if (currentState is CharacterState) {
+        if (event is CorrectEvent) {
+          StatisticRepository().correct(event.frameId);
+        } else if (event is WrongEvent) {
+          StatisticRepository().wrong(event.frameId);
+        }
         print("currentState.index: ${currentState.index.toString()}");
         final index = getNextIndex(currentState.framesToStudy,
             currentState.correctFrames, currentState.index);

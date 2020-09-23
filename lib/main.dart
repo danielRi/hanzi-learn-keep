@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return BlocProvider(
+      lazy: false,
       create: (context) => StatisticBloc()..add(InitEvent()),
       child: MaterialApp(
         title: 'Flutter Demo',

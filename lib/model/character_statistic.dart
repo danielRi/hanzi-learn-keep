@@ -2,9 +2,9 @@ import 'dart:convert';
 
 class CharacterStatistic {
   final String frameNumber;
-  final int seen;
-  final int correct;
-  final int wrong;
+  int seen;
+  int correct;
+  int wrong;
   final DateTime lastSeen;
 
   CharacterStatistic({
@@ -49,5 +49,15 @@ class CharacterStatistic {
 
   int get successRate {
     return ((correct / seen) * 100).round();
+  }
+
+  void correctEvent() {
+    seen = seen + 1;
+    correct = correct + 1;
+  }
+
+  void wrongEvent() {
+    seen = seen + 1;
+    wrong = wrong + 1;
   }
 }

@@ -4,6 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:hanzi_learn_keep/bloc/study_bloc.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
+import 'package:simple_gesture_detector/simple_gesture_detector.dart';
 
 class StudyScreen extends StatelessWidget {
   final int framesToStudy;
@@ -97,18 +98,20 @@ class StudyScreen extends StatelessWidget {
 
   Widget _buildUncoveredWidget(
       CurrentFrame currentFrame, BuildContext context) {
-    return GestureDetector(
+    return SimpleGestureDetector(
       onTap: () {
         print("correct");
         BlocProvider.of<StudyBloc>(context).add(
           CorrectEvent(currentFrame.characterFrame.frameNumber),
         );
       },
-      onHorizontalDragStart: (details) {
-        print("wrong");
-        BlocProvider.of<StudyBloc>(context).add(
-          WrongEvent(currentFrame.characterFrame.frameNumber),
-        );
+      onHorizontalSwipe: (direction) {
+        if (direction == SwipeDirection.left) {
+          print("wrong");
+          BlocProvider.of<StudyBloc>(context).add(
+            WrongEvent(currentFrame.characterFrame.frameNumber),
+          );
+        }
       },
       child: Container(
         padding: EdgeInsets.all(16.0),
