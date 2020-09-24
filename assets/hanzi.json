@@ -2255,5 +2255,94 @@
             "pinyin": ""
         }
     ],
-    "13": []
+    "13": [
+        {
+            "frame": "267-1",
+            "character": "",
+            "keyword": "Straße",
+            "hint": "Bild einer Straße",
+            "primitive": "Autobahn",
+            "pinyin": ""
+        },
+        {
+            "frame": "268",
+            "character": "道",
+            "keyword": "Weg",
+            "hint": "Jemandem nach dem Weg fragen, dieser sagt folgen sie immer der HAUPT STRAßE",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "269",
+            "character": "導",
+            "keyword": "leiten",
+            "hint": "Wenn man geleitet wird, wird man an den WEG GELEIMT",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "270",
+            "character": "迅",
+            "keyword": "rasch",
+            "hint": "Mann fährt rasch auf der STRAßE, doch die Polizei hat NADELN und WIEDERHAKEN verteilt, die Reifen machen Raaaaschhhh",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "271",
+            "character": "造",
+            "keyword": "erschaffen",
+            "hint": "Autogegner kapern einen Radiosender und machen falsche ANSAGEN, um Staus auf den STRAßEN zu erschaffen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "272",
+            "character": "巡",
+            "keyword": "patrollieren",
+            "hint": "Polizei Staffel patroulliert die AUTOBAHN, eine FLUTWELLE an Polizei-Motorrädern kommt angerollt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "273",
+            "character": "逛",
+            "keyword": "einen Bummel machen",
+            "hint": "Ein VERRÜCKTER macht einen Bummel auf einer vielbefahrenen STRAßE, um sich seinen Lieblingsmittelstreifen auszusuchen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "274",
+            "character": "車",
+            "keyword": "Wagen",
+            "hint": "Bild eines Wagens",
+            "primitive": "Waggen, Karren, Waggon, Fahrzeug",
+            "pinyin": ""
+        },
+        {
+            "frame": "275",
+            "character": "連",
+            "keyword": "hintereinander weg",
+            "hint": "Großer Konvoi LastWAGEN die hintereinander weg vor mir auf der AUTOBAHN fahren, und das Überholen unmöglich machen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "276",
+            "character": "蓮",
+            "keyword": "Lotos",
+            "hint": "Man sitzt am Lotosteich, und LotosBLUMEN öffnen sich HINTEREINANDER WEG, so friedlich, man findet spirituelle Erleuchtung",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "276-1",
+            "character": "刖",
+            "keyword": "Schlachter",
+            "hint": "Der dicke Schlachter schaut auf ein großes Stück FLEISCH und wetzt die SÄBEL",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ]
 }
