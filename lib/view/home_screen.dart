@@ -29,11 +29,10 @@ class HomeScreen extends StatelessWidget {
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
                             Text(
-                              state.framesStudied.toString() +
-                                  " Zeichen sutdiert!",
+                              state.framesStudied.toString() + " 個漢字學過了",
                               style: TextStyle(
                                 fontSize: 28,
-                                fontFamily: "FreeSerif",
+                                fontFamily: "SentyWen",
                               ),
                             )
                           ],
@@ -51,9 +50,9 @@ class HomeScreen extends StatelessWidget {
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
                             Text(
-                              "Am meisten vergessen (${state.worstFrameStatistic.wrong}/${state.worstFrameStatistic.seen} mal)",
+                              "最經常忘記了 (${state.worstFrameStatistic.wrong}/${state.worstFrameStatistic.seen} 次)",
                               style: TextStyle(
-                                  fontSize: 28, fontFamily: "FreeSerif"),
+                                  fontSize: 28, fontFamily: "SentyWen"),
                             ),
                             Text(
                               state.worstFrame.keyWord,
@@ -74,9 +73,9 @@ class HomeScreen extends StatelessWidget {
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
                             Text(
-                              "Erfolgsrate",
+                              "成功率",
                               style: TextStyle(
-                                  fontSize: 28, fontFamily: "FreeSerif"),
+                                  fontSize: 28, fontFamily: "SentyWen"),
                             ),
                             Text(
                               state.globalSuccessRate.toString() + " %",
@@ -106,7 +105,7 @@ class HomeScreen extends StatelessWidget {
         backgroundColor: Colors.black,
         child: Center(
           child: Text(
-            "學",
+            "字",
             style: TextStyle(
               fontSize: 26,
               fontFamily: "SentyWen",
@@ -117,7 +116,7 @@ class HomeScreen extends StatelessWidget {
           SpeedDialChild(
             child: Center(
               child: Text(
-                "50",
+                "學",
                 style: TextStyle(
                   fontSize: 24,
                   fontFamily: "SentyWen",
@@ -132,19 +131,12 @@ class HomeScreen extends StatelessWidget {
           ),
           SpeedDialChild(
             child: Center(
-              child: Text(
-                "20",
-                style: TextStyle(
-                  fontSize: 24,
-                  fontFamily: "SentyWen",
-                ),
+              child: Icon(
+                Icons.search,
               ),
             ),
             backgroundColor: Colors.black,
-            onTap: () => Navigator.push(
-              context,
-              MaterialPageRoute(builder: (context) => StudyScreen(20)),
-            ),
+            onTap: () {},
           ),
         ],
       ),

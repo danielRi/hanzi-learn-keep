@@ -138,7 +138,7 @@ class StudyScreen extends StatelessWidget {
                   currentFrame.characterFrame.characterTraditional,
                   style: TextStyle(
                     fontSize: 200,
-                    fontFamily: "CoolWorld",
+                    fontFamily: "SentyWen",
                   ),
                 ),
               ),
