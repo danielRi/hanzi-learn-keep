@@ -2343,6 +2343,110 @@
             "hint": "Der dicke Schlachter schaut auf ein großes Stück FLEISCH und wetzt die SÄBEL",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "277",
+            "character": "前",
+            "keyword": "vor",
+            "hint": "Ein stolzes Paar HÖRNER, die vor einer SCHLACHTEREI hängen",
+            "primitive": "Schlachterei",
+            "pinyin": ""
+        },
+        {
+            "frame": "278",
+            "character": "剪",
+            "keyword": "Schere",
+            "hint": "Aus DOLCHEN eine Geflügelschere für die SCHLACHTEREI basteln",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "279",
+            "character": "",
+            "keyword": "Schlachthof",
+            "hint": "ZUSAMMENKUNFT von SCHLACHTERN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "279",
+            "character": "輸",
+            "keyword": "befördern (räumlich)",
+            "hint": "Statt Fleisch mit Lastwagen zu befördern, wird der ganz SCHLACHTHOF auf einen KARREN gepackt und durchs Land gefahren",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "280",
+            "character": "輸",
+            "keyword": "hinausgehen über",
+            "hint": "Die Straßenbehörden gehen über alles Dagewesene hinaus, um Unfälle zu reduzieren: Sie zeigen auf der AUTOBAHN Bilder aus dem Inneren eines SCHLACHTHOFS",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "280-1",
+            "character": "夂",
+            "keyword": "Wandersmann",
+            "hint": "Bild von wandernden Beinen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "281",
+            "character": "各",
+            "keyword": "jeder",
+            "hint": "Ein WANDERSMANN, der seinen Mund zwischen den Beinen hat, jeder auf seine Art",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "282",
+            "character": "",
+            "keyword": "Muster",
+            "hint": "JEDEM BAUM sein eigenes Muster. Man zieht seinen Bäumen im Garten Hawaii Hemden mit unterschiedlichen Muster an, zum bewundern",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "283",
+            "character": "客",
+            "keyword": "Gast",
+            "hint": "Als Gast ist JEDES HAUS sein Zuhause, mi casa es tu casa",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "284",
+            "character": "額",
+            "keyword": "Stirn",
+            "hint": "Seinem GAST soll man aus Respekt nie direkt in die Augen schauen, sondern wenn man Richtung KOPF schaut, eher auf die Stirn. Lustig wenn man die Coneheads zum essen einlädt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "285",
+            "character": "夏",
+            "keyword": "Sommer",
+            "hint": "Sie heuern WANDERSLEUTE mit großen NASEN an, diese saugen sich damit an der ZIMMERDECKE fest und sorgen mit ihren wandernden Beinen für kühle Luft",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "286",
+            "character": "洛",
+            "keyword": "Lausanne",
+            "hint": "Schöne Schweizerin S-usanne und La-usanne mit JEDER gern man am WASSER, wie dem Genfer See spazieren gehen würde",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "287",
+            "character": "洛",
+            "keyword": "fallen",
+            "hint": "Der schönen LAUSANNERIN Susanne fallen BLÜTEN beim Kämmen der Haare tausende Blüten in den Genfer See",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
