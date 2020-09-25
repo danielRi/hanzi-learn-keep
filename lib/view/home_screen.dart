@@ -7,6 +7,7 @@ import 'package:flutter_speed_dial/flutter_speed_dial.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:hanzi_learn_keep/bloc/statistic_bloc.dart';
+import 'package:hanzi_learn_keep/view/search_screen.dart';
 import 'package:hanzi_learn_keep/view/study_screen.dart';
 
 class HomeScreen extends StatelessWidget {
@@ -143,7 +144,6 @@ class HomeScreen extends StatelessWidget {
                     builder: (context) => StudyScreen(50),
                   ),
                 );
-                print("closed");
                 BlocProvider.of<StatisticBloc>(context).add(InitEvent());
               }),
           SpeedDialChild(
@@ -153,7 +153,14 @@ class HomeScreen extends StatelessWidget {
               ),
             ),
             backgroundColor: Colors.black,
-            onTap: () {},
+            onTap: () async {
+              await Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => SearchScreen(),
+                ),
+              );
+            },
           ),
         ],
       ),
