@@ -18,80 +18,92 @@ class HomeScreen extends StatelessWidget {
           child: BlocBuilder<StatisticBloc, StatisticState>(
             builder: (context, state) {
               if (state is StatisticDataState) {
-                return Column(
-                  mainAxisAlignment: MainAxisAlignment.start,
-                  crossAxisAlignment: CrossAxisAlignment.stretch,
-                  children: [
-                    Card(
-                      child: Container(
-                        padding: const EdgeInsets.symmetric(vertical: 18.0),
-                        child: Column(
-                          mainAxisAlignment: MainAxisAlignment.center,
-                          children: [
-                            Text(
-                              state.framesStudied.toString() + " 個漢字學過了",
-                              style: TextStyle(
-                                fontSize: 28,
-                                fontFamily: "SentyWen",
+                if (state.hasData) {
+                  return Column(
+                    mainAxisAlignment: MainAxisAlignment.start,
+                    crossAxisAlignment: CrossAxisAlignment.stretch,
+                    children: [
+                      Card(
+                        child: Container(
+                          padding: const EdgeInsets.symmetric(vertical: 18.0),
+                          child: Column(
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              Text(
+                                state.framesStudied.toString() + " 個漢字學過了",
+                                style: TextStyle(
+                                  fontSize: 28,
+                                  fontFamily: "SentyWen",
+                                ),
+                              )
+                            ],
+                          ),
+                        ),
+                      ),
+                      state.worstFrameStatistic.wrong > 0
+                          ? Card(
+                              child: Container(
+                                height: 150,
+                                padding: const EdgeInsets.symmetric(
+                                  vertical: 18.0,
+                                  horizontal: 8.0,
+                                ),
+                                child: Column(
+                                  mainAxisAlignment:
+                                      MainAxisAlignment.spaceBetween,
+                                  children: [
+                                    Text(
+                                      "最經常忘記了 (${state.worstFrameStatistic.wrong}/${state.worstFrameStatistic.seen} 次)",
+                                      style: TextStyle(
+                                          fontSize: 28, fontFamily: "SentyWen"),
+                                    ),
+                                    Text(
+                                      state.worstFrame.keyWord,
+                                      style: TextStyle(
+                                        fontSize: 48,
+                                        fontFamily: "FreeSerif",
+                                      ),
+                                    ),
+                                  ],
+                                ),
                               ),
                             )
-                          ],
-                        ),
-                      ),
-                    ),
-                    Card(
-                      child: Container(
-                        height: 150,
-                        padding: const EdgeInsets.symmetric(
-                          vertical: 18.0,
-                          horizontal: 8.0,
-                        ),
-                        child: Column(
-                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                          children: [
-                            Text(
-                              "最經常忘記了 (${state.worstFrameStatistic.wrong}/${state.worstFrameStatistic.seen} 次)",
-                              style: TextStyle(
-                                  fontSize: 28, fontFamily: "SentyWen"),
-                            ),
-                            Text(
-                              state.worstFrame.keyWord,
-                              style: TextStyle(
-                                fontSize: 48,
-                                fontFamily: "FreeSerif",
+                          : Container(),
+                      Card(
+                        child: Container(
+                          height: 150,
+                          padding: const EdgeInsets.symmetric(vertical: 18.0),
+                          child: Column(
+                            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                            children: [
+                              Text(
+                                "成功率",
+                                style: TextStyle(
+                                    fontSize: 28, fontFamily: "SentyWen"),
                               ),
-                            ),
-                          ],
+                              Text(
+                                state.globalSuccessRate.toString() + " %",
+                                style: TextStyle(
+                                  fontSize: 48,
+                                  fontFamily: "FreeSerif",
+                                  color: _colorForSuccessRate(
+                                      state.globalSuccessRate),
+                                ),
+                              )
+                            ],
+                          ),
                         ),
                       ),
+                    ],
+                  );
+                } else {
+                  return Center(
+                    child: Text(
+                      "還沒數據，你先學習吧",
+                      style: TextStyle(fontSize: 28, fontFamily: "SentyWen"),
                     ),
-                    Card(
-                      child: Container(
-                        height: 150,
-                        padding: const EdgeInsets.symmetric(vertical: 18.0),
-                        child: Column(
-                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                          children: [
-                            Text(
-                              "成功率",
-                              style: TextStyle(
-                                  fontSize: 28, fontFamily: "SentyWen"),
-                            ),
-                            Text(
-                              state.globalSuccessRate.toString() + " %",
-                              style: TextStyle(
-                                fontSize: 48,
-                                fontFamily: "FreeSerif",
-                                color: _colorForSuccessRate(
-                                    state.globalSuccessRate),
-                              ),
-                            )
-                          ],
-                        ),
-                      ),
-                    ),
-                  ],
-                );
+                  );
+                }
               } else {
                 return Center(
                   child: SpinKitPouringHourglass(color: Colors.black),
@@ -114,21 +126,26 @@ class HomeScreen extends StatelessWidget {
         ),
         children: [
           SpeedDialChild(
-            child: Center(
-              child: Text(
-                "學",
-                style: TextStyle(
-                  fontSize: 24,
-                  fontFamily: "SentyWen",
+              child: Center(
+                child: Text(
+                  "學",
+                  style: TextStyle(
+                    fontSize: 24,
+                    fontFamily: "SentyWen",
+                  ),
                 ),
               ),
-            ),
-            backgroundColor: Colors.black,
-            onTap: () => Navigator.push(
-              context,
-              MaterialPageRoute(builder: (context) => StudyScreen(50)),
-            ),
-          ),
+              backgroundColor: Colors.black,
+              onTap: () async {
+                await Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => StudyScreen(50),
+                  ),
+                );
+                print("closed");
+                BlocProvider.of<StatisticBloc>(context).add(InitEvent());
+              }),
           SpeedDialChild(
             child: Center(
               child: Icon(

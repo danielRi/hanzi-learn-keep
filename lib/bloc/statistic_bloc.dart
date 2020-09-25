@@ -23,6 +23,13 @@ class StatisticDataState extends StatisticState {
       this.worstFrame,
       this.globalSuccessRate,
       this.framesStudied});
+
+  bool get hasData {
+    return worstFrame != null &&
+        worstFrameStatistic != null &&
+        globalSuccessRate != null &&
+        framesStudied != null;
+  }
 }
 
 class StatisticBloc extends Bloc<StatisticEvent, StatisticState> {

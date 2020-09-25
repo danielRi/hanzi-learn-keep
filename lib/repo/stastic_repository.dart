@@ -47,8 +47,8 @@ class StatisticRepository {
     } else {
       characterStastic = CharacterStatistic(
         frameNumber: frameNumber,
-        seen: 0,
-        correct: 1,
+        seen: 1,
+        correct: 0,
         wrong: 1,
         lastSeen: DateTime.now(),
       );
