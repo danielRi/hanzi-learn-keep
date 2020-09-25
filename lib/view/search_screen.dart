@@ -7,7 +7,7 @@ import 'package:hanzi_learn_keep/bloc/search_bloc.dart';
 class SearchScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final _bloc = SearchBloc();
+    final _bloc = SearchBloc(); // TODO: Fix this!
     return BlocProvider<SearchBloc>(
       lazy: false,
       create: (context) {

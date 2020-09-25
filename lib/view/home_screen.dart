@@ -31,7 +31,7 @@ class HomeScreen extends StatelessWidget {
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
                               Text(
-                                state.framesStudied.toString() + " 個漢字學過了",
+                                "學過了" + state.framesStudied.toString() + " 個漢字",
                                 style: TextStyle(
                                   fontSize: 28,
                                   fontFamily: "SentyWen",
@@ -54,7 +54,7 @@ class HomeScreen extends StatelessWidget {
                                       MainAxisAlignment.spaceBetween,
                                   children: [
                                     Text(
-                                      "最經常忘記了 (${state.worstFrameStatistic.wrong}/${state.worstFrameStatistic.seen} 次)",
+                                      "最常忘記 (${state.worstFrameStatistic.wrong}/${state.worstFrameStatistic.seen} 次)",
                                       style: TextStyle(
                                           fontSize: 28, fontFamily: "SentyWen"),
                                     ),
