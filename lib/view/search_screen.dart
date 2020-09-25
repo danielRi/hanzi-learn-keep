@@ -59,7 +59,6 @@ class SearchScreen extends StatelessWidget {
                                     listElement.frame.characterTraditional,
                                     style: TextStyle(
                                       fontSize: 48,
-                                      fontFamily: "SentyWen",
                                     ),
                                   ),
                                   listElement.statistic != null
