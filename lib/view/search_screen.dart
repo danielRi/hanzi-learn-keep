@@ -7,12 +7,11 @@ import 'package:hanzi_learn_keep/bloc/search_bloc.dart';
 class SearchScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    var buildContext;
+    final _bloc = SearchBloc();
     return BlocProvider<SearchBloc>(
       lazy: false,
       create: (context) {
-        buildContext = context;
-        return SearchBloc()..add(SearchInitEvent());
+        return _bloc..add(SearchInitEvent());
       },
       child: Scaffold(
         appBar: AppBar(
@@ -38,10 +37,9 @@ class SearchScreen extends StatelessWidget {
                   ),
                   controller: TextEditingController(),
                   onChanged: (value) async {
-                    print("value: $value");
+                    print("value: ");
                     print("value");
-                    BlocProvider.of<SearchBloc>(buildContext)
-                        .add(SearchStringEvent(text: value));
+                    _bloc.add(SearchStringEvent(text: value));
                     print("after");
                   },
                 ),
@@ -49,108 +47,115 @@ class SearchScreen extends StatelessWidget {
             ],
           ),
         ),
-        body: BlocBuilder<SearchBloc, SearchState>(
-          builder: (context, state) {
-            if (state is DataState) {
-              return Container(
-                child: ListView.builder(
-                  padding: const EdgeInsets.all(8),
-                  itemCount: state.list.length,
-                  itemBuilder: (BuildContext context, int index) {
-                    final listElement = state.list[index];
-                    return Card(
-                      child: Container(
-                        padding: const EdgeInsets.symmetric(
-                            vertical: 18.0, horizontal: 8.0),
-                        child: Column(
-                          mainAxisAlignment: MainAxisAlignment.start,
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Row(
-                              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                              children: [
-                                Text(
-                                  listElement.frame.keyWord,
-                                  style: TextStyle(
-                                    fontSize: 28,
-                                    fontFamily: "FreeSerif",
-                                  ),
-                                ),
-                                Text(
-                                  listElement.frame.frameNumber,
-                                  style: TextStyle(
-                                    fontSize: 28,
-                                    fontFamily: "FreeSerif",
-                                  ),
-                                ),
-                              ],
-                            ),
-                            Row(
-                              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                              crossAxisAlignment: CrossAxisAlignment.center,
-                              children: [
-                                Text(
-                                  listElement.frame.characterTraditional,
-                                  style: TextStyle(
-                                    fontSize: 48,
-                                  ),
-                                ),
-                                listElement.statistic != null
-                                    ? RichText(
-                                        text: TextSpan(
-                                          style: new TextStyle(
-                                            fontSize: 28.0,
-                                            color: Colors.black,
-                                            fontFamily: "FreeSerif",
-                                          ),
-                                          children: [
-                                            TextSpan(
-                                              text: listElement.statistic.seen
-                                                      .toString() +
-                                                  "/",
-                                            ),
-                                            TextSpan(
-                                              text: listElement
-                                                  .statistic.correct
-                                                  .toString(),
-                                              style: TextStyle(
-                                                color: Colors.green[600],
-                                              ),
-                                            ),
-                                            TextSpan(
-                                              text: "/",
-                                            ),
-                                            listElement.statistic.wrong > 0
-                                                ? TextSpan(
-                                                    text: listElement
-                                                        .statistic.wrong
-                                                        .toString(),
-                                                    style: TextStyle(
-                                                      color: Colors.red[900],
-                                                    ),
-                                                  )
-                                                : TextSpan(
-                                                    text: "-",
-                                                  )
-                                          ],
-                                        ),
-                                      )
-                                    : Container(),
-                              ],
-                            ),
-                          ],
-                        ),
-                      ),
-                    );
-                  },
-                ),
-              );
-            } else {
-              return Center(
-                child: SpinKitPouringHourglass(color: Colors.black),
-              );
-            }
+        body: GestureDetector(
+          onTap: () {
+            FocusScope.of(context).requestFocus(FocusNode());
           },
+          child: BlocBuilder<SearchBloc, SearchState>(
+            builder: (context, state) {
+              if (state is DataState) {
+                return Container(
+                  child: ListView.builder(
+                    padding: const EdgeInsets.all(8),
+                    itemCount: state.list.length,
+                    itemBuilder: (BuildContext context, int index) {
+                      final listElement = state.list[index];
+                      return Card(
+                        child: Container(
+                          padding: const EdgeInsets.symmetric(
+                              vertical: 18.0, horizontal: 8.0),
+                          child: Column(
+                            mainAxisAlignment: MainAxisAlignment.start,
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Row(
+                                mainAxisAlignment:
+                                    MainAxisAlignment.spaceBetween,
+                                children: [
+                                  Text(
+                                    listElement.frame.keyWord,
+                                    style: TextStyle(
+                                      fontSize: 28,
+                                      fontFamily: "FreeSerif",
+                                    ),
+                                  ),
+                                  Text(
+                                    listElement.frame.frameNumber,
+                                    style: TextStyle(
+                                      fontSize: 28,
+                                      fontFamily: "FreeSerif",
+                                    ),
+                                  ),
+                                ],
+                              ),
+                              Row(
+                                mainAxisAlignment:
+                                    MainAxisAlignment.spaceBetween,
+                                crossAxisAlignment: CrossAxisAlignment.center,
+                                children: [
+                                  Text(
+                                    listElement.frame.characterTraditional,
+                                    style: TextStyle(
+                                      fontSize: 48,
+                                    ),
+                                  ),
+                                  listElement.statistic != null
+                                      ? RichText(
+                                          text: TextSpan(
+                                            style: new TextStyle(
+                                              fontSize: 28.0,
+                                              color: Colors.black,
+                                              fontFamily: "FreeSerif",
+                                            ),
+                                            children: [
+                                              TextSpan(
+                                                text: listElement.statistic.seen
+                                                        .toString() +
+                                                    "/",
+                                              ),
+                                              TextSpan(
+                                                text: listElement
+                                                    .statistic.correct
+                                                    .toString(),
+                                                style: TextStyle(
+                                                  color: Colors.green[600],
+                                                ),
+                                              ),
+                                              TextSpan(
+                                                text: "/",
+                                              ),
+                                              listElement.statistic.wrong > 0
+                                                  ? TextSpan(
+                                                      text: listElement
+                                                          .statistic.wrong
+                                                          .toString(),
+                                                      style: TextStyle(
+                                                        color: Colors.red[900],
+                                                      ),
+                                                    )
+                                                  : TextSpan(
+                                                      text: "-",
+                                                    )
+                                            ],
+                                          ),
+                                        )
+                                      : Container(),
+                                ],
+                              ),
+                            ],
+                          ),
+                        ),
+                      );
+                    },
+                  ),
+                );
+              } else {
+                return Center(
+                  child: SpinKitPouringHourglass(color: Colors.black),
+                );
+              }
+            },
+          ),
         ),
       ),
     );

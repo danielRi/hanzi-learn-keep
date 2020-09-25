@@ -36,7 +36,6 @@ class SearchBloc extends Bloc<SearchEvent, SearchState> {
 
   @override
   Stream<SearchState> mapEventToState(SearchEvent event) async* {
-    print("event");
     if (event is SearchInitEvent) {
       final resultList = List<CharacterListElement>();
       final data = await CharacterRepository().fetchData();
@@ -47,7 +46,28 @@ class SearchBloc extends Bloc<SearchEvent, SearchState> {
       }
       yield DataState(list: resultList);
     } else if (event is SearchStringEvent) {
+      final searchString = event.text;
+      print("event " + searchString);
+      final searchStringList = searchString.split(" ");
       yield LoadingState();
+      final resultList = List<CharacterListElement>();
+      final data = await CharacterRepository().fetchData();
+      for (CharacterFrame frame in data.values) {
+        bool foundString = false;
+        for (String searchString in searchStringList) {
+          if (frame.characterTraditional.toLowerCase().contains(searchString) ||
+              frame.keyWord.toLowerCase().contains(searchString) ||
+              frame.frameNumber.contains(searchString)) {
+            foundString = true;
+          }
+        }
+        if (foundString) {
+          final statistic = await DatabaseService().frame(frame.frameNumber);
+          resultList
+              .add(CharacterListElement(frame: frame, statistic: statistic));
+        }
+      }
+      yield DataState(list: resultList);
     }
   }
 }
