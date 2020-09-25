@@ -143,24 +143,11 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
 
   Future<List<CharacterFrame>> initFramesToStudy(
       Map<String, CharacterFrame> data, int amountOfCharacters) async {
-    final lastindex = data.keys.toList().length - 1;
-    final random = Random();
     final meaningfulList =
         await StatisticRepository().createSuitableStudyList(50);
     final resultList = List<CharacterFrame>();
-    while (resultList.length < 50) {
-      final randomIndex = random.nextInt(lastindex);
-      String randomFrameId = data.keys.toList()[randomIndex];
-      bool frameAlreadyExists = false;
-      resultList.forEach((element) {
-        if (element.frameNumber == randomFrameId) {
-          frameAlreadyExists = true;
-          return;
-        }
-      });
-      if (frameAlreadyExists == false) {
-        resultList.add(CharacterRepository().getFrame(randomFrameId));
-      }
+    for (String frameNumber in meaningfulList) {
+      resultList.add(CharacterRepository().getFrame(frameNumber));
     }
     return resultList;
   }

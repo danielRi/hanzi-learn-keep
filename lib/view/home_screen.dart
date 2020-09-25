@@ -2,15 +2,106 @@ import "package:charcode/charcode.dart";
 import "package:charcode/html_entity.dart";
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_speed_dial/flutter_speed_dial.dart';
+import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:hanzi_learn_keep/bloc/statistic_bloc.dart';
 import 'package:hanzi_learn_keep/view/study_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Container(),
+      body: SafeArea(
+        child: Container(
+          child: BlocBuilder<StatisticBloc, StatisticState>(
+            builder: (context, state) {
+              if (state is StatisticDataState) {
+                return Column(
+                  mainAxisAlignment: MainAxisAlignment.start,
+                  crossAxisAlignment: CrossAxisAlignment.stretch,
+                  children: [
+                    Card(
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(vertical: 18.0),
+                        child: Column(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                            Text(
+                              state.framesStudied.toString() +
+                                  " Zeichen sutdiert!",
+                              style: TextStyle(
+                                fontSize: 28,
+                                fontFamily: "FreeSerif",
+                              ),
+                            )
+                          ],
+                        ),
+                      ),
+                    ),
+                    Card(
+                      child: Container(
+                        height: 150,
+                        padding: const EdgeInsets.symmetric(
+                          vertical: 18.0,
+                          horizontal: 8.0,
+                        ),
+                        child: Column(
+                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                          children: [
+                            Text(
+                              "Am meisten vergessen (${state.worstFrameStatistic.wrong}/${state.worstFrameStatistic.seen} mal)",
+                              style: TextStyle(
+                                  fontSize: 28, fontFamily: "FreeSerif"),
+                            ),
+                            Text(
+                              state.worstFrame.keyWord,
+                              style: TextStyle(
+                                fontSize: 48,
+                                fontFamily: "FreeSerif",
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ),
+                    Card(
+                      child: Container(
+                        height: 150,
+                        padding: const EdgeInsets.symmetric(vertical: 18.0),
+                        child: Column(
+                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                          children: [
+                            Text(
+                              "Erfolgsrate",
+                              style: TextStyle(
+                                  fontSize: 28, fontFamily: "FreeSerif"),
+                            ),
+                            Text(
+                              state.globalSuccessRate.toString() + " %",
+                              style: TextStyle(
+                                fontSize: 48,
+                                fontFamily: "FreeSerif",
+                                color: _colorForSuccessRate(
+                                    state.globalSuccessRate),
+                              ),
+                            )
+                          ],
+                        ),
+                      ),
+                    ),
+                  ],
+                );
+              } else {
+                return Center(
+                  child: SpinKitPouringHourglass(color: Colors.black),
+                );
+              }
+            },
+          ),
+        ),
+      ),
       floatingActionButton: SpeedDial(
         backgroundColor: Colors.black,
         child: Center(
@@ -58,5 +149,21 @@ class HomeScreen extends StatelessWidget {
         ],
       ),
     );
+  }
+
+  Color _colorForSuccessRate(int successRate) {
+    if (successRate == 100) {
+      return Colors.green[800];
+    } else if (successRate > 96) {
+      return Colors.green[700];
+    } else if (successRate > 92) {
+      return Colors.green[500];
+    } else if (successRate > 88) {
+      return Colors.yellow[600];
+    } else if (successRate > 79) {
+      return Colors.yellow[900];
+    } else {
+      return Colors.red[900];
+    }
   }
 }

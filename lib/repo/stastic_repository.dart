@@ -56,50 +56,111 @@ class StatisticRepository {
     await DatabaseService().correct(characterStastic);
   }
 
+  Future<CharacterStatistic> worstFrame() async {
+    final frames = await DatabaseService().worstFrames();
+    return frames.isNotEmpty ? frames[0] : null;
+  }
+
+  Future<int> framesStudied() async {
+    final frames = await DatabaseService().oldestFrames();
+    var framesStudied = 0;
+    for (CharacterStatistic frameStatistic in frames) {
+      framesStudied += frameStatistic.seen;
+    }
+    return framesStudied;
+  }
+
+  Future<int> globalSuccessRate() async {
+    final studiedFrames = await framesStudied();
+    final frames = await DatabaseService().oldestFrames();
+    var correctFrames = 0;
+    for (CharacterStatistic frameStatistic in frames) {
+      correctFrames += frameStatistic.correct;
+    }
+    if (studiedFrames != 0) {
+      final successRate = ((correctFrames / studiedFrames) * 100).round();
+      return successRate;
+    }
+    return 0;
+  }
+
   /// Creates list of frames based on stastic data
   ///
   /// 1. New frames, never studied
-  /// 2. Oldest frames, havent been seen in a while
-  /// 3. Worst frames, with most wrong tries
+  /// 2. Worst frames, with most wrong tries
+  /// 3. Oldest frames, havent been seen in a while
   /// 4. Random frames
   Future<List<String>> createSuitableStudyList(int amountOfCharacters) async {
     final data = await CharacterRepository().fetchData();
     final resultList = List<String>();
-    final random = Random();
+
     final oldestFrames = await DatabaseService().oldestFrames();
     final worstFrames = await DatabaseService().worstFrames();
-    final lastindex = data.keys.toList().length - 1;
+
     if (oldestFrames.length + worstFrames.length < amountOfCharacters) {
       // not enogh data yet, just put random
+      print("not enough data, just put random");
       while (resultList.length < amountOfCharacters) {
-        final randomIndex = random.nextInt(lastindex);
-        String randomFrameId = data.keys.toList()[randomIndex];
-        bool frameAlreadyExists = false;
-        resultList.forEach((element) {
-          if (element == randomFrameId) {
-            frameAlreadyExists = true;
-            return;
-          }
-        });
-        if (frameAlreadyExists == false) {
-          resultList.add(randomFrameId);
-        }
+        final frame = _getRandomFrameFromDataMap(resultList, data);
+        resultList.add(frame);
       }
+      print("Meaningful List list with new data");
       return resultList;
     }
     print("Already have data, check new frames first");
     final newFrames = _newFrames(oldestFrames, data);
-    print("newFrames: ${newFrames.length}");
+    var amountOfNewFrames = 0;
     while (resultList.length < min(amountOfCharacters, newFrames.length)) {
-      print("resultList.length: ${resultList.length}");
-      final frame = _getRandomFrameFromList(newFrames, resultList);
+      final frame = _getRandomFrameFromList(resultList, stringList: newFrames);
+      amountOfNewFrames++;
       resultList.add(frame);
     }
     if (resultList.length == amountOfCharacters) {
       print("Meaningful List with only new Frames");
       return resultList;
     }
-    print("Not enough new frames");
+    print("Not enough new frames, only ${amountOfNewFrames.toString()}");
+
+    // add maximum 4 worst words
+    var amountOfWorstFrames = 0;
+    while (amountOfWorstFrames < min(4, worstFrames.length)) {
+      final frame = _getRandomFrameFromList(resultList,
+          characterStasticList: worstFrames);
+      amountOfWorstFrames++;
+      resultList.add(frame);
+    }
+    if (resultList.length == amountOfCharacters) {
+      print(
+          "Meaningful List with ${amountOfNewFrames.toString()} new Frames and ${amountOfWorstFrames.toString()} worst frames");
+      return resultList;
+    }
+    print(
+        "Not enough worst frames, added ${amountOfWorstFrames.toString()} worst frames, in sum now ${resultList.length.toString()}");
+
+    var amountOfOldestFrames = 0;
+    while (resultList.length < min(amountOfCharacters, oldestFrames.length)) {
+      final frame = _getRandomFrameFromList(resultList,
+          characterStasticList: oldestFrames);
+      amountOfOldestFrames++;
+      resultList.add(frame);
+    }
+    if (resultList.length == amountOfCharacters) {
+      print(
+          "Meaningful List with ${amountOfNewFrames.toString()} new Frames, ${amountOfWorstFrames.toString()} worst frames and ${amountOfOldestFrames.toString()} oldest frames");
+      return resultList;
+    }
+    print(
+        "Not enough oldest frames, added ${amountOfOldestFrames.toString()} old frames, in sum now ${resultList.length.toString()}");
+
+    var amountOfRandomFrames = 0;
+    while (resultList.length < amountOfCharacters) {
+      final frame = _getRandomFrameFromDataMap(resultList, data);
+      amountOfRandomFrames++;
+      resultList.add(frame);
+    }
+    print(
+        "Meaningful List with ${amountOfNewFrames.toString()} new Frames, ${amountOfOldestFrames.toString()} oldest frames, ${amountOfWorstFrames.toString()} worst frames and ${amountOfRandomFrames.toString()} random frames");
+    return resultList;
   }
 
   List<String> _newFrames(
@@ -120,28 +181,50 @@ class StatisticRepository {
     return newFrames;
   }
 
-  String _getRandomFrameFromList(List<String> list, List<String> targetList) {
+  String _getRandomFrameFromList(List<String> targetList,
+      {List<String> stringList,
+      List<CharacterStatistic> characterStasticList}) {
+    if (stringList != null) {
+      assert(characterStasticList == null);
+    } else if (characterStasticList != null) {
+      assert(stringList == null);
+    }
     final random = Random();
-    final lastindex = list.length;
+    final lastindex =
+        stringList != null ? stringList.length : characterStasticList.length;
     while (true) {
-      print(
-          "list.length: ${list.length} --- targetList.length: ${targetList.length}");
-
       final randomIndex = random.nextInt(lastindex);
-      String randomFrameId = list[randomIndex];
+      String randomFrameId = stringList != null
+          ? stringList[randomIndex]
+          : characterStasticList[randomIndex].frameNumber;
       bool frameAlreadyExists = false;
 
       targetList.forEach((element) {
         if (element == randomFrameId) {
-          print("frame Exists: $randomFrameId");
           frameAlreadyExists = true;
           return;
         }
       });
-      if (targetList.length == 44) {
-        print("stop");
+      if (frameAlreadyExists == false) {
+        return randomFrameId;
       }
-      //print("getting random: $randomFrameId");
+    }
+  }
+
+  String _getRandomFrameFromDataMap(
+      List<String> resultList, Map<String, CharacterFrame> data) {
+    final random = Random();
+    final lastindex = data.keys.toList().length;
+    while (true) {
+      final randomIndex = random.nextInt(lastindex);
+      String randomFrameId = data.keys.toList()[randomIndex];
+      bool frameAlreadyExists = false;
+      resultList.forEach((element) {
+        if (element == randomFrameId) {
+          frameAlreadyExists = true;
+          return;
+        }
+      });
       if (frameAlreadyExists == false) {
         return randomFrameId;
       }

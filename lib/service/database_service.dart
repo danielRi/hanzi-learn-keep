@@ -37,7 +37,6 @@ class DatabaseService {
     );
 
     final results = List.generate(frameMaps.length, (i) {
-      print("found ${frameMaps[i] ?? "null"}");
       return CharacterStatistic(
         frameNumber: frameMaps[i]['frameNumber'],
         seen: frameMaps[i]['seen'],
@@ -75,7 +74,6 @@ class DatabaseService {
   List<CharacterStatistic> _rawDataToList(
       List<Map<String, dynamic>> frameMaps) {
     return List.generate(frameMaps.length, (i) {
-      print("found ${frameMaps[i] ?? "null"}");
       return CharacterStatistic(
         frameNumber: frameMaps[i]['frameNumber'],
         seen: frameMaps[i]['seen'],
