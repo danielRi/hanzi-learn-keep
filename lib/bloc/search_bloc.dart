@@ -6,7 +6,13 @@ import 'package:hanzi_learn_keep/service/database_service.dart';
 
 class SearchEvent {}
 
-class InitEvent extends SearchEvent {}
+class SearchInitEvent extends SearchEvent {}
+
+class SearchStringEvent extends SearchEvent {
+  final String text;
+
+  SearchStringEvent({this.text});
+}
 
 class SearchState {}
 
@@ -30,8 +36,8 @@ class SearchBloc extends Bloc<SearchEvent, SearchState> {
 
   @override
   Stream<SearchState> mapEventToState(SearchEvent event) async* {
-    // TODO: implement mapEventToState
-    if (event is InitEvent) {
+    print("event");
+    if (event is SearchInitEvent) {
       final resultList = List<CharacterListElement>();
       final data = await CharacterRepository().fetchData();
       for (CharacterFrame frame in data.values) {
@@ -40,6 +46,8 @@ class SearchBloc extends Bloc<SearchEvent, SearchState> {
             .add(CharacterListElement(frame: frame, statistic: statistic));
       }
       yield DataState(list: resultList);
+    } else if (event is SearchStringEvent) {
+      yield LoadingState();
     }
   }
 }
