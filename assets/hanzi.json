@@ -2448,5 +2448,127 @@
             "primitive": "",
             "pinyin": ""
         }
+    ],
+    "14": [
+        {
+            "frame": "287-1",
+            "character": "冖",
+            "keyword": "Krone (primitiv)",
+            "hint": "Bild einer Krone",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "288",
+            "character": "冗",
+            "keyword": "überflüssig",
+            "hint": "Wenn der Herrschende, der Kronen-tragende, ein Hohlkopf (WIND weht durch den Kopf) ist, ist die KRONE nur ein überflüssiges Symbol",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "289",
+            "character": "冗",
+            "keyword": "tiefgründig",
+            "hint": "Philosoph denkt tiefgründig über Metaphysisches nach, bis Schweißperlen (WASSERPerlen) auf seiner Stirn sind. Der Nachbar meint, das Metaphysis Zeugs ist ÜBERFLÜSSIG",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "289",
+            "character": "沉",
+            "keyword": "tiefgründig",
+            "hint": "Philosoph denkt tiefgründig über Metaphysisches nach, bis Schweißperlen (WASSERPerlen) auf seiner Stirn sind. Der Nachbar meint, das Metaphysis Zeugs ist ÜBERFLÜSSIG",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "290",
+            "character": "軍",
+            "keyword": "Armee",
+            "hint": "Ein GEKRÖNTER STREITWAGEN, Symbol für eine Caesarische Armee",
+            "primitive": "Streitwagen",
+            "pinyin": ""
+        },
+        {
+            "frame": "291",
+            "character": "",
+            "keyword": "ein Strahlen",
+            "hint": "prächtiger GEKRÖNTER STREITWAGEN, von dem ein Strahlen ausgeht. Der STREITWAGEN hat ausserdem Scheinwerfer, damit er auch nachts angreifen kann",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "292",
+            "character": "運",
+            "keyword": "transportieren",
+            "hint": "STREITWAGEN auf STRAßE, transportiert den Feldherrn an die Front und die Verwundeten zurück",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "293",
+            "character": "冠",
+            "keyword": "Krone",
+            "hint": "Eine Krone weiterzureichen LEIMT ein Volk mit seinen URSPRÜNGEN zusammen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "294",
+            "character": "夢",
+            "keyword": "Traum",
+            "hint": "BLÜTENBLÄTTER auf den AUGEN, statt Sand, um süß zu träumen, denn ein süßer Traum setzt einem ABEND noch die KRONE auf",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "294-1",
+            "character": "",
+            "keyword": "Zylinderhut",
+            "hint": "Bild eines Zylinderhuts",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "294-2",
+            "character": "亢",
+            "keyword": "Wirbelwind",
+            "hint": "Ein WIND, der wie ein ZYLINDERHUT säulenförmig aufsteigt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "295",
+            "character": "坑",
+            "keyword": "Grube",
+            "hint": "Ein WIRBELWIND bohrt sich wie ein Bohrer in die ERDE, um eine Grube auszuheben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "296",
+            "character": "高",
+            "keyword": "hoch",
+            "hint": "Ein Alien mit GlasHELM und MUND, dessen Freund eine irdische Kopfbedeckung (ZYLINDER) ausprobiert. Er merkt dass er damit HOCH über seinen Kollegen hinausragt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "297",
+            "character": "享",
+            "keyword": "genießen",
+            "hint": "Ein HÖHERES KIND, genießt mehr Privilegien, mehr Taschengeld usw..., Kind reicher Eltern, Bader, Konstantin",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "298",
+            "character": "熟",
+            "keyword": "reif",
+            "hint": "reife Früchte will man das ganze Jahr GENIESSEN, deshalb destilliert man PILLEN mit z.b. Mango Konzentrat über offenen FEUER ",
+            "primitive": "",
+            "pinyin": ""
+        }
     ]
 }
