@@ -1376,7 +1376,7 @@
         },
         {
             "frame": "168",
-            "character": "堯",
+            "character": "曉",
             "keyword": "Morgendämmerung",
             "hint": "SCHMUTZFINK sitzt im Feld und wird von der aufgehenden SONNE gereinigt",
             "primitive": "",
@@ -1852,7 +1852,7 @@
         },
         {
             "frame": "222",
-            "character": "墓",
+            "character": "瞄",
             "keyword": "zielen",
             "hint": "Ein AUGE schaut beim zielen durch Kimme und Korn, aber hier hat jemand die Kimme durch das gezackte Blatt eines TomatenSETZLINGS ersetzt, ein Friedens-Hippie",
             "primitive": "",
@@ -1934,7 +1934,7 @@
         },
         {
             "frame": "231",
-            "character": "",
+            "character": "臭",
             "keyword": "übelriechend",
             "hint": "CHIHUAHUA UNTER der NASE, ist wie alle Hunde übelriechend",
             "primitive": "",
@@ -2378,7 +2378,7 @@
         },
         {
             "frame": "280",
-            "character": "輸",
+            "character": "逾",
             "keyword": "hinausgehen über",
             "hint": "Die Straßenbehörden gehen über alles Dagewesene hinaus, um Unfälle zu reduzieren: Sie zeigen auf der AUTOBAHN Bilder aus dem Inneren eines SCHLACHTHOFS",
             "primitive": "",
@@ -2402,7 +2402,7 @@
         },
         {
             "frame": "282",
-            "character": "",
+            "character": "格",
             "keyword": "Muster",
             "hint": "JEDEM BAUM sein eigenes Muster. Man zieht seinen Bäumen im Garten Hawaii Hemden mit unterschiedlichen Muster an, zum bewundern",
             "primitive": "",
