@@ -4,15 +4,20 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:hanzi_learn_keep/bloc/search_bloc.dart';
 
-class SearchScreen extends StatelessWidget {
+class SearchScreen extends StatefulWidget {
+  @override
+  _SearchScreenState createState() => _SearchScreenState();
+}
+
+class _SearchScreenState extends State<SearchScreen> {
   @override
   Widget build(BuildContext context) {
-    final _bloc = SearchBloc(); // TODO: Fix this!
-    return BlocProvider<SearchBloc>(
-      lazy: false,
-      create: (context) {
-        return _bloc..add(SearchInitEvent());
-      },
+    // can be ignored according to felangel himself:
+    // https://github.com/felangel/bloc/issues/587#issuecomment-543895269
+    // ignore: close_sinks
+    final _bloc = SearchBloc();
+    return BlocProvider.value(
+      value: _bloc..add(SearchInitEvent()),
       child: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.white,
