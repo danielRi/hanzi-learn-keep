@@ -68,7 +68,14 @@ class DatabaseService {
 
     final results = _rawDataToList(frameMaps);
 
-    return results;
+    final resultList = List<CharacterStatistic>();
+    for (CharacterStatistic statistic in results) {
+      if (statistic.successRate < 100) {
+        resultList.add(statistic);
+      }
+    }
+
+    return resultList;
   }
 
   List<CharacterStatistic> _rawDataToList(
