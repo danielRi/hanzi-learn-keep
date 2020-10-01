@@ -5,7 +5,7 @@ class CharacterStatistic {
   int seen;
   int correct;
   int wrong;
-  final DateTime lastSeen;
+  DateTime lastSeen;
 
   CharacterStatistic({
     this.frameNumber,
@@ -54,10 +54,12 @@ class CharacterStatistic {
   void correctEvent() {
     seen = seen + 1;
     correct = correct + 1;
+    lastSeen = DateTime.now();
   }
 
   void wrongEvent() {
     seen = seen + 1;
     wrong = wrong + 1;
+    lastSeen = DateTime.now();
   }
 }

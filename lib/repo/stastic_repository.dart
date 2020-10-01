@@ -105,7 +105,7 @@ class StatisticRepository {
         resultList.add(frame);
       }
       print("Meaningful List list with new data");
-      return resultList;
+      return resultList..shuffle();
     }
     print("Already have data, check new frames first");
     final newFrames = _newFrames(oldestFrames, data);
@@ -117,7 +117,7 @@ class StatisticRepository {
     }
     if (resultList.length == amountOfCharacters) {
       print("Meaningful List with only new Frames");
-      return resultList;
+      return resultList..shuffle();
     }
     print("Not enough new frames, only ${amountOfNewFrames.toString()}");
 
@@ -132,22 +132,21 @@ class StatisticRepository {
     if (resultList.length == amountOfCharacters) {
       print(
           "Meaningful List with ${amountOfNewFrames.toString()} new Frames and ${amountOfWorstFrames.toString()} worst frames");
-      return resultList;
+      return resultList..shuffle();
     }
     print(
         "Not enough worst frames, added ${amountOfWorstFrames.toString()} worst frames, in sum now ${resultList.length.toString()}");
 
     var amountOfOldestFrames = 0;
     while (resultList.length < min(amountOfCharacters, oldestFrames.length)) {
-      final frame = _getRandomFrameFromList(resultList,
-          characterStasticList: oldestFrames);
+      final frame = oldestFrames[amountOfOldestFrames];
       amountOfOldestFrames++;
-      resultList.add(frame);
+      resultList.add(frame.frameNumber);
     }
     if (resultList.length == amountOfCharacters) {
       print(
           "Meaningful List with ${amountOfNewFrames.toString()} new Frames, ${amountOfWorstFrames.toString()} worst frames and ${amountOfOldestFrames.toString()} oldest frames");
-      return resultList;
+      return resultList..shuffle();
     }
     print(
         "Not enough oldest frames, added ${amountOfOldestFrames.toString()} old frames, in sum now ${resultList.length.toString()}");
@@ -160,7 +159,7 @@ class StatisticRepository {
     }
     print(
         "Meaningful List with ${amountOfNewFrames.toString()} new Frames, ${amountOfOldestFrames.toString()} oldest frames, ${amountOfWorstFrames.toString()} worst frames and ${amountOfRandomFrames.toString()} random frames");
-    return resultList;
+    return resultList..shuffle();
   }
 
   List<String> _newFrames(
