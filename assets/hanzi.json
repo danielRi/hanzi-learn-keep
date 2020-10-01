@@ -2566,7 +2566,161 @@
             "frame": "298",
             "character": "熟",
             "keyword": "reif",
-            "hint": "reife Früchte will man das ganze Jahr GENIESSEN, deshalb destilliert man PILLEN mit z.b. Mango Konzentrat über offenen FEUER ",
+            "hint": "reife Früchte will man das ganze Jahr GENIESSEN, deshalb destilliert man PILLEN mit z.b. Mango Konzentrat über offenen FEUER",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "299",
+            "character": "亭",
+            "keyword": "Pavillon",
+            "hint": "Weltausstellung, ein Pavillon ist ein Restaurant, mit NAGELförmiger SÄULE, das drehende Restaurant darauf ist TIARA-förmig",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "300",
+            "character": "亮",
+            "keyword": "glänzend",
+            "hint": "Die verstaubten TIARAs im Museum blasen sie mit Pressluft, der WIND erzeugt wieder glänzend. Alles geht jedoch kaputt, doch keine so glänzende Idee",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "300",
+            "character": "亮",
+            "keyword": "glänzend",
+            "hint": "Die verstaubten TIARAs im Museum blasen sie mit Pressluft, der WIND erzeugt wieder glänzend. Alles geht jedoch kaputt, doch keine so glänzende Idee",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "301",
+            "character": "京",
+            "keyword": "Hauptstadt",
+            "hint": "Ein hohes TIARAförmiges Gebäude, vor dem sich KLEINE Menschen versammeln, entweder um zu demonstrieren oder Schlange zu stehen zum besichtigen. Reichstagsgebäude",
+            "primitive": "Hauptstadtgebäude",
+            "pinyin": ""
+        },
+        {
+            "frame": "302",
+            "character": "涼",
+            "keyword": "kühl",
+            "hint": "HAUPTSTADTGEBÄUDE nimmt eine kühle DUSCHE, weil ein Politiker einen heißen Skandal hinter sich hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "303",
+            "character": "景",
+            "keyword": "kühl",
+            "hint": "SONNE die über dem HAUPTSTADTGEBÄUDE aufgeht, ein perfektes Bild wie man sich in Nordkorea ein Landschaftsbild vorstellt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "304",
+            "character": "就",
+            "keyword": "sofort",
+            "hint": "FRANKENHÜNDCHEN hebt sein Bein und will ans HAUPTSTADTGEBÄUDE pinkeln, wir rufen Kommst du Sofort wieder her! Sofort!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "304-1",
+            "character": "",
+            "keyword": "Bierseidel",
+            "hint": "LEHM mit einer ÖFFNUNG, ein getöpfertes Bierseidel",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "305",
+            "character": "周",
+            "keyword": "Umfang",
+            "hint": "Mit dem BIERSEIDEL kann mit Umdrehungen den Umfang eines MotorradHELMS berechnen",
+            "primitive": "Runde",
+            "pinyin": ""
+        },
+        {
+            "frame": "306",
+            "character": "週",
+            "keyword": "Woche",
+            "hint": "Kreisförmige AUTOBAHN mit 7 Ausfahrten, jede Ausfahrt ein Wochentag. Wenn man eine RUNDE gefahren ist, ist eine Woche vergangen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "307",
+            "character": "士",
+            "keyword": "Soldat",
+            "hint": "Bild eines breitschultrigen, schmalhüftigen Soldaten der strammsteht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "308",
+            "character": "吉",
+            "keyword": "glücksbringend",
+            "hint": "SOLDAT mit offenem MUND, wenn man in den Mund schaut soll es Glück bringen. Wie bei den Wachen vom Buckingham Palace",
+            "primitive": "Sprühdose (festsitzender Deckel, beachte unterschied zu Bierseidel)",
+            "pinyin": ""
+        },
+        {
+            "frame": "308",
+            "character": "吉",
+            "keyword": "glücksbringend",
+            "hint": "SOLDAT mit offenem MUND, wenn man in den Mund schaut soll es Glück bringen. Wie bei den Wachen vom Buckingham Palace",
+            "primitive": "Sprühdose (festsitzender Deckel, beachte unterschied zu Bierseidel)",
+            "pinyin": ""
+        },
+        {
+            "frame": "309",
+            "character": "買",
+            "keyword": "kaufen",
+            "hint": "Frau will AUSTERN kaufen, und wirft ein kritisches AUGE auf die Austern, die sie kaufen will",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "310",
+            "character": "賣",
+            "keyword": "verkaufen",
+            "hint": "SOLDAT beobachtet Frau, wie diese die AUSTERN mit kritischem AUGE begutachtet. Ausserdem stellt er sicher, dass der korrekte Verkaufspreis gezahlt wird",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "15": [
+        {
+            "frame": "310-1",
+            "character": "聿",
+            "keyword": "Pinsel",
+            "hint": "Bild eines Pinsels. Die ersten drei waagerechten Striche sind die Haare des Pinsels, danach kommen Daumen und Zeigefinger, die ihn führen. man hält den Pinsel gerade nach oben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "311",
+            "character": "書",
+            "keyword": "Buch",
+            "hint": "Sekretär versucht mit dem PINSEL das in ein Buch aufzuschreiben, was der Chef mit zu schnell PLAPPERNDER ZUNGE vordiktiert",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "312",
+            "character": "畫",
+            "keyword": "Zeichnung",
+            "hint": "Creepy Campfire Stories: Der Screenwriter macht mit dem PINSEL eine Zeichnung der Episode mit dem GEHIRN auf dem BODEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "313",
+            "character": "劃",
+            "keyword": "kratzen",
+            "hint": "Wenn man jemandem dem Rücken kratzen will, kann man ihn auch mit einem SÄBEL eine ZEICHNUNG auf dem Rücken malen",
             "primitive": "",
             "pinyin": ""
         }
