@@ -2723,6 +2723,142 @@
             "hint": "Wenn man jemandem dem Rücken kratzen will, kann man ihn auch mit einem SÄBEL eine ZEICHNUNG auf dem Rücken malen",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "313-1",
+            "character": "劃",
+            "keyword": "Zuchtmeister",
+            "hint": "",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "314",
+            "character": "攻",
+            "keyword": "angreifen",
+            "hint": "Ein VORARBEITER auf einer Baustelle befiehlt seinen Bauarbeitern, ein Häuschen eines Mütterchens anzugreifen, dass sich weigert ihr Haus für einen neuen Wolkenkratzer aufzugeben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "315",
+            "character": "敗",
+            "keyword": "unterliegen",
+            "hint": "Ein ZUCHTMEISTER lässt denjenigen Muscheln die rute spüren, die beim Nahkampftraining unterliegen.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "316",
+            "character": "故",
+            "keyword": "daher",
+            "hint": "Ein ZUCHTMEISTER sagt warum er streng ist: Das kommt daher, weil ich so ALTERTÜMLICHE Ansichten mit Menschenführung habe",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "317",
+            "character": "救",
+            "keyword": "retten",
+            "hint": "Mann ertrinkt und fragt den ZUCHTMEISTER, einen Deutsch- und Schwimmlehrer: Ich möchte erlesenst NACHFRAGEN, mich doch bitte zu retten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "318",
+            "character": "敬",
+            "keyword": "verehren",
+            "hint": "Der ZUCHTMEISTER zur rechten sagt einem, wen man mit blumigen Sätzen zu verehren hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "319",
+            "character": "敞",
+            "keyword": "geräumig",
+            "hint": "ZUCHTMEISTER erhält ein neues geräumiges Büro als Zeichen der WERTSCHÄTZUNG von seinen Vorgesetzten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "320",
+            "character": "言",
+            "keyword": "sagen",
+            "hint": "Schallwellen steigen aus einem MUND auf",
+            "primitive": "Wörter",
+            "pinyin": ""
+        },
+        {
+            "frame": "321",
+            "character": "警",
+            "keyword": "Polizei",
+            "hint": "Wenn man rechts ranfahren muss, will man den Wachtmeister mit Worten hoch VEREHREN, um nur eine Verwarnung zu bekommen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "322",
+            "character": "計",
+            "keyword": "Plan",
+            "hint": "Bei einem guten Plan werden zunächst mit WORTEN grob etwas festgelegt, dann wird mit einer NADEL Kurs und Geschwindigkeit des Handelns festgelegt. Es wird ein Angriffsplan auf einem Schlachtschiff geschmiedet, der dann auf die Instrumente übertragen wird",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "323",
+            "character": "獄",
+            "keyword": "Gefängnis",
+            "hint": "Gefängnis für Hunde: Ein kleiner CHIHUAHUA wird von den harten Knasti-Insassen, einem RUDEL HUNDE drangsaliert, alles was der kleine Hund zwischen sich und die Hunde werfen kann sind WORTE",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "323",
+            "character": "獄",
+            "keyword": "Gefängnis",
+            "hint": "Gefängnis für Hunde: Ein kleiner CHIHUAHUA wird von den harten Knasti-Insassen, einem RUDEL HUNDE drangsaliert, alles was der kleine Hund zwischen sich und die Hunde werfen kann sind WORTE",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "324",
+            "character": "討",
+            "keyword": "anprangern",
+            "hint": "WORTE die anprangern, bleiben wie Leim haften. Jemand wird per Katapult an eine Wand geklebt, dort wird er dann angeprangerts",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "325",
+            "character": "訓",
+            "keyword": "Belehrung",
+            "hint": "Im FLUSSFreibad wird man vor dem Eintauchen noch vom Bademeister belehrt: Störmung beachten, nicht mit vollem Magen, keine Kopfsprünge usw..",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "326",
+            "character": "話",
+            "keyword": "Gerede",
+            "hint": "Jemand hat GESAGT dass der Lehrer sich beim SPRECHEN die ZUNGE abgebissen hat, alles nur Gerede ",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "327",
+            "character": "詩",
+            "keyword": "Gedicht",
+            "hint": "In einem Kloster wird wenig gesprochen, die Worte werden mit Bedacht gewählt. Deshalb SPRECHEN MÖNCHE in BUDDHISTISCHEN TEMPELN oft wie Gedichte. Konfuzius sagt in einem Tempel Gedichte auf",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "328",
+            "character": "語",
+            "keyword": "Sprache",
+            "hint": "Die eigene Sprache sind fest mit dem eigenem ICH verbunden, sie dient nicht zwangsweise der Kommunikation, sondern man denkt auch in der Sprache. Dann spricht man zu sich selbst in seiner Sprache",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
