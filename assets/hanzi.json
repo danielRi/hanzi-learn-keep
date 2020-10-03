@@ -2981,6 +2981,102 @@
             "hint": "Eine PARADE wird zu einem MESSERWerfer Schlacht zwei rivalisierenden Musikkapellen",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "342",
+            "character": "城",
+            "keyword": "Stadt",
+            "hint": "Ein Haufen Erde WIRD irgendwann zu einer STADT, wenn man nur lang genug darauf baut",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "343",
+            "character": "誠",
+            "keyword": "aufrichtig",
+            "hint": "Bei aufrichtigen Menschen kann man sicher sein, dass ihre WORTE später auch ZU etwas WERDEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "343-1",
+            "character": "戌",
+            "keyword": "Marsch",
+            "hint": "Bei einem Marsch handelt es sich um eine gemeinsame Demonstration für eine SACHE, darauf deutet die EINS hin, eine PARADE mit EINigkeit",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "344",
+            "character": "威",
+            "keyword": "Macht",
+            "hint": "Ein MARSCH von FRAUEN, die für Gleichberechtigung demonstrieren. Eine neue Macht, die den Chauvinisten nicht gefällt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "345",
+            "character": "滅",
+            "keyword": "vernichten",
+            "hint": "Ein MARSCH von BRÄNDEN, der aber von den WASSERWerfern der Polizei vernichtet wird",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "346",
+            "character": "咸",
+            "keyword": "salzig (ist glaube ich simplified, Fehler im Buch)",
+            "hint": "Ein MARSCH von MÜNDERN, die gegen zu salziges Essen protestieren",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "347",
+            "character": "減",
+            "keyword": "verringern",
+            "hint": "Eine Gruppe von MÜNDERN MARSCHIERT durchs Land und trinkt WASSER, wo immer sie es finden, bis sich die Vorräte so sehr verringert haben, dass ein Notstand droht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "348",
+            "character": "單",
+            "keyword": "Liste",
+            "hint": "Eine QUASSELSTRIPPE liest eine Liste mit Auktionsgegenständen und Geboten vor, die Gehirne der Bietenden haben eine kleine Nadel eingebaut, die Mitbieten oder Ausseigen anzeigt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "349",
+            "character": "戰",
+            "keyword": "Krieg",
+            "hint": "Am Ende eines Krieges gibt es eine LISTE mit den Toten, und ein STRAßENFEST, auf dem der Sieg gefeiert wird",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "350-1",
+            "character": "戔",
+            "keyword": "Festwagen",
+            "hint": "Ein Festwagen auf einem STRAßENFEST ist ein eigenes kleines STRAßENFEST für sich: Feiernde, DJ, Getränkebar usw... Deshalb ist ein Festwagen ein Straßenfest AUF einem Straßenfest",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "351",
+            "character": "錢",
+            "keyword": "Münze",
+            "hint": "Von einem FESTWAGEN einer Hochzeit wird GOLDENES METALL geworfen, natürlich handelt es sich um Münzen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "352",
+            "character": "賎",
+            "keyword": "billig",
+            "hint": "Der billigste Geizhals der Stadt wirft von seinem FESTWAGEN statt Münzen einfach wirklich Muscheln",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
