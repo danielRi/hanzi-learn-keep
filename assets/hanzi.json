@@ -2851,6 +2851,136 @@
             "hint": "Die eigene Sprache sind fest mit dem eigenem ICH verbunden, sie dient nicht zwangsweise der Kommunikation, sondern man denkt auch in der Sprache. Dann spricht man zu sich selbst in seiner Sprache",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "329",
+            "character": "讀",
+            "keyword": "lesen",
+            "hint": "Ein Magier hat alle Menschen stumm gemacht und hat nun WORTE zu VERKAUFEN. Das Wort das er verkauft hat, muss man von einer Schriftrolle lesen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "330",
+            "character": "讀",
+            "keyword": "Melodie",
+            "hint": "Eine Melodie ist eine Runde Musik ohne Worte. Wenn man aus einer Strophoe eine RUNDE WORTE rausnimmt, bleibt nur noch die Melodie übrig",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "331",
+            "character": "談",
+            "keyword": "diskutieren",
+            "hint": "Wenn man diskutiert wird man oft übereifrig mit der eigenen Meinung, was zu einer ENTZÜNDUNG der WORTE führt. Trump fehlt beim TV Duell die WORTE, weil er beim diskutieren im TV Duell eine LungenENTZÜNDUNG bekommt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "332",
+            "character": "這",
+            "keyword": "dieses",
+            "hint": "Das WORT dieses kommt auf einer STRAßE auf uns zu und verschwindet unter der Motorhaube - sehr verwirrend",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "16": [
+        {
+            "frame": "332-1",
+            "character": "",
+            "keyword": "Pfeil",
+            "hint": "Pfeil. die Spitze oben und die Feder unten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "333",
+            "character": "式",
+            "keyword": "Stil",
+            "hint": "Pfeile herstellen ist ARBEIT. Jeder Pfeilmacher hat seinen eigenen Stil. Hier hat er einen modischen Pfeil im Industrial Stil, der als Schaft einen Stahlträger hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "334",
+            "character": "試",
+            "keyword": "probieren",
+            "hint": "Bevor ein Produzent einen neuen STIL auf den Markt bringt, lässt er ihn Testpersonen probieren und bittet Sie dazu ein Paar WORTE zu verlieren",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "335",
+            "character": "戈",
+            "keyword": "Hellebarde",
+            "hint": "Bild einer Hellebarde",
+            "primitive": "Straßenfest (Der mittlere Strich ist eine Zierquaste zum Schmücken)",
+            "pinyin": ""
+        },
+        {
+            "frame": "336",
+            "character": "戈",
+            "keyword": "oder",
+            "hint": "...oder es setzt was! Zur Strafe liegt manm it dem MUND auf dem BODEN, während draussen ein tollen STRAßENFEST läuft",
+            "primitive": "Straßenfest (Der mittlere Strich ist eine Zierquaste zum Schmücken)",
+            "pinyin": ""
+        },
+        {
+            "frame": "337",
+            "character": "賊",
+            "keyword": "Einbrecher",
+            "hint": "Während draußen das STRAßENFEST läuft, wird mit der NADEL ein Schloss geknackt, um die FamilienMUSCHELN zu stehlen",
+            "primitive": "Straßenfest (Der mittlere Strich ist eine Zierquaste zum Schmücken)",
+            "pinyin": ""
+        },
+        {
+            "frame": "337-1",
+            "character": "",
+            "keyword": "Erntedankfest",
+            "hint": "Erd-Fest",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "338",
+            "character": "載",
+            "keyword": "beladen",
+            "hint": "Ein WAGEN auf einem ERNTEDANKFEST, er ist beladen mit prächtigem Gemüse, Obst usw...",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "339",
+            "character": "鐵",
+            "keyword": "Eisen",
+            "hint": "Auf dem ERNTEDANKFEST gibt es einen Wettberwerb für das nützlichste Bodenprodukt, sie REICHEN ein Stück Eisen EIN, nach etwas Gelächter gewinnen Sie doch die GOLDMedaille",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "339-1",
+            "character": "戊",
+            "keyword": "Parade",
+            "hint": "STRAßENFEST hat einen Festzug/Parade, aus oder in eine EINFASSUNG (der rechte Strich) hinaus/hinein",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "340",
+            "character": "茂",
+            "keyword": "üppig",
+            "hint": "Eine ganze PARADE von üppig vorhandenen Unkräutern (= verstoßenen BLUMEN)",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "341",
+            "character": "成",
+            "keyword": "werden zu",
+            "hint": "Eine PARADE wird zu einem MESSERWerfer Schlacht zwei rivalisierenden Musikkapellen",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
