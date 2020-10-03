@@ -2468,14 +2468,6 @@
         },
         {
             "frame": "289",
-            "character": "冗",
-            "keyword": "tiefgründig",
-            "hint": "Philosoph denkt tiefgründig über Metaphysisches nach, bis Schweißperlen (WASSERPerlen) auf seiner Stirn sind. Der Nachbar meint, das Metaphysis Zeugs ist ÜBERFLÜSSIG",
-            "primitive": "",
-            "pinyin": ""
-        },
-        {
-            "frame": "289",
             "character": "沉",
             "keyword": "tiefgründig",
             "hint": "Philosoph denkt tiefgründig über Metaphysisches nach, bis Schweißperlen (WASSERPerlen) auf seiner Stirn sind. Der Nachbar meint, das Metaphysis Zeugs ist ÜBERFLÜSSIG",
@@ -2492,7 +2484,7 @@
         },
         {
             "frame": "291",
-            "character": "",
+            "character": "輝",
             "keyword": "ein Strahlen",
             "hint": "prächtiger GEKRÖNTER STREITWAGEN, von dem ein Strahlen ausgeht. Der STREITWAGEN hat ausserdem Scheinwerfer, damit er auch nachts angreifen kann",
             "primitive": "",
@@ -2613,7 +2605,7 @@
         {
             "frame": "303",
             "character": "景",
-            "keyword": "kühl",
+            "keyword": "Landschaft",
             "hint": "SONNE die über dem HAUPTSTADTGEBÄUDE aufgeht, ein perfektes Bild wie man sich in Nordkorea ein Landschaftsbild vorstellt",
             "primitive": "",
             "pinyin": ""
