@@ -2361,8 +2361,8 @@
             "pinyin": ""
         },
         {
-            "frame": "279",
-            "character": "",
+            "frame": "278-1",
+            "character": "俞",
             "keyword": "Schlachthof",
             "hint": "ZUSAMMENKUNFT von SCHLACHTERN",
             "primitive": "",
@@ -2862,7 +2862,7 @@
         },
         {
             "frame": "330",
-            "character": "讀",
+            "character": "調",
             "keyword": "Melodie",
             "hint": "Eine Melodie ist eine Runde Musik ohne Worte. Wenn man aus einer Strophoe eine RUNDE WORTE rausnimmt, bleibt nur noch die Melodie übrig",
             "primitive": "",
@@ -2920,7 +2920,7 @@
         },
         {
             "frame": "336",
-            "character": "戈",
+            "character": "或",
             "keyword": "oder",
             "hint": "...oder es setzt was! Zur Strafe liegt manm it dem MUND auf dem BODEN, während draussen ein tollen STRAßENFEST läuft",
             "primitive": "Straßenfest (Der mittlere Strich ist eine Zierquaste zum Schmücken)",
@@ -3024,7 +3024,7 @@
         },
         {
             "frame": "346",
-            "character": "咸",
+            "character": "鹹",
             "keyword": "salzig (ist glaube ich simplified, Fehler im Buch)",
             "hint": "Ein MARSCH von MÜNDERN, die gegen zu salziges Essen protestieren",
             "primitive": "",
