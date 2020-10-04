@@ -3078,5 +3078,39 @@
             "primitive": "",
             "pinyin": ""
         }
+    ],
+    "17": [
+        {
+            "frame": "353",
+            "character": "止",
+            "keyword": "stoppen",
+            "hint": "Grobes Bild eines Fußabdrucks",
+            "primitive": "Fußabdruck, wenn geschwungen ist das Primitiv: Spur von Fußstapfen",
+            "pinyin": ""
+        },
+        {
+            "frame": "354",
+            "character": "步",
+            "keyword": "Schritt",
+            "hint": "FUSSABDRÜCKE die mit WENIG Abstand aufeinander folgen, wie einige gemütliche Schritte ohne Hast",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "355",
+            "character": "涉",
+            "keyword": "durchwaten",
+            "hint": "Mit langsamen SCHRITTEN im WASSER vorsichtig vortasten, wenn man eine Furt durchwatet",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "356",
+            "character": "涉",
+            "keyword": "häufig",
+            "hint": "Wichtige Dinge wie die Erzählungen zu den Schriftzeichen kann man sich häufig durch den KOPF gehen lassen, so führt das SCHRITT für SCHRITT zum Lernziel",
+            "primitive": "",
+            "pinyin": ""
+        }
     ]
 }
