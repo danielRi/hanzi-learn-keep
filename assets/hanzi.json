@@ -3106,9 +3106,81 @@
         },
         {
             "frame": "356",
-            "character": "涉",
+            "character": "頻",
             "keyword": "häufig",
             "hint": "Wichtige Dinge wie die Erzählungen zu den Schriftzeichen kann man sich häufig durch den KOPF gehen lassen, so führt das SCHRITT für SCHRITT zum Lernziel",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "357",
+            "character": "肯",
+            "keyword": "zustimmen",
+            "hint": "Mit FUSSABDRÜCKEN auf FLEISCH hat man zur Zeit der Weimarer Republik mit Hilfe von Schlägertrupps Leute zum Zustimmen des Parteiprogramms gebracht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "358",
+            "character": "企",
+            "keyword": "herbeisehnen",
+            "hint": "Man wünscht sich sehnlichst den Urlaub herbei, bei dem man unter einem SONNENSCHIRM STOPPT und sich in den Sand legt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "359",
+            "character": "歲",
+            "keyword": "Lebensjahre",
+            "hint": "Ein MARSCH von WENIGEN FUßSTAPFEN, wenn man schon gewisse Lebensjahre gelebt hat wird es Zeit, in jemandes FUßSTAPFEN zu treten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "360",
+            "character": "武",
+            "keyword": "militärisch",
+            "hint": "Von Sun Tsu, die Kunst des Krieges, soll man den Feind lieber unversehrt lassen, also zu vernichten. Hier wird EIN einziger PFEIL abgefeuert, damit er STOPPT. Das ist militärische Kriegskunst",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "361",
+            "character": "賦",
+            "keyword": "Besteuerung",
+            "hint": "Hier wird GELD eingesammelt, um MILITÄRISCHE Ausgaben zu decken, und zwar von Finanzbeamten als Fallschirmjägern",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "362",
+            "character": "正",
+            "keyword": "richtig",
+            "hint": "Der ERSTE SCHRITT einer langen Reise muss in die richtige Richtung gehen, sont geht die Reise schief. Das gleiche gilt für Eltern und Lehrer beim Berichtigen von Erstklässlern",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "363",
+            "character": "政",
+            "keyword": "Politik",
+            "hint": "Bei Politik geht es darum, den RICHTIGEN ZUCHTMEISTER für das regieren von Menschen zu finden",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "363-1",
+            "character": "",
+            "keyword": "ausbessern",
+            "hint": "Das Schriftzeichen RICHTIG, nur ausgebessert. Wie eine Hose ausbessern",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "364",
+            "character": "定",
+            "keyword": "bestimmen",
+            "hint": "Manchmal muss man einfach mal was bestimmen, um den HAUSFrieden zu RICHTEN, z.B. wenn Teenager Kinder rumzicken",
             "primitive": "",
             "pinyin": ""
         }
