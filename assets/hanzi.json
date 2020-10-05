@@ -2718,7 +2718,7 @@
         },
         {
             "frame": "313-1",
-            "character": "劃",
+            "character": "",
             "keyword": "Zuchtmeister",
             "hint": "",
             "primitive": "",
@@ -3181,6 +3181,102 @@
             "character": "定",
             "keyword": "bestimmen",
             "hint": "Manchmal muss man einfach mal was bestimmen, um den HAUSFrieden zu RICHTEN, z.B. wenn Teenager Kinder rumzicken",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "365",
+            "character": "走",
+            "keyword": "laufen",
+            "hint": "Laufen BESSERT die ERDE aus. Autofahren zerstört die Erde, deshalb ist besser, einfach zu laufen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "366",
+            "character": "超",
+            "keyword": "übersteigen",
+            "hint": "Man wird EINBERUFEN, in der muss man beim Marschieren lange LAUFEN, bis es die eigene Leistungsfähigkeit übersteigt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "367",
+            "character": "越",
+            "keyword": "überschreiten",
+            "hint": "Eine PARADE LÄUFT von einer Stadt in die nächste und überschreitet dadurch sämtliche guten Sitten, Leute pinkeln in Gärten usw...",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "368",
+            "character": "是",
+            "keyword": "sein",
+            "hint": "Sein oder nicht Sein! Das NACHPLAPPERN von solchen schönen Zitaten VERBESSERT die eigene Sprache",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "369",
+            "character": "題",
+            "keyword": "Thema",
+            "hint": "Das Thema einer Abschlussarbeit steht ober auf der ersten SEITE, das Thema ist Shakespeare, sie sollte dann auch gut SEIN, sonst ISSE daneben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "369-1",
+            "character": "題",
+            "keyword": "Strecke oder strecken",
+            "hint": "Das Thema einer Abschlussarbeit steht ober auf der ersten SEITE, das Thema ist Shakespeare, sie sollte dann auch gut SEIN, sonst ISSE daneben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "370",
+            "character": "建",
+            "keyword": "errichten",
+            "hint": "Zum Gebäude errichten wird erst ein Plan GEPINSELT, und die Zeichnung dann so lange STRECKEN, bis ein echtes Gebäude errichten ist.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "371",
+            "character": "延",
+            "keyword": "verlängern",
+            "hint": "Wenn man verreist und auf der STRECKE nur das KLEINSTE WEILCHEN STOPPT, verlängert sicht die Reisezeit. So wie wenn ein Zug auf einem STRECKENAbschnitt STOPPT ",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "372",
+            "character": "誕",
+            "keyword": "Geburt",
+            "hint": "Johannes Evangelium: Am Anfang war das WORT. Wenn man dieses erste WORT zum ganzen Evangelium verlängert, landet man bei der GEBURT, die wir jedes Jahr am Weihnachten feiern",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "372-1",
+            "character": "",
+            "keyword": "Zoo",
+            "hint": "Im Raubtiergehege im Zoo muss ein kleiner ZACKEN vom spitzen Zaun AUSGEBESSERT werden",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "373",
+            "character": "楚",
+            "keyword": "klar",
+            "hint": "Einen ZOO im FORSTLand anlegen: Die Tiere fühlen sich wohl, aber die Besucher haben keinen klaren Blick mehr ausser auf Bäume",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "373",
+            "character": "礎",
+            "keyword": "Fundament",
+            "hint": "Der erste STEIN, der GrundSTEIN legt das Fundament, er dient als KLARE Anleitung zum weitere Vorgehen. Der erste Stein ist klar, also durchsichtig, und zeigt im inneren ein 3D Modell des fertigen Gebäudes",
             "primitive": "",
             "pinyin": ""
         }
