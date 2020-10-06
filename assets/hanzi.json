@@ -3273,10 +3273,92 @@
             "pinyin": ""
         },
         {
-            "frame": "373",
+            "frame": "374",
             "character": "礎",
             "keyword": "Fundament",
             "hint": "Der erste STEIN, der GrundSTEIN legt das Fundament, er dient als KLARE Anleitung zum weitere Vorgehen. Der erste Stein ist klar, also durchsichtig, und zeigt im inneren ein 3D Modell des fertigen Gebäudes",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "18": [
+        {
+            "frame": "375",
+            "character": "衣",
+            "keyword": "Gewand",
+            "hint": "Bild von Falten eines Gewnds",
+            "primitive": "Gewand, wenn es links steht: Umhang, wenn es unten, ohne Zylinder steht: Schal, leicht verändert: Halstuch, getrennt: Zylinderhut und Seidenschal",
+            "pinyin": ""
+        },
+        {
+            "frame": "376",
+            "character": "裡裏",
+            "keyword": "das Innere",
+            "hint": "Ein als Zorro verkleideter Spion, der in seinem UMHANG einen COMPUTER hat, bzw. in seinem ZYLINDERHUT UND SEIDENSCHAL einen COMPUTER eingenäht hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "377",
+            "character": "哀",
+            "keyword": "Kummer",
+            "hint": "Ein Betrunkener, mit ZYLINDERHUT UND SEIDENSCHAL sitzt in einer Bar und trinkt immer wieder von seinem guten Wein mit offenem Mund, und erzählt von seinem Kummer, wie der bei Otto der Film",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "378",
+            "character": "袁",
+            "keyword": "Yuan",
+            "hint": "Ein dubioser Politiker, sozusagen ein chinesischer Franz Josef Strauss, mit BIERSEIDEL und SCHAL",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "379",
+            "character": "遠",
+            "keyword": "weit",
+            "hint": "Weit entfernt auf einer Landstraße, fährt Yuan Shikai in die Annalen als dubioser Politiker ein",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "380",
+            "character": "壞",
+            "keyword": "weit",
+            "hint": "Ein Aristokrat (in ZYLINDERHUT UND SEIDENSCHAL) richtet seine AUGEN auf eine SCHNEEFLOCKE, und sucht darin nach kleinen DRECKKrümeln, um damit seine makabre Weltsicht zu befriedigen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "381",
+            "character": "初",
+            "keyword": "elementar",
+            "hint": "MANTEL und DEGEN Filmindustrie: Budgetfilme erhielten nur noch diese elementaren Elemente, wegen Budgetkürzungen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "382",
+            "character": "巾",
+            "keyword": "Tuch",
+            "hint": "Ein superdünnes Model kommt gerade aus der Dusche und hat sich ein Handtuch übergeworfen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "383",
+            "character": "布",
+            "keyword": "Stoff",
+            "hint": "Ein Zimmermädchen trägt Frottee-Stoff AN DER SEITE, um damit neue TÜCHER fürs Bad zu schneidern, damit sie keine waschen muss",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "384",
+            "character": "帽",
+            "keyword": "Hut",
+            "hint": "Nichts RISKIEREN! Denken Sie sich und binden sich ein HUT um, um keinen Sonnenbrand zu bekommen",
             "primitive": "",
             "pinyin": ""
         }
