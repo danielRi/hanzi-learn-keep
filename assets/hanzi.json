@@ -3361,6 +3361,142 @@
             "hint": "Nichts RISKIEREN! Denken Sie sich und binden sich ein HUT um, um keinen Sonnenbrand zu bekommen",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "385",
+            "character": "幕",
+            "keyword": "Vorhang",
+            "hint": "Ein FRIEDHOF der statt Tore HANDTÜCHER hat. Die Toten auf dem Friedhof haben die Handtücher einst gestohlen, werden jetzt von ihnen heimgesucht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "385-1",
+            "character": "帛",
+            "keyword": "weißes Badetuch",
+            "hint": "Einfach ablesen: WEIßES TUCH",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "386",
+            "character": "棉",
+            "keyword": "Baumwolle",
+            "hint": "Große Baumwoll Klumpen hängen hier an BÄUMEN, die Klumpen sind größer als WEIßE BADETÜCHER. Falls das Ernten zu schwer wird, kann man sich mit den Badetüchern den Schweiß abwischen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "387",
+            "character": "幫",
+            "keyword": "helfen",
+            "hint": "Erste Hilfe bei Verletzten: Eine Wunde wird VERSIEGELT mit einem frisch gewaschenen WEIßEN BADETUCH",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "388",
+            "character": "市",
+            "keyword": "Markt",
+            "hint": "Mit nichts als einem ZYLINDERHUT und einem HANDTUCH bekleidet gehen Sie zum Markt, um dort zu shoppen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "389",
+            "character": "肺",
+            "keyword": "Lunge",
+            "hint": "Auf dem MARKT gehen sie FLEISCH einkaufen, erstaunlicherweise gibt es zwischen dem ganzen Fleisch auch ein Päckchen mit der Aufschrift Lunge",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "389-1",
+            "character": "肺",
+            "keyword": "Schürze",
+            "hint": "Ein großes TUCH mit Rändern, die wie KRÖNCHEN gezackt sind - die Schürze eines Kochs",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "390",
+            "character": "帶",
+            "keyword": "Gurt",
+            "hint": "Eine SCHÜRZE wird von einem Gurt gehalten, die oberen Striche über der Schürze stellen den Gurt da, wie ein Wrestler Titel-Gurt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "391",
+            "character": "滯",
+            "keyword": "stagnierend",
+            "hint": "Wer sich zu fest ANGURTET, an den Job oder Wohnsitz, wird wie stehendes WASSER und stagniert",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "391-1",
+            "character": "冂",
+            "keyword": "Gürtel",
+            "hint": "Vom Tuch, wie eine Gürtelschnalle",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "391-2",
+            "character": "朿",
+            "keyword": "Dorn (primitiv)",
+            "hint": "Ein Dornengürtel schlingt sich um einen BAUM",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "392",
+            "character": "刺",
+            "keyword": "Dorn",
+            "hint": "Ein BAUM, der von einem DornenGÜRTEL umschlungen wird, fühlt sich als wird von einem SÄBEL zerschnitten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "393",
+            "character": "制",
+            "keyword": "System",
+            "hint": "Ein System, eine KUHE zum SÄBEL des Metzgers zu führen: die KUH wird mit einem GÜRTEL um ihre Hüfte an der Decke hochgezogen und baumelt dann in ihr Schicksal",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "394",
+            "character": "製",
+            "keyword": "herstellen",
+            "hint": "Um GEWÄNDER herzustellen braucht es ein internationales SYSTEM für Produktion und Vertrieb. Aufnäher auf GEWÄNDERN zeigen das -> Made in China",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "395",
+            "character": "云",
+            "keyword": "äußern",
+            "hint": "Bild von aufsteigenden Schwaden heißer Luft, wenn sich ein langweiliger Professor zu seinen Theorien äußert und einen Vortrag hält",
+            "primitive": "Schwaden von Dampf, Rauch oder Staub",
+            "pinyin": ""
+        },
+        {
+            "frame": "396",
+            "character": "雨",
+            "keyword": "Regen",
+            "hint": "Bild von einem Himmel unter dem eine Wolke voller Regen hängt",
+            "primitive": "Regen oder Wetter",
+            "pinyin": ""
+        },
+        {
+            "frame": "397",
+            "character": "雲",
+            "keyword": "Wolke",
+            "hint": "Aufsteigende DampfSCHWADEN, die die oben hängende REGENWolke weiter füttert",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
