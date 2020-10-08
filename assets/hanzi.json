@@ -3497,6 +3497,142 @@
             "hint": "Aufsteigende DampfSCHWADEN, die die oben hängende REGENWolke weiter füttert",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "398",
+            "character": "雷",
+            "keyword": "Donner",
+            "hint": "Auf einem offenem REISFELD erfährt man die ganze Gewalt des Donners, eines Gewitters am Besten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "399",
+            "character": "電",
+            "keyword": "Elektrizität",
+            "hint": "Bild eines Flugdrachens im Gewitter (der REGENWOLKE), mit dem Ben Franklin angeblich die Elektrizität bewiesen hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "400",
+            "character": "霜",
+            "keyword": "Frost",
+            "hint": "Die üblen Mächte des Wetters sind auf einer Konferenz machen sich EINANDER tückische Vorschläge, beschlossen wird: Erst etwas REGEN und dann Frost",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "400-1",
+            "character": "冫",
+            "keyword": "Eis (primitiv)",
+            "hint": "Die drei Tropfen des Wassers verdichten sich zu zweien, symbolisiert das Erstarren von Wasser zu Eis",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "401",
+            "character": "冰",
+            "keyword": "Eis",
+            "hint": "Eis und Wasser - gefrorenes Wasser - Eis",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "402",
+            "character": "冬",
+            "keyword": "Winter",
+            "hint": "ein WANDERSMANN rutscht über gefrorenes EIS - er geht im Winter spazieren",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "403",
+            "character": "天",
+            "keyword": "Himmel",
+            "hint": "Bild eines großen Mannes, dem Herrn des Himmels",
+            "primitive": "paradiesischer Himmel, blauer Himmel",
+            "pinyin": ""
+        },
+        {
+            "frame": "404",
+            "character": "夭",
+            "keyword": "jung sterben",
+            "hint": "BERNHARDINER sterben wegen Augenfehler oft jung, hier ist einer mit einem schlecht sitzenden Heiligenschein, der zu junge gestorben ist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "405",
+            "character": "喬",
+            "keyword": "vortäuschen",
+            "hint": "Jemand täuscht einen HÖHEREN Lebensstil vor, als er eigentlich hat. Als Resultat STRIBT er JUNG, da Bankraub, schnelle Autos, Schönheits OPs usw..",
+            "primitive": "Engel",
+            "pinyin": ""
+        },
+        {
+            "frame": "406",
+            "character": "橋",
+            "keyword": "Brücke",
+            "hint": "Ein Brücke aus BAUMSTÄMMEN mit ENGELSfiguren drauf, ein bisschen wie eine Holzversion der alten Mainbrücke in Würzburg",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "407",
+            "character": "嬌",
+            "keyword": "zart",
+            "hint": "Ein zarte Frau, wie ein Engel...",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "408",
+            "character": "立",
+            "keyword": "stehend",
+            "hint": "Bild einer stehenden Vase",
+            "primitive": "Vase, etwas das steht, was normalerweise liegt",
+            "pinyin": ""
+        },
+        {
+            "frame": "409",
+            "character": "泣",
+            "keyword": "schluchzen",
+            "hint": "Man schluchzt hat man geweint, bis einem das WASSER im Auge STEHT",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "410",
+            "character": "站",
+            "keyword": "Haltestelle",
+            "hint": "An einer Haltestelle können Leute STEHEND WAHRSAGEN, wann wohl der nächste Bus kommt, oder ob",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "411",
+            "character": "章",
+            "keyword": "Kapitel",
+            "hint": "Eine SONNENBLUME in der statt Kerne Mini-VASEN wachsen. An jeder Mini-Vase hängt ein Schlüssel zu einer verschlossenen Bücher Reihe, und jeder Schlüssel öffnet ein weiteres Kapitel",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "412",
+            "character": "競",
+            "keyword": "konkurrieren",
+            "hint": "STEHEN wwei TEENAGER auf das selbe Mitglied des anderen Geschlechts, wird Brunft-Hirsch Style um Liebe konkurriert",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "413",
+            "character": "帝",
+            "keyword": "Imperator",
+            "hint": "Der Imperator von Star Wars, STEHEND in einer SCHÜRZE gekleidet, die Frau hat ihn bei der Mithilfe beim Abwasch gebeten",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
