@@ -2718,7 +2718,7 @@
         },
         {
             "frame": "313-1",
-            "character": "",
+            "character": "攵",
             "keyword": "Zuchtmeister",
             "hint": "",
             "primitive": "",
@@ -3226,7 +3226,7 @@
         },
         {
             "frame": "369-1",
-            "character": "題",
+            "character": "",
             "keyword": "Strecke oder strecken",
             "hint": "Das Thema einer Abschlussarbeit steht ober auf der ersten SEITE, das Thema ist Shakespeare, sie sollte dann auch gut SEIN, sonst ISSE daneben",
             "primitive": "",
@@ -3325,7 +3325,7 @@
         {
             "frame": "380",
             "character": "壞",
-            "keyword": "weit",
+            "keyword": "schlecht",
             "hint": "Ein Aristokrat (in ZYLINDERHUT UND SEIDENSCHAL) richtet seine AUGEN auf eine SCHNEEFLOCKE, und sucht darin nach kleinen DRECKKrümeln, um damit seine makabre Weltsicht zu befriedigen",
             "primitive": "",
             "pinyin": ""
@@ -3412,7 +3412,7 @@
         },
         {
             "frame": "389-1",
-            "character": "肺",
+            "character": "",
             "keyword": "Schürze",
             "hint": "Ein großes TUCH mit Rändern, die wie KRÖNCHEN gezackt sind - die Schürze eines Kochs",
             "primitive": "",
