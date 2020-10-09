@@ -3633,6 +3633,86 @@
             "hint": "Der Imperator von Star Wars, STEHEND in einer SCHÜRZE gekleidet, die Frau hat ihn bei der Mithilfe beim Abwasch gebeten",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "414",
+            "character": "童",
+            "keyword": "Knabe",
+            "hint": "Unreal Tournament Kind STEHT auf dem COMPUTER, oder springt drauf rum, weil UT99 nicht lädt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "415",
+            "character": "鐘",
+            "keyword": "Glocke",
+            "hint": "Mit einem Stück METALL holt man KNABEN an den Mittagstisch, vielleicht in eine große Glocke in einem Shaolin Kloster",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "416",
+            "character": "商",
+            "keyword": "Geschäftsmann",
+            "hint": "ein genialer Geschäftsmann STEHT auf einem MOTORRADHELM, in dem er TIERBEINCHEN und MÜNDER gelagert hat, die er verkauft",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "416-1",
+            "character": "啇",
+            "keyword": "Antiquität",
+            "hint": "Diesmal hat der Geschäftsmann etwas ALTERTÜMLICHES in seinem MOTORRADHELM, auf dem er steht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "417",
+            "character": "適",
+            "keyword": "geeignet",
+            "hint": "ANTIQUITÄTEN sind ziemlich nutzlos, am besten dafür geeignet, auf einer LANDSTRAßE rumzustehen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "418",
+            "character": "敵",
+            "keyword": "Feind",
+            "hint": "Mein meist gehasster ZUCHTMEISTER stößt meine liebste ANTIQUITÄT um, jetzt ist er mein Fein",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "419",
+            "character": "匕",
+            "keyword": "altertümlicher Löffel",
+            "hint": "Bild eines Löffels?",
+            "primitive": "Löffel, jemand der am Boden sitzt",
+            "pinyin": ""
+        },
+        {
+            "frame": "420",
+            "character": "北",
+            "keyword": "Norden",
+            "hint": "Im Norden ist es kalt, so dass zwei Leute Rücken an Rücken AUF DEM BODEN SITZEN",
+            "primitive": "Löffel, jemand der am Boden sitzt",
+            "pinyin": ""
+        },
+        {
+            "frame": "421",
+            "character": "背",
+            "keyword": "Rücken",
+            "hint": "Zwei die Rücken an Rücken auf dem BODEN SITZEN, um ihr FLEISCH zu schützen, nämlich den Rücken",
+            "primitive": "Löffel, jemand der am Boden sitzt",
+            "pinyin": ""
+        },
+        {
+            "frame": "422",
+            "character": "比",
+            "keyword": "vergleichen",
+            "hint": "Mit ZWEI LÖFFELN vergleichen sie die Kochkünste ihrer Frau und ihrer Mutter",
+            "primitive": "Löffel, jemand der am Boden sitzt",
+            "pinyin": ""
         }
     ]
 }
