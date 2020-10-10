@@ -3695,7 +3695,7 @@
             "character": "北",
             "keyword": "Norden",
             "hint": "Im Norden ist es kalt, so dass zwei Leute Rücken an Rücken AUF DEM BODEN SITZEN",
-            "primitive": "Löffel, jemand der am Boden sitzt",
+            "primitive": "",
             "pinyin": ""
         },
         {
@@ -3703,7 +3703,7 @@
             "character": "背",
             "keyword": "Rücken",
             "hint": "Zwei die Rücken an Rücken auf dem BODEN SITZEN, um ihr FLEISCH zu schützen, nämlich den Rücken",
-            "primitive": "Löffel, jemand der am Boden sitzt",
+            "primitive": "",
             "pinyin": ""
         },
         {
@@ -3711,7 +3711,127 @@
             "character": "比",
             "keyword": "vergleichen",
             "hint": "Mit ZWEI LÖFFELN vergleichen sie die Kochkünste ihrer Frau und ihrer Mutter",
-            "primitive": "Löffel, jemand der am Boden sitzt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "423",
+            "character": "昆",
+            "keyword": "Abkömmlinge",
+            "hint": "Nichts neues Unter der SONNE - falsch! es gibt Zwei Abkömmlinge, die auf Familienähnlichkeiten VERGLICHEN werden",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "424",
+            "character": "混",
+            "keyword": "mischen",
+            "hint": "Mischehen VERWÄSSERN die ABKÖMMLINGE",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "425",
+            "character": "皆",
+            "keyword": "alle",
+            "hint": "Zwei Hausfrauen VERGLEICHEN wer die WEIßERE Wäsche hat, wie in der Waschmittel Werbung, das für alle Gewebe und alle Temperaturen geeignet ist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "426",
+            "character": "此",
+            "keyword": "dies (literarisch)",
+            "hint": "Ein literarisches Werk das mit dem Wort Dies beginnt. Das D ist wie im Mittelalter verziert: Mit lauter kleinen FUßABDRÜCKEN und SILBERLÖFFELCHEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "427",
+            "character": "些",
+            "keyword": "einiges",
+            "hint": "Das D des ZWEITEN Abschnitts des Buches mit dem verzierten D ist einiges weniger verziert",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "428",
+            "character": "它",
+            "keyword": "es",
+            "hint": "Am schönsten ist Es ZUHAUSE. Sagt jemand der bei sich ZUHAUSE auf DEM BODEN SITZT",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "429",
+            "character": "旨",
+            "keyword": "Zweck",
+            "hint": "Ein SOLARbetriebener LÖFFEL, den man zum ZWECK des Auflades umgedreht in die Sonne legt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "430",
+            "character": "脂",
+            "keyword": "fett",
+            "hint": "Wer war zuerst da, Henne oder Ei? Das Ei dient dem ZWECK der Fortpflanzung, und die KÖRPERTEILE haben den ZWECK das Fett zu halten. Was war zuerst da, Körperteile oder fett?",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "430-1",
+            "character": "",
+            "keyword": "zurückgelehnt",
+            "hint": "Bild eines Menschen, der sich zurücklehnt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "431",
+            "character": "每",
+            "keyword": "jedes Mal",
+            "hint": "jedes Mal, wenn man sich ZURÜCKLEHNT, kommt die Mama",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "432",
+            "character": "梅",
+            "keyword": "Asiatische Pflaume",
+            "hint": "wenn man wissen will wo die asiatische Pflaume herkommt, endet man JEDES MAL auf einen ebenso asiatischen BAUM",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "433",
+            "character": "海",
+            "keyword": "Meer",
+            "hint": "wenn man wissen will wo ein WASSERTROPFEN herkommt, endet man JEDES MAL irgendwie im Meer",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "434",
+            "character": "乞",
+            "keyword": "betteln",
+            "hint": "jeman LEHNT am Boden an einer Wand und bettelt mit einem HAKEN statt einer Hand um etwas Brot",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "435",
+            "character": "吃",
+            "keyword": "essen",
+            "hint": "Manche müssen den MUND öffnen, um um Essen zu BETTELN, damit sie was zu essen haben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "436",
+            "character": "乾",
+            "keyword": "trocken",
+            "hint": "Es sind trockene Zeiten, deshalb BETTELT man um etwas SPRÜHREGEN",
+            "primitive": "",
             "pinyin": ""
         }
     ]
