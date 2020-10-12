@@ -3833,6 +3833,128 @@
             "hint": "Es sind trockene Zeiten, deshalb BETTELT man um etwas SPRÜHREGEN",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "436-1",
+            "character": "复",
+            "keyword": "umkehren",
+            "hint": "Ein WANDERSMANN LEHNT sich zur Mittagszeit,  wenn die SONNE am höchsten steht zurück, und beschließt umzukehren und zum Wirtshaus zu gehen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "437",
+            "character": "複",
+            "keyword": "verdoppeln",
+            "hint": "Eine einfach Möglichkeit einen schicken UMHANG zu verdoppeln: wenn man den UMHANG mit Batik verziert hat, einfach UMKEHREN und gegen einen farblosen Umhang im Schrank drücken",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "438",
+            "character": "腹",
+            "keyword": "Unterleib",
+            "hint": "FLEISCH am Unterleib wegtrainieren: Zunächst mit der Nasenspitze die Knie berühren, dann UMKEHREN und mit dem Hinterkopf die Kniekehlen berühren",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "439",
+            "character": "欠",
+            "keyword": "mangeln",
+            "hint": "Bild von jemandem der gähnt, da es ihm an Schlaf mangelt",
+            "primitive": "gähnen, mangeln",
+            "pinyin": ""
+        },
+        {
+            "frame": "440",
+            "character": "吹",
+            "keyword": "blasen",
+            "hint": "blasen ist der Versuch, es im MUND nach Luft MANGELN zu lassen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "441",
+            "character": "歌",
+            "keyword": "Lied",
+            "hint": "Ein Lied wird von einem Duett vorgetragen, dem man zuvor die MÜNDER zugeNAGELT hat, ist wirklich zum GÄHNEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "442",
+            "character": "軟",
+            "keyword": "weich",
+            "hint": "Ein AUTO mit ganz weichen Sitzen, da kann es sein dass man auf den Rücksitzen anfängt zu GÄHNEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "443",
+            "character": "次",
+            "keyword": "nächster",
+            "hint": "am heißestens Sommertag herrscht ein MANGEL an Eis, man ist ZWEITER in der Schlange und wartet bis der Eisverkäufter Nächster ruft",
+            "primitive": "nächster, zweiter",
+            "pinyin": ""
+        },
+        {
+            "frame": "444",
+            "character": "資",
+            "keyword": "Kapital",
+            "hint": "Mit dem ersten GELD zahlt man die Schulden zurück, das NÄCHSTE GELD ist ihr Kapital",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "445",
+            "character": "姿",
+            "keyword": "Aussehen",
+            "hint": "Hier ist eine FRAU, deren Aussehen so wichtig ist, dass es wie ihr ZWEITES Ich wird",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "446",
+            "character": "諮",
+            "keyword": "zu Rate ziehen",
+            "hint": "Die WORTE eines ZWEITEN MUNDES zu suchen, heisst jemanden zu Rate zu ziehen",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "19": [
+        {
+            "frame": "446-1",
+            "character": "咅",
+            "keyword": "Maulkorb",
+            "hint": "Ein VASE ist am MUND befestigt, mit einem Gummiband am Hinterkopf",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "447",
+            "character": "賠",
+            "keyword": "entschädigen",
+            "hint": "Ein MUSCHEL wird als MAULKORB für eine Fischerwitwe verwendet, die für ihren verstorbenen Mann entschädigt werden will",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "448",
+            "character": "培",
+            "keyword": "kultivieren",
+            "hint": "Beim Kultivieren von prächtigem Gemüse, spannt man Folie als MAULKORB für Schädlinge über die ERDE",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "449",
+            "character": "音",
+            "keyword": "Klang",
+            "hint": "Hier STEHT der KLANG über dem PLAPPERMAUL in der Luft, bevor er verklingt",
+            "primitive": "Klang, Geräusch",
+            "pinyin": ""
         }
     ]
 }
