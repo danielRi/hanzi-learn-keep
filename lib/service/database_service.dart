@@ -60,6 +60,17 @@ class DatabaseService {
     return results;
   }
 
+  Future<List<CharacterStatistic>> leastFrames() async {
+    final db = await initDatabase();
+
+    final List<Map<String, dynamic>> frameMaps =
+        await db.query("frames", orderBy: "seen ASC");
+
+    final results = _rawDataToList(frameMaps);
+
+    return results;
+  }
+
   Future<List<CharacterStatistic>> worstFrames() async {
     final db = await initDatabase();
 

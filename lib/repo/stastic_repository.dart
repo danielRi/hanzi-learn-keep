@@ -94,10 +94,10 @@ class StatisticRepository {
     final data = await CharacterRepository().fetchData();
     final resultList = List<String>();
 
-    final oldestFrames = await DatabaseService().oldestFrames();
+    final leastFrames = await DatabaseService().leastFrames();
     final worstFrames = await DatabaseService().worstFrames();
 
-    if (oldestFrames.length + worstFrames.length < amountOfCharacters) {
+    if (leastFrames.length + worstFrames.length < amountOfCharacters) {
       // not enogh data yet, just put random
       print("not enough data, just put random");
       while (resultList.length < amountOfCharacters) {
@@ -108,7 +108,7 @@ class StatisticRepository {
       return resultList..shuffle();
     }
     print("Already have data, check new frames first");
-    final newFrames = _newFrames(oldestFrames, data);
+    final newFrames = _newFrames(leastFrames, data);
     var amountOfNewFrames = 0;
     while (resultList.length < min(amountOfCharacters, newFrames.length)) {
       final frame = _getRandomFrameFromList(resultList, stringList: newFrames);
@@ -138,8 +138,8 @@ class StatisticRepository {
         "Not enough worst frames, added ${amountOfWorstFrames.toString()} worst frames, in sum now ${resultList.length.toString()}");
 
     var amountOfOldestFrames = 0;
-    while (resultList.length < min(amountOfCharacters, oldestFrames.length)) {
-      final frame = oldestFrames[amountOfOldestFrames];
+    while (resultList.length < min(amountOfCharacters, leastFrames.length)) {
+      final frame = leastFrames[amountOfOldestFrames];
       amountOfOldestFrames++;
       resultList.add(frame.frameNumber);
     }
