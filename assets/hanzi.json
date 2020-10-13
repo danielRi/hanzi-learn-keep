@@ -3955,6 +3955,118 @@
             "hint": "Hier STEHT der KLANG über dem PLAPPERMAUL in der Luft, bevor er verklingt",
             "primitive": "Klang, Geräusch",
             "pinyin": ""
+        },
+        {
+            "frame": "450",
+            "character": "暗",
+            "keyword": "dunkel",
+            "hint": "In der dunklen Leere des Alls, gibt es kein SONNENLicht, und auch kein GERÄUSCH",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "451",
+            "character": "韻",
+            "keyword": "Reim",
+            "hint": "Gedanken in wohlklingende Reime verwandeln, ist nur einer besonderen Gilde vorbehalten. Um mitzumachen muss man ein KLANG MITGLIED sein",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "451-1",
+            "character": "戠",
+            "keyword": "Tröte",
+            "hint": "Der KLANG eines STRAßENFESTES, einer Tröte, man denke auch an die Straßenfeste in Afrika bei der WM 2010, die Vuvuselas",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "452",
+            "character": "識",
+            "keyword": "Kenntnis",
+            "hint": "Es bedarf eines Mindestmaß an Kenntnis, zwischen WORTEN der Weisheit und dem hohlen Tröten einer TRÖTE zu unterscheiden",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "453",
+            "character": "幟",
+            "keyword": "Fahne",
+            "hint": "Die Fahne des Staates Tuchtrötistan, ein HANDTUCH mit einer TRÖTE rangebunden, trötet wenn sie im Wind flattert",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "454",
+            "character": "竟",
+            "keyword": "unerwartet",
+            "hint": "Eine Königin STEHT vor dem Spiegel und fragt, wer die schönste im ganzen Land ist. Der Spiegel bekommt völlig unerwartet MENSCHENBEINE, hüpft im Zimmer herum, in ihm erscheint eine PLAPPERNDE ZUNGE, und sagt der Spiegel ist der schönste im ganzen Land",
+            "primitive": "Spiegel",
+            "pinyin": ""
+        },
+        {
+            "frame": "455",
+            "character": "鏡",
+            "keyword": "Spiegel",
+            "hint": "Ein METALL-SPIEGEL, früher wurden Spiegel aus poliertem Metall hergestellt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "456",
+            "character": "境",
+            "keyword": "Umgrenzung",
+            "hint": "Ein Grundbesitzer hat seine TERRAIN mit SPIEGELN umzäunt, um stets Eindringle im Blick zu behalten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "457",
+            "character": "亡",
+            "keyword": "verstorben",
+            "hint": "Der ZYLINDERHUT eines Verstorbenen hängt noch immer am HAKEN, dort wo er ihn an seinem Todestag hingehängt hat",
+            "primitive": "verstorben, zugrunde gehen",
+            "pinyin": ""
+        },
+        {
+            "frame": "458",
+            "character": "盲",
+            "keyword": "blind",
+            "hint": "GEHEN die AUGEN ZUGRUNDE, bleibt man blind",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "459",
+            "character": "妄",
+            "keyword": "absurd",
+            "hint": "Es ist absurd, dass manche immer von der perfekten FRAU träumen, und daran ZUGRUNDE GEHEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "460",
+            "character": "望",
+            "keyword": "erwarten",
+            "hint": "Der KÖNIG geht durch die Reihen seiner geschlagenen Armee. Als er nur ZUGRUNDE GEHENDES FLEISCH um sich sieht, erwartet er das Schlimmste",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "461",
+            "character": "方",
+            "keyword": "Richtung",
+            "hint": "Einen DOLCH auf einen ZYLINDER legen und drehen, und warten bis er stehen bleibt, so überlässt man es dem Schicksal, in welche Richtung man gehen soll",
+            "primitive": "Kompass",
+            "pinyin": ""
+        },
+        {
+            "frame": "462",
+            "character": "妨",
+            "keyword": "hindern",
+            "hint": "Ein KOMPASS, der jedes mal wild ausschlägt, wenn eine FRAU vorbeiläuft, und jemand an der Navigation hindert",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
