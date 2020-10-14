@@ -4067,6 +4067,86 @@
             "hint": "Ein KOMPASS, der jedes mal wild ausschlägt, wenn eine FRAU vorbeiläuft, und jemand an der Navigation hindert",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "463",
+            "character": "放",
+            "keyword": "freilassen",
+            "hint": "Ein ZUCHTMEISTER lässt einen Gefangenen in der Wildnis frei, gewährt ihm einen Blick auf den KOMPASS und einen Tritt von HINTEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "464",
+            "character": "激",
+            "keyword": "anregen",
+            "hint": "ein Neptunesker ZUCHTMEISTER regt die WASSER-Wellen an, bis WEIßER Schaum einen kaputten KOMPASS bedeckt - ein Schiffbruch, der die Fantasie von Schatztauchern anregt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "465",
+            "character": "於",
+            "keyword": "(Allzweckpräposition)",
+            "hint": "Ein grammatikalischer KOMPASS, der alles mögliche bedeuten kann. Bis man ihn braucht kann man sich noch ausruhen, und unter dem SCHIRM ein EIS geniessen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "466",
+            "character": "旁",
+            "keyword": "Seite",
+            "hint": "Ein treuer Helfer, der mir nicht von der Seite weicht, er trägt für mich VASE, KRONE und KOMPASS, mit ihm erlebt man viele Abenteuer (Samwise the brave)",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "467",
+            "character": "兑",
+            "keyword": "umtauschen",
+            "hint": "Ein TEENAGER mit TEUFELSHÖRNERN, der ständig das sauer verdiente Geld der Alten im Einkaufszentrum gegen Plunder umtauscht, im Hot Topic. Die Vampirzähne kann er gleich wieder umtauschen",
+            "primitive": "Teufel",
+            "pinyin": ""
+        },
+        {
+            "frame": "468",
+            "character": "脱",
+            "keyword": "sich ausziehen",
+            "hint": "sein FLEISCH entblößen und den TEUFEL im Betrachter wecken",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "469",
+            "character": "說",
+            "keyword": "sprechen",
+            "hint": "Gesprochene Worte sind wie Kugeln, sie treffen tief, und kein TEUFEL holt sie einem je zurück. Bild zeigt einen TEUFEL an dem WORTE wie Kugeln vorbeizischen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "470",
+            "character": "曾",
+            "keyword": "einst",
+            "hint": "Politiker, die einst im Amzt waren, haben mit ihren GEHIRNEN so manches PROBLEM an den HÖRNER gepackt, heute PLAPPERN sie nur noch im Fernsehen",
+            "primitive": "zunehmen",
+            "pinyin": ""
+        },
+        {
+            "frame": "471",
+            "character": "增",
+            "keyword": "zunehmen",
+            "hint": "Ein ERDRutsch, eine Lawine, die immer weiter ZUNIMMT und alles mitreißt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "472",
+            "character": "贈",
+            "keyword": "schenken",
+            "hint": "Siedler haben früher Einheimischen MUSCHELN geschenkt, weil sie wussten dass der Gegenwert (das Land) massiv zunimmt",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
