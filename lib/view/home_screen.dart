@@ -1,12 +1,10 @@
-import "package:charcode/charcode.dart";
-import "package:charcode/html_entity.dart";
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_speed_dial/flutter_speed_dial.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:hanzi_learn_keep/bloc/statistic_bloc.dart';
+import 'package:hanzi_learn_keep/bloc/study_bloc.dart';
 import 'package:hanzi_learn_keep/view/search_screen.dart';
 import 'package:hanzi_learn_keep/view/study_screen.dart';
 
@@ -127,25 +125,47 @@ class HomeScreen extends StatelessWidget {
         ),
         children: [
           SpeedDialChild(
-              child: Center(
-                child: Text(
-                  "學",
-                  style: TextStyle(
-                    fontSize: 24,
-                    fontFamily: "SentyWen",
-                  ),
+            child: Center(
+              child: Text(
+                "少",
+                style: TextStyle(
+                  fontSize: 24,
+                  fontFamily: "SentyWen",
                 ),
               ),
-              backgroundColor: Colors.black,
-              onTap: () async {
-                await Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                    builder: (context) => StudyScreen(50),
-                  ),
-                );
-                BlocProvider.of<StatisticBloc>(context).add(InitEvent());
-              }),
+            ),
+            backgroundColor: Colors.black,
+            onTap: () async {
+              await Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => StudyScreen(50, StudyType.least),
+                ),
+              );
+              BlocProvider.of<StatisticBloc>(context).add(StatisticInitEvent());
+            },
+          ),
+          SpeedDialChild(
+            child: Center(
+              child: Text(
+                "舊",
+                style: TextStyle(
+                  fontSize: 24,
+                  fontFamily: "SentyWen",
+                ),
+              ),
+            ),
+            backgroundColor: Colors.black,
+            onTap: () async {
+              await Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => StudyScreen(50, StudyType.oldest),
+                ),
+              );
+              BlocProvider.of<StatisticBloc>(context).add(StatisticInitEvent());
+            },
+          ),
           SpeedDialChild(
             child: Center(
               child: Icon(

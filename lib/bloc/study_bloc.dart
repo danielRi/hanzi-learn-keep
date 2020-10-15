@@ -1,16 +1,17 @@
-import 'dart:math';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
-
 import 'package:hanzi_learn_keep/model/character_frame.dart';
 import 'package:hanzi_learn_keep/repo/character_repository.dart';
 import 'package:hanzi_learn_keep/repo/stastic_repository.dart';
+
+enum StudyType { oldest, least }
 
 class StudyEvent {}
 
 class InitEvent extends StudyEvent {
   final amountOfCharacters;
-  InitEvent(this.amountOfCharacters);
+  StudyType type;
+  InitEvent(this.amountOfCharacters, this.type);
 }
 
 class CheckEvent extends StudyEvent {
@@ -96,7 +97,7 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
     } else if (event is InitEvent) {
       final data = await CharacterRepository().fetchData();
       final framesToStudy =
-          await initFramesToStudy(data, event.amountOfCharacters);
+          await initFramesToStudy(data, event.amountOfCharacters, event.type);
       print("framesToStudy: ${framesToStudy.toString()}");
 
       final startIndex = 0;
@@ -133,18 +134,10 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
     super.onChange(change);
   }
 
-  void _onCorrectEvent(String frameId) {
-    // TODO: save to stastic
-  }
-
-  void _onWrongEvent(String frameId) {
-    // TODO: save to stastic
-  }
-
   Future<List<CharacterFrame>> initFramesToStudy(
-      Map<String, CharacterFrame> data, int amountOfCharacters) async {
+      Map<String, CharacterFrame> data, int amountOfCharacters, StudyType type) async {
     final meaningfulList =
-        await StatisticRepository().createSuitableStudyList(50);
+        await StatisticRepository().createSuitableStudyList(50, type);
     final resultList = List<CharacterFrame>();
     for (String frameNumber in meaningfulList) {
       resultList.add(CharacterRepository().getFrame(frameNumber));

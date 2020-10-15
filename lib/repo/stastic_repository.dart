@@ -4,6 +4,7 @@ import 'package:hanzi_learn_keep/model/character_frame.dart';
 import 'package:hanzi_learn_keep/model/character_statistic.dart';
 import 'package:hanzi_learn_keep/repo/character_repository.dart';
 import 'package:hanzi_learn_keep/service/database_service.dart';
+import 'package:hanzi_learn_keep/bloc/study_bloc.dart';
 
 class StatisticRepository {
   static final StatisticRepository _singleton = StatisticRepository._internal();
@@ -90,14 +91,21 @@ class StatisticRepository {
   /// 2. Worst frames, with most wrong tries
   /// 3. Oldest frames, havent been seen in a while
   /// 4. Random frames
-  Future<List<String>> createSuitableStudyList(int amountOfCharacters) async {
+  Future<List<String>> createSuitableStudyList(
+      int amountOfCharacters, StudyType type) async {
     final data = await CharacterRepository().fetchData();
     final resultList = List<String>();
 
-    final leastFrames = await DatabaseService().leastFrames();
+    var userRequestedFrames;
+    if (type == StudyType.least) {
+      userRequestedFrames = await DatabaseService().leastFrames();
+    } else {
+      userRequestedFrames = await DatabaseService().oldestFrames();
+    }
+
     final worstFrames = await DatabaseService().worstFrames();
 
-    if (leastFrames.length + worstFrames.length < amountOfCharacters) {
+    if (userRequestedFrames.length + worstFrames.length < amountOfCharacters) {
       // not enogh data yet, just put random
       print("not enough data, just put random");
       while (resultList.length < amountOfCharacters) {
@@ -108,7 +116,7 @@ class StatisticRepository {
       return resultList..shuffle();
     }
     print("Already have data, check new frames first");
-    final newFrames = _newFrames(leastFrames, data);
+    final newFrames = _newFrames(userRequestedFrames, data);
     var amountOfNewFrames = 0;
     while (resultList.length < min(amountOfCharacters, newFrames.length)) {
       final frame = _getRandomFrameFromList(resultList, stringList: newFrames);
@@ -138,8 +146,9 @@ class StatisticRepository {
         "Not enough worst frames, added ${amountOfWorstFrames.toString()} worst frames, in sum now ${resultList.length.toString()}");
 
     var amountOfOldestFrames = 0;
-    while (resultList.length < min(amountOfCharacters, leastFrames.length)) {
-      final frame = leastFrames[amountOfOldestFrames];
+    while (resultList.length <
+        min(amountOfCharacters, userRequestedFrames.length)) {
+      final frame = userRequestedFrames[amountOfOldestFrames];
       amountOfOldestFrames++;
       resultList.add(frame.frameNumber);
     }

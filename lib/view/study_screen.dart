@@ -1,17 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:google_fonts/google_fonts.dart';
-import 'package:hanzi_learn_keep/bloc/study_bloc.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
+import 'package:hanzi_learn_keep/bloc/study_bloc.dart';
 import 'package:simple_gesture_detector/simple_gesture_detector.dart';
 
 class StudyScreen extends StatelessWidget {
   final int framesToStudy;
+  final StudyType type;
 
   static const paperColor = Color.fromARGB(255, 241, 240, 235);
 
-  StudyScreen([this.framesToStudy]);
+  StudyScreen([this.framesToStudy, this.type]);
 
   @override
   Widget build(BuildContext context) {
@@ -19,7 +19,7 @@ class StudyScreen extends StatelessWidget {
       body: SafeArea(
         child: BlocProvider(
           create: (context) {
-            return StudyBloc(framesToStudy)..add(InitEvent(framesToStudy));
+            return StudyBloc(framesToStudy)..add(InitEvent(framesToStudy, type));
           },
           child: BlocBuilder<StudyBloc, StudyState>(
             builder: (context, state) {

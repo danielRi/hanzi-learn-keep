@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return BlocProvider(
       lazy: false,
-      create: (context) => StatisticBloc()..add(InitEvent()),
+      create: (context) => StatisticBloc()..add(StatisticInitEvent()),
       child: MaterialApp(
         title: 'Flutter Demo',
         theme: ThemeData(

@@ -6,7 +6,7 @@ import 'package:hanzi_learn_keep/repo/stastic_repository.dart';
 
 class StatisticEvent {}
 
-class InitEvent extends StatisticEvent {}
+class StatisticInitEvent extends StatisticEvent {}
 
 class StatisticState {}
 
@@ -37,7 +37,7 @@ class StatisticBloc extends Bloc<StatisticEvent, StatisticState> {
 
   @override
   Stream<StatisticState> mapEventToState(StatisticEvent event) async* {
-    if (event is InitEvent) {
+    if (event is StatisticInitEvent) {
       await CharacterRepository().fetchData();
       await StatisticRepository().initDatabase();
       final worstFrameStatistic = await StatisticRepository().worstFrame();
