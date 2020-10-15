@@ -4147,6 +4147,30 @@
             "hint": "Siedler haben früher Einheimischen MUSCHELN geschenkt, weil sie wussten dass der Gegenwert (das Land) massiv zunimmt",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "473",
+            "character": "東",
+            "keyword": "Osten",
+            "hint": "Die SONNE geht zwischen den BÄUMEN im Osten auf. Ex oriente lux",
+            "primitive": "Osten, ferner Osten",
+            "pinyin": ""
+        },
+        {
+            "frame": "474",
+            "character": "棟",
+            "keyword": "Gebäude",
+            "hint": "Ein Zählwort für Gebäude. Die BÄUME in FERNOST, wie die unzähligen Wolkenkratzer in Peking und Tokio",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "475",
+            "character": "凍",
+            "keyword": "gefrieren",
+            "hint": "Das EIS mit dem FERNEN OSTEN brechen: Hinter das Gefrorene Lächeln zu schauen, und es nicht wieder gefrieren zu lassen",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
