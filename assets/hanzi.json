@@ -4172,5 +4172,95 @@
             "primitive": "",
             "pinyin": ""
         }
+    ],
+    "20": [
+        {
+            "frame": "476",
+            "character": "也",
+            "keyword": "auch",
+            "hint": "In einem <auch> Verbindungssatz hält der Skorpion die beiden Satzteile aneinander, mit seinen Zangen und dem Stachel",
+            "primitive": "Skorpion",
+            "pinyin": ""
+        },
+        {
+            "frame": "477",
+            "character": "她",
+            "keyword": "Sie",
+            "hint": "FRAU und SKORPION, um Ärger mit der Sie im Leben zu vermeiden, sollte man bei der Bedeutung des zweiten Schritzeichens lieber auf die Bedueutung AUCH zurückgreifen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "478",
+            "character": "地",
+            "keyword": "Erdboden",
+            "hint": "Ein SKORPION krabbelt am Liebsten über die ERDE, manchmal ist der ERDBoden übersäät mit SKORPIONEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "479",
+            "character": "池",
+            "keyword": "Teich",
+            "hint": "Ein SKORPION lässt TROPFEN für TROPFEN sein Gift fließen, bis sich davon ein ganzer Teich gebildet hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "479-1",
+            "character": "虫",
+            "keyword": "Insekt",
+            "hint": "Bild eines riesigen Insektes, davon auf Fangen steht und in der Mitte ein riesigen Maul und Augen hat",
+            "primitive": "Bruce von Family guy als Mosquito verkleidet",
+            "pinyin": ""
+        },
+        {
+            "frame": "480",
+            "character": "蟲",
+            "keyword": "Insekten",
+            "hint": "Ein ganzer INSEKTEN Schwarm",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "481",
+            "character": "蛇",
+            "keyword": "Schlange",
+            "hint": "Ein INSEKT hat alle Möbel gefressen, deshalb SITZE ich jetzt im HAUS AUF DEM FUßBODEN. Ich hole mir jetzt eine Schlange die das Insekt essen soll",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "482",
+            "character": "蛋",
+            "keyword": "Ei",
+            "hint": "Im ZOO hat ein Pfauenpaar ein Ei gelegt. Ein INSEKT hat alle verstochen, das Ei ist das einzige Lebewesen im Zoo das noch nicht getochen wurde",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "483",
+            "character": "風",
+            "keyword": "Wind",
+            "hint": "Ein INSEKT als kleine schwarze PUNKTE wird vom Wind umschlungen und mitgerissen",
+            "primitive": "Sturm",
+            "pinyin": ""
+        },
+        {
+            "frame": "484",
+            "character": "諷",
+            "keyword": "verspotten",
+            "hint": "Wenn man verspotten wird werden die WORTE zu GegenWIND, die sich langsam zu einem STURM aufbauen, der sich einem entgegen wirft. Der Punkt im Wind Zeichen ist der >SPOT<, der dieses Zeichen von verhöhnen unterscheidet",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "485",
+            "character": "己",
+            "keyword": "selbst",
+            "hint": "Das innere Selbst wird mythologisch oft als Schlange dargestellt, wie hier im Piktogramm. Man fasst sich hier NICHT selber an die Nase, sondern beschäftigt sich mit einem Selbst",
+            "primitive": "Schlange",
+            "pinyin": ""
+        }
     ]
 }
