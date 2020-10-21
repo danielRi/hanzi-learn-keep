@@ -4349,6 +4349,54 @@
             "hint": "Ich zerstöre mein SPARSCHWEIN und kooche mit WASSER mit dem Inhalt eine leckere Pfennig-Suppe. Kulinarisch",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "495",
+            "character": "羊",
+            "keyword": "Schaf",
+            "hint": "Bild eines Schafes, HÖRNER auf dem Kopf (Strich 3), Vorder- und Hinterbeine (String 4 und 5), und der Körper (letzter Strich)",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "496",
+            "character": "美",
+            "keyword": "schön",
+            "hint": "Warum ist ein GROßES SCHAF schön?",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "497",
+            "character": "洋",
+            "keyword": "Ozean",
+            "hint": "Nach einem Atomkrieg sind die SCHAFE mutiert, und leben ab sofort im Wasser, bevölkern so die Ozeane",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "498",
+            "character": "鮮",
+            "keyword": "frisch",
+            "hint": "Im gallischen Dorf gibt es nur zwei Läden, die frische Sachen verkaufen: Verleihnix mit seinem FISCH, und Hammelfix, der SCHAFSFleisch verkauft",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "499",
+            "character": "達",
+            "keyword": "gelangen nach",
+            "hint": "Auf einer LANDSTRAßE habe ich ein SCHAF überfahren, ich schütte ERDE über es um es ordentlich zu begraben. Als abschließende Worte: Hoffen wir alle das Schaf gelangt gut nach Schaf-Halla, dem Schafs-Himmel",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "500",
+            "character": "樣",
+            "keyword": "Erscheinungsbild",
+            "hint": "Der Anführer der SCHAFE lässt sein Erscheinungsbild in einen BAUM eingravieren, weil er hofft damit sein Antlitz für die EWIGKEIT aufzubewhren",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
