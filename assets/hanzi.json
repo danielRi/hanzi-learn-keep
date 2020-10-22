@@ -4328,7 +4328,7 @@
         },
         {
             "frame": "492-1",
-            "character": "易",
+            "character": "昜",
             "keyword": "Sparschwein",
             "hint": "Ein kleines SCHWEINCHEN (verändertes Zeiche von SAU), an dem TÄGLICH erinnert werden soll, ein Paar Münzen hineinzuwerfen",
             "primitive": "",
@@ -4397,6 +4397,86 @@
             "hint": "Der Anführer der SCHAFE lässt sein Erscheinungsbild in einen BAUM eingravieren, weil er hofft damit sein Antlitz für die EWIGKEIT aufzubewhren",
             "primitive": "",
             "pinyin": ""
-        }
+        },
+        {
+            "frame": "500-1",
+            "character": "",
+            "keyword": "Wolle",
+            "hint": "SCHAF wird an seinem Schwanz gehalten, um geschoren zu werden. Beim gedruckten Zeichen ist der unterste Teil leicht versetzt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "501",
+            "character": "差",
+            "keyword": "hinter etwas zurück bleiben",
+            "hint": "Als der Wolkenkratzer fertig gebaut war, fand man heraus dass alle STAHLTRÄGER aus WOLLE besteht. Die Stabilität und Standfestigkeit des Gebäudes blieb so hinter den Erwartungen zurück",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "501-1",
+            "character": "隹",
+            "keyword": "Truthahn",
+            "hint": "Bild eines Truthahns. Die ersten vier Striche sind in dieser Reihenfolge: Kopf, Hals, Schnabel, herabhängende Wamme. Der Rest ist das Federkleid",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "502",
+            "character": "集",
+            "keyword": "sammeln",
+            "hint": "Die Truthahn Sturmabteilung der Bundeswehr: Der Gruppenführer TRUTHAHN sammelt seine Soldaten auf einem BAUM zur Lagebesprechung, und um das Gelände zu erkunden",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "503",
+            "character": "進",
+            "keyword": "vorrücken",
+            "hint": "Die TRUTHAHN Sturmabteilung hat den Auftrag erhalten, einen Straßenabschnitt zu sichern, und rückt nun auf der örtlichen AUTOBAHN vor",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "504",
+            "character": "準",
+            "keyword": "Standard",
+            "hint": "Es wird ein Standard festgelegt, wie spitz eine NADEL sein soll. Dafür wird sie EINGEFROREN, bis sie noch rutschig ist, dann muss ein TRUTHAHN darauf balancieren. Nur wenn der Truthahn die Balance halten kann, erhält sie das Prädikat standardisierte Nadel",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "505",
+            "character": "誰",
+            "keyword": "wer?",
+            "hint": "Beim Öffnen der Bratenröhre SAGT ein ganz erstaunter TRUTHAHN: Wer ist da?",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "506",
+            "character": "售",
+            "keyword": "veräußern",
+            "hint": "Ein Händler will seine Fleischwaren veräußern: Er hat eine Box mit einer ÖFFNUNG oben. Wenn man die feilgebotenen Truthähne inspizieren will, holt er einen aus der Kiste und hält den TRUTHAHN kurz ÜBER die ÖFFNUNG, sodass man ihn betrachten kann",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "507",
+            "character": "雖",
+            "keyword": "obwohl",
+            "hint": "Beim Thanksgiving Dinner essen alle TRUTHAHN, nur ein exotischer Cousin möchte lieber Insekten essen, er sagt: Obwohl ich gerade den ganzen MUND voller INSEKTEN habe, möchte ich trotzdem keinen TRUTHAHN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "508",
+            "character": "確",
+            "keyword": "tatsächlich",
+            "hint": "Jemand erzählt, das in dem einen STEINERNEN Haus ein TRUTHAHN mit einem Endlos langen Hals wohnt. Man glaubt ihm natürlich nicht und geht zum Haus. Von weitem sieht man schon, dass es Tatsächlich stimmt: Der Kopf des TRUTHAHNS schaut schon oben aus dem DACH raus",
+            "primitive": "",
+            "pinyin": ""
+        },
     ]
 }
