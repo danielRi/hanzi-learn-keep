@@ -4478,5 +4478,63 @@
             "primitive": "",
             "pinyin": ""
         },
+        {
+            "frame": "509",
+            "character": "午",
+            "keyword": "Mittag",
+            "hint": "Ein Pferdekopf der sich nach links dreht, das Tierkreiszeichen Pferd bedeutet Mittagsstunde, auch: Kuh ohne Horn: Pferd",
+            "primitive": "Schakelpferd, Steckenpferd",
+            "pinyin": ""
+        },
+        {
+            "frame": "510",
+            "character": "許",
+            "keyword": "erlauben",
+            "hint": "Ein örtlicher Gendarm auf einem STECKENPFERD reitet durchs Dorf und sagt Leuten, was erlaubt ist und was nicht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "511",
+            "character": "羽",
+            "keyword": "Feder",
+            "hint": "Bild von zwei Federn",
+            "primitive": "Flügel",
+            "pinyin": ""
+        },
+        {
+            "frame": "512",
+            "character": "習",
+            "keyword": "lernen",
+            "hint": "Ein WEIßER VOGEL kann noch nicht fliegen, auf ihn fliegen imm die FEDERN der anderen Vögel runter und landen auf seinem Kopf, daraufhin will der weiße Vogel auch fliegen lernen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "513",
+            "character": "翔",
+            "keyword": "hochfliegen",
+            "hint": "Ein Bauernhof wird mit einer Atombombe in die Luft gejagt: Im Atompilz hoch oben fliegend: Die WOLLE der Schafe und die FEDERN der Hühner",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "21": [
+        {
+            "frame": "513-1",
+            "character": "囗",
+            "keyword": "eingepfercht",
+            "hint": "Ein Pferch, das etwas umläuft und somit einpfercht. Viel größer als ein Mund",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "514",
+            "character": "困",
+            "keyword": "in der Klemme",
+            "hint": "Ein Bomberpilot war zuerst in seiner Bordgeschützkugel EINGEPFERCHT, jetzt ist er abgeschossen worden und hängt jetzt IM BAUM fest. Er steckt ganz schön in der Klemme",
+            "primitive": "",
+            "pinyin": ""
+        }
     ]
 }
