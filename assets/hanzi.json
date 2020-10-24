@@ -4535,6 +4535,54 @@
             "hint": "Ein Bomberpilot war zuerst in seiner Bordgeschützkugel EINGEPFERCHT, jetzt ist er abgeschossen worden und hängt jetzt IM BAUM fest. Er steckt ganz schön in der Klemme",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "515",
+            "character": "固",
+            "keyword": "fest",
+            "hint": "ALTERTÜMLICHER Grabstein von Dracula wird EINGEPFERCHT, der Sarg wird in Zement eingegossen, bis er fest wird, damit der Vampyr nie wieder aufstehen kann",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "516",
+            "character": "國",
+            "keyword": "Land",
+            "hint": "Ehemalige Udssr: Entweder du lässt dich hier im Land EINPFERCHEN ODER ab in den Gulag",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "517",
+            "character": "圓",
+            "keyword": "rund",
+            "hint": "Satansanbeter Sekte: Es soll das dickste, RUNDESTE MITGLIED an das Dämonenmonster geopfert werden, deswegen wird es über nacht EINGEPFERCHT und gemästet. So läuft die Menschen-Opferung dann auch rund",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "518",
+            "character": "因",
+            "keyword": "Ursache",
+            "hint": "Ein Herrchen geht mit seinem an Depressionen leidenden Bernhardiner zum Tierarzt, dieser findet heraus: Die Ursache der Depressionen des traurigen BERNHARDINGERs war dass er nur EINGEPFERCHT war",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "519",
+            "character": "園",
+            "keyword": "Park",
+            "hint": "Im Park gibt es eine neue Attraktion: YUAN Shikai kann man in einem PFERCH bei beobachten, füttern und bei seinen Reformen beobachten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "520",
+            "character": "回",
+            "keyword": "wiederkehren",
+            "hint": "Ein sich drehender Kreis in einem anderen, an dem jeweils ein innerer und ein äußerer Punkt immer wiederkehren",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
