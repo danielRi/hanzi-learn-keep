@@ -4591,6 +4591,78 @@
             "hint": "Ein junger Trottel umkreist nachts das Dorf in seinem aufgebohrten 4er Golf, und kehrt immer wieder zu unserem Haus zurück, wo ich ihn dann laut höre",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "522",
+            "character": "圖",
+            "keyword": "Bild",
+            "hint": "In einer alten Storage-Garage sind einige Gemäde EINGEPFERCHT: Der Schrei (MUND), Spitzweg: der Mann mit dem ZYLINDERHUT, und Chardin: Knabe mit Kreisel (WIEDERKEHREN)",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "522-1",
+            "character": "广",
+            "keyword": "Höhle",
+            "hint": "Dach eines HAUSES an einer KLIPPE: ein Klippenhaus, oder: eine Höhle an einer KLIPPE",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "523",
+            "character": "店",
+            "keyword": "Laden",
+            "hint": "Bei Legend of Zelda gibt es eine HÖHLE, in dem ein WAHRSAGER einem sagt dass es in der Nähe einen Laden gibt, in dem man BOMBEN kaufen kann",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "524",
+            "character": "庫",
+            "keyword": "Lagerhaus",
+            "hint": "Bronson Canyon, wo Batman seine Batcave hat, in dem er seine ganzen Waffen lagert, ist ein HÖHLE, mit dem er immer mit seinem WAGEN reinfährt",
+            "primitive": "Batcave",
+            "pinyin": ""
+        },
+        {
+            "frame": "525",
+            "character": "褲",
+            "keyword": "Hose",
+            "hint": "Der BATCAVE ist der Ort an dem Batman mit seinem UMHANG reingeht, aber ganz normal mit Jeans-Hose als Clark Kent wieder rauskommt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "526",
+            "character": "廠",
+            "keyword": "Fabrik",
+            "hint": "Die Nazis verlagerten ihre V2 Produktion in HÖHLEN. Für den Bau von so großen Raketen braucht man ein sehr GERÄUMIGE HÖHLE, um die Fabrik darin einzurichten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "527",
+            "character": "床",
+            "keyword": "Bett",
+            "hint": "In Skyrim sind viele Betten einfach nur Matratzenlose HOLZGerüste in den HÖHLEN. In ihnen schlafen die Raider Skyrims",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "528",
+            "character": "麻",
+            "keyword": "Hanf",
+            "hint": "In einem kleinen FORST in eine kleine HÖHLE von Dark, wo der eine immer sein Marijuana versteckt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "529",
+            "character": "心",
+            "keyword": "Herz",
+            "hint": "Bild eines Herzens",
+            "primitive": "Als normale Form unten: Herz als Organ. Als hohe, lange Form links: Gemütszustand. Ganz unten: Liebesbrief",
+            "pinyin": ""
         }
     ]
 }
