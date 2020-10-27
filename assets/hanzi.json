@@ -4663,6 +4663,70 @@
             "hint": "Bild eines Herzens",
             "primitive": "Als normale Form unten: Herz als Organ. Als hohe, lange Form links: Gemütszustand. Ganz unten: Liebesbrief",
             "pinyin": ""
+        },
+        {
+            "frame": "530",
+            "character": "忘",
+            "keyword": "vergessen",
+            "hint": "Ein Herz-Chirurg der das zu implantierende HERZ vergessen hat, der Chirurg und auch der Patient sind dabei zugrunde gegangen, gestorben...",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "531",
+            "character": "忍",
+            "keyword": "erdulden",
+            "hint": "Als Tourist in New York muss man einiges erdulden...z.B. eine KLINGE durchs HERZ",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "532",
+            "character": "認",
+            "keyword": "wiedererkennen",
+            "hint": "Man schläft im Flugzeug und wacht auf, weil jemand sich mit lauten WORTEN bei der Stewardess beschwert. Man erkennt seinen alten Grundschullehrer wieder, dessen Beschwerden man früher schon ERDULDEN musste. Die Stewardess muss sie auch ERDULDEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "533",
+            "character": "志",
+            "keyword": "Bestreben",
+            "hint": "Ein Soldat schwört seinem gefallenem Freund, es ist sein ganzes Bestreben, das HERZ des Freundes zu dessen Geliebter zu bringen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "534",
+            "character": "誌",
+            "keyword": "Annalen",
+            "hint": "In den Annalen einer Dynastie ist mit WORTEN das ganze BESTREBEN seiner Mitglieder niedergeschrieben. Ein König hat am Kreuzzug teilgenommen, einer hat die Schweden bekämpft usw...",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "535",
+            "character": "思",
+            "keyword": "überlegen",
+            "hint": "Ich bin einfach schon die ganze Zeit am überlegen, soll ich auf meinen Verstand (= GEHIRN) oder auf mein HERZ hören. Wer ist am Ende überlegen?",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "536",
+            "character": "意",
+            "keyword": "Idee",
+            "hint": "Jemand hat die Aufgabe in neues Musikinstrument zu erfinden, irgendwann hat er die Idee einfach auf einem menschlichen HERZ wie eine Okarina zu spielen, was einen guten Klang hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "537",
+            "character": "想",
+            "keyword": "denken",
+            "hint": "Zwei Demogorgone, die EINANDER ein menschliches HERZ des Opfers zu stupsen. Ich denke es ist Liebe...",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
