@@ -4727,6 +4727,46 @@
             "hint": "Zwei Demogorgone, die EINANDER ein menschliches HERZ des Opfers zu stupsen. Ich denke es ist Liebe...",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "538",
+            "character": "息",
+            "keyword": "Atem",
+            "hint": "Man soll nur noch durch die NASE einatmen, weil es sonst zur sehr aufs HERZ schlägt.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "539",
+            "character": "恐",
+            "keyword": "ängstigen",
+            "hint": "In der Lagerhalle liegt ein HERZ auf dem Boden. Aber die Arbeiter verrichten ihr ARBEIT wie GEWÖHNLICH komplett apathisch. Das ängstigt mich doch sehr",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "540",
+            "character": "感",
+            "keyword": "fühlen",
+            "hint": "Ein Koch kocht ein HERZ und kocht es viel zu SALZIG. Er kommentiert das mit Du musst das SALZIGE HERZ richtig fühlen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "541",
+            "character": "憾",
+            "keyword": "Bedauern",
+            "hint": "Wenn ein Rabenvater nach Hause kommt, mit von der Arbeit sehr schlechten GEMÜTSZUSTAND, lässt er diesen seinen Kindern FÜHLEN. Die Mutter bedauert sehr, dass sie ihnen nicht helfen kann",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "542",
+            "character": "憂",
+            "keyword": "besorgt",
+            "hint": "Ich bin besorgt um den WANDERSMANN, der mit der NASE an der ZIMMERDECKE festgesaugt ist: Er hat ein HERZLeiden, ausserdem nicht mehr alle Zacken in der KRONE",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
