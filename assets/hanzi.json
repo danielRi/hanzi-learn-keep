@@ -4767,6 +4767,64 @@
             "hint": "Ich bin besorgt um den WANDERSMANN, der mit der NASE an der ZIMMERDECKE festgesaugt ist: Er hat ein HERZLeiden, ausserdem nicht mehr alle Zacken in der KRONE",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "543",
+            "character": "怕",
+            "keyword": "fürchten",
+            "hint": "Sich zu fürchten ist ein GEMÜTSZUSTAND, bei dem man KREISEBLEICH, weiß wird.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "544",
+            "character": "忙",
+            "keyword": "beschäftigt",
+            "hint": "Ein Mann der immer beschäftigt ist, nie mal was schönes macht, ist erst immer genervt und hat einen schlechten GEMÜTSZUSTAND, bis er schließlich an seiner Arbeit ZUGRUNDE GEHT",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "545",
+            "character": "慣",
+            "keyword": "gewohnt",
+            "hint": "Ein Mitbewohner kommt mit ganz schlechtem GEMÜTSZUSTAND nach Hause, und haut dann immer gegen die Wände bis alles runterfällt. Die anderen Mitbewohner sind es daher gewohnt die Wände für Dübel zu DURCHBOHREN, nachdem der schlechte GEMÜTSZUSTAND vorbei ist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "546",
+            "character": "懷",
+            "keyword": "hegen",
+            "hint": "Wenn ein reicher Bonze mit ZYLINDERHUT und SEIDENSCHAL ganz EMOTIONAL traurig ist, beobachtet er mit seinem AUFAPFEL seine kleinen Diamant-SCHNEEFLOCKEN, die er wie einen Sohn hegt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "547",
+            "character": "必",
+            "keyword": "unbedingt",
+            "hint": "GETEILTES HERZ, als Pumporgan muss es unbedingt aus zwei Hälften bestehen",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "22": [
+        {
+            "frame": "548",
+            "character": "手",
+            "keyword": "Hand",
+            "hint": "Bild einer Hand, einfach einprägen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "549",
+            "character": "看",
+            "keyword": "beschauen",
+            "hint": "Verstecken spielen mit der Tochter, sie sagt: Leg die HAND auf die AUGEN, du darfst noch nicht schauen! Wenn man die HAND von den AUGEN nimmt, kann man: schauen",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
