@@ -4825,6 +4825,78 @@
             "hint": "Verstecken spielen mit der Tochter, sie sagt: Leg die HAND auf die AUGEN, du darfst noch nicht schauen! Wenn man die HAND von den AUGEN nimmt, kann man: schauen",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "550",
+            "character": "拿",
+            "keyword": "halten",
+            "hint": "Ein Universal-Griff, mit dem man alles auf der Welt halten kann, PASST sich perfekt der HAND seines Besitzers an",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "551",
+            "character": "我",
+            "keyword": "ich",
+            "hint": "Das Wort für ich kann ich noch freiHÄNDIG besoffen auf dem STRAßENFEST schreiben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "552",
+            "character": "義",
+            "keyword": "Rechtschaffenheit",
+            "hint": "Mein Partner mit der kalten Schnauze, nur dass es hier ein Schaf ist. ICH setze mich mit meinem Partner dem SCHAF für Rechtschaffenheit in Downtown ein",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "553",
+            "character": "議",
+            "keyword": "beratschlagen",
+            "hint": "M - Eine Stadt sucht ihren Mörder. Als sie M endlich gefangen haben, wurde beratschlagt was mit ihm zu tun ist. Es wurde darüber GESPROCHEN, ob man bei der Bestrafung RECHTSCHAFFEN bleibt oder nicht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "554",
+            "character": "蟻",
+            "keyword": "Ameise",
+            "hint": "Die Ameise ist ein INSEKT das sich in einen RECHTSCHAFFENDEN Staat organisiert. Es gibt dort Soldaten, die RECHTSCHAFFEND sind und die Ameisen bestrafen, die ihr Aufgabe nicht erfüllen wollen.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "554-1",
+            "character": "",
+            "keyword": "Finger",
+            "hint": "Hand mit weniger Strichen: ein Finger",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "555",
+            "character": "抱",
+            "keyword": "umarmen",
+            "hint": "Ein Mädchen umarmt immer ihre männlichen Freunde, dann kann sie sie leichter um den FINGER WICKELN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "556",
+            "character": "抗",
+            "keyword": "bekämpfen",
+            "hint": "Eine Militärmaschine die auf FINGER-Knopfdruck einen WIRBELWIND erzeugen kann, der den Feind komplett vernichten kann. Mit dieser Maschine kann man den Fein mit einem FINGERDruck bekämpfen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "557",
+            "character": "批",
+            "keyword": "kritisieren",
+            "hint": "Im Bundestag steht ein Regierungskritiker auf und deutet mit dem FINGER immer auf verschiedene Bilder, die er mitgebracht hat. Auf einem bild sind die Zustände im eigenen Land, auf den anderen Bildern wie es sein sollte. Der Kritiker zeigt auf die Bilder, vergleicht sie, und kritisiert so die Regierung",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
