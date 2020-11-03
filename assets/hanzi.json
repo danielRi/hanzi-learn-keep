@@ -5017,6 +5017,78 @@
             "hint": "Auf einem STRAßENFEST sucht eine Frau ihren Mann, sie fragt sich durch, und die Leute deuten immer mit einem FINGER in die Richtung, in der er gesehen wurde",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "572-1",
+            "character": "开",
+            "keyword": "zwei Hände",
+            "hint": "Zwei gleichzeitig verwendete Hände die etwas verwenden",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "573",
+            "character": "研",
+            "keyword": "mahlen",
+            "hint": "Bei einer Mühle muss der MahlSTEIN mit ZWEI HÄNDEN manuell gedreht werden, um das darunter liegende Korn zu mahlen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "574",
+            "character": "弄",
+            "keyword": "herumspielen mit",
+            "hint": "Jemand spielt mit einem WasserBALL herum, indem er ihn immer wieder mit ZWEI HÄNDEN in die Luft wirft",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "575",
+            "character": "鼻",
+            "keyword": "Nase",
+            "hint": "Man greift jemandem mit ZWEI HÄNDEN in die NASE, und zieht das GEHIRN heraus und hält es dem Opfer vor die NASE",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "576",
+            "character": "刑",
+            "keyword": "Strafe",
+            "hint": "Die Todesstrafe wird von jemandem vollstreckt, der einen SÄBEL in ZWEI HÄNDEN hält, um dann den Delinquenten den Kopf ab zu säbeln",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "577",
+            "character": "型",
+            "keyword": "Gussform",
+            "hint": "Für eine Eisengussform eines runden Kuchens wird zunächst mit ZWEI HÄNDEN ein grobes Loch in die ERDE gegraben, danach wird es mit einem Säbel die Kanten und das Runde perfekt ausgeformt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "578",
+            "character": "才",
+            "keyword": "Genie",
+            "hint": "Wenn man ein Genie ist schafft man alles mit nur einem Finger: Das Schriftzeichen ist eine veränderte Form von FINGER",
+            "primitive": "wenn rechts in normaler Form: freischwebender Dschinn, wenn links in abgeänderter Form: Flaschengeist der noch teilweise in der Flasche steckt.",
+            "pinyin": ""
+        },
+        {
+            "frame": "579",
+            "character": "財",
+            "keyword": "Vermögen",
+            "hint": "Man wünscht sich ein ganzes Vermögen vom DSCHINN, dieser hält einem GELD entgegen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "580",
+            "character": "存",
+            "keyword": "speichern",
+            "hint": "Ein FLASCHENGEIST speichert, wenn er nicht gerade Wünsche erfüllt und in seinem Flaschen-Appartement wohnt, ganz viele Bilder von KINDERN...?? ähmm...",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
