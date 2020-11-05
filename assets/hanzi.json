@@ -5164,9 +5164,81 @@
         },
         {
             "frame": "589",
-            "character": "",
+            "character": "又",
             "keyword": "wieder",
-            "hint": "",
+            "hint": "Diesem Schriftzeichen begegnet man wieder und wieder",
+            "primitive": "rechte Hand, Ausfallschritt, Trippelschrift, Schoß",
+            "pinyin": ""
+        },
+        {
+            "frame": "590",
+            "character": "友",
+            "keyword": "Freund",
+            "hint": "Sie hatte meinen Herz-Anhänger AN DER SEITE hängen und saß bei mir auf dem SCHOß: Sagte aber sie will nur Freunde bleiben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "591",
+            "character": "雙",
+            "keyword": "Paar",
+            "hint": "Ein Paar von Zwei TRUTHÄHNEN, die wenn der Bauer eins Schlachten will den Bauer zusammen mit TRIPPELSCHRITT angreifen und so auf ihn zustürmen. Das Paar hält immer zusammen so.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "592",
+            "character": "隻",
+            "keyword": "einer von zweien",
+            "hint": "Wenn der Bauer doch einen der zwei TRUTHAHNEN geschlachtet hat und in den Stall kommt, wird er sofort wieder von dem anderen TRUTHAHN des Paares im Trippelschritt angegriffen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "592-1",
+            "character": "",
+            "keyword": "Paradiesvogel",
+            "hint": "Die BLUMEN sind die bunten Federn des Paradiesvogels, das ganze Tier sieht aber wie ein TRUTHAHN aus. Ein Betrüger! Es sitzt beim Füttern auf meiner RECHTEN HAND",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "593",
+            "character": "護",
+            "keyword": "beschützen",
+            "hint": "Um den Bestand der letzten PARADIESVÖGEL zu beschützen, hat sich eine Gruppe Umweltaktivisten um as Nest der Vögel vesammelt, und SAGEN alle zusammen Durchhalteparolen an die anrückenden Bagger von Nestle auf: >>Schützt die Paradiesvögel!! Schützt die Paradiesvögel!!<<",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "594",
+            "character": "獲",
+            "keyword": "erlangen",
+            "hint": "Ein PARADIESVOGEL, ein exzentrischer super reicher Vogel, möchte gern eine goldene Feder erlangen, die in einem Museum liegt. Er schickt ein RUDEL WILDER HUNDE für den Job los, die ihm das besorgen sollen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "594-1",
+            "character": "",
+            "keyword": "Storch",
+            "hint": "Ein seniler alter TRUTHAHN der sich für einen Storch hält. Er QUASSELT von der Ankunft des Babies, wie verrückt. Ausserdem hat er BLUMEM gegen den Gestank der Windeln",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "595",
+            "character": "觀",
+            "keyword": "beobachten",
+            "hint": "Ein STORCH wird, nachdem er das Baby abgeliefert hat, für eine Zeit lang die Eltern beobachten, um zu SEHEN dass es dem Baby gut geht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "596",
+            "character": "歡",
+            "keyword": "froh",
+            "hint": "Einem Storch ist einst ein Baby runtergefallen. Es lag einfach nur da danach, er dachte, es sein tot. Dann sah der STROCH das Baby aber GÄHNEN, da wusste er, dass es nur geschlafen hatte. Da war er heilfroh.",
             "primitive": "",
             "pinyin": ""
         }
