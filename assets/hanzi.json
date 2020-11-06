@@ -5241,6 +5241,78 @@
             "hint": "Einem Storch ist einst ein Baby runtergefallen. Es lag einfach nur da danach, er dachte, es sein tot. Dann sah der STROCH das Baby aber GÄHNEN, da wusste er, dass es nur geschlafen hatte. Da war er heilfroh.",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "596-1",
+            "character": "殳",
+            "keyword": "Geschoss",
+            "hint": "Yasuo von LoL macht einen AUSFALLSCHRITT und erzeugt eine WIND Wand über sich, um Gangplanks Pistolen Geschoss abzublocken",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "597",
+            "character": "投",
+            "keyword": "werfen",
+            "hint": "In einer Schneeballschlacht trifft mich plötzlich Gangplank mit seiner Pistole mit einem GESCHOSS am Finger. Jetzt kann ich keine Schneebälle mehr werfen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "598",
+            "character": "沒",
+            "keyword": "nicht haben",
+            "hint": "Auf einem Piratenschiff sind alle GESCHOSSE ins WASSER gerollt. Der Kapitän sagt wütend zum Maat: Ich kan ihnen sagen was wir nicht haben: GESCHOSSE! Die sind im WASSER!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "599",
+            "character": "設",
+            "keyword": "gründen",
+            "hint": "Zum Gründen eines LoL E-Sports Teams braucht man zwei Dinge: Einen TS zum SPRECHEN, und Gangplanks Q (Sein GESCHOSS)",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "600",
+            "character": "股",
+            "keyword": "Oberschenkel",
+            "hint": "Irelia`s Oberschenkel kann nur durch GangPlanks Q GESCHOSS gestoppt werden, und durch eine FLEISCHige Lebenspunkteleiste",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "601",
+            "character": "支",
+            "keyword": "Abzweigung",
+            "hint": "Ich hatte die NADEL in der RECHTEN HAND - da nahm ich die Abzweigung auf die Schiefe Bahn",
+            "primitive": "Zweig",
+            "pinyin": ""
+        },
+        {
+            "frame": "602",
+            "character": "技",
+            "keyword": "Technik",
+            "hint": "Eine ganz effiziente Technik zum Ausgeizen von ZWEIGEN mit nur einem einzigen FINGER ist wirklich bemerkenswert",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "603",
+            "character": "枝",
+            "keyword": "Ast",
+            "hint": "Eine ABZWEIGUNG am BAUM ist eben ein Ast",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "6034",
+            "character": "叔",
+            "keyword": "Onkel",
+            "hint": "",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
