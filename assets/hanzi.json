@@ -5307,10 +5307,90 @@
             "pinyin": ""
         },
         {
-            "frame": "6034",
+            "frame": "604",
             "character": "叔",
             "keyword": "Onkel",
-            "hint": "",
+            "hint": "Mein Onkel wohnte OBEN in einem KLEINEM Zimmer, meistens mit Fernbedienung oder Zigarette in der RECHTEN HAND",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "605",
+            "character": "督",
+            "keyword": "beaufsichtigen",
+            "hint": "Der ONKEL hat sein AUGE nach unten gerichtet, um die Babies, Lara oder Carli zu beaufsichtigen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "606",
+            "character": "寂",
+            "keyword": "einsam",
+            "hint": "In Fengyuan gibt es ein HAUS in dem ein einsamer ONKEL Agu wohnt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "606-1",
+            "character": "",
+            "keyword": "schleppen",
+            "hint": "Ein Strich der einen anderen Strich hinter sich herschleppt, durch diesen Schleppeffekt unterscheidet sich das Schriftzeichen von der Klippe",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "607",
+            "character": "反",
+            "keyword": "anti-",
+            "hint": "Ein anti-Alles Punk SCHLEPPT einen Kasten Bier zum Bahnhof, sobald er die Polizei sieht, rennt er im AUSFALLSCHRITT weg",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "608",
+            "character": "板",
+            "keyword": "Brett",
+            "hint": "ANTI-Alles Punker sammeln HOLZ um daraus Bretter zu machen, um die besetzten Häuser zu verschanzen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "609",
+            "character": "返",
+            "keyword": "zurückkehren",
+            "hint": "ANTI-Alles Punker auf einer einsamen LANDSTRAßE...er kehrt zurück ins Einfamlienhaus seiner reichen Eltern",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "610",
+            "character": "派",
+            "keyword": "Clique",
+            "hint": "Clique trägt HALSTÜCHER, weil sie einen auf Cribs oder Bloods machen wollen, ausserdem SCHLEPPEN sie immer den Ghettoblaster zum WASSER: Fluss, See, Strand oder so",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "611",
+            "character": "脈",
+            "keyword": "Blutgefäße",
+            "hint": "Durch die Blutgefäße werden die Bloods (Blutkörperchen mit rotem HALSTUCH) quer durch unser FLEISCH GESCHLEPPT",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "612",
+            "character": "爪",
+            "keyword": "Kralle",
+            "hint": "Bild eines Greifvogels der seine Beute verschleppt",
+            "primitive": "Geier",
+            "pinyin": ""
+        },
+        {
+            "frame": "613",
+            "character": "抓",
+            "keyword": "ergreifen",
+            "hint": "Tulpe, Sohn von Madame Noir fährt die  KRALLE seines FINGERS aus und ergreift TOM",
             "primitive": "",
             "pinyin": ""
         }
