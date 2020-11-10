@@ -5396,7 +5396,7 @@
         },
         {
             "frame": "614",
-            "character": "",
+            "character": "采",
             "keyword": "auflesen",
             "hint": "Ein GEIER krallt seine Krallen in einen BAUM, und wartet bis er die Gedärme von UT99 Insta-Gib Opfern auflesen kann",
             "primitive": "",
@@ -5404,7 +5404,7 @@
         },
         {
             "frame": "615",
-            "character": "",
+            "character": "採",
             "keyword": "pflücken",
             "hint": "Beim Obst pflücken kommt ständig der Supervisor und deutet mit dem FINGER auf die heruntergefallenen Früchte, die noch AUFGELESEN werden müssen. Das kostet mehr Zeit als das Pflücken selbst",
             "primitive": "",
@@ -5412,7 +5412,7 @@
         },
         {
             "frame": "616",
-            "character": "",
+            "character": "菜",
             "keyword": "Gemüse",
             "hint": "Nach einer Hochzeit muss jemand die ganzen BLUMEN AUFLESEN. Das macht meistens irgend welches junges Gemüse",
             "primitive": "",
@@ -5428,7 +5428,7 @@
         },
         {
             "frame": "617",
-            "character": "",
+            "character": "受",
             "keyword": "hinnehmen",
             "hint": "Jesus musst einfach hinnehmen, dass jemand ein VOGELHÄUSCHEN an seiner RECHTEN HAND am Kreuz aufhängen wollte",
             "primitive": "",
@@ -5436,7 +5436,7 @@
         },
         {
             "frame": "618",
-            "character": "",
+            "character": "授",
             "keyword": "überreichen",
             "hint": "Jemand bekommt auf einer Preisverleihung lediglich einen Fake-Finger in der Schachtel überreicht, auch er muss es hinnehmen, dass alles nur aufgezogen wurde um ihn zu ärgern",
             "primitive": "",
@@ -5444,7 +5444,7 @@
         },
         {
             "frame": "619",
-            "character": "",
+            "character": "愛",
             "keyword": "Liebe",
             "hint": "Ein WANDERSMANN findet ein menschliches HERZ in einem VOGELHÄUSCHEN...später stellt sich heraus es war ein Mord aus Liebe",
             "primitive": "",
@@ -5452,7 +5452,7 @@
         },
         {
             "frame": "619-1",
-            "character": "",
+            "character": "厶",
             "keyword": "Ellenbogen",
             "hint": "Bild eines ausgefahrenen Ellenbogens",
             "primitive": "",
@@ -5476,7 +5476,7 @@
         },
         {
             "frame": "622",
-            "character": "",
+            "character": "治",
             "keyword": "regieren",
             "hint": "Auf einer Pool Party regiert der DJ von einer aufblasbaren PLATFORM im WASSER über seine Party Gäste",
             "primitive": "",
@@ -5484,7 +5484,7 @@
         },
         {
             "frame": "623",
-            "character": "",
+            "character": "始",
             "keyword": "beginnen",
             "hint": "Als ich meine FRAU auf der PLATFORM sah, wusste ich, dass wir jetzt einen neuen Lebensabschnitt beginnen",
             "primitive": "",
@@ -5492,9 +5492,57 @@
         },
         {
             "frame": "624",
-            "character": "",
+            "character": "去",
             "keyword": "gehen",
-            "hint": "",
+            "hint": "Tiefste Gangart. Man geht so gebeugt, dass die ELLENBOGEN schon unter der ERDE hängen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "625",
+            "character": "法",
+            "keyword": "Methode",
+            "hint": "Eine Methode für A um vom Suff wegzukommen: Auf Parties nur WASSER trinken, früh GEHEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "625-1",
+            "character": "",
+            "keyword": "Wand",
+            "hint": "die ELLENBOGEN der ZIMMERDECKE ist eben eine Wand",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "626",
+            "character": "至",
+            "keyword": "bis",
+            "hint": "Bis dass der Tod euch scheidet: ein Paar hat von oben eine WAND in der ERDE vom Grab einlassen lassen, die sie im Tod scheiden soll",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "627",
+            "character": "室",
+            "keyword": "Raum",
+            "hint": "Ein neues HAUS entsteht: der Architekt fragt die ganze Zeit: BIS wohin soll der Raum gehen, und BIS wohin der, BIS wohin der ....?",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "628",
+            "character": "到",
+            "keyword": "ankommen",
+            "hint": "Als wir in Rakka angekommen sind, hat uns jemand den SÄBEL an den Hals gehalten und gemeint, es dauert nicht lange BIS wir auf Sendung gehen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "629",
+            "character": "互",
+            "keyword": "gegenseitig",
+            "hint": "In einem Wandschrank hängt man jemand an der WAND aufrecht auf, die andere verkehrt herum an die WAND, dann kann man sich gegenseitig ...",
             "primitive": "",
             "pinyin": ""
         }
