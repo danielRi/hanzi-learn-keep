@@ -5254,7 +5254,7 @@
             "frame": "597",
             "character": "投",
             "keyword": "werfen",
-            "hint": "In einer Schneeballschlacht trifft mich plötzlich Gangplank mit seiner Pistole mit einem GESCHOSS am Finger. Jetzt kann ich keine Schneebälle mehr werfen",
+            "hint": "Ich muss nur meinen FINGER rühren, um ein GangPlank Q GESCHOSS abzufeuern, und der gegnerische ADC wirft seine Maus gegen die Wand",
             "primitive": "",
             "pinyin": ""
         },
@@ -5390,7 +5390,7 @@
             "frame": "613",
             "character": "抓",
             "keyword": "ergreifen",
-            "hint": "Tulpe, Sohn von Madame Noir fährt die  KRALLE seines FINGERS aus und ergreift TOM",
+            "hint": "Dr. KRALLE von Inspector Gadget deutet mit seinem EisenFINGER auf seinen Bildschirm und sagt: Ergreift ihn!",
             "primitive": "",
             "pinyin": ""
         },
@@ -5543,6 +5543,88 @@
             "character": "互",
             "keyword": "gegenseitig",
             "hint": "In einem Wandschrank hängt man jemand an der WAND aufrecht auf, die andere verkehrt herum an die WAND, dann kann man sich gegenseitig ...",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "629-1",
+            "character": "",
+            "keyword": "Kleinkind",
+            "hint": "Ein Kleinkind malt große KLEKSE an die WAND",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "630",
+            "character": "充",
+            "keyword": "hinreichend",
+            "hint": "Es gilt als hinreichend bekannt oder erforscht, dass KLEINKINDER zwei MENSCHENBEINE haben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "631",
+            "character": "育",
+            "keyword": "Aufzucht",
+            "hint": "In Sparta essen KLEINKINDER nur FLEISCH, damit sie groß und stark werden. Sie sind dann die neueste Aufzucht für den Kriegsdienst",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "631-1",
+            "character": "",
+            "keyword": "Mosesbaby",
+            "hint": "KLEINKIND wird in die FLUT gelegt...",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "632",
+            "character": "流",
+            "keyword": "fließen",
+            "hint": "Das MOSESBABY treibt im WASSER, das den Fluss runter fließt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "633",
+            "character": "梳",
+            "keyword": "Kamm",
+            "hint": "Ich habe das MOSESBABY im Schilf gefunden, das Baby aus dem Korb gekippt und mir aus dem HOLZ einen schönen Kamm geschnitzt",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "23": [
+        {
+            "frame": "634",
+            "character": "山",
+            "keyword": "Berg",
+            "hint": "Bild eines Berges",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "635",
+            "character": "出",
+            "keyword": "hinaus",
+            "hint": "BERGGipfel, die sich aus der Erde hinausstrecken",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "636",
+            "character": "擊",
+            "keyword": "zuschlagen",
+            "hint": "Militär bereitet einen Hinterhalt in den Bergen vor. Ein BERGFAHRZEUG transportiert die GESCHOSSE die Hänge hinauf. Der General sagt: Meine Armee ist wie eine HAND, wenn ich will formt sie sich zu einer Faust und schlägt zu",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "637",
+            "character": "密",
+            "keyword": "geheim",
+            "hint": "was nicht DAHEIM im HAUS besprochen wird, werden andere UNBEDINGT von jedem BERG rufen wollen",
             "primitive": "",
             "pinyin": ""
         }
