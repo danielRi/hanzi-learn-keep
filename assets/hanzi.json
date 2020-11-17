@@ -5627,6 +5627,62 @@
             "hint": "was nicht DAHEIM im HAUS besprochen wird, werden andere UNBEDINGT von jedem BERG rufen wollen",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "638",
+            "character": "入",
+            "keyword": "hinein",
+            "hint": "Eine nach links gerichtete Person, die den Fuß nach vorne streckt, um irgendwo HINEIN zu gehen (Linke Partei Treffen)",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "639",
+            "character": "內",
+            "keyword": "innen",
+            "hint": "Wir brauchen jemanden innen. Ein Spion wird unter einer GLASHAUBE in ein Hotelzimmer HINEIN geschoben. Er lugt darunter hervor um was zu sehen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "640",
+            "character": "吶",
+            "keyword": "johlen",
+            "hint": "Der MUND ist offen vom johlen, die Scherzen sind alle INNEN, nachdem der Fussball in die Eier geflogen ist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "641",
+            "character": "分",
+            "keyword": "Teil",
+            "hint": "Man braucht Acht Dungeons, Acht Teile für den Master DOLCH...",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "642",
+            "character": "貧",
+            "keyword": "arm",
+            "hint": "Eine Arme Witwe hofft auf das Hinterlassene ihres verstorbenen Gatten: Sie bleibt weiter arm, denn sie bekommt nur einen TEIL des GELDES",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "643",
+            "character": "公",
+            "keyword": "öffentlich",
+            "hint": "Pogo Flashmob: ACHT Zecken Pogen auf einem öffentlich Platz um Acht Uhr und stoßen sich gegenseitig mit den ELLEBOGEN, sie haben alle schon acht Bier getrunken",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "644",
+            "character": "松",
+            "keyword": "Kiefernbaum",
+            "hint": "Ein BAUM an dem ÖFFENTLICH die Kiefer von hingerichteten Verbrechern ausgestellt werden, zur Abschreckung und Warnung von Besuchern",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
