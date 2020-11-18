@@ -5683,6 +5683,54 @@
             "hint": "Ein BAUM an dem ÖFFENTLICH die Kiefer von hingerichteten Verbrechern ausgestellt werden, zur Abschreckung und Warnung von Besuchern",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "645",
+            "character": "谷",
+            "keyword": "Tal",
+            "hint": "An der MÜNDUNG des Tals hat man einen SCHIRM aufgespannt, der verhindern soll, dass Krabbeltiere ins Tal kommen. Der SCHIRM muss den TIERBEINEN wiederstehen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "646",
+            "character": "浴",
+            "keyword": "baden",
+            "hint": "Im KleinwalserTAL kann man wunderbar ans WASSER zum Baden",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "647",
+            "character": "欲",
+            "keyword": "Begierde",
+            "hint": "Im KleinwalserTAL lebt ein Gorilla der die ganze Zeit GÄHNT, er ist das Objekt meiner Begierde",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "648",
+            "character": "慾",
+            "keyword": "Lust",
+            "hint": "BEGIERDE wecken und ihr HERZ erobern, dann hat sie bestimmt LUST zu...",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "649",
+            "character": "容",
+            "keyword": "enthalten",
+            "hint": "Ein HAUS das so so groß ist, dass es ein ganzes TAL enthält",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "650",
+            "character": "溶",
+            "keyword": "auflösen",
+            "hint": "Wenn WASSER etwas ENTHÄLT, z.B. Brause, hat sich die Brause schon aufgelöst",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
