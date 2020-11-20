@@ -5808,9 +5808,57 @@
         },
         {
             "frame": "659",
-            "character": "",
+            "character": "破",
             "keyword": "kaputt machen",
-            "hint": "",
+            "hint": "Jemand wirft einen STEIN auf die gläserne UMHÜLLUNG einer Terasse und macht sie so kaputt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "660",
+            "character": "被",
+            "keyword": "Steppdecke",
+            "hint": "Jemand sitzt mit einem warmen Kakao vorm Kamin im Winter auf einem Ohrensessel, UMHÜLLT von einer Steppdecke als UMHANG",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "661",
+            "character": "歹",
+            "keyword": "bösartig",
+            "hint": "Ein bösartiger Tumor, der sich von unten erst durch FLEISCH und dann durch den KNOCHEN frisst",
+            "primitive": "Knochen",
+            "pinyin": ""
+        },
+        {
+            "frame": "662",
+            "character": "列",
+            "keyword": "aufreihen",
+            "hint": "Ein Offizier reiht die KNOCHEN seiner Mahlzeit nebeneinander auf, um dann mit seinem Säbel darauf ein Lied zu spielen. Er reiht die KNOCHEN in einer Tonleiter auf",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "663",
+            "character": "烈",
+            "keyword": "heftig",
+            "hint": "Ey des is fei heftig! Alberts Kommentar zu: Er hat endlos viel Essen über dem HERDFEUER AUFGEREIHT, was dann schließlich alles verkohlt ist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "664",
+            "character": "死",
+            "keyword": "Tod",
+            "hint": "Ein KNOCHENtrockener Kommentar für Tod ist: er hat den LÖFFEL abgegeben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "665",
+            "character": "葬",
+            "keyword": "beerdigen",
+            "hint": "Jeder Totengräber beerdigt mit ZWEI HÄNDEN den mit BLUMEN geschmückten TOTEN",
             "primitive": "",
             "pinyin": ""
         }
