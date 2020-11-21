@@ -5861,6 +5861,46 @@
             "hint": "Jeder Totengräber beerdigt mit ZWEI HÄNDEN den mit BLUMEN geschmückten TOTEN",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "666",
+            "character": "耳",
+            "keyword": "Ohr",
+            "hint": "Bild eines Ohres",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "667",
+            "character": "取",
+            "keyword": "nehmen",
+            "hint": "Kannst du das bitte nehmen, sonst gebe ich dir mit der RECHTEN HAND aufs OHR",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "668",
+            "character": "趣",
+            "keyword": "Interesse",
+            "hint": "Seitdem ich häufig LAUFEN gehe habe ich kein Interesse mehr Diät Pillen zu NEHMEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "669",
+            "character": "最",
+            "keyword": "am meisten",
+            "hint": "Die SONNE NIMMT im Sonnensystem am meisten Masse in sich auf",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "670",
+            "character": "職",
+            "keyword": "Beruf",
+            "hint": "Mein Beruf ist Vuvuzela Händler. Ich halte die TRÖTE neben das OHR der Kunden und mach sie taub",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
