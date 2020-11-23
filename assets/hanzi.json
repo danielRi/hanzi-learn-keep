@@ -5744,7 +5744,7 @@
         },
         {
             "frame": "651",
-            "character": "",
+            "character": "當",
             "keyword": "tätig sein als",
             "hint": "Ich bin tätig als PLUMPSKLO Vertreter für Reisbauern. Ich stelle PLUMPSKLOS auf REISFELDERN auf",
             "primitive": "",
@@ -5752,7 +5752,7 @@
         },
         {
             "frame": "652",
-            "character": "",
+            "character": "檔",
             "keyword": "Akte",
             "hint": "Es gibt eine X Akte in dem jemand der als Plumpsklo Vertreter TÄTIG IST beim aufstellen eines Plumpsklos von einem BAUM vergewaltigt wurde",
             "primitive": "",
@@ -5760,7 +5760,7 @@
         },
         {
             "frame": "653",
-            "character": "",
+            "character": "黨",
             "keyword": "Partei",
             "hint": "Die linksgrünversiffte Partei hat eine scheißt auf die SCHWARZE Partei, deshalb hat sie alles SCHWARZE unters PLUMPSKLO gelegt",
             "primitive": "",
@@ -5768,7 +5768,7 @@
         },
         {
             "frame": "654",
-            "character": "",
+            "character": "常",
             "keyword": "oft",
             "hint": "Statt Klopapier gibt es in dem PLUMPSKLO nur ein TUCH, mit dem wurde sich schon sehr oft der Arsch abgewischt",
             "primitive": "",
@@ -5776,7 +5776,7 @@
         },
         {
             "frame": "655",
-            "character": "",
+            "character": "堂",
             "keyword": "Saal",
             "hint": "Dort, wo Homer mit seinen Steinmetzbrüdern mal einen großen Saal für sie bauen lassen will, steht aktuell nur ein PLUMPSKLO auf DRECK",
             "primitive": "",
@@ -5784,7 +5784,7 @@
         },
         {
             "frame": "656",
-            "character": "",
+            "character": "皮",
             "keyword": "Umhüllung",
             "hint": "Der zweite Strich stellt eine Umhüllung dar, die vor dem ZWEIG herunter hängt",
             "primitive": "",
@@ -5792,7 +5792,7 @@
         },
         {
             "frame": "657",
-            "character": "",
+            "character": "波",
             "keyword": "Welle",
             "hint": "Ein Surfer auf einer Welle, wenn sie langsam bricht ist er komplett von WASSER UMHÜLLT",
             "primitive": "",
@@ -5900,6 +5900,38 @@
             "keyword": "Beruf",
             "hint": "Mein Beruf ist Vuvuzela Händler. Ich halte die TRÖTE neben das OHR der Kunden und mach sie taub",
             "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "671",
+            "character": "聖",
+            "keyword": "heilig",
+            "hint": "Beim heiligen Winzerschutzherr Kilian kann man Fürbitten für eine gute Ernte EINRICHEN, wenn Gott den Winzern kein OHR leiht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "672",
+            "character": "敢",
+            "keyword": "wagemutig",
+            "hint": "Obwohl der strenge ZUCHTMEISTER von Direktor klipp und klar jeglichen Schmuck an der Schule verboten hat, hat sich ein wagemutiger Schüler eine REIßZWECKE ins OHR gesteckt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "673",
+            "character": "嚴",
+            "keyword": "streng",
+            "hint": "Die WAGEMUTIGEN die von der KLIPPE springen werden immer von einer QUASSELSTRIPPE vollgequatscht, dass sie ja auch schon von Klippen gesprungen ist... Aber jetzt nicht kann weil ihre Eltern zu streng sind und sie nicht mehr an die Klippen lassen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "674",
+            "character": "曼",
+            "keyword": "langgezogen",
+            "hint": "Beim Fussball wird das Spiel oft künstlich langgezogen. Dazu wird gewartet bis die SONNE genau ÜBER dem NETZ steht, und dann landet jeder Abschlag vom Torwart in irgendeinem SCHOß der Zuschauer",
+            "primitive": "Mandala",
             "pinyin": ""
         }
     ]
