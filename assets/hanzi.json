@@ -5933,6 +5933,70 @@
             "hint": "Beim Fussball wird das Spiel oft künstlich langgezogen. Dazu wird gewartet bis die SONNE genau ÜBER dem NETZ steht, und dann landet jeder Abschlag vom Torwart in irgendeinem SCHOß der Zuschauer",
             "primitive": "Mandala",
             "pinyin": ""
+        },
+        {
+            "frame": "675",
+            "character": "慢",
+            "keyword": "langsam",
+            "hint": "Wenn jemand einen GEFÜHLSAUSBRUCH hat, sag ich Gaaanz Langsam! Mal erst mal ein MANDALA aus",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "676",
+            "character": "漫",
+            "keyword": "überfließen",
+            "hint": "Wenn man ein MANDALA in 3D baut, erhält man einen Springbrunnen, der von innen nach aussen abfällt. Hier kann das WASSER von innen nach aussen kommen, in dem es die Ränder überfließt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "677",
+            "character": "環",
+            "keyword": "Ring",
+            "hint": "Um den einen Ring wiederzubekommen, stellen wir Frodo eine Falle: Hängen ein NETZ an die DECKE, und fesseln den KÖNIG mit einem SCHAL im MUND. Frodo muss ihn einfach befreien, er wird kommen",
+            "primitive": "",
+            "pinyin": ""
+        }
+        {
+            "frame": "678",
+            "character": "還",
+            "keyword": "zurückgeben",
+            "hint": "Die Falle mit dem NETZ an der DECKE ist zugeschnappt, der SCHAL wird aus dem MUND genommen. Frodo ist gefangen. Jetzt wo du schonmal da bist, kannst du auch den Ring zurückgeben. Stell dich an die Landstraße und warte auf das Taxi, das ich dir bestellt habe",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "679",
+            "character": "夫",
+            "keyword": "Ehemann",
+            "hint": "Der Ehemann, das Familienoberhaupt ist ein GROßER Mann mit einem zusätzlichen Strich oben für das Haupt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "680",
+            "character": "規",
+            "keyword": "Vorschrift",
+            "hint": "Laut Ehevertrag von Mark Zuckerberg ist es Vorschrift, dass seine Frau einmal die Woche ihren EHEMANN SEHEN darf",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "681",
+            "character": "替",
+            "keyword": "an die Stelle treten von",
+            "hint": "Ein EHMANN muss mit seiner Frau zum einkaufen, den ganzen TAG über. Er engagiert seinen Kumpel, der ebenfalls EHEMANN ist, an seine Stelle zu treten, damit er zum angeln kann. Der erste Ehemann kann nämlich so AUF den ganzen TAG verzichten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "682",
+            "character": "失",
+            "keyword": "verlieren",
+            "hint": "Ein Ehemann, dem an der Seite was rausfällt, er somit etwas verliert. Ihm fällt die Bierdose aus der Dosenhalter-Mütze, deshalb vom Haupt",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
