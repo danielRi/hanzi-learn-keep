@@ -6021,6 +6021,22 @@
             "hint": "Ein Mundschenk (Kellermeister), ein LAKAI, der immer wieder nachschenkt, mit seiner RECHTEN HAND",
             "primitive": "Kellermeister",
             "pinyin": ""
+        },
+        {
+            "frame": "685",
+            "character": "",
+            "keyword": "würdig",
+            "hint": "Ein betrunkener Gast sagt zum MUNDSCHENK: du bist ein feiner Kerl, absolut würdig. Komm ist eine teure MUSCHEL",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "686",
+            "character": "",
+            "keyword": "standhaft",
+            "hint": "Ein betrunkener Gast sagt zum MUNDSCHENK: du bist ein feiner Kerl, absolut würdig. Komm ist eine teure MUSCHEL",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
