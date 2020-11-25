@@ -5957,7 +5957,7 @@
             "hint": "Um den einen Ring wiederzubekommen, stellen wir Frodo eine Falle: Hängen ein NETZ an die DECKE, und fesseln den KÖNIG mit einem SCHAL im MUND. Frodo muss ihn einfach befreien, er wird kommen",
             "primitive": "",
             "pinyin": ""
-        }
+        },
         {
             "frame": "678",
             "character": "還",
@@ -5996,6 +5996,30 @@
             "keyword": "verlieren",
             "hint": "Ein Ehemann, dem an der Seite was rausfällt, er somit etwas verliert. Ihm fällt die Bierdose aus der Dosenhalter-Mütze, deshalb vom Haupt",
             "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "683",
+            "character": "",
+            "keyword": "Feudalbeamter",
+            "hint": "Bild eines Auges, das nach rechts steht. Es ist das Auge eines Feudalbeamten, der Stramm vor seinem Dienstherrn steht",
+            "primitive": "Lakai",
+            "pinyin": ""
+        },
+        {
+            "frame": "684",
+            "character": "",
+            "keyword": "kurz davor sein",
+            "hint": "Ich bin schon wieder kurz davor auszuticken: Der LAKAI ist ZURÜCKGELEHNT zwischen den WAREN, einer Palette Wein und schläft",
+            "primitive": "Lakai",
+            "pinyin": ""
+        },
+        {
+            "frame": "684-1",
+            "character": "",
+            "keyword": "Mundschenk",
+            "hint": "Ein Mundschenk (Kellermeister), ein LAKAI, der immer wieder nachschenkt, mit seiner RECHTEN HAND",
+            "primitive": "Kellermeister",
             "pinyin": ""
         }
     ]
