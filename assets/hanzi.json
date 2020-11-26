@@ -6000,7 +6000,7 @@
         },
         {
             "frame": "683",
-            "character": "",
+            "character": "臣",
             "keyword": "Feudalbeamter",
             "hint": "Bild eines Auges, das nach rechts steht. Es ist das Auge eines Feudalbeamten, der Stramm vor seinem Dienstherrn steht",
             "primitive": "Lakai",
@@ -6016,7 +6016,7 @@
         },
         {
             "frame": "684-1",
-            "character": "",
+            "character": "臤",
             "keyword": "Mundschenk",
             "hint": "Ein Mundschenk (Kellermeister), ein LAKAI, der immer wieder nachschenkt, mit seiner RECHTEN HAND",
             "primitive": "Kellermeister",
@@ -6027,6 +6027,62 @@
             "character": "",
             "keyword": "würdig",
             "hint": "Ein betrunkener Gast sagt zum MUNDSCHENK: du bist ein feiner Kerl, absolut würdig. Komm ist eine teure MUSCHEL",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "686",
+            "character": "堅",
+            "keyword": "standhaft",
+            "hint": "Ein MUNDSCHENK muss bei einem Festival helfen. Wenn alles weggeräumt ist, steht der MUNDSCHENK noch standhaft auf der vermüllten ERDE",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "687",
+            "character": "力",
+            "keyword": "Kraft",
+            "hint": "Bild eines Muskels? einfach merken",
+            "primitive": "Muskeln",
+            "pinyin": ""
+        },
+        {
+            "frame": "688",
+            "character": "另",
+            "keyword": "anderer",
+            "hint": "Ich versuche mit aller KRAFT in eine ÖFFNUNG einzudringen, bis sie sagt: Versuch woll doch lieber das andere...",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "689",
+            "character": "別",
+            "keyword": "Tus Nicht!",
+            "hint": "Ich erwische meine Frau mit einem ANDEREN, halte ihm das SCHWERT an die Kehle, meine Frau schreit: Tus nicht!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "690",
+            "character": "拐",
+            "keyword": "abbiegen",
+            "hint": "Ich deute mit dem FINGER auf die Ausfahrt: Da hätten wir rausgemüsst! Dann nimm eine ANDERE",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "691",
+            "character": "男",
+            "keyword": "Mann",
+            "hint": "Unterhalb des REISFELDES brauchen die Männer viel KRAFT, um die Reisdolden hochzuziehen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "692",
+            "character": "功",
+            "keyword": "Leistung",
+            "hint": "Auf einer Baustelle hebt ein Arbeiter einen STAHLTRÄGER mit viel KRAFT selbst hoch - eine echte Leistung",
             "primitive": "",
             "pinyin": ""
         }
