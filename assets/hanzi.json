@@ -6024,7 +6024,7 @@
         },
         {
             "frame": "685",
-            "character": "",
+            "character": "賢",
             "keyword": "würdig",
             "hint": "Ein betrunkener Gast sagt zum MUNDSCHENK: du bist ein feiner Kerl, absolut würdig. Komm ist eine teure MUSCHEL",
             "primitive": "",
@@ -6083,6 +6083,70 @@
             "character": "功",
             "keyword": "Leistung",
             "hint": "Auf einer Baustelle hebt ein Arbeiter einen STAHLTRÄGER mit viel KRAFT selbst hoch - eine echte Leistung",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "693",
+            "character": "奴",
+            "keyword": "Sklave",
+            "hint": "Eine FRAU hat einen Sklaven mit Leder Sado Maso Ganz-Kopf Maske und Hundehalsband-Leine auf dem SCHOß sitzen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "694",
+            "character": "努",
+            "keyword": "sich anstrengen",
+            "hint": "Ein SKLAVE muss es seiner Herrin besorgen, er vögelt sie mit aller KRAFT, die Herrin sagt trotzdem: Streng dich mal an!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "695",
+            "character": "加",
+            "keyword": "hinzufügen",
+            "hint": "Diesmal will ich mit aller KRAFT in ihren MUND...sie sagt bevor ich das mache musst du mich vorher auf Instagram hinzufügen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "696",
+            "character": "賀",
+            "keyword": "gratulieren",
+            "hint": "Beim gratulieren übergibt man meistens noch eine Karte...in die man meistens auch noch etwas GELD HINZUFÜGT. Frau sagt wütend zu ihrem Mann: Jetzt füg doch noch ein bisschen Geld hinzu, wenn du schon gratulierst",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "697",
+            "character": "架",
+            "keyword": "Regal",
+            "hint": "Ein HOLZRegal auf dem viele Warhammer-Miniaturen stehen. Jemand sagt: Das ist meine 1780 Punkte Zwergen-Armee. Ich werde aber auf jeden Fall noch welche AUF das Regal HINZUFÜGEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "698",
+            "character": "協",
+            "keyword": "kooperieren",
+            "hint": "Nachdem Spongebobs MUSKELPAKET mit einer NADEL zerstochen wurde, und die Luft raus ging, muss er nun mit Sandy kooperieren, und mit ihr tranieren",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "699",
+            "character": "行",
+            "keyword": "Fach",
+            "hint": "Die oberen Vier Striche sehen aus wie eine Welle, die Laien und niedere Fachleute mitreißt. So eine Welle wird durch die Aura eines Meisters seines Faches erzeugt, wenn er mit seinem Fachwissen einen Raum betritt",
+            "primitive": "Wenn es nur links steht: Menschenkolonne oder Menschenschlange, wenn es zwei geteilt ist und etwas in der Mitte ist: Boulevard (keine Landstraße!)",
+            "pinyin": ""
+        },
+        {
+            "frame": "700",
+            "character": "律",
+            "keyword": "Gesetz",
+            "hint": "Eine MENSCHENSCHLANGE versammelt sich vor einem Plakat an einer Wand, wo gerade ein Herold des Königs die neuen Gesetze an die Wand PINSELT",
             "primitive": "",
             "pinyin": ""
         }
