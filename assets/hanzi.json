@@ -6176,10 +6176,68 @@
         },
         {
             "frame": "704",
-            "character": "",
+            "character": "往",
             "keyword": "gen",
-            "hint": "",
+            "hint": "Ein Mann läuft nachts mit einem KERZENSTÄNDER durch die Gassen, eine Menschenschlange hinter ihm: Sie ziehen gen Frankenstein, zur alten Mühle!",
             "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "705",
+            "character": "微",
+            "keyword": "winzig",
+            "hint": "Eine KOLONNE zieht den BERG hinauf. Sie möchten zum Herrn der Winde, einem ZUCHTMEISTER, der die Winde kontrolliert. Sie beschweren sich dass der WIND immer unter die ZIMMERDECKE durch die Räume zieht. Als der Wind-ZUCHTMEISTER endlich rauskommt, lachen alle: Der ist ja winzig! Haha",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "706",
+            "character": "街",
+            "keyword": "Straße",
+            "hint": "Eine uraltes Stadtviertel, die alte STADTSTRAßE ist noch mit ZIEGELSTEINEN gepflastert",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "706-1",
+            "character": "",
+            "keyword": "Die Zehn Gebote",
+            "hint": "Moses hat die Tafeln mit den zehn Geboten in der Hand, an ihnen ist ein SicherheitsNETZ angebracht, falls Moses sie nochmal zerschmettern möchte. Als die Gläubigen die Tafeln sehen, herrscht für einen HERZSchlag Frieden unter ihnen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "707",
+            "character": "德",
+            "keyword": "Moral",
+            "hint": "Und die Moral von der Geschicht, die Zehn Gebote bricht man nicht. Moses erklärt die Zehn Gebote, und die Menschen STEHEN SCHLANGE, um ihn zu hören",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "708",
+            "character": "聽",
+            "keyword": "horchen",
+            "hint": "Der KÖNIG horcht gespannt auf: Ihm ist zu OHREN gekommen, dass jemand die Zehn Gebote vom Berg Sinai verkündet hat.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "709",
+            "character": "廳",
+            "keyword": "Halle",
+            "hint": "In der Halle des Bergkönigs. Eine HÖHLE in der man in der der Bergkönig ein Fest feirt, man kann dem Treiben schon von weitem HORCHEN",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "25": [
+        {
+            "frame": "710",
+            "character": "禾",
+            "keyword": "stehendes Getreide",
+            "hint": "Bild von noch nicht geerntetem Getreide",
+            "primitive": "Wildreis",
             "pinyin": ""
         }
     ]
