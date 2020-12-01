@@ -6239,6 +6239,54 @@
             "hint": "Bild von noch nicht geerntetem Getreide",
             "primitive": "Wildreis",
             "pinyin": ""
+        },
+        {
+            "frame": "711",
+            "character": "程",
+            "keyword": "Fahrt",
+            "hint": "Ein Techniker-Team hat einen Hyperloop Vorschlag EINGEREICHT, bei dem die Passagierkapsel in etwa so aussieht wie ein WILDREIS Korn, heute testet Elon Musk die Jungefern Fahrt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "712",
+            "character": "和",
+            "keyword": "Harmonie",
+            "hint": "Ein Mönch ernährt sich nur von WILDREIS, und formt seinen MUND zu einem O, für ein Ooooommmmmm, er lebt in perfekter Harmonie",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "713",
+            "character": "移",
+            "keyword": "verschieben",
+            "hint": "Jemand spielt Warhammer mit einer WILDREIS Armee, er muss sehr VIELE WILDREIS Körner verschieben, wenn er seine Armee in die Schlacht führt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "714",
+            "character": "秋",
+            "keyword": "Herbst",
+            "hint": "Im Herbst hängen die Felder voller schwerem WILDREIS, und die Blätter färben sich FEUER farbend",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "715",
+            "character": "愁",
+            "keyword": "bedrückt",
+            "hint": "im HERBST, wenn die Tage kürzer werden, haben viele ein bedrückendes Gefühl im HERZEN, es HERBSTELT dann im HERZEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "716",
+            "character": "利",
+            "keyword": "Profit",
+            "hint": "Der WILDREIS wird mit den SÄBEL geschnitten, damit der Bauer kräftig Profit damit machen kann",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
