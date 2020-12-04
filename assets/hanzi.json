@@ -6359,6 +6359,38 @@
             "hint": "Ich lasse REIS Körner auf die LANDSTRAßE fallen, damit wir wieder zurückfinden, und wir uns nicht verirren",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "726",
+            "character": "謎",
+            "keyword": "Rätsel",
+            "hint": "In Kings Quest gibt es ein RÄTSEL wo man die richtigen WORTE finden muss: Rumpelstiltskin, aber meistens VERIRRT man sich vorher schon",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "727",
+            "character": "類",
+            "keyword": "Art",
+            "hint": "Rainer soll Hacksen holen, aber kommt nicht. Da sagen alle: Das ist nicht seine Art. Dann kommt er aber plötzlich mit REIS, dem HÜNDCHEN siner Schwester. Dann sagen alle: Und wir haben uns deinetwegen einen KOPF gemacht! :(",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "728",
+            "character": "竹",
+            "keyword": "Bambus",
+            "hint": "Bild von zwei Bambus Knoten, die der Legende nach mit dem NEUMOND zusammenhängen. Bambus wächst wie ein gerader Nagel nach oben",
+            "primitive": "Bambus",
+            "pinyin": ""
+        },
+        {
+            "frame": "729",
+            "character": "",
+            "keyword": "lachen",
+            "hint": "",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
