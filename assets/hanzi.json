@@ -6386,9 +6386,41 @@
         },
         {
             "frame": "729",
-            "character": "",
+            "character": "笑",
             "keyword": "lachen",
-            "hint": "",
+            "hint": "John F Kennedy mit seinem markanten lachen. Auch er hat einst über die Vietnamesen als BAMBUS Krieger gelacht, doch ist er JUNG GESTORBEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "730",
+            "character": "箱",
+            "keyword": "Kasten",
+            "hint": "Ein Kasten aus BAMBUS, in dem man Schrottwichtel Geschenke sammelt, um sich EINANDER zu beschenken",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "731",
+            "character": "筆",
+            "keyword": "Schreibstift",
+            "hint": "Ein Stück BAMBUS mit einem PINSEL vorne dran, ergibt einen Schreibstift",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "732",
+            "character": "等",
+            "keyword": "usw..",
+            "hint": "Wenn man untersucht: Woraus besteht ein BUDDHISTISCHER TEMPEL eigentlich, antwortet der Hausmeister: Aus BAMBUS usw...",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "733",
+            "character": "算",
+            "keyword": "rechnen",
+            "hint": "Ein screcklicher Abakus: BAMBUSStäbe, statt Perlen AUGÄPFEL. Mit ZWEI HÄNDEN werden die schrecklichen Berechnungen durchgeführt...",
             "primitive": "",
             "pinyin": ""
         }
