@@ -4323,7 +4323,7 @@
             "character": "家",
             "keyword": "Haus",
             "hint": "Damals lebte das Vieh, wie z.B. die SAU noch im HAUS",
-            "primitive": "",
+            "primitive": "Absteige",
             "pinyin": ""
         },
         {
@@ -6421,6 +6421,64 @@
             "character": "算",
             "keyword": "rechnen",
             "hint": "Ein screcklicher Abakus: BAMBUSStäbe, statt Perlen AUGÄPFEL. Mit ZWEI HÄNDEN werden die schrecklichen Berechnungen durchgeführt...",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "734",
+            "character": "",
+            "keyword": "antworten",
+            "hint": "Ein BAMBUS Rohr in dem Man per Falschenpost Fragen schickt, und dann die PASSENDEN Antworten wieder durch das BAMBUSRohr bekommt.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "735",
+            "character": "",
+            "keyword": "Taktik",
+            "hint": "Die Verteidigungs Taktik war DORNENBüsche zu pflanzen, und wenn der Feind dann vor diesen stoppt, diesen mit BAMBUS Feuerlanzen zu beschießen.",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "26": [
+        {
+            "frame": "736",
+            "character": "",
+            "keyword": "Mensch",
+            "hint": "Bild eines Menschen",
+            "primitive": "Cici wenn voll, Carli wenn an der Seite",
+            "pinyin": ""
+        },
+        {
+            "frame": "737",
+            "character": "",
+            "keyword": "Häftling",
+            "hint": "CICI wurde wegen Trunkenheit am Steuer verhaftet und befindet sich nun als Häftling EINGEPFERCHT in der Ausnüchterungszelle",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "738",
+            "character": "",
+            "keyword": "Portion",
+            "hint": "",
+            "primitive": "CARLI teilt den Kuchen in 3 TEILE, und sichert sich so selbst die größte Portion",
+            "pinyin": ""
+        },
+        {
+            "frame": "739",
+            "character": "",
+            "keyword": "besetzen",
+            "hint": "CARLI besetzt mit ihrer Bobby Car Gang Elsass Lothringen, wobei ihre Schamanen versuchen WAHRSAGUNGEN zu treffen, wo die französche Armee den Gegenschlag vorbereitet",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "740",
+            "character": "",
+            "keyword": "Möbel",
+            "hint": "In einer ABSTEIGE hüpft CARLI auf den Möbeln rum und spielt der Boden ist Lava",
             "primitive": "",
             "pinyin": ""
         }
