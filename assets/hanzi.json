@@ -6508,9 +6508,33 @@
         },
         {
             "frame": "744",
-            "character": "",
+            "character": "條",
             "keyword": "Streifen",
-            "hint": NICHT FERTIG: CARLI tanzt auf der Bühne mit Spazierstock, an der Seite steht ein ZUCHTMEISTER, sie kann auch einen BAUM spielen",
+            "hint": "CARLI tanzt auf der Bühne mit SPAZIERSTOCK, der Bösewicht ist ein ZUCHTMEISTER, und ein anderes Kind spielt einen BAUM. Während der Aufführung des Stückes werden die Streifen der Hubbühne hoch und runtergefahren",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "745",
+            "character": "值",
+            "keyword": "Wert",
+            "hint": "Dass CARLI GERADE schauen kann, ein GERADES Kreuz hat und GERADE zu liebenswürdig ist, ist von enorm hohem Wert",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "746",
+            "character": "做",
+            "keyword": "machen",
+            "hint": "CARLI hat ins Bett gemacht: Das kommt DAHER weil du so viel Wasser vorm Einschlafen trinkst, und auch DAHER weil du vorm Einschlafen nicht aufs Klo bist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "747",
+            "character": "但",
+            "keyword": "aber",
+            "hint": "CARLI, es ist TAGESANBRUCH, du musst aufstehen! Aber aber aber... ich will nicht",
             "primitive": "",
             "pinyin": ""
         }
