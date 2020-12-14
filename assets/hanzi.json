@@ -6537,6 +6537,38 @@
             "hint": "CARLI, es ist TAGESANBRUCH, du musst aufstehen! Aber aber aber... ich will nicht",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "748",
+            "character": "",
+            "keyword": "wohnen",
+            "hint": "Ich klopfe an einem alten abgelegenen Schloss in einer stürmischen Nacht an, es öffnet mir CARLI im Bademantel, mit KERZENSTÄNDER in der Hand. Wohnen sie hier? Ich wohne hier, sir!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "749",
+            "character": "",
+            "keyword": "Stellung",
+            "hint": "Meisterdieb CARLI sieht eine seltene Ming VASE im Museum, und bringt sich mit Bobby Car in Stellung.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "750",
+            "character": "",
+            "keyword": "Stück",
+            "hint": "CARLI macht ein Foto mit einer KUH: Ein kleines Stück nach links...ein kleines Stück nach rechts....",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "751",
+            "character": "",
+            "keyword": "weiterhin",
+            "hint": "",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
