@@ -6540,7 +6540,7 @@
         },
         {
             "frame": "748",
-            "character": "",
+            "character": "住",
             "keyword": "wohnen",
             "hint": "Ich klopfe an einem alten abgelegenen Schloss in einer stürmischen Nacht an, es öffnet mir CARLI im Bademantel, mit KERZENSTÄNDER in der Hand. Wohnen sie hier? Ich wohne hier, sir!",
             "primitive": "",
@@ -6548,7 +6548,7 @@
         },
         {
             "frame": "749",
-            "character": "",
+            "character": "位",
             "keyword": "Stellung",
             "hint": "Meisterdieb CARLI sieht eine seltene Ming VASE im Museum, und bringt sich mit Bobby Car in Stellung.",
             "primitive": "",
@@ -6556,7 +6556,7 @@
         },
         {
             "frame": "750",
-            "character": "",
+            "character": "件",
             "keyword": "Stück",
             "hint": "CARLI macht ein Foto mit einer KUH: Ein kleines Stück nach links...ein kleines Stück nach rechts....",
             "primitive": "",
@@ -6564,9 +6564,41 @@
         },
         {
             "frame": "751",
-            "character": "",
+            "character": "仍",
             "keyword": "weiterhin",
-            "hint": "CARLI hält die FAUST hoch wie Faker und moderiert die Sendung ab: Bleiben sie uns auch weiterhin gewogen",
+            "hint": "CARLI haut mit der FAUST auf den Tisch: Wir greifen auch weiterhin an!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "752",
+            "character": "他",
+            "keyword": "er",
+            "hint": "CARLI wird von einem riesen SKORPION entführt. Als ich sie in dessen Bau befreien will, frage ich welcher SKORPION dich entführt hat, CARLi zeigt auf en größten und sagt: er",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "753",
+            "character": "休",
+            "keyword": "ruhen",
+            "hint": "CARLI ruht sich am Waldtag nach langer Wanderung unter einem BAUM aus",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "754",
+            "character": "信",
+            "keyword": "Glaube",
+            "hint": "Der Glaube, dass CARLI´s erste WORTE <Tetryon Puls Disruptor> waren, hält sich nach wie vor hartnäckig",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "755",
+            "character": "依",
+            "keyword": "abhängen von",
+            "hint": "Das Gewand das CARLI zum Fasching braucht hängt davon ab welches Kostüm sie will, Cowboy, Kaisern",
             "primitive": "",
             "pinyin": ""
         }
