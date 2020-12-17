@@ -6633,6 +6633,54 @@
             "hint": "CARLI sieht auf der Autobahn ein sich drehendes Restaurant auf einer Nagel-artigen Säule (wie ein PAVILLION), mit einem Würstchen darüber. Sie will unbedingt dort anhalten",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "760",
+            "character": "倒",
+            "keyword": "umgekehrt",
+            "hint": "Wenn CARLI in Taiwan ANKOMMT macht sie alles umgekehrt: sie geht erst ins Bett, und duscht dann später",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "761",
+            "character": "仁",
+            "keyword": "Menschlichkeit",
+            "hint": "Um das ganze Ausmaß an Menschlichkeit zu sehen, muss man sich im Zwiegespräch mit einem anderen Mensch, z.B. CARLI befinden (MENSCH, ZWEI)",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "762",
+            "character": "優",
+            "keyword": "vorzüglich",
+            "hint": "In einem feinem Restaurant ist das Essen wirklich vorzüglich, es gibt aber nur so 5 Sterne Kram. Man ist doch BESORGT um CARLI, dass sie überhaupt etwas davon mag. Kinder essen ja lieber Pommes statt Austern",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "763",
+            "character": "傷",
+            "keyword": "Wunde",
+            "hint": "CARLI liegt ZURÜCKGELEHNT wie ein Römer auf einer opulenten Couch und lässt sich Schokolade füttern. Das SPARSCHWEIN liegt mit klaffender Wunde davor, denn es wurde für die ganzen Süßigkeiten aufgeschlagen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "764",
+            "character": "保",
+            "keyword": "sichern",
+            "hint": "Jemand der absolut DUMM ist, hat CARLI sein Maschinengewehr in die Hand gegeben ohne es zu sichern",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "765",
+            "character": "堡",
+            "keyword": "Festung",
+            "hint": "Adelige habe früher Festungen auf die ERDE gebaut, um die ERDE für ihren Herrschaftsanspruch zu SICHERN",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
