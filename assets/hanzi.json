@@ -6716,9 +6716,49 @@
         },
         {
             "frame": "770",
-            "character": "",
+            "character": "袋",
             "keyword": "Beutel",
-            "hint": "",
+            "hint": "Ein Tourist in einem langem GEWANNd hat ein Sicherheitsbeutel Bauch-Beutel umgeschnallt. Darin sind Sachen, die man nicht einfach ERSETZEN. Dinge, die man nicht ERSETZEN kann, sollte man auch nicht im GEWANND tragen, sondern im Beutel",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "771",
+            "character": "化",
+            "keyword": "umwandeln",
+            "hint": "Statt Kilogramm gibt es eine neue Einheit für Eiscreme: LÖFFEL per CARLI. Man kann die beiden Einheiten leicht umwandeln",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "772",
+            "character": "花",
+            "keyword": "Blume",
+            "hint": "Bei einer Blume sind die BLÜTEN permanent am UMWANDELN. Vom Blatt, zur Knospe, zur vollen Blüte, zur Verwelkung",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "773",
+            "character": "貨",
+            "keyword": "Güter",
+            "hint": "An Güter Umschlagsplätzen werden Güter in GELD UMGEWANDELT",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "774",
+            "character": "何",
+            "keyword": "waswelcherwerwowarum",
+            "hint": "CARLI fragt immer: was KANNST du? welchen KANN ich? wer KANN das? WO KANN ich? Warum KANNST du?",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "775",
+            "character": "",
+            "keyword": "",
+            "hint": "CARLI fragt immer: was KANNST du? welchen KANN ich? wer KANN das? WO KANN ich? Warum KANNST du?",
             "primitive": "",
             "pinyin": ""
         }
