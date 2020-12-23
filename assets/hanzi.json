@@ -6756,9 +6756,73 @@
         },
         {
             "frame": "775",
-            "character": "",
-            "keyword": "",
-            "hint": "CARLI fragt immer: was KANNST du? welchen KANN ich? wer KANN das? WO KANN ich? Warum KANNST du?",
+            "character": "便",
+            "keyword": "bequem",
+            "hint": "Im Flugzeug bekommt CARLI erst einen Sitz, dann 2, dann 3, dann ist es immer noch nicht bequem genug, sie will NOCH MEHR",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "776",
+            "character": "丈",
+            "keyword": "100 chinesische Zoll",
+            "hint": "3 Striche mal und 10 mal 10 sagen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "777",
+            "character": "使",
+            "keyword": "benutzen",
+            "hint": "CARLI kann 100 ZOLL lange Spaghetti nur mit dem MUND essen, ohne eine Gabel zu benutzen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "778",
+            "character": "久",
+            "keyword": "lange Zeit",
+            "hint": "Durch die Ehe bin ich noch für lange Zeit an CICI GEFESSELT",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "779",
+            "character": "畝",
+            "keyword": "Chinesischer Morgen",
+            "hint": "Schnösel mit ZYLINDERHUTEN stehen auf den REISFELDERN und diskutieren, wie groß den ein chinesischer Morgen sein soll. Sie diskutieren schon seit LANGER ZEIT, aber können sich niemals einigen, deswegen ist ein chinesischer Morgen auch heute noch überall anders",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "780",
+            "character": "丙",
+            "keyword": "drittes",
+            "hint": "CICI hängt mit einem GÜRTEL an der ZIMMERDECKE, das ist schon der dritte Selbstmordversuch diese Woche",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "781",
+            "character": "柄",
+            "keyword": "Griff",
+            "hint": "Ein Leiter aus HOLZ auf einem Spielplatz: Die Erste Sprosse ist eine Eisenstange, die zweite Sprosse ist eine Kette, die DRITTE aber ist ein schöner verzierter HÖLZENER Griff",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "782",
+            "character": "肉",
+            "keyword": "Fleisch",
+            "hint": "Ein MOND der statt aus Gestein aus MENSCHEN besteht, ein Fleischmond sozusagen, ist eine ziemlich fleischige Angelegenheit, man könnte es auch Fleisch Planet nennen. Am Pol steckt einer der Menschen seinen Kopf raus",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "783",
+            "character": "腐",
+            "keyword": "faulig",
+            "hint": "Bei the Strain war stehts fauliges FLEISCH der Infizierten UNTER dem neuem REGIERUNGSSITZ, nachdem der eine alles übernommen hatte. Und ist das ganze Gebäude auch sehr faulig",
             "primitive": "",
             "pinyin": ""
         }
