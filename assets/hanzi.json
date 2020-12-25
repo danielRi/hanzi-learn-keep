@@ -6825,6 +6825,62 @@
             "hint": "Bei the Strain war stehts fauliges FLEISCH der Infizierten UNTER dem neuem REGIERUNGSSITZ, nachdem der eine alles übernommen hatte. Und ist das ganze Gebäude auch sehr faulig",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "783-1",
+            "character": "从",
+            "keyword": "Fließband",
+            "hint": "MENSCHEN die am Fließband geklont werden",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "784",
+            "character": "眾",
+            "keyword": "die Massen",
+            "hint": "3 mal MENSCH, wobei einer verformt ist, weil in mitten von Menschenmassen gequetscht ist. Ein beobachtendens AUGE sieht über die Massen und schaut dass keine Panik o. Ä. ausbricht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "785",
+            "character": "坐",
+            "keyword": "sitzen",
+            "hint": "In manchen Foxconn Fabriken sind die Arbeitsbedingungen so schlecht dass die Leute am FLIEßBAND auf blanker ERDE sitzen müssen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "786",
+            "character": "座",
+            "keyword": "Sitz",
+            "hint": "Ein Sitz in Ro-Mans Regierungs HÖHLE, bedeutet auch dass man den ganzen Tag darin SITZEN muss.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "786-1",
+            "character": "僉",
+            "keyword": "Debatte",
+            "hint": "ZUSAMMENKUNFT VON ZWEI MENSCHEN mit aufgerissenen MÜNDERN die sich von ihren gegenüberliegenden Podien gegenseitig anschreien",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "787",
+            "character": "檢",
+            "keyword": "untersuchen",
+            "hint": "Während eine hitzige politische DEBATTE darüber läuft, ob HOLZ Schiffe veraltet und unsicher sind, wird der Untergang der HOLZ-Titanic noch untersucht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "788",
+            "character": "臉",
+            "keyword": "Gesicht",
+            "hint": "Auf Phoenix wird eine DEBATTE der Wissenschaftsliga live übertragen, es wird hitzig über den MOND debattiert, insbesondere ob er ein Gesicht hat oder nicht",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
