@@ -6881,6 +6881,72 @@
             "hint": "Auf Phoenix wird eine DEBATTE der Wissenschaftsliga live übertragen, es wird hitzig über den MOND debattiert, insbesondere ob er ein Gesicht hat oder nicht",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "789",
+            "character": "來",
+            "keyword": "kommen",
+            "hint": "Ein BAUM mit eingebautem FLIEßBAND, aus dem die Früchte einfach aus einem Loch aus dem Stamm vom FLIEßBAND kommen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "790",
+            "character": "麥",
+            "keyword": "Weizen",
+            "hint": "Forest Gump wandert als WANDERSMANN durch Alabama und KOMMT an unmengen Weizen Feldern vorbei",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "790-1",
+            "character": "曷",
+            "keyword": "Nickerchen",
+            "hint": "Ein Muchacho (MENSCH) macht Siesta, ein Nickerchen. Er hat sich mit seiner Sarape an einen Pfosten GEFESSELT, damit er nicht umkippt, und die Hose mit einem ANGELHAKEN geschlossen, von oben knallt die MittagsSONNE runter",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "791",
+            "character": "喝",
+            "keyword": "trinken",
+            "hint": "Der Muchacho wacht vom NICKERCHN auf, und öffnet den MUND um was zu trinken",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "792",
+            "character": "渴",
+            "keyword": "durstig",
+            "hint": "Der Muchacho wacht beim NICKERCHEN kurz auf, und sieht eine Reklametafel, die Werbung für WASSER macht. Daraufhin wird er sehr durstig",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "27": [
+        {
+            "frame": "792-1",
+            "character": "壬",
+            "keyword": "Träger",
+            "hint": "Ein SOLDAT trägt die Last (den Strich oben), für seinen Unteroffizier",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "793",
+            "character": "任",
+            "keyword": "ernennen",
+            "hint": "CARLI ernennt einen TRÄGER. Papa trägt CARLI auf den Schultern, aber CARLI ernennt stattdessen die Mama zum TRÄGER: Du musst mich tragen!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "794",
+            "character": "廷",
+            "keyword": "Königshof",
+            "hint": "Am Königshof gab es einen TRÄGER der so klein war, dass er sich immer STRECKEN musste, wenn er am Tisch bei Feierlichkeiten was einschenken wollte.",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
