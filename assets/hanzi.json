@@ -6947,6 +6947,78 @@
             "hint": "Am Königshof gab es einen TRÄGER der so klein war, dass er sich immer STRECKEN musste, wenn er am Tisch bei Feierlichkeiten was einschenken wollte.",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "795",
+            "character": "庭",
+            "keyword": "Gerichtshof",
+            "hint": "Am KÖNIGSHOF wurde auch hohes Gericht gehalten, dies fand meistens zum Eingang zum Kerker statt, was sich auf königlichen Burg schon im Berg in einer HÖHLE befand, um den Angeklaten schon foltern zu können",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "795-1",
+            "character": "",
+            "keyword": "Pflug",
+            "hint": "Bild eines Plfuges",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "796",
+            "character": "以",
+            "keyword": "mittels",
+            "hint": "Ein MENSCH zieht einen PFLUG hinter sich hier und verliert Schweiß TROPFEN. Er bestreitet sein Leben mittels des Schweißes seines Angeschichtes",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "797",
+            "character": "似",
+            "keyword": "gleichend",
+            "hint": "CICI zieht einen PFLUG hinter sich hier und hat einen Schweiß TROPFEN, auf dem Pflug sitzt CARLI. Das ist Sklaverei schon ziemlich gleichend",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "797-1",
+            "character": "并",
+            "keyword": "Puzzle",
+            "hint": "Michelangelos Die Erschaffung Adams, mit den ZWEI HÄNDEN als Puzzle, mit 10.000 Teilen. Da kann man Puzzlen bis einem die Hörner wachsen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "798",
+            "character": "併",
+            "keyword": "kombinieren",
+            "hint": "CARLi macht ein PUZZLE und komibniert dabei ihre Lieblungs- Paw Patrol Hunde zusammen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "799",
+            "character": "拼",
+            "keyword": "zusammenfügen",
+            "hint": "Man fügt ein PUZZLE mit FINGERN zusammen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "800",
+            "character": "呂",
+            "keyword": "Rückgrat",
+            "hint": "Bild eines Rückgrats mit zwei Wirbeln",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "801",
+            "character": "",
+            "keyword": "Kamerad",
+            "hint": "",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
