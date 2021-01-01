@@ -6008,7 +6008,7 @@
         },
         {
             "frame": "684",
-            "character": "",
+            "character": "臨",
             "keyword": "kurz davor sein",
             "hint": "Ich bin schon wieder kurz davor auszuticken: Der LAKAI ist ZURÜCKGELEHNT zwischen den WAREN, einer Palette Wein und schläft",
             "primitive": "Lakai",
@@ -7014,9 +7014,41 @@
         },
         {
             "frame": "801",
-            "character": "",
+            "character": "侶",
             "keyword": "Kamerad",
-            "hint": "",
+            "hint": "Kamerad, Kamerad, der Befehl ist da wir starten. CARLI als Wing Commander ist das RÜCKGRAT des Kampfgeschwaders",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "801-1",
+            "character": "",
+            "keyword": "Feuerwache",
+            "hint": "Ein DACH mit einem FEUER an jedem Ende, statt eines Schornsteins",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "802",
+            "character": "榮",
+            "keyword": "Ruhm",
+            "hint": "Stump von Bieber Brüder als Feuerwehrmann. Er hat es zu unglaublich viel Ruhm unter den Feuerwehrleuten gebracht. Deshalb ist eine HOLZ Statue in der FEUERWACHE von ihm ausgestellt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "803",
+            "character": "勞",
+            "keyword": "Mühsal",
+            "hint": "Es gibt eine FEUERWACHE wo alles mit MUSKELKraft gemacht werden muss. Es gibt keine Maschinene, keine Einsatzfahrzeuge usw... Feuer zu löschen ist deshalb ein einzig großes Mühsal für die Feuerwehrmänner",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "804",
+            "character": "營",
+            "keyword": "Feldlager",
+            "hint": "Ein Feldlager ist der Eingang eine Torbogen aus RÜCKGRÄTEN der Feinde, ausserdem gibt es gleich neben dem Torbogen eine kleine Feuerwache, die Brandbombenbeschuss vom Feind sofort löschen soll",
             "primitive": "",
             "pinyin": ""
         }
