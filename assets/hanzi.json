@@ -7051,6 +7051,30 @@
             "hint": "Ein Feldlager ist der Eingang eine Torbogen aus RÜCKGRÄTEN der Feinde, ausserdem gibt es gleich neben dem Torbogen eine kleine Feuerwache, die Brandbombenbeschuss vom Feind sofort löschen soll",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "805",
+            "character": "善",
+            "keyword": "gütig",
+            "hint": "Ein gütiger Gott, der einem Schaf statt dem Hinterteil nochmal HÖRNER und einen MUND gezaubert hat, während einer böser Gott ein Schaf mit zwei Ärschen gezabuert hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "806",
+            "character": "年",
+            "keyword": "Jahr",
+            "hint": "Sir Buzz Killington, der mit einem Steckenpferd und Monokel auf deine Silvester Party kommt und alle vergrault, so das neue Jahr einleutet",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "807",
+            "character": "夜",
+            "keyword": "Nacht",
+            "hint": "Carli läuft Nachts über den Jahrmarkt: Es gibt einiges zu sehen: Einen Zauberer Sachen aus dem Zylinderhut zaubert, Ein WANDERSMANN, der schon einen TROPFEN zu viel inuts hat",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
