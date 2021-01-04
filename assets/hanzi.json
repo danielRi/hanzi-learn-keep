@@ -7075,6 +7075,64 @@
             "hint": "Carli läuft Nachts über den Jahrmarkt: Es gibt einiges zu sehen: Einen Zauberer Sachen aus dem Zylinderhut zaubert, Ein WANDERSMANN, der schon einen TROPFEN zu viel inuts hat",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "808",
+            "character": "液",
+            "keyword": "Flüssigkeit",
+            "hint": "Man sitzt NACHTS an einem WASSER in Darnassus. Langsam realisiert man, dass die Flüssigkeit des Sees keinesfalls Wasser ist, sondern Mondmilch. Man ist völlig vereinnahmt von der Flüssigkeit",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "808-1",
+            "character": "",
+            "keyword": "Schlittenhunde",
+            "hint": "VIER aneinander GEFESSELTE BERNHARDINER ergeben ein Gespann Schlittenhunde",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "809",
+            "character": "喚",
+            "keyword": "aufrufen",
+            "hint": "Der Schlittenpilot ruft die SCHLITTENHUNDE hier laut auf, um sie anzufeuern schneller zu laufen, und hat dabei seinen geöffneten MUND voller aufgewirbelten Schnee",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "810",
+            "character": "換",
+            "keyword": "wechseln",
+            "hint": "Man kann per Klick mit dem FINGER in einem SCHLITTENHUNDE Rennspiel den Schlittenhund wechseln, vor dem Rennen in der Fahrerauswahl",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "28": [
+        {
+            "frame": "810-1",
+            "character": "",
+            "keyword": "Spruchband",
+            "hint": "Spruchband wie die Standarten bei modernen Massenprotesten. Leute LEHNEN sich im Kreis zurück um einen KOMPASS herum, der ihn den richtigen Weg im Leben zeigen soll",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "811",
+            "character": "旅",
+            "keyword": "reisen",
+            "hint": "Leute demonstrieren mit großen SPRUCHBÄNDERN, in Coronazeiten wieder reisen zu dürfen. Mit HALSTÜCHERN vermummte protestierten gewaltsam für das selbe",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "812",
+            "character": "",
+            "keyword": "durchführen",
+            "hint": "",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
