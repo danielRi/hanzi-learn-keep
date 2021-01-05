@@ -7128,8 +7128,40 @@
         },
         {
             "frame": "812",
-            "character": "",
+            "character": "施",
             "keyword": "durchführen",
+            "hint": "Eine Regierung hat den Plan eine Demonstration zu beenden, in dem sie den Anführer umbringt. Sie gibt den Befehl den Plan durchzuführen, worauf jemand einen SKORPION in ein SPRUCHBAND einwickelt, sobald es aufgestellt wird, fällt der Skorpion raus und zwickt den Anführer",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "813",
+            "character": "施",
+            "keyword": "umherplanschen",
+            "hint": "Das schlechteste Wasserball Team der Welt benutzt ein SPRUCHBAND einer Demo vom arabischen Frühling über das WASSER gespannt. Die Spieler sind nur ein paar KINDER, die herumplanschen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "814",
+            "character": "遊",
+            "keyword": "eine Tour machen",
+            "hint": "Corona Gegner on Tour. Mit SPRUCHBÄNDERN und KINDERN auf der Rückbank gehts auf die AUTOBAHN, um eine Tour durchs Land zu machen um Leute zu überzeugen, dass der Mond flach ist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "815",
+            "character": "勿",
+            "keyword": "nicht",
+            "hint": "Ein Sparschweinchen ohne Körper, man sieht nur noch den Ringelschwanz, und fragt sich, war das nicht mal ein Sparschweinchen",
+            "primitive": "Ringelschwanz",
+            "pinyin": ""
+        },
+        {
+            "frame": "816",
+            "character": "",
+            "keyword": "plötzlich",
             "hint": "",
             "primitive": "",
             "pinyin": ""
