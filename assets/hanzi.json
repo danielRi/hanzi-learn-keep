@@ -7160,9 +7160,49 @@
         },
         {
             "frame": "816",
-            "character": "",
+            "character": "忽",
             "keyword": "plötzlich",
-            "hint": "",
+            "hint": "Ein Praktikant im Schlachthof sieht einen RINGELSCHWANZ und ein HERZ im Topf und muss ganz plötzlich kotzen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "817",
+            "character": "物",
+            "keyword": "Ding",
+            "hint": "Eine KUH mit einem RINGELSCHWANZ wird einem versnobbten Landbesitzer gezeigt, sein kommentar: Was ist das für ein Ding?!?!?",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "818",
+            "character": "易",
+            "keyword": "mühelos",
+            "hint": "Eine KUH mit einem RINGELSCHWANZ wird einem versnobbten Landbesitzer gezeigt, sein kommentar: Was ist das für ein Ding?!?!?",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "819",
+            "character": "賜",
+            "keyword": "jemandem etwas zuwenden",
+            "hint": "dem Drachenlord etwas zuwenden, er sagt immer: ihr könnt mir mühelos einfach Barrne spenden, Barrne Barrne. Aber manche bevorzugen es eben lieber Muscheln zuzuwenden, indem sie die Muscheln in großer Zahl in die Schanze neigschmasst haben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "818-1",
+            "character": "",
+            "keyword": "Flagge",
+            "hint": "Bild einer Flagge",
+            "primitive": "Flagge, Nationalflagge",
+            "pinyin": ""
+        },
+        {
+            "frame": "820",
+            "character": "屍",
+            "keyword": "Leiche",
+            "hint": "Es wurde eine Leiche gefunden, die mit der FLAGGE der USA aufgespießt wurde und so deren TOD verursacht hat",
             "primitive": "",
             "pinyin": ""
         }
