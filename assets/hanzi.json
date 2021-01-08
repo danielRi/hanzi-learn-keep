@@ -7191,7 +7191,7 @@
             "pinyin": ""
         },
         {
-            "frame": "818-1",
+            "frame": "819-1",
             "character": "",
             "keyword": "Flagge",
             "hint": "Bild einer Flagge",
@@ -7203,6 +7203,78 @@
             "character": "屍",
             "keyword": "Leiche",
             "hint": "Es wurde eine Leiche gefunden, die mit der FLAGGE der USA aufgespießt wurde und so deren TOD verursacht hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "821",
+            "character": "尼",
+            "keyword": "buddhistische Nonne",
+            "hint": "Nonnen versorgen die Armen. Dabei kleiden sie die Armen in alte ReichskriegsFLAGGEN ein, und füttern sie mit einem großen hözernen LÖFFEL",
+            "primitive": "Nonne",
+            "pinyin": ""
+        },
+        {
+            "frame": "822",
+            "character": "呢",
+            "keyword": "Wollstoff",
+            "hint": "Eine NONNE wischt sich bei der Kommunion, nachdem Sie Wein getrunken hat, mit dem Wollstoff vom Talar des Pfarrers heimlich den MUND ab",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "823",
+            "character": "泥",
+            "keyword": "Schlamm",
+            "hint": "NONNEN haben am Kloster auf dem Berg immer an den Hügel gebrunst, und dann WASSER nachgeschüttet zum spülen, bis irgendwann der ganze Hügel total verschlammt war",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "824",
+            "character": "屋",
+            "keyword": "Zimmer",
+            "hint": "Pascals Zimmer mit einzigen Nazi FLAGGEN an der Wand...BIS irgendwann mal der Verfassungsschutz kommt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "825",
+            "character": "握",
+            "keyword": "erfassen",
+            "hint": "Wir sitzen in Pascals ZIMMER, und Pascal sitzt mit einer Flasche Bier da und erzählt und deutet mit dem FINGER an die Wand, wo ein Zettel hängt: Strafzettel, ausserdem bin ich jetzt erkennungsdienstlicht erfasst, die spinnen die Kunden, und zeigt den Vogel mit seinem FINGER",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "826",
+            "character": "居",
+            "keyword": "residieren",
+            "hint": "Ein Lord residiert von einem ALTERTÜMLICHEN HERRENHAUS aus, über dem die britische FLAGGE weht. Alles in dem Haus ist altertümlich. Die Möbel, das Gebäude, die Kleidung, der Friedhof",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "827",
+            "character": "鋸",
+            "keyword": "Säge",
+            "hint": "Der Lord, der in dem ALTERTÜMLICHEN Landhaus mit der britischen FLAGGE RESIDIERT, experemntiert mit Leichen, und braucht eine METALLENE Säge, um den Toten die Körperteile abzusägen. Man denke an Peter Cushing",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "828",
+            "character": "層",
+            "keyword": "Stockwerk",
+            "hint": "In einem Wolkenkratzer soll ein Praktikant jeden Morgen die amerikanische FLAGGE hissen, wozu er ins oberste Stockwerk muss. Das Gewicht der FLAGGE NIMMT mit jedem Stockwerk ZU",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "829",
+            "character": "局",
+            "keyword": "Behörde",
+            "hint": "Eine Behörde im römischen Reich: Davor wehen die schweren S.P.Q.R Flaggen. Du gehst rein und hörst nur einen SATZ: Wo ist der Passierschein A-38?",
             "primitive": "",
             "pinyin": ""
         }
