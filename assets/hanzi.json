@@ -7277,6 +7277,80 @@
             "hint": "Eine Behörde im römischen Reich: Davor wehen die schweren S.P.Q.R Flaggen. Du gehst rein und hörst nur einen SATZ: Wo ist der Passierschein A-38?",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "830",
+            "character": "戶",
+            "keyword": "Tür",
+            "hint": "Als die Tür zum Capitol aufgebrochen wurde, war das wie ein TROPFEN Blut auf die Amerikanische FLAGGE",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "831",
+            "character": "房",
+            "keyword": "Domizil",
+            "hint": "In einem verhexten Ferien Domizil in Spanien drehen sich die KOMPASS Nadeln wie wild im Kreis, ausserdem gibt es mysteriöse TÜREN im Gelände um das Domizil, die überall rumstehen und ins nichts zu gehen scheinen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "832",
+            "character": "雇",
+            "keyword": "anstellen",
+            "hint": "Wenn man angestellt werden will, muss man sich vorher vorstellen und warten. Irgendwann geht dann die TÜR auf, und man wird wie ein TRUTHAHN zum schlachten ins Büro des Chefs geführt, der einen dann hoffentlich anstellt.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "833",
+            "character": "顧",
+            "keyword": "berückstichtigen",
+            "hint": "Der neu ANGESTELLTE ist in so einem Futura Wasser-Glas, deswegen nur ein KOPF. Wenn man ihn fragt, ob er mal mithelfen kann Kaffee und Milch hochzutragen, sagt er: Du musst berücksichtigen, ich bin nur ein ANGESTELLTER mit KOPF",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "29": [
+        {
+            "frame": "834",
+            "character": "示",
+            "keyword": "zeigen",
+            "hint": "Ein Bild eines Altars, auf dem etwas liegt, was der angebetenen Gottheit gezeigt werden soll",
+            "primitive": "Altar",
+            "pinyin": ""
+        },
+        {
+            "frame": "835",
+            "character": "社",
+            "keyword": "Gesellschaft",
+            "hint": "Eine Gesellschaft von Vampir Anbetern verstreut verflucht ERDE zur rechten eines ALTARS, da wo der Eingang in die Sakristei ist, damit der Priester über ihr gehen muss",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "836",
+            "character": "視",
+            "keyword": "inspizieren",
+            "hint": "Ein Diakon SIEHT über den ALTAR, und inspiziert ob die Ministranten auch alles richtig aufgebaut haben.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "837",
+            "character": "",
+            "keyword": "Seligkeit",
+            "hint": "Ein mittelalterlicher reicher Kaufmann, der Angst vor dem Fegefeuer hat, stapelt all seinen REICHTUM rechts neben dem ALTAR auf und klopft an die Sakristei und fleht: So gebt mir doch bitte endlich die Seligkeit die ich mir so sehr wünsche",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "838",
+            "character": "福",
+            "keyword": "verbieten",
+            "hint": "Ein FORST in dem eine Satansanbeter Sekte auf einem ALTAR satanische Messen praktiziert hat, ist es strengstens verboten, hineinzugehen",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
