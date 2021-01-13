@@ -7338,7 +7338,7 @@
         },
         {
             "frame": "837",
-            "character": "",
+            "character": "福",
             "keyword": "Seligkeit",
             "hint": "Ein mittelalterlicher reicher Kaufmann, der Angst vor dem Fegefeuer hat, stapelt all seinen REICHTUM rechts neben dem ALTAR auf und klopft an die Sakristei und fleht: So gebt mir doch bitte endlich die Seligkeit die ich mir so sehr wünsche",
             "primitive": "",
@@ -7346,7 +7346,7 @@
         },
         {
             "frame": "838",
-            "character": "福",
+            "character": "禁",
             "keyword": "verbieten",
             "hint": "Ein FORST in dem eine Satansanbeter Sekte auf einem ALTAR satanische Messen praktiziert hat, ist es strengstens verboten, hineinzugehen",
             "primitive": "",
@@ -7354,7 +7354,7 @@
         },
         {
             "frame": "839",
-            "character": "",
+            "character": "襟",
             "keyword": "Vorderteil eines Gewandes",
             "hint": "Bei Hotel Transylvanien tragen die Satansanbeter Gewänder ohne Vorderteil. D.h. der vorder Teil des Gewandes fehlt, da bleibt nur noch der hintere UMHANG und was man vorne sieht ist einfach nur verboten egklig",
             "primitive": "",
@@ -7362,7 +7362,7 @@
         },
         {
             "frame": "840",
-            "character": "",
+            "character": "宗",
             "keyword": "Religion",
             "hint": "Religion ist nichts für die Öffentlichkeit, sondern Privatsache, deswegen baut man einen ALTAR auch immer in einem HAUS, nie im freiem auf.",
             "primitive": "",
@@ -7370,7 +7370,7 @@
         },
         {
             "frame": "841",
-            "character": "",
+            "character": "崇",
             "keyword": "erhaben",
             "hint": "Ein erhabener Streamer von LoL streamt angeblich immer von der Spitze eines BERGES aus, und er hat eine RELIGIONS-artige Follower-schaft, die zu ihm zum BERG hochschaut. Alles nur wegen seiner Erhabenheit",
             "primitive": "",
@@ -7378,7 +7378,7 @@
         },
         {
             "frame": "842",
-            "character": "",
+            "character": "祭",
             "keyword": "opfern",
             "hint": "Eine RECHTE HAND und andere KÖRPERTEILE liegen auf einem ALTAR, ganz klar wurde hier ein Menschenopfer dargebracht",
             "primitive": "",
@@ -7386,10 +7386,50 @@
         },
         {
             "frame": "843",
-            "character": "",
+            "character": "察",
             "keyword": "mustern",
             "hint": "Für die Götter werden nur gesunde schöne gute Menschen geOPFERT. Deshalb melden sich die MenschenOPFER vorer zur Musterung in einem OPFER-HAUS an, in dem sie erst mal gemustert werden, ob sie überhaupt zum OPFER geeignet sind",
             "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "844",
+            "character": "擦",
+            "keyword": "schrubben",
+            "hint": "Nach dem das ganze Waisenhaus von oben bis unten geschrubbt wurde, kommt die Oberschwester Hildegard und fährt mit dem FINGER über die Flächen und MUSTERT ihn, dass auch wirklich kein Staubkorn daran haftet. Wenn doch: Weiter Schrubben!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "845",
+            "character": "由",
+            "keyword": "auf Grund von",
+            "hint": "Bild eines Keimlings, der auf Grund eines Samens oder des Säens aus einem REISFELD sprießt. Sprießt er weiter wird daraus ein Setzling (Rahmen 221). Der Samen liegt hier in der Scholle = auf Grund",
+            "primitive": "Keimling",
+            "pinyin": ""
+        },
+        {
+            "frame": "846",
+            "character": "抽",
+            "keyword": "herausziehen",
+            "hint": "man zieht mit einem FINGER einen KEIMLING raus, in dem man einfach mit dem FINGER in die Erde sticht und so den KEIMLING rauszieht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "847",
+            "character": "油",
+            "keyword": "Öl",
+            "hint": "Sesam KEIMLINGE mit WASSER vermischen, um so das schlechteste Sesamöl der Welt zu gewinnen. Dümmling`s Original Sesamöl est. 2020",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "848",
+            "character": "甲",
+            "keyword": "erster",
+            "hint": "Bild eines Samens, der nach unten Wurzel schlägt, und zwar die erste Pfahlwurzel, von der alle anderen Wurzeln ausgehen.",
+            "primitive": "Radieschen, Wurzel",
             "pinyin": ""
         }
     ]
