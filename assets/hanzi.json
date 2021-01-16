@@ -7431,6 +7431,88 @@
             "hint": "Bild eines Samens, der nach unten Wurzel schlägt, und zwar die erste Pfahlwurzel, von der alle anderen Wurzeln ausgehen.",
             "primitive": "Radieschen, Wurzel",
             "pinyin": ""
+        },
+        {
+            "frame": "849",
+            "character": "押",
+            "keyword": "verpfänden",
+            "hint": "Ein Mafiosi sagt zu dir: Du verpfändest entweder einen FINGER, oder legst dich zu den RADIESCHEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "850",
+            "character": "申",
+            "keyword": "darlegen",
+            "hint": "Eine PLAPPERNDE ZUNGE, die etwas darlegen will, durch die aber ein SPAZIERSTOCK gerammt wird. Auch das Zeichen für das Sternzeichen  Affe",
+            "primitive": "Affe",
+            "pinyin": ""
+        },
+        {
+            "frame": "851",
+            "character": "伸",
+            "keyword": "dehnen",
+            "hint": "CARLI möchte mit einem riesigen Gummiband einen AFFEN in den Weltraum schießen. Sie dehnt dabei das Gummiband bis zum Äußersten, damit der AFFE auch die Erdumlaufbahn erreicht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "852",
+            "character": "神",
+            "keyword": "Gottheit",
+            "hint": "Ein AFFENMaske einer AFFEN Gottheit liegt neben dem ALTAR, wo sie Bürgermeister Besserwisser klauen will",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "853",
+            "character": "果",
+            "keyword": "Frucht",
+            "hint": "Der Samen, aus dem am Anfang die Wurzel rausgewachsen ist, ist zu einem BAUM herangewachsen, der Samen hängt jetzt oben im Baum in einer Frucht. Der Samen selbst ist dabei das GEHIRN dieses Vorgangs, da in ihm die Erbinformationen gespeichert sind. Hängt also das GEHIRN oben im BAUM, ist es erfolgreich und gibt Früchte",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "854",
+            "character": "課",
+            "keyword": "Lektion",
+            "hint": "Alle haben dem bösen Bully mal eine Lektion erteilt, in dem sie ihm erst mit WORTEN beledeigt und dann mit FRÜCHTEN vollgeworfen haben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "855",
+            "character": "顆",
+            "keyword": "Körnchen",
+            "hint": "Im Surrealismus steckt auch ein Körnchen Wahrheit, wie im Gemälde Son of Man, bei dem eine Mann eine FRUCHT VOR DEM KOPF hat",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "30": [
+        {
+            "frame": "856",
+            "character": "斤",
+            "keyword": "Pfund",
+            "hint": "Eine Axt, die genauso viel wiegt wie ein Pfund, genau ein halbes Kilogramm",
+            "primitive": "Kriegsbeil",
+            "pinyin": ""
+        },
+        {
+            "frame": "857",
+            "character": "所",
+            "keyword": "Stelle",
+            "hint": "Besuch im berühmten Shining Hotel: Und das ist die Stelle, an der Jack Nicholson die TÜR mit der AXT eingeschlagen hat. Die Stelle muss man sich merken!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "858",
+            "character": "",
+            "keyword": "nah",
+            "hint": "Es gibt als Konkurrenz zu 7-11 einen neuen Convenience Store: KRIEGSBEIL, wo nur Indianer drin arbeiten. Die Läden sind immer nah, da in jeder STRAßE ein KRIEGSBEIL ist.",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
