@@ -7508,9 +7508,33 @@
         },
         {
             "frame": "858",
-            "character": "",
+            "character": "近",
             "keyword": "nah",
             "hint": "Es gibt als Konkurrenz zu 7-11 einen neuen Convenience Store: KRIEGSBEIL, wo nur Indianer drin arbeiten. Die Läden sind immer nah, da in jeder STRAßE ein KRIEGSBEIL ist.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "859",
+            "character": "斬",
+            "keyword": "abhacken",
+            "hint": "Bei einem Unfall hat sich jemand seinen Arm in der Tür eingeklemmt. Jetzt stehen einige Rettungsleute mit BEIL um das AUTO rum, und überlegen, da man die Tür nicht öffnen kann, muss man den Arm eben abhacken",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "860",
+            "character": "暫",
+            "keyword": "vorübergehend",
+            "hint": "Marie Antoinette klingelt bei uns und fragt ob sie vorübergehend einige TAGE bei uns wohnen kann, damit ihr die Meute nicht den Kopf ABHACKT. Während oben die Meute ihr den Kopf ABHACKEN will, verbringt sie TAGE unten im Keller bei uns",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "861",
+            "character": "漸",
+            "keyword": "allmählich",
+            "hint": "Ein Schiff ist fertiggestellt. Die Arbeit HACKEN die ganzen Stützen ab sodass das Schiff allmählich ins WASSER gleitet. Mit jeder ABGEHAKTER Stütze gleitet das Schiff allmählich weiter ins WASSER",
             "primitive": "",
             "pinyin": ""
         }
