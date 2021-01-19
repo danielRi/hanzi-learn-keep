@@ -7537,6 +7537,38 @@
             "hint": "Ein Schiff ist fertiggestellt. Die Arbeit HACKEN die ganzen Stützen ab sodass das Schiff allmählich ins WASSER gleitet. Mit jeder ABGEHAKTER Stütze gleitet das Schiff allmählich weiter ins WASSER",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "862",
+            "character": "質",
+            "keyword": "Qualität",
+            "hint": "Ein Möglichkeit die Qualität von Muscheln zu überprüfen ist mit ZWEI KRIEGSBEILEN bewaffnet die MUSCHEL erst längs dann quer durchzuschlag um den Inhalt genau anzuschauen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "863",
+            "character": "斥",
+            "keyword": "tadeln",
+            "hint": "EIN TROPFEN blut hängt am Griff des KRIEGSBEILs. Ein Indianer wurde getadelt und hat sich deshalb zur Selbstkasteiung sich mit dem KRIEGSBEIL in die Hand geschnitten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "864",
+            "character": "訴",
+            "keyword": "klagen",
+            "hint": "Ein Indianer sitzt im Saloon der Stadt und klagt darüber, wie ihn der Häuptling den ganzen Tag mit WORTEN GETADELT hat, bis er sich sogar aus Verzweiflung selbst in die Hand geritzt hat, und ein TROPFEN Blut an seinem KRIEGSBEIL hängt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "865",
+            "character": "乍",
+            "keyword": "erstmals",
+            "hint": "Als Rainer mit dem Rudi mit 4 in den Wald zum Holz machen musste, ist Reiner erstmals zum Arbeiten gezwungen worden. Rudi hat im Wald die KREISSÄGE aufgestellt, und hat die Holzstämme dahin getragen (letzten 3 Striche), während Ruiner sich ZURÜCKGELEHNT hat (ersten 2 Striche)",
+            "primitive": "Kreissäge",
+            "pinyin": ""
         }
     ]
 }
