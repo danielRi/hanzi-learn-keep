@@ -19,7 +19,8 @@ class StudyScreen extends StatelessWidget {
       body: SafeArea(
         child: BlocProvider(
           create: (context) {
-            return StudyBloc(framesToStudy)..add(InitEvent(framesToStudy, type));
+            return StudyBloc(framesToStudy)
+              ..add(InitEvent(framesToStudy, type));
           },
           child: BlocBuilder<StudyBloc, StudyState>(
             builder: (context, state) {
@@ -37,6 +38,15 @@ class StudyScreen extends StatelessWidget {
               } else if (state is LoadingState) {
                 return Center(
                   child: SpinKitPouringHourglass(color: Colors.black),
+                );
+              } else if (state is ErrorState) {
+                return Container(
+                  child: Column(
+                    children: [
+                      Text(state.errorMessage),
+                      Text(state.stackTrace),
+                    ],
+                  ),
                 );
               } else {
                 return Center(

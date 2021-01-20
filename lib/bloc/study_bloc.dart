@@ -1,4 +1,3 @@
-
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hanzi_learn_keep/model/character_frame.dart';
 import 'package:hanzi_learn_keep/repo/character_repository.dart';
@@ -73,8 +72,20 @@ class CharacterState extends StudyState {
   }
 }
 
+class ErrorState extends StudyState {
+  final String errorMessage;
+  final String stackTrace;
+
+  ErrorState(this.errorMessage, this.stackTrace);
+}
+
 class StudyBloc extends Bloc<StudyEvent, StudyState> {
   StudyBloc(int framesToStudy) : super(LoadingState());
+
+  @override
+  void onError(Object error, StackTrace stackTrace) {
+    super.onError(error, stackTrace);
+  }
 
   @override
   Stream<StudyState> mapEventToState(StudyEvent event) async* {
@@ -93,6 +104,8 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
         yield currentState.copyWith(newIndex: index);
       } else {
         addError(Exception("unexpected state"), StackTrace.current);
+        yield ErrorState("unexpected state (1): " + currentState.toString(),
+            StackTrace.current.toString());
       }
     } else if (event is InitEvent) {
       final data = await CharacterRepository().fetchData();
@@ -108,6 +121,8 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
         yield currentState.copyWith(showHint: true);
       } else {
         addError(Exception("unexpected state"), StackTrace.current);
+        yield ErrorState("unexpected state (2): " + currentState.toString(),
+            StackTrace.current.toString());
       }
     } else if (event is ShowPrimitiveEvent) {
       if (currentState is CharacterState) {
@@ -115,12 +130,16 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
         yield currentState;
       } else {
         addError(Exception("unexpected state"), StackTrace.current);
+        yield ErrorState("unexpected state (3): " + currentState.toString(),
+            StackTrace.current.toString());
       }
     } else if (event is UnCoverEvent) {
       if (currentState is CharacterState) {
         yield currentState.copyWith(covered: false);
       } else {
         addError(Exception("unexpected state"), StackTrace.current);
+        yield ErrorState("unexpected state (4): " + currentState.toString(),
+            StackTrace.current.toString());
       }
     } else {
       yield state;
@@ -135,7 +154,9 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
   }
 
   Future<List<CharacterFrame>> initFramesToStudy(
-      Map<String, CharacterFrame> data, int amountOfCharacters, StudyType type) async {
+      Map<String, CharacterFrame> data,
+      int amountOfCharacters,
+      StudyType type) async {
     final meaningfulList =
         await StatisticRepository().createSuitableStudyList(50, type);
     final resultList = List<CharacterFrame>();
