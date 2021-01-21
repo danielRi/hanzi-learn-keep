@@ -7569,6 +7569,70 @@
             "hint": "Als Rainer mit dem Rudi mit 4 in den Wald zum Holz machen musste, ist Reiner erstmals zum Arbeiten gezwungen worden. Rudi hat im Wald die KREISSÄGE aufgestellt, und hat die Holzstämme dahin getragen (letzten 3 Striche), während Ruiner sich ZURÜCKGELEHNT hat (ersten 2 Striche)",
             "primitive": "Kreissäge",
             "pinyin": ""
+        },
+        {
+            "frame": "866",
+            "character": "怎",
+            "keyword": "wie?",
+            "hint": "Wie?!?!? Kan das sein dass die ganze Werkstatt voller Blut ist??? Jemand hat versucht ein HERZ mit der KREISSÄGE in kleine Stückchen zu schneiden. wie kommt man auf sowas?",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "867",
+            "character": "昨",
+            "keyword": "gestern",
+            "hint": "Ein verrückter Wissenschaftler will mit einer riesigen KREISSÄGE die SONNE entzwei sägen. Dann wäre gestern der letzte normal TAG gewesen, der letzte TAG vor der KREISSÄGE",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "868",
+            "character": "作",
+            "keyword": "fertigen",
+            "hint": "CARLI steht in der Werkstatt an der KREISSÄGE und fertigt sich ihr eigenes Spielzeug, Puppen, eine Küche usw...",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "868-1",
+            "character": "",
+            "keyword": "Besen",
+            "hint": "Bild der Borsten eines Besens",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "869",
+            "character": "雪",
+            "keyword": "Schnee",
+            "hint": "REGEN der sich so verändert hat, dass er mit einem BESEN beseite gefegt werden kann, ist Schnee",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "870",
+            "character": "急",
+            "keyword": "hastig",
+            "hint": "Die guten Hexen sehen dass der Prinz von Malefiz GEFESSELT wurde, deswegen schwingen sie sich hastig auf IHRE BESEN, fliegen hastig zum Schloss, und sagen dem Prinz hastig dass er gehen soll um Dornröschens HERZ zu erobern",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "871",
+            "character": "尋",
+            "keyword": "suchen",
+            "hint": "Der Rabe sucht Dornröschen im ganzen Land. Der magische BESEN der Hexen lässt dabei aus dem mit STAHLTRÄGERN verstärkten Bauernhaus (Es ist nur ein Atrappe), aus allen ÖFFNUNGEN Blitze schießen, sodass der Vogel darauf aufmerksam wird. Als er Dornröschen schließlich findet KLEBT er wie LEIM an den Hexen und verfolgt sie",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "872",
+            "character": "婦",
+            "keyword": "verheiratete Frau",
+            "hint": "Ein FRAU mit BESEN und SCHÜRZE putzt entweder oder steht in der Küche, sie ist also verheiratet",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
