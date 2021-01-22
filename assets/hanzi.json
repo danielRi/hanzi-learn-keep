@@ -7633,6 +7633,38 @@
             "hint": "Ein FRAU mit BESEN und SCHÜRZE putzt entweder oder steht in der Küche, sie ist also verheiratet",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "873",
+            "character": "",
+            "keyword": "fegen",
+            "hint": "Wie beim Schrubben wird der boden mit dem FINGER auf Staub überprüft, allerdings wird nicht so genau gemustert wie nach dem Schrubben, sondern nur mit dem FINGER nach Staub gesucht, während die Hausfrau noch den BESEN und die SCHÜRZE an hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "873-1",
+            "character": "",
+            "keyword": "Schneemann",
+            "hint": "SCHNEEFLOCKEN zu einem Schneemann aufgetürmt. Das oben ist ein Strohbesen, den der Schneemann in der Hand hält",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "874",
+            "character": "",
+            "keyword": "aufzeichnen",
+            "hint": "Ein SCHNEEMANN mit METALLENEN Waffen macht Jagd auf Menschen und hat Aufzeichnungen darüber, wer brav war und wer nicht, heisst wer mit der Bazooka beschossen wird und wer nicht.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "875",
+            "character": "",
+            "keyword": "mittelmäßig",
+            "hint": "Ein SCHNEEMANN hat mit STEINEN einen Mund gemalt bekommen, dieser zeigt weder nach oben, wie ein Lächeln, noch nach unten, wie traurig. Die Laune des SCHNEEMANNS mit dem STEINERNEN Mund ist einfach mittelmäßig",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
