@@ -7636,7 +7636,7 @@
         },
         {
             "frame": "873",
-            "character": "",
+            "character": "掃",
             "keyword": "fegen",
             "hint": "Wie beim Schrubben wird der boden mit dem FINGER auf Staub überprüft, allerdings wird nicht so genau gemustert wie nach dem Schrubben, sondern nur mit dem FINGER nach Staub gesucht, während die Hausfrau noch den BESEN und die SCHÜRZE an hat",
             "primitive": "",
@@ -7652,7 +7652,7 @@
         },
         {
             "frame": "874",
-            "character": "",
+            "character": "錄",
             "keyword": "aufzeichnen",
             "hint": "Ein SCHNEEMANN mit METALLENEN Waffen macht Jagd auf Menschen und hat Aufzeichnungen darüber, wer brav war und wer nicht, heisst wer mit der Bazooka beschossen wird und wer nicht.",
             "primitive": "",
@@ -7660,9 +7660,49 @@
         },
         {
             "frame": "875",
-            "character": "",
+            "character": "碌",
             "keyword": "mittelmäßig",
             "hint": "Ein SCHNEEMANN hat mit STEINEN einen Mund gemalt bekommen, dieser zeigt weder nach oben, wie ein Lächeln, noch nach unten, wie traurig. Die Laune des SCHNEEMANNS mit dem STEINERNEN Mund ist einfach mittelmäßig",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "875-1",
+            "character": "",
+            "keyword": "Rechen",
+            "hint": "Ein BESEN mit einem Strich quer durch, Bild eines Rechens",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "876",
+            "character": "爭",
+            "keyword": "streiten",
+            "hint": "Ein GEIER streitet sich mit Elmer Fudd darum wer Bugs bunny essen darf, dabei läuft der GEIER ständig in einen RECHEN, der ihm ins Gesicht fliegt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "877",
+            "character": "淨",
+            "keyword": "sauber",
+            "hint": "Einige WASSERTROPFEN STREITEN sich wer besser sauber machen kann. Sie fahren über jede Fläche, bis alles blitzeblank sauber ist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "878",
+            "character": "事",
+            "keyword": "Sache",
+            "hint": "Detektive kommen an einen Tartort, an dem jemand ein RECHEN EIN mal quer durch den MUND getrieben wurde, und ein Detektiv merkt an: Was für eine abgefuckte Sache das ist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "879",
+            "character": "唐",
+            "keyword": "Tang Dynastie",
+            "hint": "Der Untergang der Tang Dynastie kam durch den Aufstand von Banden, die aus HÖHLEN heraus operierten, und dann alles von Wert mit einem RECHEN in einen SCHLUND rechen, um so dem Kaiser die Steuergelder wegzunehmen",
             "primitive": "",
             "pinyin": ""
         }
