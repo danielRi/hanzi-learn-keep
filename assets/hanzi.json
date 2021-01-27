@@ -7734,7 +7734,55 @@
             "frame": "883",
             "character": "伊",
             "keyword": "Queen Elizabeth",
-            "hint": "Queen Elizabeth besucht ein Gymnasium in Niederbayern. REKTOR TAFT empfänt sie und CARLI soll die britische Nationalhymne singen",
+            "hint": "Queen Elizabeth besucht ein Gymnasium in Niederbayern. Doch sie kommt nie an und nun spielt CARLI auf den Schultern von REKTOR TAFT Queen Elizabeth",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "884",
+            "character": "君",
+            "keyword": "Monarch",
+            "hint": "Während dem Besuch von Queen Elizabeth am bayerischen Gynmmansium muss REKTOR TAFT draussen an der ÖFFNUNG des Brunnens warten, und versucht die Monarchen zu vertrösten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "885",
+            "character": "裙",
+            "keyword": "Rock",
+            "hint": "GEWÄNDER der MONARCHEN im Mittelalter waren immer irgendeine Form von Röcken. Ein Rock ist deshalb das GEWAND der MONARCHEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "886",
+            "character": "群",
+            "keyword": "Meute",
+            "hint": "Als die MONARCHIN schließlich aus der Schule kommt schaart sich eine Meute Reporter um sie, angeführt von Hans Meiser, der wie ein SCHAF aussieht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "887",
+            "character": "而",
+            "keyword": "und",
+            "hint": "Bild eines Kamms, die Zacken des Kamms sehen aus wie ein Form, in das man genau U - N - D schreiben kann",
+            "primitive": "superfeiner Kamm",
+            "pinyin": ""
+        },
+        {
+            "frame": "888",
+            "character": "需",
+            "keyword": "brauchen",
+            "hint": "eine Business Frau mit 3 Wetter Taft Frisur, die gerade durch REGEN zerstört wird, jetzt braucht sie nichts als einen Superfeinen KAMM",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "889",
+            "character": "儒",
+            "keyword": "konfuzianisch",
+            "hint": "CARLI erzählt den ganzen Tag man BRAUCHT die 5 Konstanten, sie ist jetzt Anhänger des Konfuzianismus",
             "primitive": "",
             "pinyin": ""
         }
