@@ -7796,7 +7796,7 @@
         },
         {
             "frame": "890",
-            "character": "",
+            "character": "瑞",
             "keyword": "günstig",
             "hint": "Auf dem Berg steht immer ein verrückter Völkerballspieler der die GOLDGRÄBER mit BÄLLEN abwirft. Als ein konkurrierender GOLDGRÄBER von einem BALL hart getroffen wird und ind Krankenhaus muss. Ist das für seinen Konkurrenten eine günstige Gelegenheit",
             "primitive": "",
@@ -7804,7 +7804,7 @@
         },
         {
             "frame": "891",
-            "character": "",
+            "character": "端",
             "keyword": "aufrecht",
             "hint": "Ein GOLDGRÄBER, über den sich alle lustig machen, weil er kein Gold findet, findet schließlich ein altes Pharaoh Grab mit VASEN. Jetzt kann er wieder aufrecht gehen.",
             "primitive": "",
@@ -7812,7 +7812,7 @@
         },
         {
             "frame": "892",
-            "character": "",
+            "character": "曲",
             "keyword": "krumm",
             "hint": "Man packt die zwei oberen Striche und verbiegt das ganze Gerüst, bis es krumm ist. Wenn das unten ein komisches Gehirn mit zwei Strichen ist, kann man seine Gedanken verbiegen, bis sie krumm und schief sind",
             "primitive": "",
@@ -7820,10 +7820,68 @@
         },
         {
             "frame": "893",
-            "character": "",
+            "character": "斗",
             "keyword": "Großer Wagen",
             "hint": "Eine NADEL nehmen um sie so an der Hinterachse des großen Wagens entlang eine Linie zu bilden, dann findet man den EISIGEN Nordstern",
             "primitive": "10 Liter Messbecher",
+            "pinyin": ""
+        },
+        {
+            "frame": "894",
+            "character": "料",
+            "keyword": "Material",
+            "hint": "Jemand bentutz einen MESSBECHER voll REIS und gibt ihn in einen Zementmischer. Jeder weiß REIS wird bombenhart, sodass es mit dem Zement ein tolles Bau Material ergibt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "895",
+            "character": "科",
+            "keyword": "Wissenschaft",
+            "hint": "Wissenschaftler möchten herausfinden ob sich WILDREIS im All ausdehnt, und nehmen deshalb einen MESSBECHER voll WILDREIS mit zur I.S.S",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "896",
+            "character": "用",
+            "keyword": "gebrauchen",
+            "hint": "Ein Koch Azubi nimmt einen SPAZIERSTOCK, sticht es in ein Stück FLEISCH und röstet es so über dem Herd. Der Küchenchef ist begeistert, der Azubi ist echt zu was zu gebrauchen",
+            "primitive": "Schraubenzieher",
+            "pinyin": ""
+        }
+    ],
+    "31": [
+        {
+            "frame": "896-1",
+            "character": "",
+            "keyword": "Salat",
+            "hint": "Bild von Salat Blättern auf einem Teller",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "897",
+            "character": "",
+            "keyword": "Vergangenheit",
+            "hint": "Heute gibt es Hüttengaudi bei McDonalds, in der Vergangenheit gab es sogar SALAT-TAGE",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "898",
+            "character": "",
+            "keyword": "leihen",
+            "hint": "CARLI hat in der VERGANGENHEIT oft Spielsachen an Jule verliehen, aber nur in der VERGANGENHEIT, mittlerweile sagen wir ihr sie soll es lieber nicht mehr machen.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "899",
+            "character": "",
+            "keyword": "irrig",
+            "hint": "",
+            "primitive": "",
             "pinyin": ""
         }
     ]
