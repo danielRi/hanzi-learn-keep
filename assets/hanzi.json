@@ -7862,7 +7862,7 @@
         },
         {
             "frame": "897",
-            "character": "",
+            "character": "昔",
             "keyword": "Vergangenheit",
             "hint": "Heute gibt es Hüttengaudi bei McDonalds, in der Vergangenheit gab es sogar SALAT-TAGE",
             "primitive": "",
@@ -7870,7 +7870,7 @@
         },
         {
             "frame": "898",
-            "character": "",
+            "character": "借",
             "keyword": "leihen",
             "hint": "CARLI hat in der VERGANGENHEIT oft Spielsachen an Jule verliehen, aber nur in der VERGANGENHEIT, mittlerweile sagen wir ihr sie soll es lieber nicht mehr machen.",
             "primitive": "",
@@ -7878,9 +7878,25 @@
         },
         {
             "frame": "899",
-            "character": "",
+            "character": "錯",
             "keyword": "irrig",
-            "hint": "",
+            "hint": "Die METALLE der VERGANGENHEIT, Bronzezeit, Kupferzeit, Eisenzeit, sind irrige Beschreibungen der Epochen, da es einer Epoche um mehr geht als um Gegenstände",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "900",
+            "character": "散",
+            "keyword": "lose",
+            "hint": "Ein Schulkind hat sein Mittagessen, SALAT und FLEISCH einfach lose in seiner Büchertasche rumfiegen, ohne Behälter. Als es der ZUCHTMEISTER von Lehrer sieht, wird er stinksauer",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "901",
+            "character": "撒",
+            "keyword": "streuen",
+            "hint": "Ein besonders schießwütiger MG Schütze hat ganz LOSE FINGER und will die ganze Zeit sein MG Feuer los streuen",
             "primitive": "",
             "pinyin": ""
         }
