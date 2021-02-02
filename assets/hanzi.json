@@ -7899,6 +7899,38 @@
             "hint": "Ein besonders schießwütiger MG Schütze hat ganz LOSE FINGER und will die ganze Zeit sein MG Feuer los streuen",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "902",
+            "character": "",
+            "keyword": "vorbereiten",
+            "hint": "CARLI will endlich ihren eigenen Garten haben und dort SALAT anpflanzen. Der SALAT wächst direkt auf einer KLIPPE. Mit einem SCHRAUBENZIEHER will sie vorher Cthulu Monster rausmachen. So hat sie viel zu tun den Garten vorzubereiten. Mit dem SCHRAUBENZIEHER kommt sie teilweise unter der Klippe beim Graben wieder raus. weil die KLIPPE etwas übersteht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "903",
+            "character": "",
+            "keyword": "zwanzig",
+            "hint": "Zwei miteinander verbundene ZEHNen ergebne zwanzig",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "903-1",
+            "character": "",
+            "keyword": "Labyrinth",
+            "hint": "Ein in den Fels gehaunes HÖHLEN Labyrinth des Minos, in das man erst mit Level 20 sollte.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "904",
+            "character": "",
+            "keyword": "Matte",
+            "hint": "Asterix und Oberlix müssen die Bestie in der Höhle fighten. Zuerst geht es durch ein U-Bahn Tunnel LABYRINTH, dann gibts TÜCHER für den Kampfraum, wo schließlich Matten liegen, auf denen gegen die Bestie gekämpft werden soll",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
