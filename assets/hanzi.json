@@ -7902,7 +7902,7 @@
         },
         {
             "frame": "902",
-            "character": "",
+            "character": "備",
             "keyword": "vorbereiten",
             "hint": "CARLI will endlich ihren eigenen Garten haben und dort SALAT anpflanzen. Der SALAT wächst direkt auf einer KLIPPE. Mit einem SCHRAUBENZIEHER will sie vorher Cthulu Monster rausmachen. So hat sie viel zu tun den Garten vorzubereiten. Mit dem SCHRAUBENZIEHER kommt sie teilweise unter der Klippe beim Graben wieder raus. weil die KLIPPE etwas übersteht",
             "primitive": "",
@@ -7910,7 +7910,7 @@
         },
         {
             "frame": "903",
-            "character": "",
+            "character": "廿",
             "keyword": "zwanzig",
             "hint": "Zwei miteinander verbundene ZEHNen ergebne zwanzig",
             "primitive": "",
@@ -7926,9 +7926,49 @@
         },
         {
             "frame": "904",
-            "character": "",
+            "character": "席",
             "keyword": "Matte",
             "hint": "Asterix und Oberlix müssen die Bestie in der Höhle fighten. Zuerst geht es durch ein U-Bahn Tunnel LABYRINTH, dann gibts TÜCHER für den Kampfraum, wo schließlich Matten liegen, auf denen gegen die Bestie gekämpft werden soll",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "905",
+            "character": "度",
+            "keyword": "Grad",
+            "hint": "Um zu schauen wie viel Grad Celsius es hat, hat man ein metallenes kleines LABYRINTH auf dem SCHOSS, durch das sich das Quecksilber seinen Weg sucht, wenn die Grad Zahl steigt. Bei sehr viel Grad tropft es auch mal auf dem SCHOSS. Verschieden Wegpunkte im LABYRINTH zeigen an, wie viel Grad es gerade hat.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "906",
+            "character": "渡",
+            "keyword": "Fähre",
+            "hint": "Wie bei Call of Duty: russische Soldaten überqueren das WASSER vor StalinGRAD - natürlich mit einer Fähre",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "907",
+            "character": "半",
+            "keyword": "Hälfte",
+            "hint": "Zwei Seien sind jeweils ein Spiegelbild der anderen, der letzte Strich teilt das Zeichen in zwei Hälften. Auch ein Bild der Sonnenallee, durch die die Berliner Mauer durchgeht.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "908",
+            "character": "伴",
+            "keyword": "Partner",
+            "hint": "CARLI ist einfach meine bessere HÄLFTE und mein Partner. Wir sind beides Polizisten die an einem Fall in der Freizeit arbeiten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "909",
+            "character": "胖",
+            "keyword": "beleibt",
+            "hint": "Ein gut beleibter Deftler Jäger isst das FLEISCH von einer ganzen Schweine-HÄLFTE",
             "primitive": "",
             "pinyin": ""
         }
