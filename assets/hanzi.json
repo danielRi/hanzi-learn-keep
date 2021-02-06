@@ -7136,7 +7136,7 @@
         },
         {
             "frame": "813",
-            "character": "施",
+            "character": "游",
             "keyword": "umherplanschen",
             "hint": "Das schlechteste Wasserball Team der Welt benutzt ein SPRUCHBAND einer Demo vom arabischen Frühling über das WASSER gespannt. Die Spieler sind nur ein paar KINDER, die herumplanschen",
             "primitive": "",
@@ -7969,6 +7969,78 @@
             "character": "胖",
             "keyword": "beleibt",
             "hint": "Ein gut beleibter Deftler Jäger isst das FLEISCH von einer ganzen Schweine-HÄLFTE",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "909",
+            "character": "胖",
+            "keyword": "beleibt",
+            "hint": "Ein gut beleibter Deftler Jäger isst das FLEISCH von einer ganzen Schweine-HÄLFTE",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "910",
+            "character": "判",
+            "keyword": "urteilen",
+            "hint": "König Salomon urteilt weise, teilt das Kind mit einem SÄBEL in zwei HÄLFTEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "910-1",
+            "character": "",
+            "keyword": "Viertel",
+            "hint": "Der Trennstrich der HÄLFTE wird nochmal geteilt, um ein Viertel zu erhalten. Vierteln. Das was geviertelt wird, steht unter dem Zeichen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "911",
+            "character": "眷",
+            "keyword": "Angehörige",
+            "hint": "1. Weihnachtsfeiertag. Alle Angehöirgen sitzen nach dem Essen im Wohnzimmer und schauen Un Chien Andalou, wo jemandes AUGAPFEL GEVIERTELT wird (wie im Pixies Song). Alle Angehörigen sind schockiert bei dem Film",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "912",
+            "character": "拳",
+            "keyword": "Boxen",
+            "hint": "Beim Boxen wird die HAND GEVIERTELT. D.h. die 4 Finger ausser dem Daumen werden abgeschnitten, und die 4 VIERTEL werden zu einem ganzen zusammengeklebt, damit die HAND perfekt in den Boxhandschuh passt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "913",
+            "character": "勝",
+            "keyword": "Sieg",
+            "hint": "Mewtu gegen Machomei: Mewtu setzt ihre MOND Kraft ein um die MUSKELKRAFT von Machomei zu VIERTELN. So trägt sie den Sieg davon",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "914",
+            "character": "片",
+            "keyword": "Scheibe",
+            "hint": "Bild einer Scheibe (Ein Baum der der Länge nach in eine Scheibe geschnitten wurde)",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "915",
+            "character": "版",
+            "keyword": "Druckplatte",
+            "hint": "Bei Minecraft bietet eine per Druckplatte ausgelöste Fall wirksamen ANTI-Griefer Schutz. Eine Druckplatte baut man in Minecraft mit einer SCHEIBE Holz. Es ist also eine SCHEIBE für ANTI-Griefer Schutz",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "915-1",
+            "character": "",
+            "keyword": "Etagenbett",
+            "hint": "Bild eines von vorne angeschautes Etagenbett, dass links von der rechten Wand steht. Wie in Donnybrook",
             "primitive": "",
             "pinyin": ""
         }
