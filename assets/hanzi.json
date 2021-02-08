@@ -8043,6 +8043,54 @@
             "hint": "Bild eines von vorne angeschautes Etagenbett, dass links von der rechten Wand steht. Wie in Donnybrook",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "916",
+            "character": "妝",
+            "keyword": "schminken",
+            "hint": "Im Hostel im ETAGENBETT über mir war eine FRAU die die ganzen Schränke mit Schminksachen vollgestellt hat, und sich immer in ihrem ETAGENBETT geschminkt hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "917",
+            "character": "壯",
+            "keyword": "robust",
+            "hint": "Ein ETAGENBETT als Feldbett für Soldaten. Der Gitter-Rahmen ist extrem robust, da das ETAGENBETT mitten im Wald stehen muss",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "918",
+            "character": "莊",
+            "keyword": "Ortschaft",
+            "hint": "Ein Ortschaft ist umgeben von BLUMEN, ausserdem werden die Straßenstickel und die Ortschilder ROBUST, damit besoffene sie nicht kaputt machen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "919",
+            "character": "裝",
+            "keyword": "Tracht",
+            "hint": "Trachten werden von ROBUSTEN Landbewohnern getragen. Muskulöse Bauernsöhne und Mädels mit strammen dicken Waden. Die GEWÄNDER dieser ROBUSTEN Leute nennt man Tracht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "920",
+            "character": "將",
+            "keyword": "General",
+            "hint": "Der General ist besoffen im ETAGENBETT eingschlafen. Er ist auf eine Packung FLEISCH eingeschlafen, das sich verformt hat. Ausserdem hat jemand sich den Spaß erlaubt, ihn an der Matratze mit Militär-Stärke LEIM festzuKLEBEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "921",
+            "character": "之",
+            "keyword": "des",
+            "hint": "Ein TROPFEN Blut auf dem Hemd...jemand hat das Zeichen des Zorro eingeritzt",
+            "primitive": "Zeichen des Zorro",
+            "pinyin": ""
         }
     ]
 }
