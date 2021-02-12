@@ -8094,7 +8094,7 @@
         },
         {
             "frame": "922",
-            "character": "",
+            "character": "乏",
             "keyword": "ermattet",
             "hint": "Als ich vom Kampf gegen den Zorro unglaublich ermattet war, hat ein Arzt mit der PIPETTE einem Tropen Desinfektionsmittel auf mein ZEICHEN DES ZORRO auf meiner Brust geträufelt",
             "primitive": "",
@@ -8102,7 +8102,7 @@
         },
         {
             "frame": "923",
-            "character": "",
+            "character": "眨",
             "keyword": "blinzeln",
             "hint": "Nach endloses Stunden Elvira Dos Game spielen sind die AUGEN so ERMATTET, dass man ständig blinzeln muss. Mein Freund sitzt mit ERMATTETEN AUGEN neben mir und blinzelt ständig, als Elvira redet",
             "primitive": "",
@@ -8110,7 +8110,7 @@
         },
         {
             "frame": "924",
-            "character": "",
+            "character": "不",
             "keyword": "negativ",
             "hint": "Einfach Bu, kann man sich merken",
             "primitive": "Verbotsschild",
@@ -8118,7 +8118,7 @@
         },
         {
             "frame": "925",
-            "character": "",
+            "character": "否",
             "keyword": "verneinen",
             "hint": "Ein Baby (Lara) hat immer alles verneint, sodass man einen Schnuller mit einem VERBOTSSCHILD drauf gemacht hat, auf dem Nein steht, Jetzt hat sie ein VERBOTSSCHILD über dem MUND",
             "primitive": "",
@@ -8129,6 +8129,80 @@
             "character": "",
             "keyword": "Tasse",
             "hint": "Jemand hat sich eine Reiner Winkler Tasse gebaut: Der Tassenkörper ist aus dem VERBOTSSCHILD vom Schauerberg Ortseinfahrt. Der Griff ist ein Stück HOLZ vom Balken von Rudis Panzerscheune. Wenn man vor der Schanze steht, kommt der HOLZGriff also von links, das SCHILD von rechts",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "32": [
+        {
+            "frame": "927",
+            "character": "",
+            "keyword": "Wurfpfeil",
+            "hint": "Ein Wurfpfeil in den HIMMEL geschleudert, wird so kleine, dass man nur noch einen winzigen TROPFEN im HIMMEL sieht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "928",
+            "character": "",
+            "keyword": "Sippe",
+            "hint": "SPRUCHBÄNDER die gegen Zigeuner und Jüdische Sippen protestieren. Die Sippen selbst werfen WURFPFEILE auf ein Porträt von Hitler",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "929",
+            "character": "",
+            "keyword": "wissen",
+            "hint": "Ein Professor wickelt seine Arbeitsblätter um einen WURFPFEIL und wirft sie den Studenten in den MUND, um sein Wissen zu vermitteln / Um zu wissen wissen wie viel man beim Dart getroffen hat, muss man wissen in welcher ÖFFNUNG der WURFPFEIL gelandet ist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "930",
+            "character": "",
+            "keyword": "Weisheit",
+            "hint": "Die Weisheit der Druiden und Seher ermöglichte im Altertum schon WISSEN über die SONNE",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "931",
+            "character": "",
+            "keyword": "Speer",
+            "hint": "Speer aus einer Harpune, Zacken, Wiederhaken und Leine (letzter Strich)",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "932",
+            "character": "",
+            "keyword": "sanft",
+            "hint": "Hallo guten Tag hier ist Jörg. Er will ganz sanft seinen SPEER lecken, bis er dick und groß wie ein BAUM ist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "933",
+            "character": "",
+            "keyword": "kneten",
+            "hint": "Alle FINGER um den Busen ausstrecken, und ganz SANFT kneten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "934",
+            "character": "",
+            "keyword": "Angelegenheiten",
+            "hint": "Ein Fürst kümmert sich um alle kriegerischen Angelegenheiten: Sind die SPEERE gespitzt? Bilden die ZUCHTMEISTER richtig aus? Sind die MUSKELN der Soldaten gestählt?",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "935",
+            "character": "",
+            "keyword": "Nebel",
+            "hint": "Meine ganzen ANGELEGENHEITEN, die ich noch zu erledigen haben, verschwinden in einer REGNERISCHEN NACHT, und ich sehe klar durch den Nebel. I love a rainy night!",
             "primitive": "",
             "pinyin": ""
         }
