@@ -8126,7 +8126,7 @@
         },
         {
             "frame": "926",
-            "character": "",
+            "character": "杯",
             "keyword": "Tasse",
             "hint": "Jemand hat sich eine Reiner Winkler Tasse gebaut: Der Tassenkörper ist aus dem VERBOTSSCHILD vom Schauerberg Ortseinfahrt. Der Griff ist ein Stück HOLZ vom Balken von Rudis Panzerscheune. Wenn man vor der Schanze steht, kommt der HOLZGriff also von links, das SCHILD von rechts",
             "primitive": "",
@@ -8136,7 +8136,7 @@
     "32": [
         {
             "frame": "927",
-            "character": "",
+            "character": "矢",
             "keyword": "Wurfpfeil",
             "hint": "Ein Wurfpfeil in den HIMMEL geschleudert, wird so kleine, dass man nur noch einen winzigen TROPFEN im HIMMEL sieht",
             "primitive": "",
@@ -8144,7 +8144,7 @@
         },
         {
             "frame": "928",
-            "character": "",
+            "character": "族",
             "keyword": "Sippe",
             "hint": "SPRUCHBÄNDER die gegen Zigeuner und Jüdische Sippen protestieren. Die Sippen selbst werfen WURFPFEILE auf ein Porträt von Hitler",
             "primitive": "",
@@ -8152,7 +8152,7 @@
         },
         {
             "frame": "929",
-            "character": "",
+            "character": "知",
             "keyword": "wissen",
             "hint": "Ein Professor wickelt seine Arbeitsblätter um einen WURFPFEIL und wirft sie den Studenten in den MUND, um sein Wissen zu vermitteln / Um zu wissen wissen wie viel man beim Dart getroffen hat, muss man wissen in welcher ÖFFNUNG der WURFPFEIL gelandet ist",
             "primitive": "",
@@ -8160,7 +8160,7 @@
         },
         {
             "frame": "930",
-            "character": "",
+            "character": "智",
             "keyword": "Weisheit",
             "hint": "Die Weisheit der Druiden und Seher ermöglichte im Altertum schon WISSEN über die SONNE",
             "primitive": "",
@@ -8168,7 +8168,7 @@
         },
         {
             "frame": "931",
-            "character": "",
+            "character": "矛",
             "keyword": "Speer",
             "hint": "Speer aus einer Harpune, Zacken, Wiederhaken und Leine (letzter Strich)",
             "primitive": "",
@@ -8176,7 +8176,7 @@
         },
         {
             "frame": "932",
-            "character": "",
+            "character": "柔",
             "keyword": "sanft",
             "hint": "Hallo guten Tag hier ist Jörg. Er will ganz sanft seinen SPEER lecken, bis er dick und groß wie ein BAUM ist",
             "primitive": "",
@@ -8184,7 +8184,7 @@
         },
         {
             "frame": "933",
-            "character": "",
+            "character": "揉",
             "keyword": "kneten",
             "hint": "Alle FINGER um den Busen ausstrecken, und ganz SANFT kneten",
             "primitive": "",
@@ -8192,7 +8192,7 @@
         },
         {
             "frame": "934",
-            "character": "",
+            "character": "務",
             "keyword": "Angelegenheiten",
             "hint": "Ein Fürst kümmert sich um alle kriegerischen Angelegenheiten: Sind die SPEERE gespitzt? Bilden die ZUCHTMEISTER richtig aus? Sind die MUSKELN der Soldaten gestählt?",
             "primitive": "",
@@ -8200,9 +8200,33 @@
         },
         {
             "frame": "935",
-            "character": "",
+            "character": "霧",
             "keyword": "Nebel",
             "hint": "Meine ganzen ANGELEGENHEITEN, die ich noch zu erledigen haben, verschwinden in einer REGNERISCHEN NACHT, und ich sehe klar durch den Nebel. I love a rainy night!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "936",
+            "character": "予",
+            "keyword": "gewähren",
+            "hint": "Einem jungen Mann wird die Ehre gewährt, eine versierte Lanze, einen Ritualspeer zu tragen, was ihn von der Leine lässt (Bei diesem Zeichen ist wie Speer von Harpune, nur ohne Leine)",
+            "primitive": "Ritualspeer",
+            "pinyin": ""
+        },
+        {
+            "frame": "937",
+            "character": "序",
+            "keyword": "Vorwort",
+            "hint": "Hätte die Bibel, das Buch der Bücher, ein Vorwort, stünde darin dass es Gott selbst geschrieben hat, eine HÖHLE als Tintenfass und einen VERZiERTEN RITUALSPEER als Schreibstift genommen hat.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "938",
+            "character": "預",
+            "keyword": "im Vorraus",
+            "hint": "im Vorraus bezahl im Mittelalter hiess: Ein Jungspund hat seinen RITUALSPEER jemand in den KOPF gebohrt, und sich dann genommen, für was er <bezahlt> hat",
             "primitive": "",
             "pinyin": ""
         }
