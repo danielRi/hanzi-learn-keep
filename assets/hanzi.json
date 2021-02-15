@@ -10,7 +10,7 @@
         },
         {
             "frame": "2",
-            "character": "ㄦ",
+            "character": "二",
             "keyword": "zwei",
             "hint": "Römische 2 auf Seite gelegt",
             "primitive": "",
@@ -8227,6 +8227,38 @@
             "character": "預",
             "keyword": "im Vorraus",
             "hint": "im Vorraus bezahl im Mittelalter hiess: Ein Jungspund hat seinen RITUALSPEER jemand in den KOPF gebohrt, und sich dann genommen, für was er <bezahlt> hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "939",
+            "character": "野",
+            "keyword": "wild",
+            "hint": "Ein wildes Buschvolk der Südsee. Ein junger Mann hat in seiner Hütte: Einen RITUALSPEER und einen COMPUTER mit 3080Ti und rgb.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "940",
+            "character": "班",
+            "keyword": "Klasse",
+            "hint": "Eine Klasse in einer High School ist echt besonders: 2 Könige und ein Fechtmeister: Der 1. König ist der Klassensprecher, der 2. sogar Schülersprecher. Der Säbel hängt an der Wand im Klassenzimmer und gehört dem besten Fechtmeister der Schule, der ebenfalls in die gleiche Klasse geht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "941",
+            "character": "弓",
+            "keyword": "Bogen",
+            "hint": "Bild eines Bogens",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "942",
+            "character": "引",
+            "keyword": "anziehen",
+            "hint": "Beim Bogenschießen im Garten wollen Mikey und Albert nochmal den Schwierigkeitsgrad anziehen, und schießen jetzt SPAZIERSTÖCKE mit dem BOGEN",
             "primitive": "",
             "pinyin": ""
         }
