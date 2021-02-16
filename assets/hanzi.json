@@ -8261,6 +8261,46 @@
             "hint": "Beim Bogenschießen im Garten wollen Mikey und Albert nochmal den Schwierigkeitsgrad anziehen, und schießen jetzt SPAZIERSTÖCKE mit dem BOGEN",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "943",
+            "character": "強",
+            "keyword": "stark",
+            "hint": "Ein sehr starker mann kann ein INSEKT mit einem BOGEN abschießen, und während es durch die Luft fliegt mit seinem ELLEBOGEN volley nehmen und zermatschen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "944",
+            "character": "弱",
+            "keyword": "schwach",
+            "hint": "Ein sehr schwacher Mann konnte den VEREISTEN BOGEN nicht spannen. Er hat dann nochmal einen anderen schwächeren VEREISTEN BOGEN zu spannen versucht, auch ohne Erolg, was ein Schwächling",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "945",
+            "character": "彈",
+            "keyword": "Projektil",
+            "hint": "Forgotten Weapons stellt heute mal einen Bogen vor, mit dem man aber normale Cartridges abschießen kann. Ian hat eine LISTE mit möglich Projektilen für den BOGEN bereit liegen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "945-1",
+            "character": "弗",
+            "keyword": "Dollarzeichen",
+            "hint": "Sieht aus wie ein Dollarzeichen. Der erste senkrechte Strich kann aber auch verkürz werden, wenn das Zeichen unter einem anderem Element steht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "946",
+            "character": "佛",
+            "keyword": "Buddha",
+            "hint": "CARLI wird von einem naiven Volk als BUDDHA verehrt. Sie kann nicht wiederstehen, hat DOLLARZEICHEN in den Augen. Sie bekommt alles was sie will von den Anhängern",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
