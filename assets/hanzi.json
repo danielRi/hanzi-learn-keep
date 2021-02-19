@@ -7973,14 +7973,6 @@
             "pinyin": ""
         },
         {
-            "frame": "909",
-            "character": "胖",
-            "keyword": "beleibt",
-            "hint": "Ein gut beleibter Deftler Jäger isst das FLEISCH von einer ganzen Schweine-HÄLFTE",
-            "primitive": "",
-            "pinyin": ""
-        },
-        {
             "frame": "910",
             "character": "判",
             "keyword": "urteilen",
@@ -8322,7 +8314,41 @@
             "frame": "949",
             "character": "",
             "keyword": "Nr.",
-            "hint": "",
+            "hint": "Eine Bank mit einem etwas esoterischen Manager, der jetzt im Sommer in Thailand war, hängt die Hausnummer der Bank also BAMBUS Schild über das DOLLARZEICHEN am Eingangstor",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "949-1",
+            "character": "",
+            "keyword": "Fangschlinge",
+            "hint": "Bild einer Fangschlinge. Herabgezogener Zweig mit einem Seil dran",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "950",
+            "character": "",
+            "keyword": "gewandt",
+            "hint": "Ein gewandter Redner bekommt eine an einem STAHLTRÄGER befestigte FALLSCHLINGE an seinen Fuss gebunden. Wenn er nicht gewandt genug spricht und vorträgt, kann das Publikum ihn ausbuhen, worauf die FALLSCHLINGE aktiviert wird, und der Redner dem STAHLTRÄGER hochgezogen wird, und so die Bühne wieder frei ist.",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "33": [
+        {
+            "frame": "951",
+            "character": "",
+            "keyword": "Leib",
+            "hint": "Unsere leibhaftige NASE, das Piktogramm hat Ähnlichkeit mit uns SELBER. Ausserdem sieht das Piktrogramm so aus wie ein dicker Mann von der Seite der nichts am Leib trägt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "952",
+            "character": "",
+            "keyword": "schießen",
+            "hint": "Mikey schoss einen Pfeil einfach so, wo er landet ich weiß nicht wo. Er steckt einen von den Polen wie ANGELEIMT im LEIB",
             "primitive": "",
             "pinyin": ""
         }
