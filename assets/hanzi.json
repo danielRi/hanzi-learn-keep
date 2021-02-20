@@ -8296,7 +8296,7 @@
         },
         {
             "frame": "947",
-            "character": "",
+            "character": "費",
             "keyword": "Kosten",
             "hint": "Bei einem Road Trip mit Backpackern hat eine ganz schlaue Studierte Backpackerin eine MUSCHEL mit einem DOLLARZEICHEN drauf dabei, in dem sie einen winzigen Zettel hat, auf dem sie alle Kosten niederschreibt, um am Ende Geld einzusammeln",
             "primitive": "",
@@ -8304,7 +8304,7 @@
         },
         {
             "frame": "948",
-            "character": "",
+            "character": "弟",
             "keyword": "jüngerer Bruder",
             "hint": "Der jüngere Bruder schaut gern Money Boy und Konsorten auf Youtube, und trägt deshalb ein goldenes DOLLAR ZEICHEN an einer Kette um den Hals, und immer eine Chicago Bulls Mütze, (HÖRNER!)",
             "primitive": "",
@@ -8312,7 +8312,7 @@
         },
         {
             "frame": "949",
-            "character": "",
+            "character": "第",
             "keyword": "Nr.",
             "hint": "Eine Bank mit einem etwas esoterischen Manager, der jetzt im Sommer in Thailand war, hängt die Hausnummer der Bank also BAMBUS Schild über das DOLLARZEICHEN am Eingangstor",
             "primitive": "",
@@ -8320,7 +8320,7 @@
         },
         {
             "frame": "949-1",
-            "character": "",
+            "character": "ㄎ",
             "keyword": "Fangschlinge",
             "hint": "Bild einer Fangschlinge. Herabgezogener Zweig mit einem Seil dran",
             "primitive": "",
@@ -8328,7 +8328,7 @@
         },
         {
             "frame": "950",
-            "character": "",
+            "character": "巧",
             "keyword": "gewandt",
             "hint": "Ein gewandter Redner bekommt eine an einem STAHLTRÄGER befestigte FALLSCHLINGE an seinen Fuss gebunden. Wenn er nicht gewandt genug spricht und vorträgt, kann das Publikum ihn ausbuhen, worauf die FALLSCHLINGE aktiviert wird, und der Redner dem STAHLTRÄGER hochgezogen wird, und so die Bühne wieder frei ist.",
             "primitive": "",
@@ -8338,7 +8338,7 @@
     "33": [
         {
             "frame": "951",
-            "character": "",
+            "character": "身",
             "keyword": "Leib",
             "hint": "Unsere leibhaftige NASE, das Piktogramm hat Ähnlichkeit mit uns SELBER. Ausserdem sieht das Piktrogramm so aus wie ein dicker Mann von der Seite der nichts am Leib trägt",
             "primitive": "",
@@ -8346,9 +8346,49 @@
         },
         {
             "frame": "952",
-            "character": "",
+            "character": "射",
             "keyword": "schießen",
             "hint": "Mikey schoss einen Pfeil einfach so, wo er landet ich weiß nicht wo. Er steckt einen von den Polen wie ANGELEIMT im LEIB",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "953",
+            "character": "謝",
+            "keyword": "danken",
+            "hint": "Ein Meme wie ein Supermarkt Mitarbeiter sich in einer Gedankenblase vorstellt, wie sehr er diesen Kunden hasst, weil dieser so unfreundlich ist. Am Ende zerschießt der Kunde diese Vorstellung aber wieder, in dem er mit einer Mini Kanano ein WORT auf die Gedankenblase SCHIEßT, das WORT ist Danke",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "954",
+            "character": "老",
+            "keyword": "alter Mann",
+            "hint": "Beim alten mann ist der LÖFFEL schon langsam UNTER der ERDE. Nur der SPAZIERSTOCK schaut noch SCHIEF aus der ERDE",
+            "primitive": "Weihnachtsmann",
+            "pinyin": ""
+        },
+        {
+            "frame": "954-1",
+            "character": "",
+            "keyword": "Schleuder",
+            "hint": "Eine einfachere Form des Bogens. Bild einer Schleuder",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "955",
+            "character": "考",
+            "keyword": "eine Prüfung ablegen",
+            "hint": "Bevor man als WEIHNACHSTSMANN eingesetzt werden darf, muss man am Nordpol eine Prüfung ablegen, bei dem man mit einer SCHLEUDER einen vorbeifliegenden Rentier Schlitten treffen muss. Dies ist nötig, um die Rentiere wieder einzufangen, sollten sie ausbüchsen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "956",
+            "character": "烤",
+            "keyword": "rösten",
+            "hint": "Im FEUER der Hells Kitchen muss man EINE PRÜFUNG ABLEGEN, in dem man ein Beef Wellington Steak perfekt rösten muss.",
             "primitive": "",
             "pinyin": ""
         }
