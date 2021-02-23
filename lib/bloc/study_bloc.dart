@@ -1,7 +1,7 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hanzi_learn_keep/model/character_frame.dart';
 import 'package:hanzi_learn_keep/repo/character_repository.dart';
-import 'package:hanzi_learn_keep/repo/stastic_repository.dart';
+import 'package:hanzi_learn_keep/repo/statistic_repository.dart';
 
 enum StudyType { oldest, least }
 

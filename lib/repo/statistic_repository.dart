@@ -25,11 +25,11 @@ class StatisticRepository {
   Future<void> correct(String frameNumber) async {
     print("correct called");
     recentlyStudied.add(frameNumber);
-    var characterStastic = await DatabaseService().frame(frameNumber);
-    if (characterStastic != null) {
-      characterStastic.correctEvent();
+    var characterStatistic = await DatabaseService().frame(frameNumber);
+    if (characterStatistic != null) {
+      characterStatistic.correctEvent();
     } else {
-      characterStastic = CharacterStatistic(
+      characterStatistic = CharacterStatistic(
         frameNumber: frameNumber,
         seen: 1,
         correct: 1,
@@ -37,16 +37,16 @@ class StatisticRepository {
         lastSeen: DateTime.now(),
       );
     }
-    await DatabaseService().correct(characterStastic);
+    await DatabaseService().correct(characterStatistic);
   }
 
   Future<void> wrong(String frameNumber) async {
     print("wrong called");
-    var characterStastic = await DatabaseService().frame(frameNumber);
-    if (characterStastic != null) {
-      characterStastic.wrongEvent();
+    var characterStatistic = await DatabaseService().frame(frameNumber);
+    if (characterStatistic != null) {
+      characterStatistic.wrongEvent();
     } else {
-      characterStastic = CharacterStatistic(
+      characterStatistic = CharacterStatistic(
         frameNumber: frameNumber,
         seen: 1,
         correct: 0,
@@ -54,7 +54,7 @@ class StatisticRepository {
         lastSeen: DateTime.now(),
       );
     }
-    await DatabaseService().correct(characterStastic);
+    await DatabaseService().correct(characterStatistic);
   }
 
   Future<CharacterStatistic> worstFrame() async {
@@ -85,7 +85,7 @@ class StatisticRepository {
     return 0;
   }
 
-  /// Creates list of frames based on stastic data
+  /// Creates list of frames based on statistic data
   ///
   /// 1. New frames, never studied
   /// 2. Worst frames, with most wrong tries
@@ -133,7 +133,7 @@ class StatisticRepository {
     var amountOfWorstFrames = 0;
     while (amountOfWorstFrames < min(4, worstFrames.length)) {
       final frame = _getRandomFrameFromList(resultList,
-          characterStasticList: worstFrames);
+          characterStatisticList: worstFrames);
       amountOfWorstFrames++;
       resultList.add(frame);
     }
@@ -191,20 +191,20 @@ class StatisticRepository {
 
   String _getRandomFrameFromList(List<String> targetList,
       {List<String> stringList,
-      List<CharacterStatistic> characterStasticList}) {
+      List<CharacterStatistic> characterStatisticList}) {
     if (stringList != null) {
-      assert(characterStasticList == null);
-    } else if (characterStasticList != null) {
+      assert(characterStatisticList == null);
+    } else if (characterStatisticList != null) {
       assert(stringList == null);
     }
     final random = Random();
     final lastindex =
-        stringList != null ? stringList.length : characterStasticList.length;
+        stringList != null ? stringList.length : characterStatisticList.length;
     while (true) {
       final randomIndex = random.nextInt(lastindex);
       String randomFrameId = stringList != null
           ? stringList[randomIndex]
-          : characterStasticList[randomIndex].frameNumber;
+          : characterStatisticList[randomIndex].frameNumber;
       bool frameAlreadyExists = false;
 
       targetList.forEach((element) {
