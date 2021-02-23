@@ -8391,6 +8391,46 @@
             "hint": "Im FEUER der Hells Kitchen muss man EINE PRÜFUNG ABLEGEN, in dem man ein Beef Wellington Steak perfekt rösten muss.",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "957",
+            "character": "孝",
+            "keyword": "Kindespflicht",
+            "hint": "Der WEIHNACHTSMANN hängt noch halb im Kamin ÜBER dem KIND, und fragt es ob es auch immer lieb zu den Eltern war, sprich seine Kindespflicht erfüllt hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "958",
+            "character": "教",
+            "keyword": "lehren",
+            "hint": "In einer Klasse für schwer erziehbare, sind Kinder die ihren Eltern nur Kummer machen. Der Lehrer ist ein ZUCHTMEISTER der sagt, ich werde euch schon KINDESPFLICHT lehren!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "959",
+            "character": "者",
+            "keyword": "Person",
+            "hint": "Der WEIHNACHTSMANN im Einkaufszentrum sitzt mit TRÄLLERNDER Zunge da, er singt sehr hoch irgendeine Oper. Man erkennt, dass es nicht der echte Weihnachtsmann ist, sonder nur irgend eine Person",
+            "primitive": "Marionette/Handpuppe",
+            "pinyin": ""
+        },
+        {
+            "frame": "960",
+            "character": "著",
+            "keyword": "-nd",
+            "hint": "Kasperle HANDPUPPE ist entweder sich im Blumenbeet versteckeND, mit einer Blume prügelND",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "961",
+            "character": "",
+            "keyword": "Schwein",
+            "hint": "",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
