@@ -8420,15 +8420,63 @@
             "frame": "960",
             "character": "著",
             "keyword": "-nd",
-            "hint": "Kasperle HANDPUPPE ist entweder sich im Blumenbeet versteckeND, mit einer Blume prügelND",
+            "hint": "Kasperle HA8NDPUPPE ist entweder sich im Blumenbeet versteckeND, mit einer Blume prügelND",
             "primitive": "",
             "pinyin": ""
         },
         {
             "frame": "961",
-            "character": "",
+            "character": "豬",
             "keyword": "Schwein",
-            "hint": "",
+            "hint": "Eine SAU die mit einer HANDPUPPE versaute Theaterstücke vorspielt. Die Zuschauer sagen, die SAU ist echt ein Schwein",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "961-1",
+            "character": "",
+            "keyword": "Dirigent",
+            "hint": "Ein befrackter Dirigent klopft mit einem Taktstock (erster Strich). Die beiden Kästen stellen die Frackschöße dar",
+            "primitive": "Herbert von Karamalz, Otto",
+            "pinyin": ""
+        },
+        {
+            "frame": "962",
+            "character": "追",
+            "keyword": "verfolgen",
+            "hint": "HERBERT VON KARAMALZ rennt über die LANDSTRAßE. Er verfolgt. Einen Porsche 959 von Herbert von Karajan",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "963",
+            "character": "帥",
+            "keyword": "Oberbefehlshaber",
+            "hint": "Der Oberbefehlshaber der Wehrmacht... hat wie ein DIRIGENT ganze Heere dirigiert und per Bewegung mit seinem Taktstock den Angriff Steiners befohlen, schließlich im Bunker aber das HANDTUCH geworfen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "964",
+            "character": "師",
+            "keyword": "Lehrer",
+            "hint": "Ein OBERBEFEHLSHABER mit ZIMMERDECKE. Das Schlachtfeld des Oberbefehlshaber liegt unter freiem Himmel, das des Lehrers drinnen.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "965",
+            "character": "獅",
+            "keyword": "Löwe",
+            "hint": "Ein RUDEL WILDER HUNDE hat sich von einem aus Afrika eingewanderten Löwen, der ihnen als LEHRER diente, das jagen beibringen lassen. Der LEHRER der WILDHUNDE ist somit der Löwe.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "966",
+            "character": "官",
+            "keyword": "Bürokrat",
+            "hint": "Ein Dirigent, der statt einen Taktstock oben das Dach eines Hauses hat, ist sozusagen der Dirigent im Verwaltungsgebäude, der Bürokrat",
             "primitive": "",
             "pinyin": ""
         }
