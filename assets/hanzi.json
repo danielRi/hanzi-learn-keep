@@ -8477,6 +8477,30 @@
             "character": "官",
             "keyword": "Bürokrat",
             "hint": "Ein Dirigent, der statt einen Taktstock oben das Dach eines Hauses hat, ist sozusagen der Dirigent im Verwaltungsgebäude, der Bürokrat",
+            "primitive": "Herr Weisensee",
+            "pinyin": ""
+        },
+        {
+            "frame": "967",
+            "character": "管",
+            "keyword": "Rohr",
+            "hint": "HERR WEISENSEE beschwert sich dass man einen Pool im Garten gebaut hat. Er hat ein Stück BAUMBUS in der Hand und sagt, die Rohre zum Pool müssen aus diesem Material sein.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "968",
+            "character": "父",
+            "keyword": "Vater",
+            "hint": "Ein Zuchtmeister, bei dem die Peitsche durch Schweißperlen auf der Stirn ersetzt sind",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "969",
+            "character": "交",
+            "keyword": "Umgang pflegen mit",
+            "hint": "Der VATER geht abends nochmal mit ZYLINDERHUT raus, dann pflegt er Umgang mit zwielichtigen Gestalten. Alte Geschäfte von ihm.",
             "primitive": "",
             "pinyin": ""
         }
