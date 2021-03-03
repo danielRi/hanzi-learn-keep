@@ -8501,7 +8501,39 @@
             "character": "交",
             "keyword": "Umgang pflegen mit",
             "hint": "Der VATER geht abends nochmal mit ZYLINDERHUT raus, dann pflegt er Umgang mit zwielichtigen Gestalten. Alte Geschäfte von ihm.",
+            "primitive": "Monopoly Männchen",
+            "pinyin": ""
+        },
+        {
+            "frame": "970",
+            "character": "",
+            "keyword": "Effekt",
+            "hint": "Der Axe Effekt lässt das MONOPOLY MÄNNCHEN für die Damenwelt wirken wie einen ledernen ZUCHTMEISTER",
             "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "971",
+            "character": "較",
+            "keyword": "relativ",
+            "hint": "Ob das MONOPOLY MÄNNCHEN immer den WAGEN bei Monopoly fahren sollte ist relativ. Er könnte auch gut den Schuh oder das Schlachtschiff nehmen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "972",
+            "character": "校",
+            "keyword": "Schule",
+            "hint": "Statt einem Haus oder einem Hotel baut das geizige MONOPOLY MÄNNCHEN aus HOLZ eine Schule. Das HOLZ der Schule steht dabei links, weil es auf der Badstraße steht, welche ganz links ist.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "973",
+            "character": "足",
+            "keyword": "Unterschenkel",
+            "hint": "Ein Unterschenkel, von der Kniescheibe (MUND) bis zu dem was sowas wie FUSSSPUREN hinterlässt",
+            "primitive": "Holzbein",
             "pinyin": ""
         }
     ]
