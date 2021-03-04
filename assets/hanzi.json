@@ -8506,7 +8506,7 @@
         },
         {
             "frame": "970",
-            "character": "",
+            "character": "效",
             "keyword": "Effekt",
             "hint": "Der Axe Effekt lässt das MONOPOLY MÄNNCHEN für die Damenwelt wirken wie einen ledernen ZUCHTMEISTER",
             "primitive": "",
@@ -8534,6 +8534,38 @@
             "keyword": "Unterschenkel",
             "hint": "Ein Unterschenkel, von der Kniescheibe (MUND) bis zu dem was sowas wie FUSSSPUREN hinterlässt",
             "primitive": "Holzbein",
+            "pinyin": ""
+        },
+        {
+            "frame": "974",
+            "character": "",
+            "keyword": "rennen",
+            "hint": "Wenn sich beim Pirat die Schnürsenkel der Adidas Sportschuhe ständig um das HOLZBEIN WICKELN, dann nur weil der Pirat gerade wegrennt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "975",
+            "character": "",
+            "keyword": "springen",
+            "hint": "Auf der Bounty werden VORZEICHEN mit HOLZBEINEN gedeutet. Dazu springt ein Pirat mit seinem Holzbein ein Hüpfspiel entlang",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "976",
+            "character": "",
+            "keyword": "Pfad",
+            "hint": "JEDER Pirat hat sein HOLZBEIN zum Abstecken des Pfades bereitgestellt, damit man auf der Schatzinsel bequem vom Strand zum Schatz laufen kann. Ausser die jetzt kein Holzbein haben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "977",
+            "character": "",
+            "keyword": "Tautropfen",
+            "hint": "Bei REGEN entstehen immer PFADE auf der Windschutzscheibe, durch die die ganzen Tautropfen dann durch wandern",
+            "primitive": "",
             "pinyin": ""
         }
     ]
