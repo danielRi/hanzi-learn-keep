@@ -8538,7 +8538,7 @@
         },
         {
             "frame": "974",
-            "character": "",
+            "character": "跑",
             "keyword": "rennen",
             "hint": "Wenn sich beim Pirat die Schnürsenkel der Adidas Sportschuhe ständig um das HOLZBEIN WICKELN, dann nur weil der Pirat gerade wegrennt",
             "primitive": "",
@@ -8546,7 +8546,7 @@
         },
         {
             "frame": "975",
-            "character": "",
+            "character": "跳",
             "keyword": "springen",
             "hint": "Auf der Bounty werden VORZEICHEN mit HOLZBEINEN gedeutet. Dazu springt ein Pirat mit seinem Holzbein ein Hüpfspiel entlang",
             "primitive": "",
@@ -8554,7 +8554,7 @@
         },
         {
             "frame": "976",
-            "character": "",
+            "character": "路",
             "keyword": "Pfad",
             "hint": "JEDER Pirat hat sein HOLZBEIN zum Abstecken des Pfades bereitgestellt, damit man auf der Schatzinsel bequem vom Strand zum Schatz laufen kann. Ausser die jetzt kein Holzbein haben",
             "primitive": "",
@@ -8562,9 +8562,75 @@
         },
         {
             "frame": "977",
-            "character": "",
+            "character": "露",
             "keyword": "Tautropfen",
             "hint": "Bei REGEN entstehen immer PFADE auf der Windschutzscheibe, durch die die ganzen Tautropfen dann durch wandern",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "978",
+            "character": "骨",
+            "keyword": "Skelett",
+            "hint": "Ein KÖRPERTEIL, das nur aus Knochen besteht. Piktogramm eines Gelenks, an dem ein FLEISCHERNES KÖRPERTEIL hängt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "979",
+            "character": "滑",
+            "keyword": "rutschig",
+            "hint": "SKELETT rutscht auf einer mit WASSER gefüllten Plane im Garten entlang",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "979-1",
+            "character": "",
+            "keyword": "Unterkiefer",
+            "hint": "ein GELENK mit einer Umgekehrten KAPUZE darunter, mit dem Kinn als die Spitze der Kapuze. Ein Unterkiefer",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "980",
+            "character": "過",
+            "keyword": "überqueren",
+            "hint": "Die Frau aus JuOn the Grudge überquert die LANDSTRAßE, ihr UNTERKIEFER liegt noch da",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "34": [
+        {
+            "frame": "980-1",
+            "character": "",
+            "keyword": "Zinnen",
+            "hint": "Luftiger Punkt in der Stadt, an dem Feste stattfinden.",
+            "primitive": "3 Zinnen, Festung Marienberg in Würzburg, Blick über die Stadt",
+            "pinyin": ""
+        },
+        {
+            "frame": "981",
+            "character": "阿",
+            "keyword": "Alpen",
+            "hint": "Wer die 3 ZINNEN besteigen KANN, KANN auch die ganzen Alpen besteigen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "982",
+            "character": "啊",
+            "keyword": "Ach!",
+            "hint": "Ach! ein Stadtmensch...aber vorsicht its Cool man! Singt mit OFFENEM MUND in den ALPEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "983",
+            "character": "際",
+            "keyword": "Anlass",
+            "hint": "An den 3 ZINNEN wird ein Mann GEOPFERT, in dem er mit einem Gummiband gegen die großen Steine geschleudert wird. Dies geschieht jedoch nur, wenn es auch einen Anlass gibt! In diesem fall dre Frieden zwischen Deutschland und Italien",
             "primitive": "",
             "pinyin": ""
         }
