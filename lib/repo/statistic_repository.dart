@@ -94,7 +94,7 @@ class StatisticRepository {
   Future<List<String>> createSuitableStudyList(
       int amountOfCharacters, StudyType type) async {
     final data = await CharacterRepository().fetchData();
-    final resultList = [];
+    final resultList = <String>[];
 
     var userRequestedFrames;
     if (type == StudyType.least) {

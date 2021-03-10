@@ -149,10 +149,12 @@ packages:
   flutter_speed_dial:
     dependency: "direct main"
     description:
-      name: flutter_speed_dial
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.2.5"
+      path: "."
+      ref: nullsafety
+      resolved-ref: f75f1e290aec45356917d988122f181505171d8d
+      url: "git://github.com/darioielardi/flutter_speed_dial.git"
+    source: git
+    version: "3.0.0-nullsafety.1"
   flutter_spinkit:
     dependency: "direct main"
     description:

@@ -118,6 +118,7 @@ class HomeScreen extends StatelessWidget {
           child: Text(
             "字",
             style: TextStyle(
+              color: Colors.white,
               fontSize: 26,
               fontFamily: "SentyWen",
             ),
@@ -129,6 +130,7 @@ class HomeScreen extends StatelessWidget {
               child: Text(
                 "少",
                 style: TextStyle(
+                  color: Colors.white,
                   fontSize: 24,
                   fontFamily: "SentyWen",
                 ),
@@ -150,6 +152,7 @@ class HomeScreen extends StatelessWidget {
               child: Text(
                 "舊",
                 style: TextStyle(
+                  color: Colors.white,
                   fontSize: 24,
                   fontFamily: "SentyWen",
                 ),
@@ -170,6 +173,7 @@ class HomeScreen extends StatelessWidget {
             child: Center(
               child: Icon(
                 Icons.search,
+                color: Colors.white,
               ),
             ),
             backgroundColor: Colors.black,
