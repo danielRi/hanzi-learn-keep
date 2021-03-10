@@ -9,7 +9,7 @@ import 'package:hanzi_learn_keep/bloc/study_bloc.dart';
 class StatisticRepository {
   static final StatisticRepository _singleton = StatisticRepository._internal();
 
-  List<String> recentlyStudied = List();
+  List<String> recentlyStudied = [];
 
   factory StatisticRepository() {
     return _singleton;
@@ -94,7 +94,7 @@ class StatisticRepository {
   Future<List<String>> createSuitableStudyList(
       int amountOfCharacters, StudyType type) async {
     final data = await CharacterRepository().fetchData();
-    final resultList = List<String>();
+    final resultList = [];
 
     var userRequestedFrames;
     if (type == StudyType.least) {
@@ -173,7 +173,7 @@ class StatisticRepository {
 
   List<String> _newFrames(
       List<CharacterStatistic> oldestFrames, Map<String, CharacterFrame> data) {
-    List<String> newFrames = List();
+    List<String> newFrames = [];
     for (CharacterFrame frame in data.values) {
       bool isNew = true;
       oldestFrames.forEach((element) {

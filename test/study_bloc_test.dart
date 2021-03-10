@@ -1,4 +1,3 @@
-
 import 'package:flutter_test/flutter_test.dart';
 import 'package:hanzi_learn_keep/bloc/study_bloc.dart';
 
@@ -19,6 +18,5 @@ void main() {
       // ));
       // TODO: set up new unit tests
     });
-
   });
 }

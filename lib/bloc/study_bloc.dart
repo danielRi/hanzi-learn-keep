@@ -49,7 +49,7 @@ class LoadingState extends StudyState {}
 class CharacterState extends StudyState {
   CurrentFrame currentFrame;
   final List<CharacterFrame> framesToStudy;
-  final List<String> correctFrames = List<String>();
+  final List<String> correctFrames = <String>[];
   int index;
   CharacterState(this.currentFrame, this.framesToStudy, this.index);
 
@@ -146,20 +146,13 @@ class StudyBloc extends Bloc<StudyEvent, StudyState> {
     }
   }
 
-  @override
-  void onChange(Change<StudyState> change) {
-    print("onchange:");
-    print(change.currentState.runtimeType.toString());
-    super.onChange(change);
-  }
-
   Future<List<CharacterFrame>> initFramesToStudy(
       Map<String, CharacterFrame> data,
       int amountOfCharacters,
       StudyType type) async {
     final meaningfulList =
         await StatisticRepository().createSuitableStudyList(50, type);
-    final resultList = List<CharacterFrame>();
+    final resultList = <CharacterFrame>[];
     for (String frameNumber in meaningfulList) {
       resultList.add(CharacterRepository().getFrame(frameNumber));
     }
