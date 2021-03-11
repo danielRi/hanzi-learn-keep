@@ -8643,7 +8643,7 @@
             "pinyin": ""
         },
         {
-            "frame": "984",
+            "frame": "985",
             "character": "隨",
             "keyword": "wie es beliebt",
             "hint": "Nachts auf einer einsamen LANDSTRAßE. An einer Kreuzung. Der Freund sagt zu seiner Freundin: ich kann fahren wie es beliebt: Gerade aus zu den 3 ZINNEN, LINKS, oder rechts dem MOND entgegen",
@@ -8651,10 +8651,18 @@
             "pinyin": ""
         },
         {
-            "frame": "985",
+            "frame": "986",
             "character": "",
             "keyword": "Yang",
             "hint": "Das böse Yang will dass du dein SPARSCHWEIN gegen die 3 ZINNEN wirfst und alles bei Apres Ski verprasst",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "987",
+            "character": "",
+            "keyword": "ausstellen",
+            "hint": "Wenn die Sonne genau im OSTEN zwischen den 3 ZINNEN steht, beginnen arabische Krämer ihr orientalischen Stücke auszustellen",
             "primitive": "",
             "pinyin": ""
         }
