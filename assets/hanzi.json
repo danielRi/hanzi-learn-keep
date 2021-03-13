@@ -8665,6 +8665,38 @@
             "hint": "Wenn die Sonne genau im OSTEN zwischen den 3 ZINNEN steht, beginnen arabische Krämer ihr orientalischen Stücke auszustellen",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "988",
+            "character": "防",
+            "keyword": "abwehren",
+            "hint": "Österreichische Raumverteidigung. An den 3 ZINNEN steht ein österreichischer Soldat mit seinem KOMPASS und schaut, ob nun ein Angriff aus West oder Ost abgewehrt werden muss.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "989",
+            "character": "附",
+            "keyword": "beifügen",
+            "hint": "An den 3 ZINNNEN muss man die Brennermaut ZAHLEN, aber beim ZAHLEN an den 3 ZINNEN immer die Vignette und Kennzeichen beifügen!! Sonst Zahlung ungültig. Beifügen wichtig!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "990",
+            "character": "院",
+            "keyword": "Inst.",
+            "hint": "Die 3 ZINNEN sind in Wahrheit künstlich gebaut. Als der Bau wegen Geldmangel stoppte, wurde das Projekt vom Institut VOLLENDET. Das Institut ist seitdem in der Region nur bekannt als das Institut das die 3 ZINNEN VOLLENDET hat. Das Institut führt dort Tests durch",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "991",
+            "character": "陣",
+            "keyword": "Formation",
+            "hint": "Mit den WAGEN (z.B. Hanomag Half-Tracks) anzugreifen hat sich die Formation der 3 ZINNEN bewährt, bei dem 3 WAGEN wie 3 ZINNEN eng nebeneinander fahren",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
