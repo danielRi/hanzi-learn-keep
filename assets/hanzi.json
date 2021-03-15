@@ -8697,6 +8697,38 @@
             "hint": "Mit den WAGEN (z.B. Hanomag Half-Tracks) anzugreifen hat sich die Formation der 3 ZINNEN bewährt, bei dem 3 WAGEN wie 3 ZINNEN eng nebeneinander fahren",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "992",
+            "character": "隊",
+            "keyword": "Mannschaft",
+            "hint": "Die Mannschaft vom FC Bayern feiern ihren Titelgewinn auf dem Balkon auf den 3 ZINNEN. Auf dem Balkon steht die gesamte Mannschaft und hält ihr Maskottchen, eine SAU mit Wikinger HÖRNERN hoch. Die Fans jubeln",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "993",
+            "character": "降",
+            "keyword": "absinken",
+            "hint": "Vor den 3 ZINNEN ist ein WANDERSMANN im Treibsand versunken. Während er neben den 3 ZINNEN absinkt, versucht der WANDERSMANN mit seinem MONOKEL zu wackeln, um so per Sonnenlicht Reflexion Signale ins Tal zu senden, um Hilfe zu holen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "994",
+            "character": "階",
+            "keyword": "Treppe",
+            "hint": "Seit dem sie an den 3 ZINNEN Treppen gebaut haben können ALLE die 3 ZINNEN erklimmen. Dank der Treppen!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "995",
+            "character": "穴",
+            "keyword": "Loch",
+            "hint": "HAUS ACHT hat ganz viele Löcher: Löcher im Dach, Löcher in den Fenstern. Das ganze Grundstück sollte ein einzig großes Loch sein!",
+            "primitive": "Tierbau",
+            "pinyin": ""
         }
     ]
 }
