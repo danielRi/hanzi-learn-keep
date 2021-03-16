@@ -8729,6 +8729,30 @@
             "hint": "HAUS ACHT hat ganz viele Löcher: Löcher im Dach, Löcher in den Fenstern. Das ganze Grundstück sollte ein einzig großes Loch sein!",
             "primitive": "Tierbau",
             "pinyin": ""
+        },
+        {
+            "frame": "996",
+            "character": "究",
+            "keyword": "erforschen",
+            "hint": "Einen TIERBAU erforschen, in dem man eine Bowling Kugel mit entsprechenden Sensoren ausstattet und sie dann in den TIERBAU KEGELT. Wenn sie wieder rausrollt ist sie mit erforschten Daten aus dem TIERBAU befüllt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "997",
+            "character": "突",
+            "keyword": "unvermittelt",
+            "hint": "Der kleine CHIHUAHUA stand neben dem TIERBAU als plötzlich eine Bestie rauskam und das kleine Hündchen mit in seinen Bau zog. Das ganze war komplett unvermittelt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "998",
+            "character": "空",
+            "keyword": "leer",
+            "hint": "Als der STAHLTRÄGER durch das LOCH fiel, merkten sie, dass das ganze Fundament nicht mit Beton ausgegossen war, sondern einfach leer war. Der STAHLTRÄGER fiel UNTERS LOCH ins Leere",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
