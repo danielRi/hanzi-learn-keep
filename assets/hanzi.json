@@ -8753,6 +8753,30 @@
             "hint": "Als der STAHLTRÄGER durch das LOCH fiel, merkten sie, dass das ganze Fundament nicht mit Beton ausgegossen war, sondern einfach leer war. Der STAHLTRÄGER fiel UNTERS LOCH ins Leere",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "999",
+            "character": "控",
+            "keyword": "beherrschen",
+            "hint": "Ein guter Hexenmeister kann die LEERE mit einem FINGER beherrschen. Er hält den LEERENwandler an der Leine mit einem einzigen FINGER. Sehr gut beherrscht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1000",
+            "character": "邊",
+            "keyword": "Grenze",
+            "hint": "Auf der LANDSTRAßE vor der mexikanischen Grenze sollte man nicht so viel an die NASE fassen, falls man eine NASE gezogen hat. Sonst schauen einem die Grenzwächter in jedes LOCH. Danach schaut man auf den KOMPASS, ob es weiter nach Norden in die USA, oder zurück nach Mexiko in den Süden geht.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1000-1",
+            "character": "",
+            "keyword": "Locher",
+            "hint": "Ein Loch ohne 1. Strich",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
