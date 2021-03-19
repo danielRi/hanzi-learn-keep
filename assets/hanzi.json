@@ -8777,6 +8777,64 @@
             "hint": "Ein Loch ohne 1. Strich",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "1001",
+            "character": "深",
+            "keyword": "tief",
+            "hint": "Am WASSER werden die BÄUME die zu tief im WASSER sind mit einem LOCHER durch die Rine gelochert, und so markiert, dass sie zu tief im Wasser sind",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1002",
+            "character": "探",
+            "keyword": "Spion",
+            "hint": "Ein Spion schmuggelt Informationen aus dem Fenster. Er gibt Morsezeichen mit einem LOCHER im Büro. Ein anderer steht Schmiere und schnippt mit den FINGERN, wenn jemand kommt. Draußen steht jemand unter einem BAUM im Park und schreibt alles auf.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1003",
+            "character": "丘",
+            "keyword": "Hügel",
+            "hint": "Ein Hügel in dem KRIEGSBEILE in den BODEN gerammt wurden.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1004",
+            "character": "兵",
+            "keyword": "Truppen",
+            "hint": "Ein HÜGEL voller Truppen der Sturmmäntel. Bei jedem Soldaten hängen die TIERBEINE der Fellkleider von den Schultern. Ein Kaiserlicher spottet: Truppen wie ein HÜGEL voller TIERBEINE",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "35": [
+        {
+            "frame": "1004-1",
+            "character": "",
+            "keyword": "Faden",
+            "hint": "Aufwickeln von Wollfäden auf Arme, wie es die Oma noch gemacht hat. Die beiden ELLEBOGEN sind gebeugt, die Arme nach vorne getreckt. Am ende soll ein kleines Knäuel gewickelt werden.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1005",
+            "character": "絲",
+            "keyword": "Seide",
+            "hint": "Der SeidenFADEN ist so klein, dass der FADEN VERDOPPELT werden muss, um zum Nähen verwendet zu werden",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1006",
+            "character": "線",
+            "keyword": "Linie",
+            "hint": "Die rote Linie der Taibei MRT zieht sich wie ein roter FADEN durch die Stadt, bis man schließlich bei den heissen SPRINGQUELLEN aussteigen kann",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
