@@ -2659,14 +2659,6 @@
             "pinyin": ""
         },
         {
-            "frame": "308",
-            "character": "吉",
-            "keyword": "glücksbringend",
-            "hint": "SOLDAT mit offenem MUND, wenn man in den Mund schaut soll es Glück bringen. Wie bei den Wachen vom Buckingham Palace",
-            "primitive": "Sprühdose (festsitzender Deckel, beachte unterschied zu Bierseidel)",
-            "pinyin": ""
-        },
-        {
             "frame": "309",
             "character": "買",
             "keyword": "kaufen",
@@ -8857,6 +8849,62 @@
             "character": "續",
             "keyword": "fortdauern",
             "hint": "Das Fortdauern des Tante Emma Ladesn, der zwischen all den Wolkenkratzern und Mega Einkaufszentrum immer noch an der gleichen Stelle FÄDEN VERKAUFT",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1010",
+            "character": "統",
+            "keyword": "gesamt",
+            "hint": "Eine Gesamt Schule die als Pausenprojekt einen roten FADEN um den gesamten Schulhof spannen will. Dafür gibt es vom Kultusministerium aber gerade so HINREICHEND viel FADEN, dass es für den gesamten Pausenhof reicht.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1011",
+            "character": "給",
+            "keyword": "geben",
+            "hint": "Wenn der FADEN durch PASST soll ich die Schmuckperle den Kindern geben, ansonsten wollen sie sie nicht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1012",
+            "character": "結",
+            "keyword": "binden",
+            "hint": "Um einen Zopf zu binden braucht man einen Haargummi. Falsch! Es reicht auch ein FADEN und die Haar SPRAYDOSE! FADEN um Zopf wickeln und dann ordentlich mit der SPRAYDOSE drauf halten bis alles festklebt. Fertig!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1013",
+            "character": "終",
+            "keyword": "Ende",
+            "hint": "In einem Terminkalender, wenn der rote Lesezeichen FADEN im WINTER hängt, neigt sich der Kalender, das Buch, das Jahr dem Ende",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1014",
+            "character": "級",
+            "keyword": "Rang",
+            "hint": "Den Rang eines Admirals sieht man an seinen AUSGESTRECKTEN HÄNDEN, dort nämlich sieht man wie viele FÄDEN in seinen Ärmel genäht sind. Je mehr FÄDEN in den AUSGESTRECKTEN HÄNDEN, desto höher der Rang",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1015",
+            "character": "紀",
+            "keyword": "Epoche",
+            "hint": "Ein FADEN an einer Pinwand beschreibt die Dauer der kompletten Weltgeschichte, die einzelnen Epochen sind mit SCHLANGEN, die mit ihren Zähnen in die Pinwand gerammt wurden, markiert.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1016",
+            "character": "紅",
+            "keyword": "rot",
+            "hint": "In einem Theater hängen ganz viele FÄDEN von einem STAHLTRÄGER und bilden so den großen schweren roten Hauptvorhang. Er ist immer rot!",
             "primitive": "",
             "pinyin": ""
         }
