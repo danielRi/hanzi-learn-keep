@@ -8907,6 +8907,78 @@
             "hint": "In einem Theater hängen ganz viele FÄDEN von einem STAHLTRÄGER und bilden so den großen schweren roten Hauptvorhang. Er ist immer rot!",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "1017",
+            "character": "約",
+            "keyword": "sich verabreden",
+            "hint": "Leute die sich im Dorf verabreden wollen, werfen alle einen FADEN mit ihrer Farbe den Dorfbrunnen. Am Freitag abend kommt dann jemand mit dem SCHÖPFLÖFFEL und schöpft die FÄDEN raus, damit er weiß wer sich heute alles verabreden will.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1018",
+            "character": "細",
+            "keyword": "fein",
+            "hint": "Das GEHIRN ist von ganz viel kleinen FÄDEN durchzogen, die man Synapsen nennt, sie sind für die Feinmechanik zuständig",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1019",
+            "character": "緊",
+            "keyword": "straff",
+            "hint": "Ein MUNDSCHENK verkauft auf dem Oktoberfest mit einem Hängebrett vor dem Bauch FÄDEN für Lederhosen und Dirndl. Weil sein Brett so schwer ist hat er es ganz straff um den Bauch geschnallt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1020",
+            "character": "織",
+            "keyword": "weben",
+            "hint": "Einen FADEN in eine TRÖTE einführen und dann durchpusten. Durch die Töne der TRÖTE werden die FÄDEN zu einem Gewebe gewebt.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1021",
+            "character": "網",
+            "keyword": "Netz",
+            "hint": "In Deftl in der Jägerklause hängt an einem FADEN eine GLASKUPPEL mit TIERHÖRNEN drin. Darin hat sich eine Spinne ein Netz gebaut, an dem noch jede Fliege ZUGRUNDE GEHT",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1022",
+            "character": "綠",
+            "keyword": "grün",
+            "hint": "Ein Ned Flanders SCHNEEMANN ist ein SCHNEEMANN der mit grünen FÄDEN eingewickelt ist, um Ned Flanders grünen Pullover darzustellen.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1022-1",
+            "character": "",
+            "keyword": "Nadelspitze",
+            "hint": "Mit WORTEN einen FADEN in 2 FÄDEN in der Mitte zu teilen ist fast schon Haarspalterei. Manchmal sind WORTE wie Nadelspitzen, die die FÄDEN entzwei teilen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1023",
+            "character": "彎",
+            "keyword": "gebogen",
+            "hint": "Damit der BOGEN auch schön gebogen ist, wird der immer wieder mit einer NADELSPITZE gepiekst, bis er sich vor Schmerz ganz gebogen gebogen hat.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1024",
+            "character": "灣",
+            "keyword": "Bucht",
+            "hint": "Ein Bucht ist WASSER mit einer GEBOGENEN Landmasse aussenrum",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
