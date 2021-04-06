@@ -8979,6 +8979,46 @@
             "hint": "Ein Bucht ist WASSER mit einer GEBOGENEN Landmasse aussenrum",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "1025",
+            "character": "戀",
+            "keyword": "verliebt sein",
+            "hint": "Wenn man verliebt ist, ist es wie eine NADELSPITZE direkt ins HERZ, sollte was nicht klappen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1026",
+            "character": "變",
+            "keyword": "sich wandeln",
+            "hint": "Ein ZUCHTMEISTER mit NADELSPITZEN OBEN, Pinhead von Hellraiser. Er sieht zu wie sich die Untoten wandeln, nämlich von einem Haufen Knochen zu einem vollen Menschen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1026-1",
+            "character": "",
+            "keyword": "Spule",
+            "hint": "Von der DECKE ergießt sich ein FLUSS, nicht aber aus Wasser, sondern von Drähten, die auf eine Metallspule gewickelt werden. Dort wird sie mit harter ARBEIT weiter verarbeiter, wie in einer der brüchtigten Ausbeuter Fabriken",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1027",
+            "character": "經",
+            "keyword": "kanonische Schriften",
+            "hint": "Man zieht mit dem FADEN an einer SPULE mit Texten darauf, wie eine Aufziehuhr. Die Aufziehuhr spult so immer wieder die gleichen kanonischen Schriften ab, sobald man mit dem FADEN an der SPULE zieht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1028",
+            "character": "輕",
+            "keyword": "leichtgewichtig",
+            "hint": "",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
