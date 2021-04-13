@@ -9001,7 +9001,7 @@
             "character": "",
             "keyword": "Spule",
             "hint": "Von der DECKE ergießt sich ein FLUSS, nicht aber aus Wasser, sondern von Drähten, die auf eine Metallspule gewickelt werden. Dort wird sie mit harter ARBEIT weiter verarbeiter, wie in einer der brüchtigten Ausbeuter Fabriken",
-            "primitive": "",
+            "primitive": "Angelspule",
             "pinyin": ""
         },
         {
@@ -9016,7 +9016,87 @@
             "frame": "1028",
             "character": "輕",
             "keyword": "leichtgewichtig",
-            "hint": "",
+            "hint": "Ein AUTO so leichtgewichtig dass man es mit einer ANGELSPULE ranziehen kann!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1028-1",
+            "character": "",
+            "keyword": "Kokon",
+            "hint": "Kokon einer Seidenraupe, bei dem der Faden unten noch nicht rauskommt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1029",
+            "character": "後",
+            "keyword": "hinter",
+            "hint": "Eine endlos lange MENSCHLANGE schaut einem SAFKON zu, wie es Härter anwendet. ein WANDERSMANN möchte das auch mal sehen, er muss aber in der MENSCHLANGE ganz hinter",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1030",
+            "character": "幾",
+            "keyword": "wie viele?",
+            "hint": "CICI will taiwanische Spezialitäten auf dem Obereisenheimer STRAßENWEINFEST verkaufen. Sie läuft mit 2 riesigen KOKONS beladen über das STRAßENFEST und alle fragen: Wie viele hast du denn davon?",
+            "primitive": "Rechenschieber",
+            "pinyin": ""
+        },
+        {
+            "frame": "1031",
+            "character": "機",
+            "keyword": "Maschine",
+            "hint": "Die ersten Rechenmaschinen bestanden aus ganz viel HOLZ und einem RECHENSCHIEBER also Input Gerät. Man kann sich ungefähr die ersten elektro-mechanischen Holz Computer vorstellen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1032",
+            "character": "斷",
+            "keyword": "unterbrechen",
+            "hint": "Ich angle mit einem ANGELHAKEN, an dem 2/2 russische Babuschka KOKUNA gefüllt mit Fischfutter hängen. Meine Angelanstrengungen werden jedoch jä unterbrochen weil jemand plötzlich mit der AXT meine Schnur durchtrennt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1033",
+            "character": "繼",
+            "keyword": "fortsetzen",
+            "hint": "Das Angeln mit den 2/2 KOKUNA Futterboxen wird fortgesetzt, sobald ich einen neuen FADEN an den ANGELHAKEN mit den 2/2 KOKUNAS gebunden habe",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1034",
+            "character": "顯",
+            "keyword": "offensichtlich",
+            "hint": "Im Fallout Wasteland koche ich über dem OFFENFEUER 2 Käfer KOKONS, unter der Sonne vom strahlend blauen Himmel des Common Wealth - was ist offensichtlich? Es ist offensichtlich eine Falle, da der KOPF des Siedlers noch neben dem OFENFEUER auf dem Boden liegt.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1035",
+            "character": "樂",
+            "keyword": "Musik",
+            "hint": "In einem BAUM sitzt eine WEIßE TAUBE und zwitschert zwischen zwei KOKONS ihr schöne Vogelmusik. Wie ein Vogel wollte Hochzeit machen: Die TAUBE, die TAUBE, singt zwischen 2 KOKONS im Baume....Fiderallala Fiderallala...",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1036",
+            "character": "藥",
+            "keyword": "Arznei",
+            "hint": "Beim universellen Leben spielen sie den BLUMEN klassische MUSIK damit diese besser wachsen. So gut, dass man aus den BLUMEN dann Arznei herstellen kann. Aber nur wenn sie auch die MUSIK gehört haben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1037",
+            "character": "雞",
+            "keyword": "Huhn",
+            "hint": "Ein Fabelwesen mit einem GEIER kopf, einem SAFCON Körper und HUNDEBeinen hat einst einen TRUTHAHN Huhn in ein Huhn verwandelt, das Huhn war geboren",
             "primitive": "",
             "pinyin": ""
         }
