@@ -9099,6 +9099,88 @@
             "hint": "Ein Fabelwesen mit einem GEIER kopf, einem SAFCON Körper und HUNDEBeinen hat einst einen TRUTHAHN Huhn in ein Huhn verwandelt, das Huhn war geboren",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "1038",
+            "character": "麼",
+            "keyword": "(Endsilbe)",
+            "hint": "Als wir angefangen haben, HANF durch einen KOKON zu rauchen, eine leere KOKUNA Hülle, da haben wir wirklich nur noch eine Silbe rausgebracht, und das war die Endsilbe",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1039",
+            "character": "系",
+            "keyword": "Stammbaum",
+            "hint": "Bild von FÄDEN die sich zu einem Strang verweben, wie ein Stammbaum",
+            "primitive": "Grober Zwirn, zerzauster Zwirn",
+            "pinyin": ""
+        },
+        {
+            "frame": "1040",
+            "character": "係",
+            "keyword": "gehen um",
+            "hint": "CARLI ZWIRN",
+            "primitive": "Wenn CARLI eine Kette mit dem ZERZAUSTEN ZWIRN machen will, geht es darum herauszufinden was überhaupt auf den schlechten ZWIRN eingefädelt werden kann",
+            "pinyin": ""
+        },
+        {
+            "frame": "1041",
+            "character": "孫",
+            "keyword": "Enkel",
+            "hint": "Die Gene sind im KIND noch relativ klar wie ein Faden vorhanden, im Enkel, also im KIND vom KIND, verteilen sich dann schon so viele Gene dass die eigenen Gene nur noch wie ein ZERZAUSTER ZWIRN darin verlaufen",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "36": [
+        {
+            "frame": "1041-1",
+            "character": "",
+            "keyword": "Stempel",
+            "hint": "Bild eines Poststempels",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1042",
+            "character": "卻",
+            "keyword": "zurückweichen",
+            "hint": "Im großen TAL muss man vor dem Scharfzahn zurückweichen. Jedes mal wenn man es schafft zurückzuweichen, bekommt man einen STEMPEL",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1043",
+            "character": "腳",
+            "keyword": "Fuß",
+            "hint": "Im Fußball weicht man entweder zurück, oder nimmt eine Verletzung des Gegners in Kauf. Das einzige KÖRPERTEIL, mit dem man entweder verletzen oder ZURÜCKWEICHEN kann, ist der Fuß",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1044",
+            "character": "服",
+            "keyword": "Kleider",
+            "hint": "Holocaust: Nur noch nacktes FLEISCH, ausserdem ein STEMPEL auf den SCHOß, aller Kleider werden eingesammelt und in Verwertungszonen eingelagert",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1045",
+            "character": "命",
+            "keyword": "Schicksal",
+            "hint": "Ein Priester testet bei Geburt alle Neugeborenen mit einem STEMPEL, ob das Baby der Auserwählte ist. Wenn der STEMPEL auf ein Muttermal PASST, ist es Schicksal",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1045-1",
+            "character": "",
+            "keyword": "Brieföffner",
+            "hint": "Wie ein spiegelverdrehter STEMPEL mit einem MESSER, also wie ein Brieföffner, einfach auswendig lernen. Wenn mit Messer ist es ein scharfer Brieföffner, ohne Messer im Zeichen ein stumpfer Brieföffner",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
