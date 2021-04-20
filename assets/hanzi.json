@@ -9224,9 +9224,25 @@
         },
         {
             "frame": "1050",
-            "character": "",
+            "character": "令",
             "keyword": "Befehl",
-            "hint": "",
+            "hint": "ZUSAMMENKUNFT der Kreuzritter, zusammen wird per SIEGELHOLZ der Befehl zur Auslöschung aller Bewohner Jerusalems gegeben. Die ZUSAMMENKUNFT der Kreuzritter hat so das Schicksal der Stadt beSiEgElT",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1051",
+            "character": "冷",
+            "keyword": "eiskalt",
+            "hint": "In einer Super Soaker Schlacht hat irgendwann jemand einen BEFEHL erteilt, EIS in die Tanks zu füllen. Ein wirklich eiskalter Hund, der das befohlen hat!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1052",
+            "character": "零",
+            "keyword": "Null",
+            "hint": "Wegen des REGENS sind alle BEFEHLE auf der Liste mit den BEFEHLEN für die Front verwaschen, solange bis noch 0 BEFEHLER übrig waren, und genau 0 BEFEHLE wurden am Ende wegen des REGENS ausgeführt",
             "primitive": "",
             "pinyin": ""
         }
