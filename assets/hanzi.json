@@ -9120,8 +9120,8 @@
             "frame": "1040",
             "character": "係",
             "keyword": "gehen um",
-            "hint": "CARLI ZWIRN",
-            "primitive": "Wenn CARLI eine Kette mit dem ZERZAUSTEN ZWIRN machen will, geht es darum herauszufinden was überhaupt auf den schlechten ZWIRN eingefädelt werden kann",
+            "hint": "Wenn CARLI eine Kette mit dem ZERZAUSTEN ZWIRN machen will, geht es darum herauszufinden was überhaupt auf den schlechten ZWIRN eingefädelt werden kann. Es geht CARLI irgendwann nur noch um den ZWIRN!",
+            "primitive": "",
             "pinyin": ""
         },
         {
@@ -9243,6 +9243,70 @@
             "character": "零",
             "keyword": "Null",
             "hint": "Wegen des REGENS sind alle BEFEHLE auf der Liste mit den BEFEHLEN für die Front verwaschen, solange bis noch 0 BEFEHLER übrig waren, und genau 0 BEFEHLE wurden am Ende wegen des REGENS ausgeführt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1053",
+            "character": "領",
+            "keyword": "Kragen",
+            "hint": "Einem Soldat sieht man am Kragen, nämlich an den ganzen Orden dort, wie viel BEFEHLE er mit kühlem KOPF ausgeführt hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1053-1",
+            "character": "",
+            "keyword": "Siegelwachs",
+            "hint": "Wenn man sein SIEGELHOLZ GEBRAUCHT, hinterlässt man einen Abdruck in Siegelwachs",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1054",
+            "character": "通",
+            "keyword": "verbinden",
+            "hint": "Die erste Verbindungsstraße zwischen Ober- und Untereisenheim wurde genau in der Mitte mit Siegelwachs geschlossen. Die Obereisenheimer bauten bis zu dem Punkt, die Untereisenheimer von der anderen Seite, und die letzte Ritze wurde mit Siegelwachs gefüllt, und ein Stempel eingedrückt. Die beiden LANDSTRAßEN sind so mit SIEGELWACHS verbunden.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1055",
+            "character": "勇",
+            "keyword": "tapfer",
+            "hint": "Für ganz besonders tapfere Soldaten wurde der Orden direkt als heißes SIEGELWACHS auf die MUSKELN gedrückt. SIEGELWACHS auf MUSKELN ist seitdem das ultimative Zeichen für Tapferkeit",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1055-1",
+            "character": "",
+            "keyword": "Fingerabdruck",
+            "hint": "Sieht ungefähr so aus wie die Umrisse eines Fingerabdrucks, auswendig lernen. Auch an die Tinte denken, die verwendet wird, wie beim Stempel, der recht ähnlich aussieht",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1056",
+            "character": "犯",
+            "keyword": "Straftäter",
+            "hint": "Der Straftäter war Poochie der clevere Hund, und man hat an seinem FINGERABDRÜCKEN herausgefunden dass er aus einem RUDEL WiLDER HUNDE stammt, das schon vorher sein Unweisen getrieben hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1057",
+            "character": "危",
+            "keyword": "Gefahr",
+            "hint": "Die Gefahr geht hier von einem unfähigen Dorfpolizisten aus, der eine eben gesicherte Geisel, die GEFESSELT AUF EINER KLIPPE liegt, per Rücwärtsrolle dazu auffordert, noch GEFESSELT auf der KLIPPE FINGERABDRÜCKE abzunehmen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1058",
+            "character": "脆",
+            "keyword": "zerbrechlich",
+            "hint": "Ein GEFAHR Zeichen an einem zerbrechlichen Gerüst. Es ist GEFÄHRLICH auf das Gerüst zu gehen. Das Schild ist aus FLEISCH gemacht",
             "primitive": "",
             "pinyin": ""
         }
