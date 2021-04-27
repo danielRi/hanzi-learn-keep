@@ -9309,6 +9309,96 @@
             "hint": "Ein GEFAHR Zeichen an einem zerbrechlichen Gerüst. Es ist GEFÄHRLICH auf das Gerüst zu gehen. Das Schild ist aus FLEISCH gemacht",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "1058-1",
+            "character": "",
+            "keyword": "Heftklammern",
+            "hint": "Wenn es alleine steht: Mit 3 Strichen schreiben, Bedeutung: Heftklammern. Wenn sich die 2 Heftklammern gegenüber stehen ist die Bedeutung Reißverschluss, mit dem man lieber seine Hose schließt als sie zuzuklammern",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1059",
+            "character": "印",
+            "keyword": "drucken",
+            "hint": "Beim Drucken hat Johannses Gutenberg kleine STEMPEL, auf denen jeder STEMPEL einen Buchstaben darstellt, wie HEFTKLAMMERN aneinander gereiht an einer Maschine befestigt, und so ein Blatt Papier zu bedrucken",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1060",
+            "character": "興",
+            "keyword": "Begeisterung",
+            "hint": "Per REISSVERSCHLUSS erweiterbare IDENTISCHE WERKBÄNKE, lösen bei Hobby Handwerkern Stürme der Begeisterung aus, weil es endlich möglich ist seine individuelle Werkstatt einzurichten, egal wie viel Platz man hat",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "37": [
+        {
+            "frame": "1060-1",
+            "character": "",
+            "keyword": "Whiskyflasche",
+            "hint": "Sieht aus wie so eine edle Whisykflasche, so eine Whisky Karaffe mit großen Verschluss oben, sie ist zu einem drittel gefüllt",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1061",
+            "character": "酒",
+            "keyword": "Alkohol",
+            "hint": "Das WASSER in der WHISKYFLASCHE ist kein WASSER: Es ist Vodka, oder Klarer, oder Williams Christ, auf jeden Fall Alkohol. WASSER in der WHISKEYFLASCHE ist immer Alkohol!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1062",
+            "character": "配",
+            "keyword": "zuteilen",
+            "hint": "Bei der Verteilung von Beute wird dem Pirat Albert eine WHISKYFLASCHE und eine SCHLANGE zugeteilt. Er ist sehr zufrieden",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1063",
+            "character": "酋",
+            "keyword": "Häuptling",
+            "hint": "Im Edeka in Volkach gibts den Indiander Whisky. Auf der WHSIKYFLASCHE sind oben BÜFFELHÖRNER drauf. Und auf dem Etikett ist ein dicker Häuptling. Der Whisky wird einfach nur Häuptling genannt. Sie wären auch das perfekte Geschenk, um einen Häuptling anzufreunden",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1064",
+            "character": "尊",
+            "keyword": "hochachten",
+            "hint": "Der weiße Mann hat die Indianer HÄUPTLINGE immer hochgeachtet in dem er sie alle hoch an die Wand geKLEBT hat",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1065",
+            "character": "遵",
+            "keyword": "einhalten",
+            "hint": "Wer die AUTOBAHN HOCHACHTET, hält die Geschwindigkeitsregeln ein, hält das Rechtsfahrgebot ein, hält die Abstandsregeln ein. AUTOBAHN HOCHACHTEN heisst Regeln einhalten",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1066",
+            "character": "豆",
+            "keyword": "Bohne",
+            "hint": "Bild von einem Esstisch mit dem Topf voller Bohnen",
+            "primitive": "Runder chinesische Dreh-Esstisch",
+            "pinyin": ""
+        },
+        {
+            "frame": "1067",
+            "character": "頭",
+            "keyword": "Kopf",
+            "hint": "Ein CHINESISCHER ESS-DREHTISCH auf dem in der Mitte ein abgeschnittener KOPF liegt. Beim Drehen des Tisches schauter immer jeman anderes Am Tisch an. Den Kopf kann man bei diesem Anblick nie vergessen!",
+            "primitive": "R",
+            "pinyin": ""
         }
     ]
 }
