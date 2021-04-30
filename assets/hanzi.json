@@ -9397,7 +9397,87 @@
             "character": "頭",
             "keyword": "Kopf",
             "hint": "Ein CHINESISCHER ESS-DREHTISCH auf dem in der Mitte ein abgeschnittener KOPF liegt. Beim Drehen des Tisches schauter immer jeman anderes Am Tisch an. Den Kopf kann man bei diesem Anblick nie vergessen!",
-            "primitive": "R",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1068",
+            "character": "短",
+            "keyword": "kurz",
+            "hint": "Ein Glücksrad Spiel mit einem CHINESISCHEN DREHTISCH, in dem ein DART PFEIL steckt. Leider ist das Spiel getürkt, sodass man immer nur kurz meint man hat die Millionen gewonnne, kurz danach dreht sich der Tisch noch etwas weiter, auf die Niete",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1069",
+            "character": "禮",
+            "keyword": "Zeremonie",
+            "hint": "Bei einer Zeremonie kommt es auf das zeremonielle an. Deshalb kann jeder CHINESISCHE ESSTISCH mit KRUMMEN Beinen zum ALTAR werden.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1070",
+            "character": "體",
+            "keyword": "Körper",
+            "hint": "Ein SKELETT wird auf einen CHINESISCHEN ESSTISCH gelegt, und mit Leckerein wird an das SKELETT langsam ein Körper rangeglebt. Wenn die Beine des ESSTISCH langsam vor Gewicht KRUMM werden, ist der Körper fertig.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1070-1",
+            "character": "",
+            "keyword": "Trommel",
+            "hint": "Ein SOLDAT trommelt auf einem ESSTISCH rum, um endlich seine Ration zu erhalten.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1071",
+            "character": "鼓",
+            "keyword": "Trommel",
+            "hint": "Eine TROMMEL regelt die Vorfaht an einer ABZWEIGUNG",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1072",
+            "character": "喜",
+            "keyword": "freudig",
+            "hint": "Ein trotteliger Mitschüler TROMMELT immer auf seinem MUND rum wenn er in freudiger Erwartung sich auf irgendwas freut. Er hat sogar mal ein Fell über seinen MUND spannen lassen, um besser auf dem MUND TROMMELN zu können, wenn er sich freut",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1073",
+            "character": "廚",
+            "keyword": "Küche",
+            "hint": "Die Neanderthaler hatten für die ersten Küchen große Bass TROMMELN an die Wände ihrer HÖHLEN GEKLEBT. Unter der TROMMEL konnte man dann Feuer machen und die TROMMEL so z.B. als Ofen nutzen. Abwaschen konnte man in der TROMMEL auch. So wurde die HÖHLE zur perfekten Küche.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1074",
+            "character": "樹",
+            "keyword": "Baum",
+            "hint": "Ein BAUM, an dem eine TROMMEL GEKLEBT ist. Wenn man auf die TROMMEL schlägt, durchschüttelt es den ganzen Baum, so weiß man dass der Baum auch ein Baum ist.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1074-1",
+            "character": "皿",
+            "keyword": "Schüssel",
+            "hint": "Ein Bild einer bemalten, gravierten Schüssel von der Seite",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1075",
+            "character": "血",
+            "keyword": "Blut",
+            "hint": "Ein Satansanbeter schneidet sich und nimmt einen TROPFEN kostbaren Blutes in die SCHÜSSEL. Jeder Jünger nimmt so einen TROPFEN von sich in die SCHÜSSEL, am Ende wird getrunken.",
+            "primitive": "",
             "pinyin": ""
         }
     ]
