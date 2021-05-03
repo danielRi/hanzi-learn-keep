@@ -9479,6 +9479,54 @@
             "hint": "Ein Satansanbeter schneidet sich und nimmt einen TROPFEN kostbaren Blutes in die SCHÜSSEL. Jeder Jünger nimmt so einen TROPFEN von sich in die SCHÜSSEL, am Ende wird getrunken.",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "1076",
+            "character": "盡",
+            "keyword": "erschöpft",
+            "hint": "Ein Maler hat ein einer SCHÜSSEL solang Farbe angerührt, dass er so erschöpft war und nicht gemerkt hat, dass er seinen PINSEL auf das HERDFEUER gelegt hat.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1077",
+            "character": "儘",
+            "keyword": "bis zum Möglichsten",
+            "hint": "CARLI ist total ERSCHÖPFT, weil sie bis zum Möglichsten heute in den Bergen und im Wald mit gewandert ist.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1078",
+            "character": "蓋",
+            "keyword": "Deckel",
+            "hint": "Ich GEHE mit BLUMEN und einer leeren SCHÜSSEL durch die Gegend, und frage Leute ob sie den Deckel zu meiner SCHÜSSEL haben. Sozusagen als Anmach-Spruch.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1079",
+            "character": "溫",
+            "keyword": "Temperatur",
+            "hint": "Eine Möglichkeit die Temperator von WASSER zu messen, ist es in einer SCHÜSSEL auf einen HÄFTLING zu schütten. Wenn die SCHÜSSEL unten auf dem Liegt, und das WASSER überall in des HÄFTLINGS Zelle verteilt ist, weiß man die Temperatur, je nachdem wie der Häftling auf das Wasser reagiert hat.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1080",
+            "character": "監",
+            "keyword": "überwachen",
+            "hint": "Der LAKAI der kommunistischen Partei sitzt ZURÜCK GELEHNT in seinem Büro und überwacht wie das Blut eines Uiguren TROPFEN für TROPFEN langsam in eine SCHÜSSEL tropft.",
+            "primitive": "versteckte Kamera",
+            "pinyin": ""
+        },
+        {
+            "frame": "1081",
+            "character": "籃",
+            "keyword": "Korb",
+            "hint": "",
+            "primitive": "In einem asiatischen Supermarkt stehen in einer Ecke immer BAMBUS Körbe. Wenn man eine VERSTECKTE KAMERA unter BAMBUS installieren will, eignet sich am besten ein Korb.",
+            "pinyin": ""
         }
     ]
 }
