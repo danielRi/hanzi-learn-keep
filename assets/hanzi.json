@@ -9524,8 +9524,24 @@
             "frame": "1081",
             "character": "籃",
             "keyword": "Korb",
-            "hint": "",
-            "primitive": "In einem asiatischen Supermarkt stehen in einer Ecke immer BAMBUS Körbe. Wenn man eine VERSTECKTE KAMERA unter BAMBUS installieren will, eignet sich am besten ein Korb.",
+            "hint": "In einem asiatischen Supermarkt stehen in einer Ecke immer BAMBUS Körbe. Wenn man eine VERSTECKTE KAMERA unter BAMBUS installieren will, eignet sich am besten ein Korb.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1082",
+            "character": "",
+            "keyword": "blau",
+            "hint": "Zum blau machen braucht man vor allem blaue BLUMEN, und eine VERSTECKTE KAMERA, um die Färber zu überwachen, dass das blau machen nicht völlig ausartet.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1082-1",
+            "character": "",
+            "keyword": "silbern",
+            "hint": "einfach lernen",
+            "primitive": "Silber",
             "pinyin": ""
         }
     ]
