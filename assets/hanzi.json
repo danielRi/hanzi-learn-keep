@@ -9530,7 +9530,7 @@
         },
         {
             "frame": "1082",
-            "character": "",
+            "character": "藍",
             "keyword": "blau",
             "hint": "Zum blau machen braucht man vor allem blaue BLUMEN, und eine VERSTECKTE KAMERA, um die Färber zu überwachen, dass das blau machen nicht völlig ausartet.",
             "primitive": "",
@@ -9542,6 +9542,78 @@
             "keyword": "silbern",
             "hint": "einfach lernen",
             "primitive": "Silber",
+            "pinyin": ""
+        },
+        {
+            "frame": "1083",
+            "character": "銀",
+            "keyword": "Silber",
+            "hint": "SILBERNES METALL ist meistens echtes Silber",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1084",
+            "character": "跟",
+            "keyword": "Ferse",
+            "hint": "Captain Silver zieht zum verfolgen gern sein SILBERNES HOLZBEIN an, um Leuten ganz dicht auf den Fersen zu bleiben",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1085",
+            "character": "很",
+            "keyword": "sehr",
+            "hint": "Eine ganz lange MENSCHENSCHLANGE wartet darauf sich ihre SILBERne Medaille abzuholen, weil sie das beim Test das Wort sehr nicht wusste, weil es so schwer zu merken ist.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1086",
+            "character": "根",
+            "keyword": "Wurzel",
+            "hint": "Von einem Tief verwurzelten BAUM kommen aussenrum die Wurzeln aus der Erde, dei SILBERN sind. Der SILBERNE vom BAUM ist also die Wurzel",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1087",
+            "character": "即",
+            "keyword": "unmittelbar",
+            "hint": "Die Silbermedaillengewinner bekommen immer unmittelbar nach dem Wettkampf einen SILBERNEN STEMPEL, damit sie unmittelbar wissen was sie gewonnen haben. Später wird der SILBER STEMPEL dann ausgetauscht.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1088",
+            "character": "節",
+            "keyword": "Feiertag",
+            "hint": "An einem Feiertag zünd ich mir nach dem Aufstehen immer UNMITTELBAR eine BAMBUS Bong an.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1089",
+            "character": "退",
+            "keyword": "zurücktreten",
+            "hint": "Nur wenn die Straßen aus Gold gepflaster sind, ist das Volk zufrieden. Deshalb müssen alle Politiker zurücktreten, die nur eine SILBERNE AUTOBAHN gebaut haben.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1090",
+            "character": "腿",
+            "keyword": "Bein",
+            "hint": "Beim Fussball kann man mit dem Körperteil Fuss zurückweichen, und wenn das der Gegner nicht getan hat, kann man mit dem KÖRPERTEIL Bein ZURÜCKTRETEN",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1091",
+            "character": "限",
+            "keyword": "begrenzen",
+            "hint": "Die SILBERNEN 3 ZINNEN wurden aufgestellt um Sonnenlicht zu reflektieren, um so Global Warming zu begrenzen. Das Gebiet bekommt auch nur noch begrenzt Sonnenlicht ab.",
+            "primitive": "",
             "pinyin": ""
         }
     ]
