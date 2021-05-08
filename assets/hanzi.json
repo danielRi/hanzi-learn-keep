@@ -9615,6 +9615,30 @@
             "hint": "Die SILBERNEN 3 ZINNEN wurden aufgestellt um Sonnenlicht zu reflektieren, um so Global Warming zu begrenzen. Das Gebiet bekommt auch nur noch begrenzt Sonnenlicht ab.",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "1092",
+            "character": "眼",
+            "keyword": "Öse",
+            "hint": "Sie hat SILBERNE AUGEN weil sie eine Metall Öse as Kontaktlinsen genommen hat.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1093",
+            "character": "良",
+            "keyword": "hochwertig",
+            "hint": "Wenn etwas so hochwertig ist, dass ein SILBERNER TROPFEN wie ein Heiligenschein über etwas schwebt.",
+            "primitive": "Heiligenschein",
+            "pinyin": ""
+        },
+        {
+            "frame": "1094",
+            "character": "浪",
+            "keyword": "Wogen",
+            "hint": "Im Sturm sah der Seemann in den Wogen plötzlich einen HEILIGENSCHEIN im WASSER",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
