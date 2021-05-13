@@ -9642,7 +9642,7 @@
         },
         {
             "frame": "1095",
-            "character": "",
+            "character": "娘",
             "keyword": "Mutti",
             "hint": "Mutti Theresa, eine FRAU mit HEILIGENSCHEIN",
             "primitive": "",
@@ -9650,7 +9650,7 @@
         },
         {
             "frame": "1096",
-            "character": "",
+            "character": "食",
             "keyword": "Essen",
             "hint": "In Taiwan lieben sie Essen so sehr, dass jedes Essen einen HEILIGENSCHEIN zu haben scheint. Symbolisch dafür wird in jedes Essen dafür ein kleines Cocktail SCHIRMCHEN gesteckt",
             "primitive": "Austernomelette",
@@ -9658,7 +9658,7 @@
         },
         {
             "frame": "1097",
-            "character": "",
+            "character": "飯",
             "keyword": "Mahlzeit",
             "hint": "Für einen ANTI PUNK ist ein AUSTERNOMELETTE genau die richtige Mahlzeit am Bahnhof. Mahlzeit!",
             "primitive": "",
@@ -9666,7 +9666,7 @@
         },
         {
             "frame": "1098",
-            "character": "",
+            "character": "餐",
             "keyword": "speisen",
             "hint": "Der ZAUBERSTAB ist schon ganz heiss AUF DEM ABEND. Als es heisst wir gehen endlich los fliegt er in die RECHTE HAND des Zauberers, der eine schöne Frau zum Essen ausführt. Das ESSEN wird dabei am ABEND mit ZAUBERSTAB in der RECHTEN HAND vom Zauberer selbst gezaubert.",
             "primitive": "",
@@ -9674,7 +9674,7 @@
         },
         {
             "frame": "1099",
-            "character": "",
+            "character": "館",
             "keyword": "Gbde.",
             "hint": "HERR WEISENEE arbeitet in Gbde. 1, sein Pausenbrot ESSEN ist ebenfalls in einem Kühlschrank in Gbde. 1. Seine ganze Abteilung ist in Gbde. 1",
             "primitive": "",
@@ -9682,7 +9682,7 @@
         },
         {
             "frame": "1100",
-            "character": "",
+            "character": "養",
             "keyword": "großziehen",
             "hint": "Ein kleines Lamm zum SCHAF großzuziehen bedeutet, auch weiter zu machen wenn das ESSEN noch halb im SCHAF steckt und man es rausziehen muss, damit es endlich runterfällt. Das heisst es was wirklich großzuziehen",
             "primitive": "",
@@ -9698,9 +9698,51 @@
         },
         {
             "frame": "1101",
-            "character": "",
-            "keyword": "1101",
+            "character": "既",
+            "keyword": "da",
             "hint": "KELLNERIN fällt beim Servieren der SILBERLÖFFEL in die Suppe. Da Ihnen der SILBERLÖFFEL in die Suppe gefallen ist, hätte ich gerne",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1102",
+            "character": "概",
+            "keyword": "ungefähr",
+            "hint": "In einem Biergarten weiß die KELLNERIN ungefähr wo die WURZELN des großen alten Baums in der Mitte des Biergartens aufhören und anfangen. Auch an diesen Biergarten auf der Burg in d",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "38": [
+        {
+            "frame": "1103",
+            "character": "平",
+            "keyword": "platt",
+            "hint": "Strich 1 - 3 ist die Seerose, Strich 4 die Oberfläche eines Tümpels. Und der letzte Strich ist der Stil unter der Wasseroberfläche",
+            "primitive": "Seerose",
+            "pinyin": ""
+        },
+        {
+            "frame": "1104",
+            "character": "評",
+            "keyword": "bewerten",
+            "hint": "Ein System zum Bewerten von Online Shops ist das Seerosen System. Damit kann man mit einem WORT den Shop bewerten: Rose heisst gut, Blatt mittelmäßig, Stil heisst schlecht.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1105",
+            "character": "",
+            "keyword": "Flachland",
+            "hint": "Ein Flecken ERDE, die ganz PLATT ist, ausserdem wo nur PLATT gesprochen wird, das ist das Flachland.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1106",
+            "character": "",
+            "keyword": "Oh!",
+            "hint": "Eine SEEROSE mit modischen schräg aufgesetzten Hut und sagt Oh la la",
             "primitive": "",
             "pinyin": ""
         }
