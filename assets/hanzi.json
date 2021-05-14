@@ -3350,7 +3350,7 @@
             "frame": "384",
             "character": "帽",
             "keyword": "Hut",
-            "hint": "Nichts RISKIEREN! Denken Sie sich und binden sich ein HUT um, um keinen Sonnenbrand zu bekommen",
+            "hint": "Nichts RISKIEREN! Denken Sie sich und binden sich ein TUCH zum Hut um, um keinen Sonnenbrand zu bekommen",
             "primitive": "",
             "pinyin": ""
         },
@@ -9743,6 +9743,54 @@
             "character": "",
             "keyword": "Oh!",
             "hint": "Eine SEEROSE mit modischen schräg aufgesetzten Hut und sagt Oh la la",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1107",
+            "character": "",
+            "keyword": "schreien",
+            "hint": "Ein MUND der einfach nur OHHHH schreit... OHHHHH, wer wohnt in ner Ananas ganz tief im Meer? In dem Lied wird auch eher geschrien als gesungen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1107-1",
+            "character": "",
+            "keyword": "Garbe",
+            "hint": "",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1108",
+            "character": "",
+            "keyword": "hoffen",
+            "hint": "Weizen GARBEN wurden immer von Ratten gefressen, deswegen haben wir sie auf ein Stück MondSTOFF gestellt. Als sie sahen dass die GARBEN auf dem STOFF nicht gegessen wurden, begannen sie zu hoffen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1109",
+            "character": "",
+            "keyword": "spärlich",
+            "hint": "Im Landschulheim ist das Essen so spärlich dass man maximal auf ein Korn WILDREIS HOFFEN kann",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1109-1",
+            "character": "",
+            "keyword": "Tutti-Frutti Hut",
+            "hint": "Den Hut kann man mit einem REISVERSCHLUSS aussen komplett schließen und so in eine Tragetasche verwandeln. Er besteht aus einer KRONE mit 2 Zuckerrohr GARBEN darin gesteckt.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1110",
+            "character": "",
+            "keyword": "studieren",
+            "hint": "Nach dem Abschluss vom Gymnasium fallen die KINDER noch mit dem TUTTI FRUTTI HUT von der Abschlussfeier, die etwas ausgeartet ist, direkt in die Uni und fangen an zu studieren.",
             "primitive": "",
             "pinyin": ""
         }
