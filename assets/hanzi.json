@@ -8959,8 +8959,8 @@
         {
             "frame": "1022-1",
             "character": "",
-            "keyword": "Nadelspitze",
-            "hint": "Mit WORTEN einen FADEN in 2 FÄDEN in der Mitte zu teilen ist fast schon Haarspalterei. Manchmal sind WORTE wie Nadelspitzen, die die FÄDEN entzwei teilen",
+            "keyword": "Pinnnadel mit gegegossenem Kunststoffgriff",
+            "hint": "Mit WORTEN einen FADEN in 2 FÄDEN in der Mitte zu teilen ist fast schon Haarspalterei. Manchmal sind WORTE wie Pinnnadeln, die die FÄDEN entzwei teilen",
             "primitive": "",
             "pinyin": ""
         },
@@ -8968,7 +8968,7 @@
             "frame": "1023",
             "character": "彎",
             "keyword": "gebogen",
-            "hint": "Damit der BOGEN auch schön gebogen ist, wird der immer wieder mit einer NADELSPITZE gepiekst, bis er sich vor Schmerz ganz gebogen gebogen hat.",
+            "hint": "Damit der BOGEN auch schön gebogen ist, wird der immer wieder mit einer PINNNADEL gepiekst, bis er sich vor Schmerz ganz gebogen gebogen hat.",
             "primitive": "",
             "pinyin": ""
         },
@@ -8984,7 +8984,7 @@
             "frame": "1025",
             "character": "戀",
             "keyword": "verliebt sein",
-            "hint": "Wenn man verliebt ist, ist es wie eine NADELSPITZE direkt ins HERZ, sollte was nicht klappen",
+            "hint": "Wenn man verliebt ist, drückt man der Person, in die man verliebt ist, eine PINNNADEL durchs HERZ, und sagt, ich bin verliebt in dich",
             "primitive": "",
             "pinyin": ""
         },
@@ -8992,7 +8992,7 @@
             "frame": "1026",
             "character": "變",
             "keyword": "sich wandeln",
-            "hint": "Ein ZUCHTMEISTER mit NADELSPITZEN OBEN, Pinhead von Hellraiser. Er sieht zu wie sich die Untoten wandeln, nämlich von einem Haufen Knochen zu einem vollen Menschen",
+            "hint": "Ein ZUCHTMEISTER mit PINNNADEL OBEN, Pinhead von Hellraiser. Er hat sich jedoch gewandelt, und Kunststoffgriffe auf seine Nadel getan, sodass sein Knopf jetzt umgedreht PINNNADELN haben",
             "primitive": "",
             "pinyin": ""
         },
@@ -9791,6 +9791,54 @@
             "character": "",
             "keyword": "studieren",
             "hint": "Nach dem Abschluss vom Gymnasium fallen die KINDER noch mit dem TUTTI FRUTTI HUT von der Abschlussfeier, die etwas ausgeartet ist, direkt in die Uni und fangen an zu studieren.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1111",
+            "character": "",
+            "keyword": "Sinne",
+            "hint": "Beim Carneval in Rio De Jenairo werden alle Sinne benebelt, keine Wunder, ist es so dass überall wo man HINSIEHT nur TUTTI FRUTTI HÜTE SIEHT",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1112",
+            "character": "",
+            "keyword": "rühren",
+            "hint": "Mit dem FINGER an der Töpfer Maschine rühren, dabei den Partner mit allen SINNEN spüren, wie in der Szene von Nachricht von Sam",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1112-1",
+            "character": "",
+            "keyword": "Grube",
+            "hint": "Eine Abwassergrube im Keller, wie ein Pumpensumpf",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1113",
+            "character": "",
+            "keyword": "verhängnisvoll",
+            "hint": "Als die Vorräte im Herbst langsam zu Ende ging, erkannten sie dass es verhängnissvoll war, die GARBEN im PUMPENSUMPF zu lagern, alles voll mit Scheiße jetzt.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1114",
+            "character": "",
+            "keyword": "schrecklich",
+            "hint": "... und richtig schrecklich wird es, wenn unter dem PUMPENSUMPF mit den GARBEN darin, auch noch plötzlich BEINE bekommt, sich aus der Baufassung erhebt, und einfach wegrennt.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1115",
+            "character": "",
+            "keyword": "Brust",
+            "hint": "Das KÖRPERTEIL, das wenn es zu fest GEFESSELT ist, ganz schnell VERHÄNGNISVOLL wird. Man denke an Brustabbinden(?) bei Transgendern. ",
             "primitive": "",
             "pinyin": ""
         }
