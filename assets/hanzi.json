@@ -9732,7 +9732,7 @@
         },
         {
             "frame": "1105",
-            "character": "",
+            "character": "坪",
             "keyword": "Flachland",
             "hint": "Ein Flecken ERDE, die ganz PLATT ist, ausserdem wo nur PLATT gesprochen wird, das ist das Flachland.",
             "primitive": "",
@@ -9740,7 +9740,7 @@
         },
         {
             "frame": "1106",
-            "character": "",
+            "character": "乎",
             "keyword": "Oh!",
             "hint": "Eine SEEROSE mit modischen schräg aufgesetzten Hut und sagt Oh la la",
             "primitive": "",
@@ -9748,7 +9748,7 @@
         },
         {
             "frame": "1107",
-            "character": "",
+            "character": "呼",
             "keyword": "schreien",
             "hint": "Ein MUND der einfach nur OHHHH schreit... OHHHHH, wer wohnt in ner Ananas ganz tief im Meer? In dem Lied wird auch eher geschrien als gesungen",
             "primitive": "",
@@ -9764,7 +9764,7 @@
         },
         {
             "frame": "1108",
-            "character": "",
+            "character": "希",
             "keyword": "hoffen",
             "hint": "Weizen GARBEN wurden immer von Ratten gefressen, deswegen haben wir sie auf ein Stück MondSTOFF gestellt. Als sie sahen dass die GARBEN auf dem STOFF nicht gegessen wurden, begannen sie zu hoffen",
             "primitive": "",
@@ -9772,7 +9772,7 @@
         },
         {
             "frame": "1109",
-            "character": "",
+            "character": "稀",
             "keyword": "spärlich",
             "hint": "Im Landschulheim ist das Essen so spärlich dass man maximal auf ein Korn WILDREIS HOFFEN kann",
             "primitive": "",
@@ -9788,7 +9788,7 @@
         },
         {
             "frame": "1110",
-            "character": "",
+            "character": "學",
             "keyword": "studieren",
             "hint": "Nach dem Abschluss vom Gymnasium fallen die KINDER noch mit dem TUTTI FRUTTI HUT von der Abschlussfeier, die etwas ausgeartet ist, direkt in die Uni und fangen an zu studieren.",
             "primitive": "",
@@ -9796,7 +9796,7 @@
         },
         {
             "frame": "1111",
-            "character": "",
+            "character": "覺",
             "keyword": "Sinne",
             "hint": "Beim Carneval in Rio De Jenairo werden alle Sinne benebelt, keine Wunder, ist es so dass überall wo man HINSIEHT nur TUTTI FRUTTI HÜTE SIEHT",
             "primitive": "",
@@ -9804,7 +9804,7 @@
         },
         {
             "frame": "1112",
-            "character": "",
+            "character": "攪",
             "keyword": "rühren",
             "hint": "Mit dem FINGER an der Töpfer Maschine rühren, dabei den Partner mit allen SINNEN spüren, wie in der Szene von Nachricht von Sam",
             "primitive": "",
@@ -9820,7 +9820,7 @@
         },
         {
             "frame": "1113",
-            "character": "",
+            "character": "凶",
             "keyword": "verhängnisvoll",
             "hint": "Als die Vorräte im Herbst langsam zu Ende ging, erkannten sie dass es verhängnissvoll war, die GARBEN im PUMPENSUMPF zu lagern, alles voll mit Scheiße jetzt.",
             "primitive": "",
@@ -9828,7 +9828,7 @@
         },
         {
             "frame": "1114",
-            "character": "",
+            "character": "兇",
             "keyword": "schrecklich",
             "hint": "... und richtig schrecklich wird es, wenn unter dem PUMPENSUMPF mit den GARBEN darin, auch noch plötzlich BEINE bekommt, sich aus der Baufassung erhebt, und einfach wegrennt.",
             "primitive": "",
@@ -9836,9 +9836,33 @@
         },
         {
             "frame": "1115",
-            "character": "",
+            "character": "胸",
             "keyword": "Brust",
             "hint": "Das KÖRPERTEIL, das wenn es zu fest GEFESSELT ist, ganz schnell VERHÄNGNISVOLL wird. Man denke an Brustabbinden(?) bei Transgendern. ",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1115-1",
+            "character": "离",
+            "keyword": "Vampir",
+            "hint": "Ein vornehmer Vampir mit ZYLINDERHUT, wobei eine Begegnung mit ihm VERHÄNGNISVOLL endet. Allerdings hat der Vampir so Steampunk mäßig auch öfter mal einen GURT um den ELLEBOGEN, weil er sich das Blut spritzt.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1116",
+            "character": "離",
+            "keyword": "verlassen",
+            "hint": "Das Schloss ist komplett verlassen, nur ein VAMPIR sitzt am Tisch mit einem TRUTHAHN auf dem Tisch. Alle anderen Gäste haben die Party bereits verlassen.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1117",
+            "character": "禽",
+            "keyword": "Geflügel",
+            "hint": "Graf Duckula! Ein Enten VAMPIR mit einem chinesischen SCHIRM. Das kann nur Geflügel sein",
             "primitive": "",
             "pinyin": ""
         }
