@@ -9865,6 +9865,62 @@
             "hint": "Graf Duckula! Ein Enten VAMPIR mit einem chinesischen SCHIRM. Das kann nur Geflügel sein",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "1118",
+            "character": "辛",
+            "keyword": "würzig",
+            "hint": "Essen, das so scharf gewürzt ist, dass sich die Haare wie NADELN AUFSTELLEN. Die STEHENDEN NADELN weisen so auf würziges Essen hin.",
+            "primitive": "Chillischote, mit extra 2 Strichen: Paprikastaude, an der Chillisaucenfläschchen wachsen",
+            "pinyin": ""
+        },
+        {
+            "frame": "1119",
+            "character": "辦",
+            "keyword": "erledigen",
+            "hint": "Jemand reibt sich immer dann 2 CHILLIS auf die MUSKELN, wenn er in die Stadt muss um was zu erledigen. Die Muskeln werden dann groß und rötlich, dadurch sieht man richtig gefährlich aus, wenn man aufs Amt oder sowas muss",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1120",
+            "character": "辯",
+            "keyword": "sich auseinandersetzen",
+            "hint": "Man SAGT mit CHILLIS muss man sich 2 mal auseinandersetzen. Die 1. CHILLI die reingeht, und die 2. CHILLI die wieder rauskommt. ",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1120-1",
+            "character": "辟",
+            "keyword": "scharfe Sauce",
+            "hint": "Der MUND unter der McDonalds FLAGGE. Zusammen mit der CHILLI ergibt sich so die scharfe Sauce die auf den Burger kommt.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1121",
+            "character": "壁",
+            "keyword": "Trennwand",
+            "hint": "Zu viel SCHARFE SAUCE muss man leider direkt auf die ERDE kacken. Dafür gibt es zumindest dann eine Trennwand. Hinter der Trennwand sieht man dann noch den Dellinquenten, wie er mit der SCHARFEN SAUCE auf die ERDE kackt.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1122",
+            "character": "避",
+            "keyword": "ausweichen",
+            "hint": "Ein neuer Rennsport bei dem man die LANDSTRAßE runterfaren muss und riesigen Objekten ausweichen muss. Der Sponsor ist Rickey´s Hot Sauce. Also weichen die Teilnehmer auf der LANDSTRAßE rieseigen SCHARFE SAUCEN Fläschchen aus. Dazu ist auch noch SCHARFE SAUCE auf der LANDSTRAßE, was das Ausweichen zusätzlich noch erschwert.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1123",
+            "character": "新",
+            "keyword": "neu",
+            "hint": "Marie Antoinette hat mit dem KRIEGSBEIL alle PAPRIKASTAUDEN ihres Vorgängers niedergehauen, um endlich Platz für den neuen englischen Garten zu machen",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
