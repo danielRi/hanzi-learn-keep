@@ -9924,7 +9924,7 @@
         },
         {
             "frame": "1124",
-            "character": "",
+            "character": "薪",
             "keyword": "Brennstoff",
             "hint": "NEUE BLUMEN, sowas wie Super Raps! Diese können primär als Brennstoff verwendet werden!",
             "primitive": "",
@@ -9932,9 +9932,33 @@
         },
         {
             "frame": "1125",
-            "character": "",
+            "character": "親",
             "keyword": "Verwandte",
             "hint": "Wenn Verwandte kommen SIEHT man als erstes am Horizont eine riesige PAPRIKA STAUDE auftauchen, sind wird von einer entfernten Verwanten getragen, einer dicken Cousine, die mit dem Geschenk meint das Recht zu haben, so lange zu bleiben wie sie will und den Schnapsschrank leer zu trinken.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1126",
+            "character": "襯",
+            "keyword": "Innenfutter",
+            "hint": "Ich trage eine entfernte VERWANDTE unter dem GEWAND als Innenfutter.  Da dies eine dicke Cousine ist, funktioniert das auch ganz gut.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1127",
+            "character": "幸",
+            "keyword": "Glück",
+            "hint": "Glück ist die WÜRZE des Lebens. Das KREUZ gilt den Christen als Symbol des Lebens. Deshalb ist die WÜRZE unterm KREUZ die WÜRZE des Lebens und damit Glück",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1128",
+            "character": "執",
+            "keyword": "sich klammern an",
+            "hint": "PILLEN ermöglichen es sich an ein klein wenig GLÜCK zu klammern.",
             "primitive": "",
             "pinyin": ""
         }
