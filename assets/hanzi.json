@@ -9961,6 +9961,62 @@
             "hint": "PILLEN ermöglichen es sich an ein klein wenig GLÜCK zu klammern.",
             "primitive": "",
             "pinyin": ""
+        },
+        {
+            "frame": "1129",
+            "character": "",
+            "keyword": "Zeitung",
+            "hint": "Um im All Inclusive früh eine kostenlose Zeitung zu bekommen braucht man entweder GLÜCK oder den Premium All-Inclusive STEMPEL auf der RECHTEN HAND",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1129-1",
+            "character": "",
+            "keyword": "Füllhorn",
+            "hint": "Ein mit Met gefülltes Füllhorn",
+            "primitive": "Methorn",
+            "pinyin": ""
+        },
+        {
+            "frame": "1130",
+            "character": "",
+            "keyword": "rufen",
+            "hint": "Ein Jäger bläst mit seinem MUND in sein METHORN und ruft so die Jagd aus.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1131",
+            "character": "",
+            "keyword": "entgegennehmen",
+            "hint": "Wenn der große Metal ZUCHTMEISTER mit schwarzem Ledermantel und Iron Maiden T Shirt dir das METHORN reicht, sollte man es auch immer entgegennehmen!",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1131-1",
+            "character": "",
+            "keyword": "Reissetzling",
+            "hint": "Dem Reissetzling muss man UNTER der ERDE BEINE machen, damit er wächst. Er wird nämlich unter die ERDE ins schlammige Wasser gesetzt.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1132",
+            "character": "",
+            "keyword": "Festland",
+            "hint": "Das chinesische Festland...bestehend aus den 3 ZINNEN in Form von Zhangjajie, endlos vielen REISSETZLINGEN, die oberghalb der Terrakotta Krieger aus LEHM gelagert sind.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1132-1",
+            "character": "",
+            "keyword": "Reisstaude",
+            "hint": "Ein REISSETZLING, mit ordentlich steroiden PILLEN in der ERDE, so wächst aus den Setzlingen eine mächtige Reisstaude heran.",
+            "primitive": "",
+            "pinyin": ""
         }
     ]
 }
