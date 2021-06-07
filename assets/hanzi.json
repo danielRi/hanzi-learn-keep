@@ -9964,7 +9964,7 @@
         },
         {
             "frame": "1129",
-            "character": "",
+            "character": "報",
             "keyword": "Zeitung",
             "hint": "Um im All Inclusive früh eine kostenlose Zeitung zu bekommen braucht man entweder GLÜCK oder den Premium All-Inclusive STEMPEL auf der RECHTEN HAND",
             "primitive": "",
@@ -9972,7 +9972,7 @@
         },
         {
             "frame": "1129-1",
-            "character": "",
+            "character": "ㄐ",
             "keyword": "Füllhorn",
             "hint": "Ein mit Met gefülltes Füllhorn",
             "primitive": "Methorn",
@@ -9980,7 +9980,7 @@
         },
         {
             "frame": "1130",
-            "character": "",
+            "character": "叫",
             "keyword": "rufen",
             "hint": "Ein Jäger bläst mit seinem MUND in sein METHORN und ruft so die Jagd aus.",
             "primitive": "",
@@ -9988,7 +9988,7 @@
         },
         {
             "frame": "1131",
-            "character": "",
+            "character": "收",
             "keyword": "entgegennehmen",
             "hint": "Wenn der große Metal ZUCHTMEISTER mit schwarzem Ledermantel und Iron Maiden T Shirt dir das METHORN reicht, sollte man es auch immer entgegennehmen!",
             "primitive": "",
@@ -10004,7 +10004,7 @@
         },
         {
             "frame": "1132",
-            "character": "",
+            "character": "陸",
             "keyword": "Festland",
             "hint": "Das chinesische Festland...bestehend aus den 3 ZINNEN in Form von Zhangjajie, endlos vielen REISSETZLINGEN, die oberghalb der Terrakotta Krieger aus LEHM gelagert sind.",
             "primitive": "",
@@ -10015,6 +10015,94 @@
             "character": "",
             "keyword": "Reisstaude",
             "hint": "Ein REISSETZLING, mit ordentlich steroiden PILLEN in der ERDE, so wächst aus den Setzlingen eine mächtige Reisstaude heran.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1133",
+            "character": "勢",
+            "keyword": "Einfluss",
+            "hint": "Ein Influencer trägt einige REISSTAUDEN und flext seine MUSKELN auf Instagram. Er nahm so großen Einfluss auf die Beliebtheit von Reis.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1134",
+            "character": "熱",
+            "keyword": "Hitze",
+            "hint": "Trockene REISSTAUDEN ins OFENFEUER zu werfen erzeugt eine enorme Hitze im Ofen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1135",
+            "character": "藝",
+            "keyword": "Fertigkeit",
+            "hint": "Ein Gewächshaus auf dessen Dach oben BLUMEN wachsen, im inneren ist ein tropisches Klima in dem Reis angebaut. Die Ernte erfordert hohe Fertigkeit: Es müssen die BLUMEN oben abgenommen werden, un dann die REISSTAUDE geerntet werden, bevor die tropischen SCHWADEN aus dem Haus entweichen können. Das klappt mit hoher Fertigkeit der Gärtner.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1136",
+            "character": "亥",
+            "keyword": "Zeichen des Schweines",
+            "hint": "CICI mit ZYLINDERHUT und schräg sitzenem FÜLLHORN rennt im Wald vor Wildschweinen weg, die nur Eicheln essen wollen",
+            "primitive": "Eichel",
+            "pinyin": ""
+        },
+        {
+            "frame": "1137",
+            "character": "核",
+            "keyword": "Kern",
+            "hint": "Ein BAUM hat im Kern eine kleine EICHEL sitzen die wie Crain bei Ninja Turtles den BAUM steuern kann. Der Kern ist dabei sozusagen die Steuerungseinheit des Baumes.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1138",
+            "character": "孩",
+            "keyword": "Knirps",
+            "hint": "Ein kleingewachsenes KIND mit einem EICHELHUT auf dem Kopf bewirft im Bus die Kinder die vor ihm sitzen mit EICHELN.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1139",
+            "character": "刻",
+            "keyword": "schnitzen",
+            "hint": "Ein Soldat schnitzt sich mit seinem SÄBEL aus EICHELN Kugeln für seine Muskete.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1140",
+            "character": "該",
+            "keyword": "sollen",
+            "hint": "Beim Waddeln sag ich ein WORT und dann weiß mein Kollege dass er EICHEL ansagen soll.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1140-1",
+            "character": "",
+            "keyword": "Harz",
+            "hint": "Ein TROPFEN Harz vom BAUM",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1141",
+            "character": "述",
+            "keyword": "erzählen",
+            "hint": "Ein alter Trunkenbold erzählt immer Geschichten aus dem Krieg. Z.b. dass sie früher BAUMHARZ auf die LANDSTRAßEN geschmiert haben, und die russischen Panzer darin kleben geblieben sind. Man weiß nicht ob an diesen Erzählungen was dran ist.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1142",
+            "character": "術",
+            "keyword": "Kunst",
+            "hint": "Ein Künstler malt mit BAUMHARZ eine monochrome Mona Lisa in die Fußgängerzone, auf die STADTSTRAßE",
             "primitive": "",
             "pinyin": ""
         }
