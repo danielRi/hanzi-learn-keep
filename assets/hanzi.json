@@ -9484,7 +9484,7 @@
             "frame": "1076",
             "character": "盡",
             "keyword": "erschöpft",
-            "hint": "Ein Maler hat ein einer SCHÜSSEL solang Farbe angerührt, dass er so erschöpft war und nicht gemerkt hat, dass er seinen PINSEL auf das HERDFEUER gelegt hat.",
+            "hint": "Ein Maler hat in einer SCHÜSSEL solang Farbe angerührt, dass er so erschöpft war und nicht gemerkt hat, dass er seinen PINSEL auf das HERDFEUER gelegt hat.",
             "primitive": "",
             "pinyin": ""
         },
@@ -10103,6 +10103,128 @@
             "character": "術",
             "keyword": "Kunst",
             "hint": "Ein Künstler malt mit BAUMHARZ eine monochrome Mona Lisa in die Fußgängerzone, auf die STADTSTRAßE",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1143",
+            "character": "殺",
+            "keyword": "töten",
+            "hint": "Scharfschützen schmieren sich BAUMHARZ ins Gesicht und tarnen sich mit WEIZENGARBEN. So töten sie ihre Gegner mit GESCHOSSEN.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1143-1",
+            "character": "",
+            "keyword": "Maschendraht",
+            "hint": "Bild eines Maschendraht-Zauns. Am Zaun wird SALAT angebaut, der zusätzliche Strich ist die Grenze vom Zaun",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1144",
+            "character": "襄",
+            "keyword": "behilflich sein",
+            "hint": "Vornehme Brieftauben, die einem behilflich sind. Sie tragen ZYLINDERHUT und SEIDENSCHAL, und QUASSELN die Botschaften einfach weiter, wie Flüsterpost. Hier sieht man sie in ihrem MASCHENDRAHT Käfigen",
+            "primitive": "Taubenschlag",
+            "pinyin": ""
+        },
+        {
+            "frame": "1145",
+            "character": "讓",
+            "keyword": "überlassen",
+            "hint": "Beim Albert untendran wurde mir ein TAUBENSCHLAG überlassen. Wo ist der mir überlassene TAUBENSCHLAG genau? Da wo die Bulgaren kyrillische WORTE an die Wand geschrieben haben.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1146",
+            "character": "壤",
+            "keyword": "Territorium",
+            "hint": "Ein neues Paradox Game wo man mit Tauben die Welt erobern kann. Provinzen werden auf der Karte mit einem DRECKHÜGEL mit einem TAUBENSCHLAG markiert, wenn sie zum eigenem Territorium gehören.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1146-1",
+            "character": "",
+            "keyword": "Hamsterkäfig",
+            "hint": "Das HAUS eines Hamsters ist ein Hamsterkäfig. Aussen MASCHENDRAHT, durchen dem manchmal kleine TIERBEINCHEN rausgucken.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1147",
+            "character": "寒",
+            "keyword": "kalt",
+            "hint": "Wenn es richtig kalt ist friert der Hamster und im HAMSTERKÄFER hat sich eine EISFläche gebildet, auf der der Hamster durch die Gegend rutsch, unfreiwillig.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1148",
+            "character": "賽",
+            "keyword": "Wettkampf",
+            "hint": "Japanese Bug Fights Teil 2: Runde 1: Hamster gegen RIESENAUSTER. Austragungsort: Die AUSTER wird in den HAMSTERKÄFIG gegeben, Hamster und AUSTER beschnuppern sich... der Kampf beginnt.",
+            "primitive": "",
+            "pinyin": ""
+        }
+    ],
+    "39": [
+        {
+            "frame": "1148-1",
+            "character": "",
+            "keyword": "wachsen",
+            "hint": "einfach merken, man denke an Alice im Wunderland, die schlagartig schnell wächst",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1149",
+            "character": "",
+            "keyword": "Gift",
+            "hint": "Eine STIEFMutter, a la Malefiz, trinkt einen Zaubertrank und WÄCHST schlagartig zu einer riesigen Bestie, die Gift verspuckt.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1150",
+            "character": "",
+            "keyword": "vegetarische Kost",
+            "hint": "Ein FADEN der SCHLAGARTIG WÄCHST, und so vom dünnen FADEN zu Spaghetti wird. Und jeder weiß, dass Nudeln die beste vegetarische Kost ist.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1151",
+            "character": "",
+            "keyword": "blau oder grün",
+            "hint": "Ein Teleskop, dass immer größer WÄCHST, und so aufeckt, dass der MOND tatsächlich aus Käse besteht, und zwar aus blau-grünem Blauschimmelkäse.",
+            "primitive": "Teleskop",
+            "pinyin": ""
+        },
+        {
+            "frame": "1152",
+            "character": "",
+            "keyword": "raffiniert",
+            "hint": "Die Nutten sind raffiniert, die nehmen die Kohle an. Hat mal ein weiser Mann gesagt. Hier sehen wir eine raffinierte Professionelle wie sie REIS auf ein TELESKOP legt, sodass der Nerd, den sie gerade beglückt hat meint er hätte neue Sterne oder sogar Raumschiffe gefunden. Während er durchs TELESKOP schaut kann sie in Ruhe seine Wertsachen einpacken. Sehr raffiniert.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1153",
+            "character": "",
+            "keyword": "einladen",
+            "hint": "Ein Mann hat ein TELESKOP, bei dem man auch die Linsen einklappen kann sodass es dann an Lautsprecher dient. So sucht er mit dem TELESKOP zunächst schöne Nachbarinnen, die er zerst beobachtet, und dann mit den durchs Megafon gesprochenen WORTEN zu sich einlädt.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1154",
+            "character": "",
+            "keyword": "Gefühl",
+            "hint": "",
             "primitive": "",
             "pinyin": ""
         }
