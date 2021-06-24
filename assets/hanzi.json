@@ -10182,7 +10182,7 @@
         },
         {
             "frame": "1149",
-            "character": "",
+            "character": "毒",
             "keyword": "Gift",
             "hint": "Eine STIEFMutter, a la Malefiz, trinkt einen Zaubertrank und WÄCHST schlagartig zu einer riesigen Bestie, die Gift verspuckt.",
             "primitive": "",
@@ -10190,7 +10190,7 @@
         },
         {
             "frame": "1150",
-            "character": "",
+            "character": "素",
             "keyword": "vegetarische Kost",
             "hint": "Ein FADEN der SCHLAGARTIG WÄCHST, und so vom dünnen FADEN zu Spaghetti wird. Und jeder weiß, dass Nudeln die beste vegetarische Kost ist.",
             "primitive": "",
@@ -10198,7 +10198,7 @@
         },
         {
             "frame": "1151",
-            "character": "",
+            "character": "青",
             "keyword": "blau oder grün",
             "hint": "Ein Teleskop, dass immer größer WÄCHST, und so aufeckt, dass der MOND tatsächlich aus Käse besteht, und zwar aus blau-grünem Blauschimmelkäse.",
             "primitive": "Teleskop",
@@ -10206,7 +10206,7 @@
         },
         {
             "frame": "1152",
-            "character": "",
+            "character": "精",
             "keyword": "raffiniert",
             "hint": "Die Nutten sind raffiniert, die nehmen die Kohle an. Hat mal ein weiser Mann gesagt. Hier sehen wir eine raffinierte Professionelle wie sie REIS auf ein TELESKOP legt, sodass der Nerd, den sie gerade beglückt hat meint er hätte neue Sterne oder sogar Raumschiffe gefunden. Während er durchs TELESKOP schaut kann sie in Ruhe seine Wertsachen einpacken. Sehr raffiniert.",
             "primitive": "",
@@ -10214,7 +10214,7 @@
         },
         {
             "frame": "1153",
-            "character": "",
+            "character": "請",
             "keyword": "einladen",
             "hint": "Ein Mann hat ein TELESKOP, bei dem man auch die Linsen einklappen kann sodass es dann an Lautsprecher dient. So sucht er mit dem TELESKOP zunächst schöne Nachbarinnen, die er zerst beobachtet, und dann mit den durchs Megafon gesprochenen WORTEN zu sich einlädt.",
             "primitive": "",
@@ -10222,7 +10222,7 @@
         },
         {
             "frame": "1154",
-            "character": "",
+            "character": "情",
             "keyword": "Gefühl",
             "hint": "Ein TELESKOP mit dem man Gefühle erspähen kann. Wenn man es in den Weltraum richtet und hindurchsieht, RASTET MAN TOTAL AUS, da man die Gefühle von fremden Alien Rassen erspähen kann, was der menschlichte Geist nicht verkraftet.",
             "primitive": "",
@@ -10230,7 +10230,7 @@
         },
         {
             "frame": "1155",
-            "character": "",
+            "character": "睛",
             "keyword": "Augapfel",
             "hint": "Wenn man im Cartoon mit ein AUGE am TELESKOP anlegt und hindurchsieht, so kommt am anderen Ende dann der Augapfel raus, ganz rund und weiß mit roten Adern am Rand.",
             "primitive": "",
@@ -10238,7 +10238,7 @@
         },
         {
             "frame": "1156",
-            "character": "",
+            "character": "清",
             "keyword": "rein",
             "hint": "Am besten mit einem TELESKOP ins WASSER reinschauen, um Bakterien zu suchen, um so zu überprüfen ob das wasser nicht nur sauber sondern rein ist.",
             "primitive": "",
@@ -10246,7 +10246,7 @@
         },
         {
             "frame": "1157",
-            "character": "",
+            "character": "靜",
             "keyword": "ruhig",
             "hint": "Man kann mit einem WELTRAUMTELESKOP beobachten wie sich die ganze Menschheit wegen irgendetwas streitet, und trotzdem scheint alles ganz ruhig, bei dem Anblick der Erde von oben.",
             "primitive": "",
@@ -10254,7 +10254,7 @@
         },
         {
             "frame": "1158",
-            "character": "",
+            "character": "責",
             "keyword": "Verantwortung",
             "hint": "Die Verantwortung des ersten Ferienjobs, als man AUFWUCHS und sich seine MUSCHELN verdient hatte. Ausbildung bei GWF natürlich, als kleiner 16 Jähriger Vollspaggen.",
             "primitive": "Ausbildung in der Gwf",
@@ -10262,7 +10262,7 @@
         },
         {
             "frame": "1159",
-            "character": "",
+            "character": "績",
             "keyword": "Verdienste",
             "hint": "Mein größter Verdienst in DER AUSBILDUNG IN DER GWF: Den Knoil FÄDEN in der Telefonzentrale sortiert.",
             "primitive": "",
@@ -10270,7 +10270,7 @@
         },
         {
             "frame": "1160",
-            "character": "",
+            "character": "積",
             "keyword": "anhäufen",
             "hint": "In der Telefonzentrale in der AUSBILDUNG DER GWF haben mir Oryza Vertreter immer WILDREIS geschenkt, was ich aber nicht mag. Deswegen hat sich über die Zeit der AUSBILDUNG DER GWF einen Haufen WILDREIS angehäuft.",
             "primitive": "",
@@ -10278,10 +10278,26 @@
         },
         {
             "frame": "1161",
-            "character": "",
+            "character": "表",
             "keyword": "Oberfläche",
-            "hint": "",
+            "hint": "Dem Pluto ist furchtbar kalt, deswegen wollte man ihm einen SCHAL geben, der ihm wärmt. Der SCHAL musst dabei solange WACHSEN, bis er die gesamte Oberfläche des Plutos eingewickelt hat.",
+            "primitive": "Anzeigeblätter einer Uhr",
+            "pinyin": ""
+        },
+        {
+            "frame": "1162",
+            "character": "錶",
+            "keyword": "Armbanduhr",
+            "hint": "Eine METTALLENE Taschenuhr mit einem ANZEIGEBLATT mit alten römischen Zahlen, mit METALLENEM Band ergibt eine Armbanduhr",
             "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1163",
+            "character": "生",
+            "keyword": "Leben",
+            "hint": "Einer jungen KUH, die gerade geboren auf den BODEN gefallen ist, wurde so eben das Leben geschenkt. Oder: Ein einzelner TROPEN, der immer weiter WÄCHST, durch Zellteilung. Am ende wird etwas Lebendiges daraus.",
+            "primitive": "Zelle",
             "pinyin": ""
         }
     ]
