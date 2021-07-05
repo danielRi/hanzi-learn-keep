@@ -10297,7 +10297,111 @@
             "character": "生",
             "keyword": "Leben",
             "hint": "Einer jungen KUH, die gerade geboren auf den BODEN gefallen ist, wurde so eben das Leben geschenkt. Oder: Ein einzelner TROPEN, der immer weiter WÄCHST, durch Zellteilung. Am ende wird etwas Lebendiges daraus.",
-            "primitive": "Zelle",
+            "primitive": "(Körper-)Zelle",
+            "pinyin": ""
+        },
+        {
+            "frame": "1164",
+            "character": "",
+            "keyword": "Stern",
+            "hint": "Die SONNE ist wie eine einzelne ZELLE von richtigen großen Sternen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1165",
+            "character": "",
+            "keyword": "Nachname",
+            "hint": "Wenn man will dass sein Nachname fortgeführt wird, muss man einen kleine EIZELLE in eine FRAU pflanzen. Da wächst der Nachname in der ZELLE der FRAU heran.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1166",
+            "character": "",
+            "keyword": "Geschlecht",
+            "hint": "Wenn die KÖRPERZELLE anfängt sich zu teilen und zu einem Menschen wird, entscheidet der GEMÜTSZUSTAND über das Geschlecht. Wenn man TOTAL AUSRASTET wird man eher ein Mädchen, ist man eher depri ein Junge",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1167",
+            "character": "",
+            "keyword": "Schädigung",
+            "hint": "Peter Griffin schadet seiner Familie regelmäßig durch Dummheiten. Er hat jetzt seinen MUND soweit WACHSEN lassen dass sich das DACH des HAUSES aufklappt wenner er redet",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1168",
+            "character": "",
+            "keyword": "abschneiden",
+            "hint": "Wenn im Feld ein Körperteil so schwer GESCHÄDIGT ist, muss man es eben abschneiden. Dazu kommt der Sanitäter mit dem SÄBEL. Sanitäter ist ein Soldat mit 19. Jahrhundert Uniform und Schnauzer",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1168-1",
+            "character": "",
+            "keyword": "Gebüsch",
+            "hint": "Bild eines Gebüschs",
+            "primitive": "Tribush im Summoners Rift",
+            "pinyin": ""
+        },
+        {
+            "frame": "1169",
+            "character": "",
+            "keyword": "intelligent",
+            "hint": "Zwei sehr intelligente Spieler liefern sich ein Duell in der Top Lane. Der Top Langer hat zwischen den ZWEI BÜSCHEN im Fluss ordentlich mit dem BESEN gekehrt, sodass alles Picobello sauber ist, man meint da ist in der Top Lane garniemand. Der Jungler spielt aber Warwick und hat dort ein HERZ auf den Boden gelegt, damit er sein E verwenden kann.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1170",
+            "character": "",
+            "keyword": "reichlich",
+            "hint": "In Hyrule gibt es einen BERG dessen Aufgang mit ZWEI BÜSCHEN versperrt ist. Man kann aber auch über eine versteckte Öffnung über einem CHINESISCHEN ESSTISCH in den Berg klettern. Auf dem BERG gibt es reichlich Rubine",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1170-1",
+            "character": "",
+            "keyword": "Bonsai",
+            "hint": "Ein GEBÜSCH mit einem zusätzlichen Strich, dass die Schiene represäntiert, mit denen Gärtner Bonsaibäume stützen.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1171",
+            "character": "",
+            "keyword": "Frühling",
+            "hint": "Im Frühling schafft es die SONNE zwar noch nicht über richtige Bäume zu scheinen, aber zumindest steht sie schon hoch genug, um durch die kleinen BONSAI Bäume durch zuscheinen",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1172",
+            "character": "",
+            "keyword": "Thailand",
+            "hint": "Aus Thailand gibt es ganz spezielle BONSAI BÄUME, die nur mit SCHNEEFLOCKEN gegossen werden. Dazu wird FIJI Wasser eingefroren und daraus SCHNEEFLOCKEN gemacht. Diese SCHNEEFLOCKEN werden dann UNTER den BONSAIBAUM gelegt zur Bewessärung. Diese Art BONSAIBÄUME gibt es nur in Thailand.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1172-1",
+            "character": "",
+            "keyword": "Maisstaude",
+            "hint": "Maisstaude auf der Hochwasserstraße zwischen Ober- und Untereisenheim",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1173",
+            "character": "",
+            "keyword": "darlegen",
+            "hint": "Wie >respektvoll anbieten<. Zwischen Ober- und Untereisenheim zwischen den MAISSTAUDEN geht ein Ungeheuer umher. Ein Demogorgon.",
+            "primitive": "",
             "pinyin": ""
         }
     ]
