@@ -10399,8 +10399,32 @@
         {
             "frame": "1173",
             "character": "",
-            "keyword": "darlegen",
-            "hint": "Wie >respektvoll anbieten<. Zwischen Ober- und Untereisenheim zwischen den MAISSTAUDEN geht ein Ungeheuer umher. Ein Demogorgon.",
+            "keyword": "darbringen",
+            "hint": "Wie >respektvoll anbieten<. Zwischen Ober- und Untereisenheim zwischen den MAISSTAUDEN geht ein Ungeheuer umher. Ein Demogorgon. Man hat inmitten der MAISSTAUDEN einen BONAIBAUM gefplanzt, der hervorsticht, um dem Monster ein Friendsangebot darzubringen.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1174",
+            "character": "",
+            "keyword": "Knüppel",
+            "hint": "Ein paar Möchtegern-Gangster aus Grombühl möchten, um sich einzuschleimen, einem Obergangster einen HÖLZERNEN Knüppel DARBRINGEN, um zu zeigen wie cool alle sind. Es ist ein Baseballschläger",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1174-1",
+            "character": "",
+            "keyword": "Spinat",
+            "hint": "Das oben ist keine Zwanzig, sondern leckerer Spinat SALAT, dessen unteres Blatt schon im MUND eines Jungen ist, der sich dadurch schnelle WACHSTUM erhofft",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1175",
+            "character": "",
+            "keyword": "fleißig",
+            "hint": "",
             "primitive": "",
             "pinyin": ""
         }
