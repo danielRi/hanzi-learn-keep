@@ -10302,7 +10302,7 @@
         },
         {
             "frame": "1164",
-            "character": "",
+            "character": "星",
             "keyword": "Stern",
             "hint": "Die SONNE ist wie eine einzelne ZELLE von richtigen großen Sternen",
             "primitive": "",
@@ -10310,7 +10310,7 @@
         },
         {
             "frame": "1165",
-            "character": "",
+            "character": "姓",
             "keyword": "Nachname",
             "hint": "Wenn man will dass sein Nachname fortgeführt wird, muss man einen kleine EIZELLE in eine FRAU pflanzen. Da wächst der Nachname in der ZELLE der FRAU heran.",
             "primitive": "",
@@ -10318,7 +10318,7 @@
         },
         {
             "frame": "1166",
-            "character": "",
+            "character": "性",
             "keyword": "Geschlecht",
             "hint": "Wenn die KÖRPERZELLE anfängt sich zu teilen und zu einem Menschen wird, entscheidet der GEMÜTSZUSTAND über das Geschlecht. Wenn man TOTAL AUSRASTET wird man eher ein Mädchen, ist man eher depri ein Junge",
             "primitive": "",
@@ -10326,7 +10326,7 @@
         },
         {
             "frame": "1167",
-            "character": "",
+            "character": "害",
             "keyword": "Schädigung",
             "hint": "Peter Griffin schadet seiner Familie regelmäßig durch Dummheiten. Er hat jetzt seinen MUND soweit WACHSEN lassen dass sich das DACH des HAUSES aufklappt wenner er redet",
             "primitive": "",
@@ -10334,7 +10334,7 @@
         },
         {
             "frame": "1168",
-            "character": "",
+            "character": "割",
             "keyword": "abschneiden",
             "hint": "Wenn im Feld ein Körperteil so schwer GESCHÄDIGT ist, muss man es eben abschneiden. Dazu kommt der Sanitäter mit dem SÄBEL. Sanitäter ist ein Soldat mit 19. Jahrhundert Uniform und Schnauzer",
             "primitive": "",
@@ -10350,7 +10350,7 @@
         },
         {
             "frame": "1169",
-            "character": "",
+            "character": "慧",
             "keyword": "intelligent",
             "hint": "Zwei sehr intelligente Spieler liefern sich ein Duell in der Top Lane. Der Top Langer hat zwischen den ZWEI BÜSCHEN im Fluss ordentlich mit dem BESEN gekehrt, sodass alles Picobello sauber ist, man meint da ist in der Top Lane garniemand. Der Jungler spielt aber Warwick und hat dort ein HERZ auf den Boden gelegt, damit er sein E verwenden kann.",
             "primitive": "",
@@ -10358,7 +10358,7 @@
         },
         {
             "frame": "1170",
-            "character": "",
+            "character": "豐",
             "keyword": "reichlich",
             "hint": "In Hyrule gibt es einen BERG dessen Aufgang mit ZWEI BÜSCHEN versperrt ist. Man kann aber auch über eine versteckte Öffnung über einem CHINESISCHEN ESSTISCH in den Berg klettern. Auf dem BERG gibt es reichlich Rubine",
             "primitive": "",
@@ -10374,7 +10374,7 @@
         },
         {
             "frame": "1171",
-            "character": "",
+            "character": "春",
             "keyword": "Frühling",
             "hint": "Im Frühling schafft es die SONNE zwar noch nicht über richtige Bäume zu scheinen, aber zumindest steht sie schon hoch genug, um durch die kleinen BONSAI Bäume durch zuscheinen",
             "primitive": "",
@@ -10382,7 +10382,7 @@
         },
         {
             "frame": "1172",
-            "character": "",
+            "character": "泰",
             "keyword": "Thailand",
             "hint": "Aus Thailand gibt es ganz spezielle BONSAI BÄUME, die nur mit SCHNEEFLOCKEN gegossen werden. Dazu wird FIJI Wasser eingefroren und daraus SCHNEEFLOCKEN gemacht. Diese SCHNEEFLOCKEN werden dann UNTER den BONSAIBAUM gelegt zur Bewessärung. Diese Art BONSAIBÄUME gibt es nur in Thailand.",
             "primitive": "",
@@ -10398,7 +10398,7 @@
         },
         {
             "frame": "1173",
-            "character": "",
+            "character": "奉",
             "keyword": "darbringen",
             "hint": "Wie >respektvoll anbieten<. Zwischen Ober- und Untereisenheim zwischen den MAISSTAUDEN geht ein Ungeheuer umher. Ein Demogorgon. Man hat inmitten der MAISSTAUDEN einen BONAIBAUM gefplanzt, der hervorsticht, um dem Monster ein Friendsangebot darzubringen.",
             "primitive": "",
@@ -10406,7 +10406,7 @@
         },
         {
             "frame": "1174",
-            "character": "",
+            "character": "棒",
             "keyword": "Knüppel",
             "hint": "Ein paar Möchtegern-Gangster aus Grombühl möchten, um sich einzuschleimen, einem Obergangster einen HÖLZERNEN Knüppel DARBRINGEN, um zu zeigen wie cool alle sind. Es ist ein Baseballschläger",
             "primitive": "",
@@ -10414,7 +10414,7 @@
         },
         {
             "frame": "1174-1",
-            "character": "",
+            "character": "堇",
             "keyword": "Spinat",
             "hint": "Das oben ist keine Zwanzig, sondern leckerer Spinat SALAT, dessen unteres Blatt schon im MUND eines Jungen ist, der sich dadurch schnelle WACHSTUM erhofft",
             "primitive": "",
@@ -10422,7 +10422,7 @@
         },
         {
             "frame": "1175",
-            "character": "",
+            "character": "勤",
             "keyword": "fleißig",
             "hint": "Brutus isst natürlich erstmal seinen SPINAT (daher steht er links), danach hat er die MUSKELN und die KRAFT beim Möbelpacken richtig fleißig zu sein",
             "primitive": "",
@@ -10430,7 +10430,7 @@
         },
         {
             "frame": "1176",
-            "character": "",
+            "character": "謹",
             "keyword": "vorsichtig",
             "hint": "Wenn man was SAGT muss man sehr vorsichtig sein wenn man dabei noch SPINAT isst. Der Spinat kann sich nämlich hässlich zwischen oder auf die Zähne legen.",
             "primitive": "",
@@ -10438,7 +10438,7 @@
         },
         {
             "frame": "1177",
-            "character": "",
+            "character": "僅",
             "keyword": "lediglich",
             "hint": "CARLI bringt jeden Tag als Pausenbrot lediglich einen Block gefrorenen SPINAT mit in den Kindergarten, sehr zur Verwunderung der Erzieherinnen.",
             "primitive": "",
@@ -10454,7 +10454,7 @@
         },
         {
             "frame": "1178",
-            "character": "",
+            "character": "漢",
             "keyword": "Han",
             "hint": "Die Han sendeten einst Schiffe nach Europa aus, sahen dort allerdings POPEYE am WASSER stehen. Da wurde ihnen bewusst, dass sie das Volk der Han sind, weil die Europäer scheinbar komplett bekloppt sind. POPEYE am WASSER steht somit für die Geburtsstunde der Han",
             "primitive": "",
@@ -10462,7 +10462,7 @@
         },
         {
             "frame": "1179",
-            "character": "",
+            "character": "難",
             "keyword": "schwierig",
             "hint": "POPEYE will einen Truthahn vergewaltigen und stellt sich hinter ihm hin. Es erweißt sich allerdings als schwierig, seinen kleinen POPEYE beim TRUTHAHN unterzubringen.",
             "primitive": "",
@@ -10470,9 +10470,25 @@
         },
         {
             "frame": "1180",
-            "character": "",
+            "character": "攤",
             "keyword": "Kiosk",
             "hint": "Wenn man zum Kiosk geht, und einige Sachen kaufen soll. Ist es verdammt SCHWIERIG wenn man alles nur mit einem FINGER heimtragen muss.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1180-1",
+            "character": "",
+            "keyword": "Grünfutter",
+            "hint": "Bild von verschiedenen Gräsern und Halmen, aus denen Grünfutter hergestellt wird.",
+            "primitive": "Grünfutter Ballen",
+            "pinyin": ""
+        },
+        {
+            "frame": "1181",
+            "character": "",
+            "keyword": "Pracht",
+            "hint": "Ein Kuh sitzt in aller Pracht auf ihrem GRÜNFUTTER BALLEN",
             "primitive": "",
             "pinyin": ""
         }
