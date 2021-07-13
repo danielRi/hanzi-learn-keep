@@ -10486,9 +10486,41 @@
         },
         {
             "frame": "1181",
-            "character": "",
+            "character": "華",
             "keyword": "Pracht",
-            "hint": "Ein Kuh sitzt in aller Pracht auf ihrem GRÜNFUTTER BALLEN",
+            "hint": "Ein Kuh sitzt in aller Pracht auf ihrem GRÜNFUTTER BALLEN. an dem GRÜNFUTTER BALLEN sind überall mit NADELN BLUMEN festgemacht, damit jeder sieht dass es der Thron der Kuh Königin ist",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1182",
+            "character": "",
+            "keyword": "Getöse",
+            "hint": "",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1183",
+            "character": "垂",
+            "keyword": "herabhängen",
+            "hint": "Ein TRÄGER trägt zwei BALLEN GRÜNFUTTER an einem Stecken durch die Gegend. Die BALLEN GRÜNFUTTER hängen so von seinen Schultern herab",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1184",
+            "character": "錘",
+            "keyword": "Hammer",
+            "hint": "Bevor der Stock erfunden wurde, musst als Hammer ein HERABHÄNGENDES Stück METALL genügen, das Handwerker dann als Hammer benutzt haben.",
+            "primitive": "",
+            "pinyin": ""
+        },
+        {
+            "frame": "1185",
+            "character": "睡",
+            "keyword": "schlafen",
+            "hint": "Bei Ren von Ren und Stimpy HÄNGEN richtig die AUGEN HERAB wenn er schön müde ist und schlafen will",
             "primitive": "",
             "pinyin": ""
         }
